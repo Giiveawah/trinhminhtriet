@@ -9,7 +9,7 @@
 
 ## Glad to see you here!
 
-<img align="right" alt="Trinh Minh Triet" src="images/coding.gif" width="400" />
+<img align="right" alt="Trinh Minh Triet" src="images/coding.gif" width="320px" />
 
 Love interacting with the community, sharing knowledge, and learning new things.
 
