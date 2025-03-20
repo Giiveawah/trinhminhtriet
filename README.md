@@ -7,7 +7,7 @@
 
 </br>
 
-### Glad to see you here!
+## Glad to see you here!
 
 <img align="right" alt="Trinh Minh Triet" src="images/coding.gif" width="400" />
 
@@ -21,7 +21,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
 - 💬 Skype: trinhminhtriet
 - 🌐 Website: https://trinhminhtriet.com
 
-### 🤝 Let's Connect! 
+## 🤝 Let's Connect! 
 
 I'm always excited to connect with fellow developers and tech enthusiasts! 
 Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) - don't forget to mention you found me through GitHub! 😊
