@@ -1,9 +1,12 @@
 name: Update README
 
 on:
-  push:
+  workflow_dispatch:
   schedule:
     - cron: "0 0,6,12,18 * * *"
+  push:
+    branches:
+      - "master"
 
 jobs:
   markscribe:
