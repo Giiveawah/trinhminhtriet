@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [TriniT-AI](https://github.com/TriniT-AI)
+- [fernandosecchi](https://github.com/fernandosecchi)
+- [adomfosugit](https://github.com/adomfosugit)
 - [Divoras](https://github.com/Divoras)
 - [luckycat100](https://github.com/luckycat100)
 - [reza1367777](https://github.com/reza1367777)
@@ -48,17 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Soywaz](https://github.com/Soywaz)
 - [NotMarin](https://github.com/NotMarin)
 - [NicolasSerranoGarcia](https://github.com/NicolasSerranoGarcia)
-- [davidvrz](https://github.com/davidvrz)
-- [gomezc1](https://github.com/gomezc1)
-- [JavariaNadeem81](https://github.com/JavariaNadeem81)
 
 ## ⭐ Recent stars
 
+- [2youyou2/physics-example](https://github.com/2youyou2/physics-example) - example for Cocos Creator physics (today)
+- [henryzt/Rhythm-Plus-Music-Game](https://github.com/henryzt/Rhythm-Plus-Music-Game) - Community-based vertical scrolling rhythm game (VSRG) made with Vue.js and canvas (WIP) (today)
+- [henrikhb/bootstrap-4-boilerplate](https://github.com/henrikhb/bootstrap-4-boilerplate) - Bootstrap 4.3.1 boilerplate with Browsersync, Sass and Gulp.js (today)
 - [gavinmcfarland/flex-gap-polyfill](https://github.com/gavinmcfarland/flex-gap-polyfill) - A PostCSS plugin to emulate flex gap using margins (today)
 - [Polarisation/indexeddb-export-import](https://github.com/Polarisation/indexeddb-export-import) - Export/import an IndexedDB database to/from JSON. Can be used to backup and restore. (today)
-- [guillaume-be/rust-tokenizers](https://github.com/guillaume-be/rust-tokenizers) - Rust-tokenizer offers high-performance tokenizers for modern language models, including WordPiece, Byte-Pair Encoding (BPE) and Unigram (SentencePiece) models (today)
-- [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...) (today)
-- [VinsonGuo/android-kline](https://github.com/VinsonGuo/android-kline) - Android版K线图和分时图 (today)
 
 ## 🔨 Latest Pull Requests I published
 
