@@ -41,24 +41,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Soywaz](https://github.com/Soywaz)
+- [NotMarin](https://github.com/NotMarin)
+- [NicolasSerranoGarcia](https://github.com/NicolasSerranoGarcia)
+- [davidvrz](https://github.com/davidvrz)
+- [gomezc1](https://github.com/gomezc1)
 - [JavariaNadeem81](https://github.com/JavariaNadeem81)
 - [PierrunoYT](https://github.com/PierrunoYT)
 - [ankan24](https://github.com/ankan24)
 - [Vidhanvyrs](https://github.com/Vidhanvyrs)
 - [ZionbyteDev](https://github.com/ZionbyteDev)
-- [Orantes67](https://github.com/Orantes67)
-- [msravanthi674](https://github.com/msravanthi674)
-- [hoseinhamzei](https://github.com/hoseinhamzei)
-- [Haj4li](https://github.com/Haj4li)
-- [chhotugoud7](https://github.com/chhotugoud7)
 
 ## ⭐ Recent stars
 
+- [VinsonGuo/android-kline](https://github.com/VinsonGuo/android-kline) - Android版K线图和分时图 (today)
 - [Vandermode/ERRNet](https://github.com/Vandermode/ERRNet) - Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements  (CVPR 2019) (today)
 - [Vandermode/ELD](https://github.com/Vandermode/ELD) - Physics-based Noise Modeling for Extreme Low-light Photography (CVPR 2020 Oral &amp; TPAMI 2021) (today)
 - [zachacole/Simple-Grid](https://github.com/zachacole/Simple-Grid) - A simple, lightweight CSS grid (today)
 - [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support (today)
-- [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects (today)
 
 ## 🔨 Latest Pull Requests I published
 
