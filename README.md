@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mailmezorro](https://github.com/mailmezorro)
 - [Soywaz](https://github.com/Soywaz)
 - [NotMarin](https://github.com/NotMarin)
 - [NicolasSerranoGarcia](https://github.com/NicolasSerranoGarcia)
@@ -50,15 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [PierrunoYT](https://github.com/PierrunoYT)
 - [ankan24](https://github.com/ankan24)
 - [Vidhanvyrs](https://github.com/Vidhanvyrs)
-- [ZionbyteDev](https://github.com/ZionbyteDev)
 
 ## ⭐ Recent stars
 
+- [Polarisation/indexeddb-export-import](https://github.com/Polarisation/indexeddb-export-import) - Export/import an IndexedDB database to/from JSON. Can be used to backup and restore. (today)
+- [guillaume-be/rust-tokenizers](https://github.com/guillaume-be/rust-tokenizers) - Rust-tokenizer offers high-performance tokenizers for modern language models, including WordPiece, Byte-Pair Encoding (BPE) and Unigram (SentencePiece) models (today)
+- [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...) (today)
 - [VinsonGuo/android-kline](https://github.com/VinsonGuo/android-kline) - Android版K线图和分时图 (today)
 - [Vandermode/ERRNet](https://github.com/Vandermode/ERRNet) - Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements  (CVPR 2019) (today)
-- [Vandermode/ELD](https://github.com/Vandermode/ELD) - Physics-based Noise Modeling for Extreme Low-light Photography (CVPR 2020 Oral &amp; TPAMI 2021) (today)
-- [zachacole/Simple-Grid](https://github.com/zachacole/Simple-Grid) - A simple, lightweight CSS grid (today)
-- [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support (today)
 
 ## 🔨 Latest Pull Requests I published
 
