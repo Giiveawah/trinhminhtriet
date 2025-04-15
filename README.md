@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Divoras](https://github.com/Divoras)
+- [luckycat100](https://github.com/luckycat100)
+- [reza1367777](https://github.com/reza1367777)
 - [mailmezorro](https://github.com/mailmezorro)
 - [Soywaz](https://github.com/Soywaz)
 - [NotMarin](https://github.com/NotMarin)
@@ -48,17 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [davidvrz](https://github.com/davidvrz)
 - [gomezc1](https://github.com/gomezc1)
 - [JavariaNadeem81](https://github.com/JavariaNadeem81)
-- [PierrunoYT](https://github.com/PierrunoYT)
-- [ankan24](https://github.com/ankan24)
-- [Vidhanvyrs](https://github.com/Vidhanvyrs)
 
 ## ⭐ Recent stars
 
+- [gavinmcfarland/flex-gap-polyfill](https://github.com/gavinmcfarland/flex-gap-polyfill) - A PostCSS plugin to emulate flex gap using margins (today)
 - [Polarisation/indexeddb-export-import](https://github.com/Polarisation/indexeddb-export-import) - Export/import an IndexedDB database to/from JSON. Can be used to backup and restore. (today)
 - [guillaume-be/rust-tokenizers](https://github.com/guillaume-be/rust-tokenizers) - Rust-tokenizer offers high-performance tokenizers for modern language models, including WordPiece, Byte-Pair Encoding (BPE) and Unigram (SentencePiece) models (today)
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...) (today)
 - [VinsonGuo/android-kline](https://github.com/VinsonGuo/android-kline) - Android版K线图和分时图 (today)
-- [Vandermode/ERRNet](https://github.com/Vandermode/ERRNet) - Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements  (CVPR 2019) (today)
 
 ## 🔨 Latest Pull Requests I published
 
