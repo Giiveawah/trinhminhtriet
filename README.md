@@ -54,11 +54,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [nobitagit/react-material-floating-button](https://github.com/nobitagit/react-material-floating-button) - Material floating action button implemented as a React component (today)
-- [nobitagit/material-floating-button](https://github.com/nobitagit/material-floating-button) - Vanilla Js Material design floating menu with action buttons. (today)
-- [nobitagit/ng-material-floating-button](https://github.com/nobitagit/ng-material-floating-button) - Material design floating menu with action buttons implemented as an Angularjs directive. (today)
-- [rutikwankhade/Apihouse](https://github.com/rutikwankhade/Apihouse) - Get the collective list of free APIs for your next side project (today)
-- [rutikwankhade/CoverView](https://github.com/rutikwankhade/CoverView) - 🛠 Create awesome cover images for your blog posts quickly. (today)
+- [thasarito/simple-arbitrage-rs](https://github.com/thasarito/simple-arbitrage-rs) (today)
+- [orenyomtov/openordex](https://github.com/orenyomtov/openordex) - OpenOrdex is an open source zero-fee trustless Bitcoin NFT marketplace based on partially signed bitcoin transactions (today)
+- [sdl60660/letterboxd_recommendations](https://github.com/sdl60660/letterboxd_recommendations) - Scraping publicly-accessible Letterboxd data and creating a movie recommendation model with it that can generate recommendations when provided with a Letterboxd username (today)
+- [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS/MERIT Basin data to visualize the path of a rain droplet to its endpoint. (today)
+- [KevinOfNeu/hexo-theme-xoxo](https://github.com/KevinOfNeu/hexo-theme-xoxo) - Hexo theme for https://blog.0xff000000.com (today)
 
 ## 🔨 Latest Pull Requests I published
 
