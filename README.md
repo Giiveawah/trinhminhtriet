@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [steve-leo254](https://github.com/steve-leo254)
+- [v1nybarreto](https://github.com/v1nybarreto)
 - [BigTennEd223](https://github.com/BigTennEd223)
 - [Jwarner6682](https://github.com/Jwarner6682)
 - [Mostafa-Faisal](https://github.com/Mostafa-Faisal)
@@ -49,8 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [freak2810](https://github.com/freak2810)
 - [cojurongbe333](https://github.com/cojurongbe333)
 - [Nkiex](https://github.com/Nkiex)
-- [msadman-sakib](https://github.com/msadman-sakib)
-- [callmefao](https://github.com/callmefao)
 
 ## ⭐ Recent stars
 
