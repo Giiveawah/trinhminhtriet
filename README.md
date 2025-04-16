@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NathanAlmeida2006](https://github.com/NathanAlmeida2006)
+- [momina-sheikh-dev](https://github.com/momina-sheikh-dev)
 - [AmirAbdollahi](https://github.com/AmirAbdollahi)
 - [aswain009](https://github.com/aswain009)
 - [charbo05](https://github.com/charbo05)
@@ -49,16 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [paoyako24](https://github.com/paoyako24)
 - [Art3mis-s](https://github.com/Art3mis-s)
 - [fulyaertay](https://github.com/fulyaertay)
-- [emmanuel-vandyk](https://github.com/emmanuel-vandyk)
-- [Stervar](https://github.com/Stervar)
 
 ## ⭐ Recent stars
 
-- [JonathanDn/vue-companies-israel](https://github.com/JonathanDn/vue-companies-israel) - A curated list of Israeli product companies/product companies who hire Israelis - who work with Vue JS (Sorted alphabetically) (today)
-- [stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual) - Curated list of audiovisual projects (today)
-- [rahuldkjain/awesome-frontendmasters](https://github.com/rahuldkjain/awesome-frontendmasters) - 📚 List of awesome frontendmasters course resources (today)
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. (today)
-- [jcmcneal/react-step-wizard](https://github.com/jcmcneal/react-step-wizard) - A modern flexible step wizard component built for React. (today)
+- [rogerhu/gdb-heap](https://github.com/rogerhu/gdb-heap) - Heap Analyzer for Python (today)
+- [hahwul/deadfinder](https://github.com/hahwul/deadfinder) - 🏴‍☠️ Find dead-links (broken links) (today)
+- [hahwul/metasploit-autopwn](https://github.com/hahwul/metasploit-autopwn) - db_autopwn plugin of metasploit (today)
+- [hahwul/droid-hunter](https://github.com/hahwul/droid-hunter) - (deprecated) Android application vulnerability analysis and Android pentest tool (today)
+- [hahwul/mad-metasploit](https://github.com/hahwul/mad-metasploit) - Metasploit custom modules, plugins, resource script and.. awesome metasploit collection (today)
 
 ## 🔨 Latest Pull Requests I published
 
