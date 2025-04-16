@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [TopTrenDev](https://github.com/TopTrenDev)
 - [SallySims](https://github.com/SallySims)
 - [ogzugru](https://github.com/ogzugru)
 - [NathanAlmeida2006](https://github.com/NathanAlmeida2006)
@@ -50,15 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [charbo05](https://github.com/charbo05)
 - [danielyvf](https://github.com/danielyvf)
 - [tzujohsu](https://github.com/tzujohsu)
-- [paoyako24](https://github.com/paoyako24)
 
 ## ⭐ Recent stars
 
-- [SimonLarsen/tobutobugirl](https://github.com/SimonLarsen/tobutobugirl) - An arcade platformer homebrew game for the Game Boy (today)
-- [SimonLarsen/mrrescue](https://github.com/SimonLarsen/mrrescue) - Arcade-style fire fighting game (today)
-- [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image (today)
-- [iancanderson/PurpleTrainElm](https://github.com/iancanderson/PurpleTrainElm) - An iOS and Android app for MBTA Commuter Rail passengers, written in Elm (today)
-- [iancanderson/ingreedy](https://github.com/iancanderson/ingreedy) - natural language parsing of recipe ingredients, making sense of amounts, units, and ingredients (today)
+- [flok/pydualsense](https://github.com/flok/pydualsense) - control your dualsense controller with python (today)
+- [Edditoria/markdown-plus-plus](https://github.com/Edditoria/markdown-plus-plus) - Markdown syntax highlighting for Notepad++, by customized UDL file (user defined language) (today)
+- [cwoodruff/ChinookASPNETCoreAPINTier](https://github.com/cwoodruff/ChinookASPNETCoreAPINTier) - You can find the Chinook database here for the project https://github.com/cwoodruff/ChinookDatabase (today)
+- [JimmyCushnie/JimmysUnityUtilities](https://github.com/JimmyCushnie/JimmysUnityUtilities) - A bunch of code I like to have on hand while working in Unity (today)
+- [JimmyCushnie/JECS](https://github.com/JimmyCushnie/JECS) - Jimmy's Epic Config System (today)
 
 ## 🔨 Latest Pull Requests I published
 
