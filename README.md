@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [izzurdo](https://github.com/izzurdo)
+- [kihuni](https://github.com/kihuni)
+- [tomdevkr93](https://github.com/tomdevkr93)
 - [rough0peace](https://github.com/rough0peace)
 - [rlaxogh76](https://github.com/rlaxogh76)
 - [TriniT-AI](https://github.com/TriniT-AI)
@@ -48,17 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [adomfosugit](https://github.com/adomfosugit)
 - [Divoras](https://github.com/Divoras)
 - [luckycat100](https://github.com/luckycat100)
-- [reza1367777](https://github.com/reza1367777)
-- [mailmezorro](https://github.com/mailmezorro)
-- [Soywaz](https://github.com/Soywaz)
 
 ## ⭐ Recent stars
 
-- [carderne/signal-export](https://github.com/carderne/signal-export) - Export your Signal chats to markdown files with attachments (today)
-- [2youyou2/physics-example](https://github.com/2youyou2/physics-example) - example for Cocos Creator physics (1 day ago)
-- [henryzt/Rhythm-Plus-Music-Game](https://github.com/henryzt/Rhythm-Plus-Music-Game) - Community-based vertical scrolling rhythm game (VSRG) made with Vue.js and canvas (WIP) (1 day ago)
-- [henrikhb/bootstrap-4-boilerplate](https://github.com/henrikhb/bootstrap-4-boilerplate) - Bootstrap 4.3.1 boilerplate with Browsersync, Sass and Gulp.js (1 day ago)
-- [gavinmcfarland/flex-gap-polyfill](https://github.com/gavinmcfarland/flex-gap-polyfill) - A PostCSS plugin to emulate flex gap using margins (1 day ago)
+- [shawnlawson/The_Force](https://github.com/shawnlawson/The_Force) - webGL live coding performance IDE (today)
+- [uniphil/nix-for-devs](https://github.com/uniphil/nix-for-devs) - nix-shell recipes (today)
+- [FireyFly/hexd](https://github.com/FireyFly/hexd) - 🔍 Colourful, human-friendly hexdump tool (today)
+- [FireyFly/pixd](https://github.com/FireyFly/pixd) - 🔍 Colourful visualization tool for binary files (today)
+- [ivangreene/arena-js](https://github.com/ivangreene/arena-js) - are.na API wrapper for JavaScript (today)
 
 ## 🔨 Latest Pull Requests I published
 
