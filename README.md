@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BigTennEd223](https://github.com/BigTennEd223)
 - [Jwarner6682](https://github.com/Jwarner6682)
 - [Mostafa-Faisal](https://github.com/Mostafa-Faisal)
 - [lamanwrk](https://github.com/lamanwrk)
@@ -50,15 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Nkiex](https://github.com/Nkiex)
 - [msadman-sakib](https://github.com/msadman-sakib)
 - [callmefao](https://github.com/callmefao)
-- [izzurdo](https://github.com/izzurdo)
 
 ## ⭐ Recent stars
 
+- [dhingratul/Stock-Price-Prediction](https://github.com/dhingratul/Stock-Price-Prediction) - Stock price prediction using LSTM and 1D Convoltional Layer implemented in keras with TF backend on daily closing price of S&amp;P 500 data from Jan 2000 to Aug 2016 (today)
 - [lhotari/action-upterm](https://github.com/lhotari/action-upterm) - Debug your GitHub Actions via SSH by using upterm/tmux to get access to the runner system itself.  (today)
 - [brendandburns/ksql](https://github.com/brendandburns/ksql) - Query Kubernetes API objects using SQL. (today)
 - [brendandburns/configula](https://github.com/brendandburns/configula) - Experimental configuration generator inspired by JSX (today)
 - [brendandburns/metaparticle](https://github.com/brendandburns/metaparticle) - A new pattern for distributed system development (today)
-- [brendandburns/gcp-live-k8s-visualizer](https://github.com/brendandburns/gcp-live-k8s-visualizer) - Source code for the Kubernetes visualizer used in the GCP Live Container Engine Demo (today)
 
 ## 🔨 Latest Pull Requests I published
 
