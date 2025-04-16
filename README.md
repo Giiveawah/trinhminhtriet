@@ -41,16 +41,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rahmachehoud](https://github.com/rahmachehoud)
+- [pedro092692](https://github.com/pedro092692)
+- [Kolman-Freecss](https://github.com/Kolman-Freecss)
+- [shakilkhandev](https://github.com/shakilkhandev)
+- [W47-KRTS](https://github.com/W47-KRTS)
 - [arex75](https://github.com/arex75)
 - [CoGian](https://github.com/CoGian)
 - [safi-alt](https://github.com/safi-alt)
 - [Toqxin](https://github.com/Toqxin)
 - [drxc00](https://github.com/drxc00)
-- [nstarlike](https://github.com/nstarlike)
-- [dev-bhaveshye](https://github.com/dev-bhaveshye)
-- [Zer0-Bug](https://github.com/Zer0-Bug)
-- [anupama-g-bhat](https://github.com/anupama-g-bhat)
-- [Subramanya-talli](https://github.com/Subramanya-talli)
 
 ## ⭐ Recent stars
 
