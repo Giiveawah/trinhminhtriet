@@ -41,24 +41,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AmirAbdollahi](https://github.com/AmirAbdollahi)
+- [aswain009](https://github.com/aswain009)
+- [charbo05](https://github.com/charbo05)
+- [danielyvf](https://github.com/danielyvf)
+- [tzujohsu](https://github.com/tzujohsu)
 - [paoyako24](https://github.com/paoyako24)
 - [Art3mis-s](https://github.com/Art3mis-s)
 - [fulyaertay](https://github.com/fulyaertay)
 - [emmanuel-vandyk](https://github.com/emmanuel-vandyk)
 - [Stervar](https://github.com/Stervar)
-- [jaeyoung0509](https://github.com/jaeyoung0509)
-- [techwithshivanksharma](https://github.com/techwithshivanksharma)
-- [rahmachehoud](https://github.com/rahmachehoud)
-- [pedro092692](https://github.com/pedro092692)
-- [Kolman-Freecss](https://github.com/Kolman-Freecss)
 
 ## ⭐ Recent stars
 
+- [JonathanDn/vue-companies-israel](https://github.com/JonathanDn/vue-companies-israel) - A curated list of Israeli product companies/product companies who hire Israelis - who work with Vue JS (Sorted alphabetically) (today)
+- [stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual) - Curated list of audiovisual projects (today)
 - [rahuldkjain/awesome-frontendmasters](https://github.com/rahuldkjain/awesome-frontendmasters) - 📚 List of awesome frontendmasters course resources (today)
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. (today)
 - [jcmcneal/react-step-wizard](https://github.com/jcmcneal/react-step-wizard) - A modern flexible step wizard component built for React. (today)
-- [GianCastle/FiraMonaco](https://github.com/GianCastle/FiraMonaco) - Monaco Font with Firacode ligatures and patched for Powerline 📝 (today)
-- [ttypic/swift-klib-plugin](https://github.com/ttypic/swift-klib-plugin) - Gradle Plugin for injecting Swift code into Kotlin Multiplatform Mobile shared module (today)
 
 ## 🔨 Latest Pull Requests I published
 
