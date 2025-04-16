@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Stervar](https://github.com/Stervar)
+- [jaeyoung0509](https://github.com/jaeyoung0509)
+- [techwithshivanksharma](https://github.com/techwithshivanksharma)
 - [rahmachehoud](https://github.com/rahmachehoud)
 - [pedro092692](https://github.com/pedro092692)
 - [Kolman-Freecss](https://github.com/Kolman-Freecss)
@@ -48,17 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [W47-KRTS](https://github.com/W47-KRTS)
 - [arex75](https://github.com/arex75)
 - [CoGian](https://github.com/CoGian)
-- [safi-alt](https://github.com/safi-alt)
-- [Toqxin](https://github.com/Toqxin)
-- [drxc00](https://github.com/drxc00)
 
 ## ⭐ Recent stars
 
+- [GianCastle/FiraMonaco](https://github.com/GianCastle/FiraMonaco) - Monaco Font with Firacode ligatures and patched for Powerline 📝 (today)
 - [ttypic/swift-klib-plugin](https://github.com/ttypic/swift-klib-plugin) - Gradle Plugin for injecting Swift code into Kotlin Multiplatform Mobile shared module (today)
 - [OpesanyaAdebayo/systems-design](https://github.com/OpesanyaAdebayo/systems-design) - All things systems design. Resources, Interview questions, e.t.c (today)
 - [SaeedMalikx/React-Fiber-Architecture](https://github.com/SaeedMalikx/React-Fiber-Architecture) - Understanding the structure of React Fiber( walk through and pseudo-code) (today)
 - [clonn/slack-node-sdk](https://github.com/clonn/slack-node-sdk) - slack.com, slack, node sdk (today)
-- [thasarito/simple-arbitrage-rs](https://github.com/thasarito/simple-arbitrage-rs) (today)
 
 ## 🔨 Latest Pull Requests I published
 
