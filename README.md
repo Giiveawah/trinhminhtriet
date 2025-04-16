@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [arex75](https://github.com/arex75)
+- [CoGian](https://github.com/CoGian)
 - [safi-alt](https://github.com/safi-alt)
 - [Toqxin](https://github.com/Toqxin)
 - [drxc00](https://github.com/drxc00)
@@ -49,8 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Zer0-Bug](https://github.com/Zer0-Bug)
 - [anupama-g-bhat](https://github.com/anupama-g-bhat)
 - [Subramanya-talli](https://github.com/Subramanya-talli)
-- [DoctorSolo](https://github.com/DoctorSolo)
-- [vivekvamsi9](https://github.com/vivekvamsi9)
 
 ## ⭐ Recent stars
 
