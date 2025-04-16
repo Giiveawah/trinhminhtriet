@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [krishtechie](https://github.com/krishtechie)
+- [freak2810](https://github.com/freak2810)
 - [cojurongbe333](https://github.com/cojurongbe333)
 - [Nkiex](https://github.com/Nkiex)
 - [msadman-sakib](https://github.com/msadman-sakib)
@@ -49,16 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [kihuni](https://github.com/kihuni)
 - [tomdevkr93](https://github.com/tomdevkr93)
 - [rough0peace](https://github.com/rough0peace)
-- [rlaxogh76](https://github.com/rlaxogh76)
-- [TriniT-AI](https://github.com/TriniT-AI)
 
 ## ⭐ Recent stars
 
-- [pemagrg1/Natural-Language-Processing-NLP-Roadmap](https://github.com/pemagrg1/Natural-Language-Processing-NLP-Roadmap) - A simple RoadMap to Natural Language Processing(NLP) (today)
-- [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser (today)
-- [patrickmn/cpuburn](https://github.com/patrickmn/cpuburn) - Utilize 100% CPU on all available cores from the command line. (today)
-- [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. (today)
-- [shawnlawson/The_Force](https://github.com/shawnlawson/The_Force) - webGL live coding performance IDE (today)
+- [vesche/scanless](https://github.com/vesche/scanless) - online port scan scraper (today)
+- [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) - 📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥 (today)
+- [konklone/congress-android](https://github.com/konklone/congress-android) - Congress for Android, an app for tracking Congress. (today)
+- [konklone/shaaaaaaaaaaaaa](https://github.com/konklone/shaaaaaaaaaaaaa) - Check if a website has weak SHA-1 TLS certificates. (today)
+- [konklone/json](https://github.com/konklone/json) - A free, in-browser JSON to CSV converter. (today)
 
 ## 🔨 Latest Pull Requests I published
 
