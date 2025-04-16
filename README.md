@@ -30,8 +30,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (today)
 - [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (3 days ago)
-- [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers&#39; stats and energy usage with Intel RAPL support, built for efficiency! (3 days ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers&#39; stats and energy usage with Intel RAPL support, built for efficiency! (3 days ago)
 - [trinhminhtriet/a-star-search](https://github.com/trinhminhtriet/a-star-search) - A* (A-star) algorithm is a widely used graph traversal and pathfinding algorithm known for its completeness, optimality, and efficiency. (4 days ago)
 - [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (4 days ago)
 - [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (4 days ago)
@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nstarlike](https://github.com/nstarlike)
+- [dev-bhaveshye](https://github.com/dev-bhaveshye)
+- [Zer0-Bug](https://github.com/Zer0-Bug)
 - [anupama-g-bhat](https://github.com/anupama-g-bhat)
 - [Subramanya-talli](https://github.com/Subramanya-talli)
 - [DoctorSolo](https://github.com/DoctorSolo)
@@ -48,9 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SAMEER-SHRESTHA911](https://github.com/SAMEER-SHRESTHA911)
 - [OmaarElAmri](https://github.com/OmaarElAmri)
 - [tolgaOzen](https://github.com/tolgaOzen)
-- [arshianrz](https://github.com/arshianrz)
-- [Zer0-Bug](https://github.com/Zer0-Bug)
-- [JesusAlos13](https://github.com/JesusAlos13)
 
 ## ⭐ Recent stars
 
