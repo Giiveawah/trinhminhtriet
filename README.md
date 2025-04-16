@@ -54,11 +54,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [dhingratul/Stock-Price-Prediction](https://github.com/dhingratul/Stock-Price-Prediction) - Stock price prediction using LSTM and 1D Convoltional Layer implemented in keras with TF backend on daily closing price of S&amp;P 500 data from Jan 2000 to Aug 2016 (today)
-- [lhotari/action-upterm](https://github.com/lhotari/action-upterm) - Debug your GitHub Actions via SSH by using upterm/tmux to get access to the runner system itself.  (today)
-- [brendandburns/ksql](https://github.com/brendandburns/ksql) - Query Kubernetes API objects using SQL. (today)
-- [brendandburns/configula](https://github.com/brendandburns/configula) - Experimental configuration generator inspired by JSX (today)
-- [brendandburns/metaparticle](https://github.com/brendandburns/metaparticle) - A new pattern for distributed system development (today)
+- [nobitagit/react-material-floating-button](https://github.com/nobitagit/react-material-floating-button) - Material floating action button implemented as a React component (today)
+- [nobitagit/material-floating-button](https://github.com/nobitagit/material-floating-button) - Vanilla Js Material design floating menu with action buttons. (today)
+- [nobitagit/ng-material-floating-button](https://github.com/nobitagit/ng-material-floating-button) - Material design floating menu with action buttons implemented as an Angularjs directive. (today)
+- [rutikwankhade/Apihouse](https://github.com/rutikwankhade/Apihouse) - Get the collective list of free APIs for your next side project (today)
+- [rutikwankhade/CoverView](https://github.com/rutikwankhade/CoverView) - 🛠 Create awesome cover images for your blog posts quickly. (today)
 
 ## 🔨 Latest Pull Requests I published
 
