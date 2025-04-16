@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SallySims](https://github.com/SallySims)
+- [ogzugru](https://github.com/ogzugru)
 - [NathanAlmeida2006](https://github.com/NathanAlmeida2006)
 - [momina-sheikh-dev](https://github.com/momina-sheikh-dev)
 - [AmirAbdollahi](https://github.com/AmirAbdollahi)
@@ -49,16 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [danielyvf](https://github.com/danielyvf)
 - [tzujohsu](https://github.com/tzujohsu)
 - [paoyako24](https://github.com/paoyako24)
-- [Art3mis-s](https://github.com/Art3mis-s)
-- [fulyaertay](https://github.com/fulyaertay)
 
 ## ⭐ Recent stars
 
-- [rogerhu/gdb-heap](https://github.com/rogerhu/gdb-heap) - Heap Analyzer for Python (today)
-- [hahwul/deadfinder](https://github.com/hahwul/deadfinder) - 🏴‍☠️ Find dead-links (broken links) (today)
-- [hahwul/metasploit-autopwn](https://github.com/hahwul/metasploit-autopwn) - db_autopwn plugin of metasploit (today)
-- [hahwul/droid-hunter](https://github.com/hahwul/droid-hunter) - (deprecated) Android application vulnerability analysis and Android pentest tool (today)
-- [hahwul/mad-metasploit](https://github.com/hahwul/mad-metasploit) - Metasploit custom modules, plugins, resource script and.. awesome metasploit collection (today)
+- [SimonLarsen/tobutobugirl](https://github.com/SimonLarsen/tobutobugirl) - An arcade platformer homebrew game for the Game Boy (today)
+- [SimonLarsen/mrrescue](https://github.com/SimonLarsen/mrrescue) - Arcade-style fire fighting game (today)
+- [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image (today)
+- [iancanderson/PurpleTrainElm](https://github.com/iancanderson/PurpleTrainElm) - An iOS and Android app for MBTA Commuter Rail passengers, written in Elm (today)
+- [iancanderson/ingreedy](https://github.com/iancanderson/ingreedy) - natural language parsing of recipe ingredients, making sense of amounts, units, and ingredients (today)
 
 ## 🔨 Latest Pull Requests I published
 
