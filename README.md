@@ -41,24 +41,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [cojurongbe333](https://github.com/cojurongbe333)
+- [Nkiex](https://github.com/Nkiex)
+- [msadman-sakib](https://github.com/msadman-sakib)
+- [callmefao](https://github.com/callmefao)
 - [izzurdo](https://github.com/izzurdo)
 - [kihuni](https://github.com/kihuni)
 - [tomdevkr93](https://github.com/tomdevkr93)
 - [rough0peace](https://github.com/rough0peace)
 - [rlaxogh76](https://github.com/rlaxogh76)
 - [TriniT-AI](https://github.com/TriniT-AI)
-- [fernandosecchi](https://github.com/fernandosecchi)
-- [adomfosugit](https://github.com/adomfosugit)
-- [Divoras](https://github.com/Divoras)
-- [luckycat100](https://github.com/luckycat100)
 
 ## ⭐ Recent stars
 
+- [pemagrg1/Natural-Language-Processing-NLP-Roadmap](https://github.com/pemagrg1/Natural-Language-Processing-NLP-Roadmap) - A simple RoadMap to Natural Language Processing(NLP) (today)
+- [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser (today)
+- [patrickmn/cpuburn](https://github.com/patrickmn/cpuburn) - Utilize 100% CPU on all available cores from the command line. (today)
+- [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. (today)
 - [shawnlawson/The_Force](https://github.com/shawnlawson/The_Force) - webGL live coding performance IDE (today)
-- [uniphil/nix-for-devs](https://github.com/uniphil/nix-for-devs) - nix-shell recipes (today)
-- [FireyFly/hexd](https://github.com/FireyFly/hexd) - 🔍 Colourful, human-friendly hexdump tool (today)
-- [FireyFly/pixd](https://github.com/FireyFly/pixd) - 🔍 Colourful visualization tool for binary files (today)
-- [ivangreene/arena-js](https://github.com/ivangreene/arena-js) - are.na API wrapper for JavaScript (today)
 
 ## 🔨 Latest Pull Requests I published
 
