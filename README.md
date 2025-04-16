@@ -41,24 +41,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [paoyako24](https://github.com/paoyako24)
+- [Art3mis-s](https://github.com/Art3mis-s)
+- [fulyaertay](https://github.com/fulyaertay)
+- [emmanuel-vandyk](https://github.com/emmanuel-vandyk)
 - [Stervar](https://github.com/Stervar)
 - [jaeyoung0509](https://github.com/jaeyoung0509)
 - [techwithshivanksharma](https://github.com/techwithshivanksharma)
 - [rahmachehoud](https://github.com/rahmachehoud)
 - [pedro092692](https://github.com/pedro092692)
 - [Kolman-Freecss](https://github.com/Kolman-Freecss)
-- [shakilkhandev](https://github.com/shakilkhandev)
-- [W47-KRTS](https://github.com/W47-KRTS)
-- [arex75](https://github.com/arex75)
-- [CoGian](https://github.com/CoGian)
 
 ## ⭐ Recent stars
 
+- [rahuldkjain/awesome-frontendmasters](https://github.com/rahuldkjain/awesome-frontendmasters) - 📚 List of awesome frontendmasters course resources (today)
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. (today)
+- [jcmcneal/react-step-wizard](https://github.com/jcmcneal/react-step-wizard) - A modern flexible step wizard component built for React. (today)
 - [GianCastle/FiraMonaco](https://github.com/GianCastle/FiraMonaco) - Monaco Font with Firacode ligatures and patched for Powerline 📝 (today)
 - [ttypic/swift-klib-plugin](https://github.com/ttypic/swift-klib-plugin) - Gradle Plugin for injecting Swift code into Kotlin Multiplatform Mobile shared module (today)
-- [OpesanyaAdebayo/systems-design](https://github.com/OpesanyaAdebayo/systems-design) - All things systems design. Resources, Interview questions, e.t.c (today)
-- [SaeedMalikx/React-Fiber-Architecture](https://github.com/SaeedMalikx/React-Fiber-Architecture) - Understanding the structure of React Fiber( walk through and pseudo-code) (today)
-- [clonn/slack-node-sdk](https://github.com/clonn/slack-node-sdk) - slack.com, slack, node sdk (today)
 
 ## 🔨 Latest Pull Requests I published
 
