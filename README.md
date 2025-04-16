@@ -28,19 +28,22 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (today)
 - [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (3 days ago)
 - [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers&#39; stats and energy usage with Intel RAPL support, built for efficiency! (3 days ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
-- [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (4 days ago)
-- [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (4 days ago)
 - [trinhminhtriet/a-star-search](https://github.com/trinhminhtriet/a-star-search) - A* (A-star) algorithm is a widely used graph traversal and pathfinding algorithm known for its completeness, optimality, and efficiency. (4 days ago)
+- [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (4 days ago)
+- [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (4 days ago)
 - [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (1 week ago)
 - [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (1 week ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates &amp; visual charts! 📊🚀 (1 week ago)
-- [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (1 week ago)
 
 ## 👯 Check out my recent followers
 
+- [Jwarner6682](https://github.com/Jwarner6682)
+- [Mostafa-Faisal](https://github.com/Mostafa-Faisal)
+- [lamanwrk](https://github.com/lamanwrk)
 - [krishtechie](https://github.com/krishtechie)
 - [freak2810](https://github.com/freak2810)
 - [cojurongbe333](https://github.com/cojurongbe333)
@@ -48,17 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [msadman-sakib](https://github.com/msadman-sakib)
 - [callmefao](https://github.com/callmefao)
 - [izzurdo](https://github.com/izzurdo)
-- [kihuni](https://github.com/kihuni)
-- [tomdevkr93](https://github.com/tomdevkr93)
-- [rough0peace](https://github.com/rough0peace)
 
 ## ⭐ Recent stars
 
-- [vesche/scanless](https://github.com/vesche/scanless) - online port scan scraper (today)
-- [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) - 📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥 (today)
-- [konklone/congress-android](https://github.com/konklone/congress-android) - Congress for Android, an app for tracking Congress. (today)
-- [konklone/shaaaaaaaaaaaaa](https://github.com/konklone/shaaaaaaaaaaaaa) - Check if a website has weak SHA-1 TLS certificates. (today)
-- [konklone/json](https://github.com/konklone/json) - A free, in-browser JSON to CSV converter. (today)
+- [lhotari/action-upterm](https://github.com/lhotari/action-upterm) - Debug your GitHub Actions via SSH by using upterm/tmux to get access to the runner system itself.  (today)
+- [brendandburns/ksql](https://github.com/brendandburns/ksql) - Query Kubernetes API objects using SQL. (today)
+- [brendandburns/configula](https://github.com/brendandburns/configula) - Experimental configuration generator inspired by JSX (today)
+- [brendandburns/metaparticle](https://github.com/brendandburns/metaparticle) - A new pattern for distributed system development (today)
+- [brendandburns/gcp-live-k8s-visualizer](https://github.com/brendandburns/gcp-live-k8s-visualizer) - Source code for the Kubernetes visualizer used in the GCP Live Container Engine Demo (today)
 
 ## 🔨 Latest Pull Requests I published
 
