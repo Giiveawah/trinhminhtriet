@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [DoctorSolo](https://github.com/DoctorSolo)
+- [vivekvamsi9](https://github.com/vivekvamsi9)
+- [SAMEER-SHRESTHA911](https://github.com/SAMEER-SHRESTHA911)
 - [OmaarElAmri](https://github.com/OmaarElAmri)
 - [tolgaOzen](https://github.com/tolgaOzen)
 - [arshianrz](https://github.com/arshianrz)
@@ -48,17 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [JesusAlos13](https://github.com/JesusAlos13)
 - [PhakphumV](https://github.com/PhakphumV)
 - [steve-leo254](https://github.com/steve-leo254)
-- [v1nybarreto](https://github.com/v1nybarreto)
-- [BigTennEd223](https://github.com/BigTennEd223)
-- [Jwarner6682](https://github.com/Jwarner6682)
 
 ## ⭐ Recent stars
 
+- [OpesanyaAdebayo/systems-design](https://github.com/OpesanyaAdebayo/systems-design) - All things systems design. Resources, Interview questions, e.t.c (today)
+- [SaeedMalikx/React-Fiber-Architecture](https://github.com/SaeedMalikx/React-Fiber-Architecture) - Understanding the structure of React Fiber( walk through and pseudo-code) (today)
+- [clonn/slack-node-sdk](https://github.com/clonn/slack-node-sdk) - slack.com, slack, node sdk (today)
 - [thasarito/simple-arbitrage-rs](https://github.com/thasarito/simple-arbitrage-rs) (today)
 - [orenyomtov/openordex](https://github.com/orenyomtov/openordex) - OpenOrdex is an open source zero-fee trustless Bitcoin NFT marketplace based on partially signed bitcoin transactions (today)
-- [sdl60660/letterboxd_recommendations](https://github.com/sdl60660/letterboxd_recommendations) - Scraping publicly-accessible Letterboxd data and creating a movie recommendation model with it that can generate recommendations when provided with a Letterboxd username (today)
-- [sdl60660/river-runner](https://github.com/sdl60660/river-runner) - Uses USGS/MERIT Basin data to visualize the path of a rain droplet to its endpoint. (today)
-- [KevinOfNeu/hexo-theme-xoxo](https://github.com/KevinOfNeu/hexo-theme-xoxo) - Hexo theme for https://blog.0xff000000.com (today)
 
 ## 🔨 Latest Pull Requests I published
 
