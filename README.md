@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [anupama-g-bhat](https://github.com/anupama-g-bhat)
+- [Subramanya-talli](https://github.com/Subramanya-talli)
 - [DoctorSolo](https://github.com/DoctorSolo)
 - [vivekvamsi9](https://github.com/vivekvamsi9)
 - [SAMEER-SHRESTHA911](https://github.com/SAMEER-SHRESTHA911)
@@ -49,16 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [arshianrz](https://github.com/arshianrz)
 - [Zer0-Bug](https://github.com/Zer0-Bug)
 - [JesusAlos13](https://github.com/JesusAlos13)
-- [PhakphumV](https://github.com/PhakphumV)
-- [steve-leo254](https://github.com/steve-leo254)
 
 ## ⭐ Recent stars
 
+- [ttypic/swift-klib-plugin](https://github.com/ttypic/swift-klib-plugin) - Gradle Plugin for injecting Swift code into Kotlin Multiplatform Mobile shared module (today)
 - [OpesanyaAdebayo/systems-design](https://github.com/OpesanyaAdebayo/systems-design) - All things systems design. Resources, Interview questions, e.t.c (today)
 - [SaeedMalikx/React-Fiber-Architecture](https://github.com/SaeedMalikx/React-Fiber-Architecture) - Understanding the structure of React Fiber( walk through and pseudo-code) (today)
 - [clonn/slack-node-sdk](https://github.com/clonn/slack-node-sdk) - slack.com, slack, node sdk (today)
 - [thasarito/simple-arbitrage-rs](https://github.com/thasarito/simple-arbitrage-rs) (today)
-- [orenyomtov/openordex](https://github.com/orenyomtov/openordex) - OpenOrdex is an open source zero-fee trustless Bitcoin NFT marketplace based on partially signed bitcoin transactions (today)
 
 ## 🔨 Latest Pull Requests I published
 
