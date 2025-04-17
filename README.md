@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [enrique-mendoza](https://github.com/enrique-mendoza)
+- [KARTIKEYA2310](https://github.com/KARTIKEYA2310)
 - [hansthen](https://github.com/hansthen)
 - [SocialSolidarityEconomy](https://github.com/SocialSolidarityEconomy)
 - [Kawesom](https://github.com/Kawesom)
@@ -49,16 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [anastasius21](https://github.com/anastasius21)
 - [mmahendra1ssharma](https://github.com/mmahendra1ssharma)
 - [1chancelord](https://github.com/1chancelord)
-- [lvb2104](https://github.com/lvb2104)
-- [andredisa](https://github.com/andredisa)
 
 ## ⭐ Recent stars
 
-- [jimersylee/DesignPattern](https://github.com/jimersylee/DesignPattern) - <Head first :Design Pattern> 学习笔记 (today)
-- [jimersylee/MachineLearningAction](https://github.com/jimersylee/MachineLearningAction) - <Machine Learning Action> (today)
-- [jimersylee/jimersylee.github.io](https://github.com/jimersylee/jimersylee.github.io) - 个人博客 (today)
-- [jimersylee/Andromeda](https://github.com/jimersylee/Andromeda) - This is a php framework,apply Di,Ioc,这是我写的一个使用了Di和Ioc的php框架 (today)
-- [jimersylee/thinkphp3.2-seed](https://github.com/jimersylee/thinkphp3.2-seed) - 在官方的TP框架下,整合一些常用框架与使用例程 (today)
+- [lzane/Fingers-Detection-using-OpenCV-and-Python](https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python) - A simple Fingers Detection (or Gesture Recognition) using OpenCV and Python with background substraction 简单手势识别 (today)
+- [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - A flexible HTTP fetching Model Context Protocol server. (today)
+- [zcaceres/spec_augment](https://github.com/zcaceres/spec_augment) - 🔦 A Pytorch implementation of GoogleBrain's SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition  (today)
+- [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - A Model Context Protocol server for converting almost anything to Markdown (today)
+- [ravens/awesome-telco](https://github.com/ravens/awesome-telco) - A curated list of telco resources and projects (today)
 
 ## 🔨 Latest Pull Requests I published
 
