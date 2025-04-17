@@ -27,6 +27,6 @@ jobs:
         with:
           commit_message: Update generated README
           branch: master
-          commit_user_name: readme-markgen-action 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-markgen-action 🤖 <actions@github.com>
+          commit_user_name: Triet Trinh 
+          commit_user_email: contact@trinhminhtriet.com
+          commit_author: Triet Trinh <contact@trinhminhtriet.com>
