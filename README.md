@@ -28,19 +28,22 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (today)
 - [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (today)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
-- [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (4 days ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (today)
 - [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers' stats and energy usage with Intel RAPL support, built for efficiency! (4 days ago)
+- [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
 - [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (5 days ago)
-- [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (5 days ago)
 - [trinhminhtriet/a-star-search](https://github.com/trinhminhtriet/a-star-search) - A* (A-star) algorithm is a widely used graph traversal and pathfinding algorithm known for its completeness, optimality, and efficiency. (5 days ago)
+- [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (5 days ago)
 - [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (1 week ago)
 - [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (1 week ago)
 
 ## 👯 Check out my recent followers
 
+- [Debanjan2007](https://github.com/Debanjan2007)
+- [M1T4U](https://github.com/M1T4U)
+- [krisn2](https://github.com/krisn2)
 - [semarsln](https://github.com/semarsln)
 - [mozhde-shams](https://github.com/mozhde-shams)
 - [rxm-gupta](https://github.com/rxm-gupta)
@@ -48,9 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Pavlos86](https://github.com/Pavlos86)
 - [zakocord](https://github.com/zakocord)
 - [hkousar-hub](https://github.com/hkousar-hub)
-- [Ananddd06](https://github.com/Ananddd06)
-- [vahidirp](https://github.com/vahidirp)
-- [the-duckchild](https://github.com/the-duckchild)
 
 ## ⭐ Recent stars
 
