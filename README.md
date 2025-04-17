@@ -41,16 +41,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mozhde-shams](https://github.com/mozhde-shams)
+- [rxm-gupta](https://github.com/rxm-gupta)
+- [AlGSyntax](https://github.com/AlGSyntax)
+- [Pavlos86](https://github.com/Pavlos86)
 - [zakocord](https://github.com/zakocord)
 - [hkousar-hub](https://github.com/hkousar-hub)
 - [Ananddd06](https://github.com/Ananddd06)
 - [vahidirp](https://github.com/vahidirp)
 - [the-duckchild](https://github.com/the-duckchild)
 - [walidmabrouk](https://github.com/walidmabrouk)
-- [glbitstar](https://github.com/glbitstar)
-- [Qurbonov2008](https://github.com/Qurbonov2008)
-- [NguyenTri996](https://github.com/NguyenTri996)
-- [KHC2003](https://github.com/KHC2003)
 
 ## ⭐ Recent stars
 
