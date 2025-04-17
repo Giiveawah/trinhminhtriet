@@ -29,7 +29,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👷 Check out what I'm currently working on
 
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 day ago)
-- [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - Automatically generate and update markdown content like a README.md (1 day ago)
+- [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (1 day ago)
 - [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers' stats and energy usage with Intel RAPL support, built for efficiency! (4 days ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
 - [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (4 days ago)
@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [yuskraft](https://github.com/yuskraft)
 - [larbi-asmaoui](https://github.com/larbi-asmaoui)
 - [pankajsondagar07](https://github.com/pankajsondagar07)
 - [Yashraghava](https://github.com/Yashraghava)
@@ -50,15 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [simasgrilo](https://github.com/simasgrilo)
 - [JohnPaulinePineda](https://github.com/JohnPaulinePineda)
 - [namesarnav](https://github.com/namesarnav)
-- [isaqueDaSilva](https://github.com/isaqueDaSilva)
 
 ## ⭐ Recent stars
 
-- [arafatkatze/DataViz](https://github.com/arafatkatze/DataViz) - Build and Visualize data structures in Golang (today)
-- [ruromgar/python-ai-trading-system](https://github.com/ruromgar/python-ai-trading-system) - Code for How To Create A Fully Automated AI Based Trading System With Python (today)
-- [iSapozhnik/NavigationMenu](https://github.com/iSapozhnik/NavigationMenu) - [DEPRECATED] Objective-C component that adds menu to the navigation bar (today)
-- [iSapozhnik/Haptico](https://github.com/iSapozhnik/Haptico) - Haptico 📳 - easy to use haptic feedback generator with pattern-play support (today)
-- [ptsteadman/hexo-theme-corporate](https://github.com/ptsteadman/hexo-theme-corporate) - A professional Hexo theme based on Metronic's "Corporate Frontend" framework. (today)
+- [briandunn/flatware](https://github.com/briandunn/flatware) - A parallel test runner for RSpec and Cucumber with pretty output (today)
+- [gmarik/gist.sh](https://github.com/gmarik/gist.sh) - Bash shell script for getting/posting code snippets (gists) from/to https://gist.github.com (today)
+- [gmarik/Gistie](https://github.com/gmarik/Gistie) - Gistie is an open source Git-based pastebin implementation that enables sharing snippets(aka Gist) using simple web UI. (today)
+- [gmarik/vimfiles](https://github.com/gmarik/vimfiles) - My Vim configuration (today)
+- [gmarik/go-erd](https://github.com/gmarik/go-erd) - Go-ERD (Entity Relationship Diagrams) for Golang with Graphviz [WIP] (today)
 
 ## 🔨 Latest Pull Requests I published
 
