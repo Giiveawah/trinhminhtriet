@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [root-ali](https://github.com/root-ali)
+- [lgcshy](https://github.com/lgcshy)
 - [yuskraft](https://github.com/yuskraft)
 - [larbi-asmaoui](https://github.com/larbi-asmaoui)
 - [pankajsondagar07](https://github.com/pankajsondagar07)
@@ -49,16 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [wdaoz](https://github.com/wdaoz)
 - [chase6305](https://github.com/chase6305)
 - [simasgrilo](https://github.com/simasgrilo)
-- [JohnPaulinePineda](https://github.com/JohnPaulinePineda)
-- [namesarnav](https://github.com/namesarnav)
 
 ## ⭐ Recent stars
 
-- [briandunn/flatware](https://github.com/briandunn/flatware) - A parallel test runner for RSpec and Cucumber with pretty output (today)
-- [gmarik/gist.sh](https://github.com/gmarik/gist.sh) - Bash shell script for getting/posting code snippets (gists) from/to https://gist.github.com (today)
-- [gmarik/Gistie](https://github.com/gmarik/Gistie) - Gistie is an open source Git-based pastebin implementation that enables sharing snippets(aka Gist) using simple web UI. (today)
-- [gmarik/vimfiles](https://github.com/gmarik/vimfiles) - My Vim configuration (today)
-- [gmarik/go-erd](https://github.com/gmarik/go-erd) - Go-ERD (Entity Relationship Diagrams) for Golang with Graphviz [WIP] (today)
+- [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI (today)
+- [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers) - Tasty CSS-animated Hamburgers (today)
+- [rwz/nestive](https://github.com/rwz/nestive) - A Better Nested Inheritable Layouts Plugin for Rails (today)
+- [rwz/mock5](https://github.com/rwz/mock5) - Create and manage API mocks with Sinatra (today)
+- [jwworth/til](https://github.com/jwworth/til) - ⌨️  Technical articles; needless words omitted (today)
 
 ## 🔨 Latest Pull Requests I published
 
