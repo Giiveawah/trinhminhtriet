@@ -28,37 +28,37 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (today)
-- [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - Automatically generate and update markdown content like a README.md (today)
-- [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers' stats and energy usage with Intel RAPL support, built for efficiency! (3 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
-- [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (3 days ago)
-- [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (4 days ago)
-- [trinhminhtriet/a-star-search](https://github.com/trinhminhtriet/a-star-search) - A* (A-star) algorithm is a widely used graph traversal and pathfinding algorithm known for its completeness, optimality, and efficiency. (4 days ago)
-- [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (4 days ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 day ago)
+- [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (1 day ago)
+- [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers' stats and energy usage with Intel RAPL support, built for efficiency! (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
+- [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (4 days ago)
+- [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (5 days ago)
+- [trinhminhtriet/a-star-search](https://github.com/trinhminhtriet/a-star-search) - A* (A-star) algorithm is a widely used graph traversal and pathfinding algorithm known for its completeness, optimality, and efficiency. (5 days ago)
+- [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (5 days ago)
 - [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (1 week ago)
 - [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (1 week ago)
 
 ## 👯 Check out my recent followers
 
-- [safi-alt](https://github.com/safi-alt)
-- [Toqxin](https://github.com/Toqxin)
-- [drxc00](https://github.com/drxc00)
-- [nstarlike](https://github.com/nstarlike)
-- [dev-bhaveshye](https://github.com/dev-bhaveshye)
-- [Zer0-Bug](https://github.com/Zer0-Bug)
-- [anupama-g-bhat](https://github.com/anupama-g-bhat)
-- [Subramanya-talli](https://github.com/Subramanya-talli)
-- [DoctorSolo](https://github.com/DoctorSolo)
-- [vivekvamsi9](https://github.com/vivekvamsi9)
+- [zakocord](https://github.com/zakocord)
+- [hkousar-hub](https://github.com/hkousar-hub)
+- [Ananddd06](https://github.com/Ananddd06)
+- [vahidirp](https://github.com/vahidirp)
+- [the-duckchild](https://github.com/the-duckchild)
+- [walidmabrouk](https://github.com/walidmabrouk)
+- [glbitstar](https://github.com/glbitstar)
+- [Qurbonov2008](https://github.com/Qurbonov2008)
+- [NguyenTri996](https://github.com/NguyenTri996)
+- [KHC2003](https://github.com/KHC2003)
 
 ## ⭐ Recent stars
 
-- [ttypic/swift-klib-plugin](https://github.com/ttypic/swift-klib-plugin) - Gradle Plugin for injecting Swift code into Kotlin Multiplatform Mobile shared module (today)
-- [OpesanyaAdebayo/systems-design](https://github.com/OpesanyaAdebayo/systems-design) - All things systems design. Resources, Interview questions, e.t.c (today)
-- [SaeedMalikx/React-Fiber-Architecture](https://github.com/SaeedMalikx/React-Fiber-Architecture) - Understanding the structure of React Fiber( walk through and pseudo-code) (today)
-- [clonn/slack-node-sdk](https://github.com/clonn/slack-node-sdk) - slack.com, slack, node sdk (today)
-- [thasarito/simple-arbitrage-rs](https://github.com/thasarito/simple-arbitrage-rs) (today)
+- [jimersylee/DesignPattern](https://github.com/jimersylee/DesignPattern) - <Head first :Design Pattern> 学习笔记 (today)
+- [jimersylee/MachineLearningAction](https://github.com/jimersylee/MachineLearningAction) - <Machine Learning Action> (today)
+- [jimersylee/jimersylee.github.io](https://github.com/jimersylee/jimersylee.github.io) - 个人博客 (today)
+- [jimersylee/Andromeda](https://github.com/jimersylee/Andromeda) - This is a php framework,apply Di,Ioc,这是我写的一个使用了Di和Ioc的php框架 (today)
+- [jimersylee/thinkphp3.2-seed](https://github.com/jimersylee/thinkphp3.2-seed) - 在官方的TP框架下,整合一些常用框架与使用例程 (today)
 
 ## 🔨 Latest Pull Requests I published
 
