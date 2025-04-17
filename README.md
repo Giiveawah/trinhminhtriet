@@ -28,37 +28,37 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (today)
-- [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - Automatically generate and update markdown content like a README.md (today)
-- [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers' stats and energy usage with Intel RAPL support, built for efficiency! (3 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
-- [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (3 days ago)
-- [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (4 days ago)
-- [trinhminhtriet/a-star-search](https://github.com/trinhminhtriet/a-star-search) - A* (A-star) algorithm is a widely used graph traversal and pathfinding algorithm known for its completeness, optimality, and efficiency. (4 days ago)
-- [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (4 days ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 day ago)
+- [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - Automatically generate and update markdown content like a README.md (1 day ago)
+- [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers' stats and energy usage with Intel RAPL support, built for efficiency! (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
+- [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (4 days ago)
+- [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (5 days ago)
+- [trinhminhtriet/a-star-search](https://github.com/trinhminhtriet/a-star-search) - A* (A-star) algorithm is a widely used graph traversal and pathfinding algorithm known for its completeness, optimality, and efficiency. (5 days ago)
+- [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (5 days ago)
 - [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (1 week ago)
 - [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (1 week ago)
 
 ## 👯 Check out my recent followers
 
+- [JohnPaulinePineda](https://github.com/JohnPaulinePineda)
+- [namesarnav](https://github.com/namesarnav)
+- [isaqueDaSilva](https://github.com/isaqueDaSilva)
+- [FGMatias](https://github.com/FGMatias)
+- [lebrony](https://github.com/lebrony)
+- [Charbotte-hub](https://github.com/Charbotte-hub)
+- [a7med3yad](https://github.com/a7med3yad)
 - [TopTrenDev](https://github.com/TopTrenDev)
 - [SallySims](https://github.com/SallySims)
 - [ogzugru](https://github.com/ogzugru)
-- [NathanAlmeida2006](https://github.com/NathanAlmeida2006)
-- [momina-sheikh-dev](https://github.com/momina-sheikh-dev)
-- [AmirAbdollahi](https://github.com/AmirAbdollahi)
-- [aswain009](https://github.com/aswain009)
-- [charbo05](https://github.com/charbo05)
-- [danielyvf](https://github.com/danielyvf)
-- [tzujohsu](https://github.com/tzujohsu)
 
 ## ⭐ Recent stars
 
-- [flok/pydualsense](https://github.com/flok/pydualsense) - control your dualsense controller with python (today)
-- [Edditoria/markdown-plus-plus](https://github.com/Edditoria/markdown-plus-plus) - Markdown syntax highlighting for Notepad++, by customized UDL file (user defined language) (today)
-- [cwoodruff/ChinookASPNETCoreAPINTier](https://github.com/cwoodruff/ChinookASPNETCoreAPINTier) - You can find the Chinook database here for the project https://github.com/cwoodruff/ChinookDatabase (today)
-- [JimmyCushnie/JimmysUnityUtilities](https://github.com/JimmyCushnie/JimmysUnityUtilities) - A bunch of code I like to have on hand while working in Unity (today)
-- [JimmyCushnie/JECS](https://github.com/JimmyCushnie/JECS) - Jimmy's Epic Config System (today)
+- [JamesSedlacek/Scrumdinger](https://github.com/JamesSedlacek/Scrumdinger) - A rebuild of Apple’s “Scrumdinger” application using modern, best practices for SwiftUI development. (today)
+- [JamesSedlacek/OnboardingKit](https://github.com/JamesSedlacek/OnboardingKit) - SwiftUI library for handling onboarding (today)
+- [JamesSedlacek/Routing](https://github.com/JamesSedlacek/Routing) - SwiftUI library for abstracting navigation logic from views (today)
+- [shobhakartiwari/iOS_Lead_Interview](https://github.com/shobhakartiwari/iOS_Lead_Interview) - This readme file is helpful for people who is preparing for iOS Interview onsite roles (today)
+- [omerfarukozturk/UIView-Shimmer](https://github.com/omerfarukozturk/UIView-Shimmer) - Easy way to apply fancy Shimmer effect to any UIView element for iOS applications using Core Animation. (today)
 
 ## 🔨 Latest Pull Requests I published
 
