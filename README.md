@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [walidmabrouk](https://github.com/walidmabrouk)
+- [glbitstar](https://github.com/glbitstar)
+- [Qurbonov2008](https://github.com/Qurbonov2008)
 - [NguyenTri996](https://github.com/NguyenTri996)
 - [KHC2003](https://github.com/KHC2003)
 - [sandeepleel](https://github.com/sandeepleel)
@@ -48,9 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Developerdavido](https://github.com/Developerdavido)
 - [APltone141](https://github.com/APltone141)
 - [root-ali](https://github.com/root-ali)
-- [lgcshy](https://github.com/lgcshy)
-- [yuskraft](https://github.com/yuskraft)
-- [larbi-asmaoui](https://github.com/larbi-asmaoui)
 
 ## ⭐ Recent stars
 
