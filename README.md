@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hansthen](https://github.com/hansthen)
+- [SocialSolidarityEconomy](https://github.com/SocialSolidarityEconomy)
 - [Kawesom](https://github.com/Kawesom)
 - [vishra0](https://github.com/vishra0)
 - [drxc00](https://github.com/drxc00)
@@ -49,8 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [1chancelord](https://github.com/1chancelord)
 - [lvb2104](https://github.com/lvb2104)
 - [andredisa](https://github.com/andredisa)
-- [josphatmwania](https://github.com/josphatmwania)
-- [Debanjan2007](https://github.com/Debanjan2007)
 
 ## ⭐ Recent stars
 
