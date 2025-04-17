@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Developerdavido](https://github.com/Developerdavido)
+- [APltone141](https://github.com/APltone141)
 - [root-ali](https://github.com/root-ali)
 - [lgcshy](https://github.com/lgcshy)
 - [yuskraft](https://github.com/yuskraft)
@@ -49,16 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Yashraghava](https://github.com/Yashraghava)
 - [anth1y](https://github.com/anth1y)
 - [wdaoz](https://github.com/wdaoz)
-- [chase6305](https://github.com/chase6305)
-- [simasgrilo](https://github.com/simasgrilo)
 
 ## ⭐ Recent stars
 
-- [kiddyuchina/Beanbun](https://github.com/kiddyuchina/Beanbun) - Beanbun 是用 PHP 编写的多进程网络爬虫框架，具有良好的开放性、高可扩展性，基于 Workerman。 (today)
-- [flc1125/ApiServer](https://github.com/flc1125/ApiServer) - Laravel Server API Demo (today)
-- [flc1125/alidayu](https://github.com/flc1125/alidayu) - 阿里大于(鱼)API接口-SDK (today)
-- [lucernae/nixos-pi](https://github.com/lucernae/nixos-pi) - How to install NixOS on raspberry PI (today)
-- [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers) - Tasty CSS-animated Hamburgers (today)
+- [jimersylee/DesignPattern](https://github.com/jimersylee/DesignPattern) - <Head first :Design Pattern> 学习笔记 (today)
+- [jimersylee/MachineLearningAction](https://github.com/jimersylee/MachineLearningAction) - <Machine Learning Action> (today)
+- [jimersylee/jimersylee.github.io](https://github.com/jimersylee/jimersylee.github.io) - 个人博客 (today)
+- [jimersylee/Andromeda](https://github.com/jimersylee/Andromeda) - This is a php framework,apply Di,Ioc,这是我写的一个使用了Di和Ioc的php框架 (today)
+- [jimersylee/thinkphp3.2-seed](https://github.com/jimersylee/thinkphp3.2-seed) - 在官方的TP框架下,整合一些常用框架与使用例程 (today)
 
 ## 🔨 Latest Pull Requests I published
 
