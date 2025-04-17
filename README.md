@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [micheldossantos](https://github.com/micheldossantos)
 - [enrique-mendoza](https://github.com/enrique-mendoza)
 - [KARTIKEYA2310](https://github.com/KARTIKEYA2310)
 - [hansthen](https://github.com/hansthen)
@@ -50,15 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [drxc00](https://github.com/drxc00)
 - [anastasius21](https://github.com/anastasius21)
 - [mmahendra1ssharma](https://github.com/mmahendra1ssharma)
-- [1chancelord](https://github.com/1chancelord)
 
 ## ⭐ Recent stars
 
-- [lzane/Fingers-Detection-using-OpenCV-and-Python](https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python) - A simple Fingers Detection (or Gesture Recognition) using OpenCV and Python with background substraction 简单手势识别 (today)
-- [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - A flexible HTTP fetching Model Context Protocol server. (today)
-- [zcaceres/spec_augment](https://github.com/zcaceres/spec_augment) - 🔦 A Pytorch implementation of GoogleBrain's SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition  (today)
-- [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - A Model Context Protocol server for converting almost anything to Markdown (today)
-- [ravens/awesome-telco](https://github.com/ravens/awesome-telco) - A curated list of telco resources and projects (today)
+- [s7ev3n/MPC_Code](https://github.com/s7ev3n/MPC_Code) - Model Predictive Control for autonomous vehicle trajectory tracking control, in Matlab. (today)
+- [chhoumann/DemoVault](https://github.com/chhoumann/DemoVault) - Demo vault for Obsidian stuff by Christian. (today)
+- [chhoumann/PodNotes](https://github.com/chhoumann/PodNotes) - PodNotes is a plugin for Obsidian that helps the user write notes on podcasts. (today)
+- [chhoumann/Templater_Templates](https://github.com/chhoumann/Templater_Templates) - My templates for the Templater Obsidian.md plugin. (today)
+- [chhoumann/MetaEdit](https://github.com/chhoumann/MetaEdit) - MetaEdit for Obsidian (today)
 
 ## 🔨 Latest Pull Requests I published
 
