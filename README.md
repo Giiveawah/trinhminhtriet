@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Kawesom](https://github.com/Kawesom)
+- [vishra0](https://github.com/vishra0)
 - [drxc00](https://github.com/drxc00)
 - [anastasius21](https://github.com/anastasius21)
 - [mmahendra1ssharma](https://github.com/mmahendra1ssharma)
@@ -49,8 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [andredisa](https://github.com/andredisa)
 - [josphatmwania](https://github.com/josphatmwania)
 - [Debanjan2007](https://github.com/Debanjan2007)
-- [M1T4U](https://github.com/M1T4U)
-- [krisn2](https://github.com/krisn2)
 
 ## ⭐ Recent stars
 
