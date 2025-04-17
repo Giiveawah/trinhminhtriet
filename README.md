@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Will69HRG](https://github.com/Will69HRG)
 - [micheldossantos](https://github.com/micheldossantos)
 - [enrique-mendoza](https://github.com/enrique-mendoza)
 - [KARTIKEYA2310](https://github.com/KARTIKEYA2310)
@@ -50,15 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [vishra0](https://github.com/vishra0)
 - [drxc00](https://github.com/drxc00)
 - [anastasius21](https://github.com/anastasius21)
-- [mmahendra1ssharma](https://github.com/mmahendra1ssharma)
 
 ## ⭐ Recent stars
 
+- [betaflag/graphql-server-scaffolding](https://github.com/betaflag/graphql-server-scaffolding) - Examples of directory structures for using GraphQL with Apollo Server in Node.js (today)
 - [s7ev3n/MPC_Code](https://github.com/s7ev3n/MPC_Code) - Model Predictive Control for autonomous vehicle trajectory tracking control, in Matlab. (today)
 - [chhoumann/DemoVault](https://github.com/chhoumann/DemoVault) - Demo vault for Obsidian stuff by Christian. (today)
 - [chhoumann/PodNotes](https://github.com/chhoumann/PodNotes) - PodNotes is a plugin for Obsidian that helps the user write notes on podcasts. (today)
 - [chhoumann/Templater_Templates](https://github.com/chhoumann/Templater_Templates) - My templates for the Templater Obsidian.md plugin. (today)
-- [chhoumann/MetaEdit](https://github.com/chhoumann/MetaEdit) - MetaEdit for Obsidian (today)
 
 ## 🔨 Latest Pull Requests I published
 
