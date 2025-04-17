@@ -41,16 +41,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NguyenTri996](https://github.com/NguyenTri996)
+- [KHC2003](https://github.com/KHC2003)
+- [sandeepleel](https://github.com/sandeepleel)
+- [surmonter2025](https://github.com/surmonter2025)
 - [Developerdavido](https://github.com/Developerdavido)
 - [APltone141](https://github.com/APltone141)
 - [root-ali](https://github.com/root-ali)
 - [lgcshy](https://github.com/lgcshy)
 - [yuskraft](https://github.com/yuskraft)
 - [larbi-asmaoui](https://github.com/larbi-asmaoui)
-- [pankajsondagar07](https://github.com/pankajsondagar07)
-- [Yashraghava](https://github.com/Yashraghava)
-- [anth1y](https://github.com/anth1y)
-- [wdaoz](https://github.com/wdaoz)
 
 ## ⭐ Recent stars
 
