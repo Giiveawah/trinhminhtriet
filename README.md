@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ChopperNakama](https://github.com/ChopperNakama)
+- [JuanPE44](https://github.com/JuanPE44)
 - [Will69HRG](https://github.com/Will69HRG)
 - [micheldossantos](https://github.com/micheldossantos)
 - [enrique-mendoza](https://github.com/enrique-mendoza)
@@ -49,8 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SocialSolidarityEconomy](https://github.com/SocialSolidarityEconomy)
 - [Kawesom](https://github.com/Kawesom)
 - [vishra0](https://github.com/vishra0)
-- [drxc00](https://github.com/drxc00)
-- [anastasius21](https://github.com/anastasius21)
 
 ## ⭐ Recent stars
 
