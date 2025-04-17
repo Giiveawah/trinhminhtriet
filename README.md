@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [wdaoz](https://github.com/wdaoz)
+- [chase6305](https://github.com/chase6305)
+- [simasgrilo](https://github.com/simasgrilo)
 - [JohnPaulinePineda](https://github.com/JohnPaulinePineda)
 - [namesarnav](https://github.com/namesarnav)
 - [isaqueDaSilva](https://github.com/isaqueDaSilva)
@@ -48,17 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lebrony](https://github.com/lebrony)
 - [Charbotte-hub](https://github.com/Charbotte-hub)
 - [a7med3yad](https://github.com/a7med3yad)
-- [TopTrenDev](https://github.com/TopTrenDev)
-- [SallySims](https://github.com/SallySims)
-- [ogzugru](https://github.com/ogzugru)
 
 ## ⭐ Recent stars
 
-- [JamesSedlacek/Scrumdinger](https://github.com/JamesSedlacek/Scrumdinger) - A rebuild of Apple’s “Scrumdinger” application using modern, best practices for SwiftUI development. (today)
-- [JamesSedlacek/OnboardingKit](https://github.com/JamesSedlacek/OnboardingKit) - SwiftUI library for handling onboarding (today)
-- [JamesSedlacek/Routing](https://github.com/JamesSedlacek/Routing) - SwiftUI library for abstracting navigation logic from views (today)
-- [shobhakartiwari/iOS_Lead_Interview](https://github.com/shobhakartiwari/iOS_Lead_Interview) - This readme file is helpful for people who is preparing for iOS Interview onsite roles (today)
-- [omerfarukozturk/UIView-Shimmer](https://github.com/omerfarukozturk/UIView-Shimmer) - Easy way to apply fancy Shimmer effect to any UIView element for iOS applications using Core Animation. (today)
+- [Omiknight/Daily](https://github.com/Omiknight/Daily) - Daily is a content collection Android client, base on Material Design + MVP + RxJava + Retrofit . (today)
+- [zhangsuya/SYStickHeaderWaterFall](https://github.com/zhangsuya/SYStickHeaderWaterFall) - Help you easily complete UICollectionView layout such as waterfalls flow and the header to stay and so on (today)
+- [jaxony/unet-pytorch](https://github.com/jaxony/unet-pytorch) - U-Net implementation for PyTorch based on https://arxiv.org/abs/1505.04597 (today)
+- [jaxony/ShuffleNet](https://github.com/jaxony/ShuffleNet) - ShuffleNet in PyTorch. Based on https://arxiv.org/abs/1707.01083 (today)
+- [MortenGregersen/Bagbutik](https://github.com/MortenGregersen/Bagbutik) - Generated Swift code for the App Store Connect API based on the official OpenAPI spec. (today)
 
 ## 🔨 Latest Pull Requests I published
 
