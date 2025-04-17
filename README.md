@@ -41,24 +41,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [larbi-asmaoui](https://github.com/larbi-asmaoui)
+- [pankajsondagar07](https://github.com/pankajsondagar07)
+- [Yashraghava](https://github.com/Yashraghava)
+- [anth1y](https://github.com/anth1y)
 - [wdaoz](https://github.com/wdaoz)
 - [chase6305](https://github.com/chase6305)
 - [simasgrilo](https://github.com/simasgrilo)
 - [JohnPaulinePineda](https://github.com/JohnPaulinePineda)
 - [namesarnav](https://github.com/namesarnav)
 - [isaqueDaSilva](https://github.com/isaqueDaSilva)
-- [FGMatias](https://github.com/FGMatias)
-- [lebrony](https://github.com/lebrony)
-- [Charbotte-hub](https://github.com/Charbotte-hub)
-- [a7med3yad](https://github.com/a7med3yad)
 
 ## ⭐ Recent stars
 
-- [Omiknight/Daily](https://github.com/Omiknight/Daily) - Daily is a content collection Android client, base on Material Design + MVP + RxJava + Retrofit . (today)
-- [zhangsuya/SYStickHeaderWaterFall](https://github.com/zhangsuya/SYStickHeaderWaterFall) - Help you easily complete UICollectionView layout such as waterfalls flow and the header to stay and so on (today)
-- [jaxony/unet-pytorch](https://github.com/jaxony/unet-pytorch) - U-Net implementation for PyTorch based on https://arxiv.org/abs/1505.04597 (today)
-- [jaxony/ShuffleNet](https://github.com/jaxony/ShuffleNet) - ShuffleNet in PyTorch. Based on https://arxiv.org/abs/1707.01083 (today)
-- [MortenGregersen/Bagbutik](https://github.com/MortenGregersen/Bagbutik) - Generated Swift code for the App Store Connect API based on the official OpenAPI spec. (today)
+- [arafatkatze/DataViz](https://github.com/arafatkatze/DataViz) - Build and Visualize data structures in Golang (today)
+- [ruromgar/python-ai-trading-system](https://github.com/ruromgar/python-ai-trading-system) - Code for How To Create A Fully Automated AI Based Trading System With Python (today)
+- [iSapozhnik/NavigationMenu](https://github.com/iSapozhnik/NavigationMenu) - [DEPRECATED] Objective-C component that adds menu to the navigation bar (today)
+- [iSapozhnik/Haptico](https://github.com/iSapozhnik/Haptico) - Haptico 📳 - easy to use haptic feedback generator with pattern-play support (today)
+- [ptsteadman/hexo-theme-corporate](https://github.com/ptsteadman/hexo-theme-corporate) - A professional Hexo theme based on Metronic's "Corporate Frontend" framework. (today)
 
 ## 🔨 Latest Pull Requests I published
 
