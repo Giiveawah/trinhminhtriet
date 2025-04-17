@@ -41,16 +41,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [zakocord](https://github.com/zakocord)
+- [hkousar-hub](https://github.com/hkousar-hub)
+- [Ananddd06](https://github.com/Ananddd06)
+- [vahidirp](https://github.com/vahidirp)
+- [the-duckchild](https://github.com/the-duckchild)
 - [walidmabrouk](https://github.com/walidmabrouk)
 - [glbitstar](https://github.com/glbitstar)
 - [Qurbonov2008](https://github.com/Qurbonov2008)
 - [NguyenTri996](https://github.com/NguyenTri996)
 - [KHC2003](https://github.com/KHC2003)
-- [sandeepleel](https://github.com/sandeepleel)
-- [surmonter2025](https://github.com/surmonter2025)
-- [Developerdavido](https://github.com/Developerdavido)
-- [APltone141](https://github.com/APltone141)
-- [root-ali](https://github.com/root-ali)
 
 ## ⭐ Recent stars
 
