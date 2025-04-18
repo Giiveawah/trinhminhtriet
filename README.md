@@ -28,19 +28,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 day ago)
 - [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (1 day ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 day ago)
 - [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (5 days ago)
-- [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers' stats and energy usage with Intel RAPL support, built for efficiency! (5 days ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (5 days ago)
+- [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers' stats and energy usage with Intel RAPL support, built for efficiency! (5 days ago)
+- [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (6 days ago)
 - [trinhminhtriet/a-star-search](https://github.com/trinhminhtriet/a-star-search) - A* (A-star) algorithm is a widely used graph traversal and pathfinding algorithm known for its completeness, optimality, and efficiency. (6 days ago)
 - [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (6 days ago)
-- [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (6 days ago)
 - [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (1 week ago)
 - [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (1 week ago)
 
 ## 👯 Check out my recent followers
 
+- [legendy4141](https://github.com/legendy4141)
 - [Dev-IvanNumpaque](https://github.com/Dev-IvanNumpaque)
 - [ValenCalog](https://github.com/ValenCalog)
 - [rubenramirezweb](https://github.com/rubenramirezweb)
@@ -50,15 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [4tw4r](https://github.com/4tw4r)
 - [Ladoi](https://github.com/Ladoi)
 - [ChopperNakama](https://github.com/ChopperNakama)
-- [JuanPE44](https://github.com/JuanPE44)
 
 ## ⭐ Recent stars
 
-- [Ondrik8/RED-Team](https://github.com/Ondrik8/RED-Team) (today)
-- [Ondrik8/byPass_AV](https://github.com/Ondrik8/byPass_AV) (today)
-- [tom0li/collection-document](https://github.com/tom0li/collection-document) - Collection of quality safety articles. Awesome articles.   (today)
-- [leftp/DPAPISnoop](https://github.com/leftp/DPAPISnoop) - A C# tool to output crackable DPAPI hashes from user MasterKeys (today)
-- [leftp/VmdkReader](https://github.com/leftp/VmdkReader) - .NET 4.0 Console App to browse VMDK / VHD images and extract files (today)
+- [Palleas/NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device. (today)
+- [kaka-lin/object-detection](https://github.com/kaka-lin/object-detection) - Object detection with ssd_mobilenet and tiny-yolo (Add: YOLOv3, tflite) (today)
+- [martysweet/cfn-lint](https://github.com/martysweet/cfn-lint) - A CloudFormation JSON and YAML Validator (today)
+- [aleDsz/elixir4noobs](https://github.com/aleDsz/elixir4noobs) - Aquele repo para você se tornar um alquimista também ;) (today)
+- [NyDubh3/AnonymousSMBServer](https://github.com/NyDubh3/AnonymousSMBServer) - 一个能快速开启和关闭匿名SMB共享的红队脚本 (today)
 
 ## 🔨 Latest Pull Requests I published
 
