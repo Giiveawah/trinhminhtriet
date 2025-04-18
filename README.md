@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mostaphaelansari](https://github.com/mostaphaelansari)
+- [Gabrieliam42](https://github.com/Gabrieliam42)
 - [kushuh](https://github.com/kushuh)
 - [ripderek](https://github.com/ripderek)
 - [itzhoman](https://github.com/itzhoman)
@@ -49,8 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Efeckc17](https://github.com/Efeckc17)
 - [TheEAMG](https://github.com/TheEAMG)
 - [andresryes](https://github.com/andresryes)
-- [I-am-abdulazeez](https://github.com/I-am-abdulazeez)
-- [xCompac](https://github.com/xCompac)
 
 ## ⭐ Recent stars
 
