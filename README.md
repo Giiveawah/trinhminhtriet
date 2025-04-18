@@ -54,11 +54,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [hbelmiro/100DaysOfJava](https://github.com/hbelmiro/100DaysOfJava) - Small pieces of Java content on my social media every day for a hundred days. Learn with short code snippets. (today)
-- [gsamokovarov/break](https://github.com/gsamokovarov/break) - Lightweight Ruby debugger! ⚡️ (today)
-- [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️ (today)
-- [zt2/uncover-turbo](https://github.com/zt2/uncover-turbo) - 一个简单的测绘引擎巴别塔 (today)
-- [zt2/sqli-hunter](https://github.com/zt2/sqli-hunter) - SQLi-Hunter is a simple HTTP / HTTPS proxy server and a SQLMAP API wrapper that makes digging SQLi easy. (today)
+- [robertjoosten/maya-transfer-blend-shape](https://github.com/robertjoosten/maya-transfer-blend-shape) - Transfer your blend shapes between meshes with the same topology. (today)
+- [robertjoosten/video2mocap](https://github.com/robertjoosten/video2mocap) - Convert a video file to animated humanIK skeletons for Maya. (today)
+- [miccall/hexo-theme-Mic_Theme](https://github.com/miccall/hexo-theme-Mic_Theme) - hexo theme  (today)
+- [platers/unitunes](https://github.com/platers/unitunes) - A GUI and library to transfer, sync, and backup playlists on music streaming services (today)
+- [platers/MAL-Map](https://github.com/platers/MAL-Map) - Cluster and visualize relationships between anime on MyAnimeList (today)
 
 ## 🔨 Latest Pull Requests I published
 
