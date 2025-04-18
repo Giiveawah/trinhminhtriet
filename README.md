@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hope-423126](https://github.com/hope-423126)
 - [fawuzantech](https://github.com/fawuzantech)
 - [GreatHorse115](https://github.com/GreatHorse115)
 - [shayansalehi1381](https://github.com/shayansalehi1381)
@@ -50,7 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [troy1eighty2](https://github.com/troy1eighty2)
 - [swapnesh839](https://github.com/swapnesh839)
 - [jehmegh](https://github.com/jehmegh)
-- [Poryaei](https://github.com/Poryaei)
 
 ## ⭐ Recent stars
 
