@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Lazaroth93](https://github.com/Lazaroth93)
 - [satyavratgaur](https://github.com/satyavratgaur)
 - [rishugren03](https://github.com/rishugren03)
 - [shivamsaklani](https://github.com/shivamsaklani)
@@ -50,7 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [hope-423126](https://github.com/hope-423126)
 - [fawuzantech](https://github.com/fawuzantech)
 - [GreatHorse115](https://github.com/GreatHorse115)
-- [shayansalehi1381](https://github.com/shayansalehi1381)
 
 ## ⭐ Recent stars
 
