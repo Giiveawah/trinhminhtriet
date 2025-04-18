@@ -41,24 +41,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [wlsdks](https://github.com/wlsdks)
+- [Babbili](https://github.com/Babbili)
+- [troy1eighty2](https://github.com/troy1eighty2)
+- [swapnesh839](https://github.com/swapnesh839)
 - [jehmegh](https://github.com/jehmegh)
 - [Poryaei](https://github.com/Poryaei)
 - [elissamim](https://github.com/elissamim)
 - [bsprenger](https://github.com/bsprenger)
 - [SabinSnider](https://github.com/SabinSnider)
 - [Kushagrapuro](https://github.com/Kushagrapuro)
-- [AbdulRasak08](https://github.com/AbdulRasak08)
-- [dev-codflaw](https://github.com/dev-codflaw)
-- [taharma](https://github.com/taharma)
-- [gigidiva](https://github.com/gigidiva)
 
 ## ⭐ Recent stars
 
+- [XanderXu/HandVector](https://github.com/XanderXu/HandVector) - Match hand gesture for Apple Vision Pro, Test Hand Tracking on simulator (today)
+- [wenghengcong/BeeFun-Pro](https://github.com/wenghengcong/BeeFun-Pro) - Github client for iOS in Swift. (today)
+- [mholson/sthlmNordBeamerTheme](https://github.com/mholson/sthlmNordBeamerTheme) - sthlmNord is a LaTeX Beamer slide deck theme inspired by the arctic north blueish colour palette of Nord. The code base is HEAVILY influenced by hsrmbeamer and mtheme. WIP (today)
+- [anler/centered-window-mode](https://github.com/anler/centered-window-mode) - Keep your text centered when there's only one window. (today)
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio rebuilt from the ground up using Next.js 15, Tailwind, Supabase, and Framer Motion! Deployed on Vercel ▲ (today)
-- [JakeSidSmith/react-reorder](https://github.com/JakeSidSmith/react-reorder) - Drag & drop, touch enabled, reorderable / sortable list, React component (today)
-- [JakeSidSmith/react-fastclick](https://github.com/JakeSidSmith/react-fastclick) - Fast Touch Events for React (today)
-- [pauloo27/tuner](https://github.com/pauloo27/tuner) - 🎵 Search and Play songs from YouTube inside your terminal (today)
-- [StarCycle/EmbodiedAI-Reading-List-For-Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists) - It's not a list of papers, but a list of paper reading lists... (today)
 
 ## 🔨 Latest Pull Requests I published
 
