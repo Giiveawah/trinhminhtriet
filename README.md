@@ -41,24 +41,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [fawuzantech](https://github.com/fawuzantech)
+- [GreatHorse115](https://github.com/GreatHorse115)
+- [shayansalehi1381](https://github.com/shayansalehi1381)
+- [angrybee7](https://github.com/angrybee7)
 - [wlsdks](https://github.com/wlsdks)
 - [Babbili](https://github.com/Babbili)
 - [troy1eighty2](https://github.com/troy1eighty2)
 - [swapnesh839](https://github.com/swapnesh839)
 - [jehmegh](https://github.com/jehmegh)
 - [Poryaei](https://github.com/Poryaei)
-- [elissamim](https://github.com/elissamim)
-- [bsprenger](https://github.com/bsprenger)
-- [SabinSnider](https://github.com/SabinSnider)
-- [Kushagrapuro](https://github.com/Kushagrapuro)
 
 ## ⭐ Recent stars
 
-- [XanderXu/HandVector](https://github.com/XanderXu/HandVector) - Match hand gesture for Apple Vision Pro, Test Hand Tracking on simulator (today)
-- [wenghengcong/BeeFun-Pro](https://github.com/wenghengcong/BeeFun-Pro) - Github client for iOS in Swift. (today)
-- [mholson/sthlmNordBeamerTheme](https://github.com/mholson/sthlmNordBeamerTheme) - sthlmNord is a LaTeX Beamer slide deck theme inspired by the arctic north blueish colour palette of Nord. The code base is HEAVILY influenced by hsrmbeamer and mtheme. WIP (today)
-- [anler/centered-window-mode](https://github.com/anler/centered-window-mode) - Keep your text centered when there's only one window. (today)
-- [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio rebuilt from the ground up using Next.js 15, Tailwind, Supabase, and Framer Motion! Deployed on Vercel ▲ (today)
+- [rebeloper/NavigationKit](https://github.com/rebeloper/NavigationKit) - 🧭 SwiftUI navigation done right (today)
+- [xieweizhi/tubi_tv_flutter](https://github.com/xieweizhi/tubi_tv_flutter) - A movie app building with Flutter for fun. (today)
+- [shevakuilin/SKCalendarView](https://github.com/shevakuilin/SKCalendarView) - SKCalendarView是一个高可控性的日历基础组件，为了提高应用的自由度，默认只提供了日历部分的视图封装，但不涵盖切换月份按钮、年月分显示等非关键性控件，但请不要担心，SKCalendarView为你提供了多样性的API，你可以很轻松的拿到这些信息去展示在你自己的自定义控件中。不仅如此，SKCalendarView还为你封装了公历、农历、节假日以及中国24节气的核心算法，即使你觉得默认的视图并不合胃口，也可以直接快速的利用这套算法创造出一个全新的日历控件。最后，SKCalendarView还提供了一些简单的切换动画，如果你不喜欢它，可以忽略掉，用自己的，这里完全不会受到任何限制。 (today)
+- [aidevjoe/iOS-animation-collections](https://github.com/aidevjoe/iOS-animation-collections) - A very good collection of open source iOS animation libraries - 一个非常棒的iOS动画开源库集合 (today)
+- [aidevjoe/RxSwift-Tutorial](https://github.com/aidevjoe/RxSwift-Tutorial) - RxSwift 学习资料(学习教程、开源项目) (today)
 
 ## 🔨 Latest Pull Requests I published
 
