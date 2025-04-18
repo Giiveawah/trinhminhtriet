@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Angeldeveloper56](https://github.com/Angeldeveloper56)
+- [tanyuqian](https://github.com/tanyuqian)
+- [onitaiji4real](https://github.com/onitaiji4real)
 - [legendy4141](https://github.com/legendy4141)
 - [Dev-IvanNumpaque](https://github.com/Dev-IvanNumpaque)
 - [ValenCalog](https://github.com/ValenCalog)
@@ -48,17 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Coocit](https://github.com/Coocit)
 - [wuqiuche](https://github.com/wuqiuche)
 - [k34n4y138](https://github.com/k34n4y138)
-- [4tw4r](https://github.com/4tw4r)
-- [Ladoi](https://github.com/Ladoi)
-- [ChopperNakama](https://github.com/ChopperNakama)
 
 ## ⭐ Recent stars
 
-- [Palleas/NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device. (today)
-- [kaka-lin/object-detection](https://github.com/kaka-lin/object-detection) - Object detection with ssd_mobilenet and tiny-yolo (Add: YOLOv3, tflite) (today)
-- [martysweet/cfn-lint](https://github.com/martysweet/cfn-lint) - A CloudFormation JSON and YAML Validator (today)
-- [aleDsz/elixir4noobs](https://github.com/aleDsz/elixir4noobs) - Aquele repo para você se tornar um alquimista também ;) (today)
-- [NyDubh3/AnonymousSMBServer](https://github.com/NyDubh3/AnonymousSMBServer) - 一个能快速开启和关闭匿名SMB共享的红队脚本 (today)
+- [gsamokovarov/break](https://github.com/gsamokovarov/break) - Lightweight Ruby debugger! ⚡️ (today)
+- [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️ (today)
+- [zt2/uncover-turbo](https://github.com/zt2/uncover-turbo) - 一个简单的测绘引擎巴别塔 (today)
+- [zt2/sqli-hunter](https://github.com/zt2/sqli-hunter) - SQLi-Hunter is a simple HTTP / HTTPS proxy server and a SQLMAP API wrapper that makes digging SQLi easy. (today)
+- [scottt2/design-patterns-in-dart](https://github.com/scottt2/design-patterns-in-dart) - Gang of Four (GOF) design patterns implemented in Dart. Contributions welcome! (today)
 
 ## 🔨 Latest Pull Requests I published
 
