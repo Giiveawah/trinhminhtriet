@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Kushagrapuro](https://github.com/Kushagrapuro)
+- [AbdulRasak08](https://github.com/AbdulRasak08)
+- [dev-codflaw](https://github.com/dev-codflaw)
 - [taharma](https://github.com/taharma)
 - [gigidiva](https://github.com/gigidiva)
 - [MikAoJk](https://github.com/MikAoJk)
@@ -48,17 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [TheCoder2010-create](https://github.com/TheCoder2010-create)
 - [Lmadrig3](https://github.com/Lmadrig3)
 - [Angeldeveloper56](https://github.com/Angeldeveloper56)
-- [tanyuqian](https://github.com/tanyuqian)
-- [onitaiji4real](https://github.com/onitaiji4real)
-- [legendy4141](https://github.com/legendy4141)
 
 ## ⭐ Recent stars
 
-- [robertjoosten/maya-transfer-blend-shape](https://github.com/robertjoosten/maya-transfer-blend-shape) - Transfer your blend shapes between meshes with the same topology. (today)
-- [robertjoosten/video2mocap](https://github.com/robertjoosten/video2mocap) - Convert a video file to animated humanIK skeletons for Maya. (today)
-- [miccall/hexo-theme-Mic_Theme](https://github.com/miccall/hexo-theme-Mic_Theme) - hexo theme  (today)
-- [platers/unitunes](https://github.com/platers/unitunes) - A GUI and library to transfer, sync, and backup playlists on music streaming services (today)
-- [platers/MAL-Map](https://github.com/platers/MAL-Map) - Cluster and visualize relationships between anime on MyAnimeList (today)
+- [pauloo27/tuner](https://github.com/pauloo27/tuner) - 🎵 Search and Play songs from YouTube inside your terminal (today)
+- [StarCycle/EmbodiedAI-Reading-List-For-Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists) - It's not a list of papers, but a list of paper reading lists... (today)
+- [StarCycle/Awesome-Embodied-AI-Job](https://github.com/StarCycle/Awesome-Embodied-AI-Job) - Lumina Robotics Talent Call | Lumina社区具身智能招贤榜 | A list for Embodied AI / Robotics Jobs (PhD, RA, intern, full-time, etc  (today)
+- [Tavish9/KANeRF](https://github.com/Tavish9/KANeRF) - KAN-based NeRF (today)
+- [moribots/motion_planning](https://github.com/moribots/motion_planning) - Motion Planning Library to accompany turtlebot3_from_scratch repository. Deployed PRM, Grid Map, A*, Theta*, LPA*, D* Lite*, Potential Field, and MPPI. (today)
 
 ## 🔨 Latest Pull Requests I published
 
