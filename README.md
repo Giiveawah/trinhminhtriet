@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ripderek](https://github.com/ripderek)
 - [itzhoman](https://github.com/itzhoman)
 - [HydraMi](https://github.com/HydraMi)
 - [BJ-dev0706](https://github.com/BJ-dev0706)
@@ -50,7 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [I-am-abdulazeez](https://github.com/I-am-abdulazeez)
 - [xCompac](https://github.com/xCompac)
 - [3nueves](https://github.com/3nueves)
-- [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani)
 
 ## ⭐ Recent stars
 
