@@ -41,16 +41,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [xCompac](https://github.com/xCompac)
+- [3nueves](https://github.com/3nueves)
+- [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani)
+- [JoseLucasapp](https://github.com/JoseLucasapp)
+- [coolsky85](https://github.com/coolsky85)
+- [viveksd87](https://github.com/viveksd87)
 - [Lazaroth93](https://github.com/Lazaroth93)
 - [satyavratgaur](https://github.com/satyavratgaur)
 - [rishugren03](https://github.com/rishugren03)
 - [shivamsaklani](https://github.com/shivamsaklani)
-- [Saffanakhan](https://github.com/Saffanakhan)
-- [veyselalevcan](https://github.com/veyselalevcan)
-- [toxy4ny](https://github.com/toxy4ny)
-- [hope-423126](https://github.com/hope-423126)
-- [fawuzantech](https://github.com/fawuzantech)
-- [GreatHorse115](https://github.com/GreatHorse115)
 
 ## ⭐ Recent stars
 
