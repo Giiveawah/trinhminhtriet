@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shivamsaklani](https://github.com/shivamsaklani)
+- [Saffanakhan](https://github.com/Saffanakhan)
+- [veyselalevcan](https://github.com/veyselalevcan)
 - [toxy4ny](https://github.com/toxy4ny)
 - [hope-423126](https://github.com/hope-423126)
 - [fawuzantech](https://github.com/fawuzantech)
@@ -48,9 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shayansalehi1381](https://github.com/shayansalehi1381)
 - [angrybee7](https://github.com/angrybee7)
 - [wlsdks](https://github.com/wlsdks)
-- [Babbili](https://github.com/Babbili)
-- [troy1eighty2](https://github.com/troy1eighty2)
-- [swapnesh839](https://github.com/swapnesh839)
 
 ## ⭐ Recent stars
 
