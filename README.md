@@ -41,24 +41,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [jehmegh](https://github.com/jehmegh)
+- [Poryaei](https://github.com/Poryaei)
+- [elissamim](https://github.com/elissamim)
+- [bsprenger](https://github.com/bsprenger)
+- [SabinSnider](https://github.com/SabinSnider)
 - [Kushagrapuro](https://github.com/Kushagrapuro)
 - [AbdulRasak08](https://github.com/AbdulRasak08)
 - [dev-codflaw](https://github.com/dev-codflaw)
 - [taharma](https://github.com/taharma)
 - [gigidiva](https://github.com/gigidiva)
-- [MikAoJk](https://github.com/MikAoJk)
-- [shh0211](https://github.com/shh0211)
-- [TheCoder2010-create](https://github.com/TheCoder2010-create)
-- [Lmadrig3](https://github.com/Lmadrig3)
-- [Angeldeveloper56](https://github.com/Angeldeveloper56)
 
 ## ⭐ Recent stars
 
+- [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio rebuilt from the ground up using Next.js 15, Tailwind, Supabase, and Framer Motion! Deployed on Vercel ▲ (today)
+- [JakeSidSmith/react-reorder](https://github.com/JakeSidSmith/react-reorder) - Drag & drop, touch enabled, reorderable / sortable list, React component (today)
+- [JakeSidSmith/react-fastclick](https://github.com/JakeSidSmith/react-fastclick) - Fast Touch Events for React (today)
 - [pauloo27/tuner](https://github.com/pauloo27/tuner) - 🎵 Search and Play songs from YouTube inside your terminal (today)
 - [StarCycle/EmbodiedAI-Reading-List-For-Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists) - It's not a list of papers, but a list of paper reading lists... (today)
-- [StarCycle/Awesome-Embodied-AI-Job](https://github.com/StarCycle/Awesome-Embodied-AI-Job) - Lumina Robotics Talent Call | Lumina社区具身智能招贤榜 | A list for Embodied AI / Robotics Jobs (PhD, RA, intern, full-time, etc  (today)
-- [Tavish9/KANeRF](https://github.com/Tavish9/KANeRF) - KAN-based NeRF (today)
-- [moribots/motion_planning](https://github.com/moribots/motion_planning) - Motion Planning Library to accompany turtlebot3_from_scratch repository. Deployed PRM, Grid Map, A*, Theta*, LPA*, D* Lite*, Potential Field, and MPPI. (today)
 
 ## 🔨 Latest Pull Requests I published
 
