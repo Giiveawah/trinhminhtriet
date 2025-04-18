@@ -41,16 +41,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [taharma](https://github.com/taharma)
+- [gigidiva](https://github.com/gigidiva)
+- [MikAoJk](https://github.com/MikAoJk)
+- [shh0211](https://github.com/shh0211)
 - [TheCoder2010-create](https://github.com/TheCoder2010-create)
 - [Lmadrig3](https://github.com/Lmadrig3)
 - [Angeldeveloper56](https://github.com/Angeldeveloper56)
 - [tanyuqian](https://github.com/tanyuqian)
 - [onitaiji4real](https://github.com/onitaiji4real)
 - [legendy4141](https://github.com/legendy4141)
-- [Dev-IvanNumpaque](https://github.com/Dev-IvanNumpaque)
-- [ValenCalog](https://github.com/ValenCalog)
-- [rubenramirezweb](https://github.com/rubenramirezweb)
-- [Coocit](https://github.com/Coocit)
 
 ## ⭐ Recent stars
 
