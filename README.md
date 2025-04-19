@@ -41,16 +41,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mrlongruoi](https://github.com/mrlongruoi)
+- [g4rcez](https://github.com/g4rcez)
+- [Nicolakorff](https://github.com/Nicolakorff)
+- [Aamirshazad](https://github.com/Aamirshazad)
 - [gaboramirezdev](https://github.com/gaboramirezdev)
 - [Resano96](https://github.com/Resano96)
 - [viethoang251004](https://github.com/viethoang251004)
 - [mux-mux](https://github.com/mux-mux)
 - [Remyapraveen](https://github.com/Remyapraveen)
 - [testitok](https://github.com/testitok)
-- [NandiMK1990](https://github.com/NandiMK1990)
-- [saja-massimi](https://github.com/saja-massimi)
-- [chetankumarpulipati](https://github.com/chetankumarpulipati)
-- [Zied91](https://github.com/Zied91)
 
 ## ⭐ Recent stars
 
