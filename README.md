@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [srikanth-paladugula](https://github.com/srikanth-paladugula)
 - [kohaku1907](https://github.com/kohaku1907)
 - [hungCS22hcmiu](https://github.com/hungCS22hcmiu)
 - [mrlongruoi](https://github.com/mrlongruoi)
@@ -50,7 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [gaboramirezdev](https://github.com/gaboramirezdev)
 - [Resano96](https://github.com/Resano96)
 - [viethoang251004](https://github.com/viethoang251004)
-- [mux-mux](https://github.com/mux-mux)
 
 ## ⭐ Recent stars
 
