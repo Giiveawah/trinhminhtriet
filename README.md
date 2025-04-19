@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mariusrugan](https://github.com/mariusrugan)
+- [mek1986](https://github.com/mek1986)
+- [LazaroAntonino](https://github.com/LazaroAntonino)
 - [911-carrera](https://github.com/911-carrera)
 - [nam-hle](https://github.com/nam-hle)
 - [djdll](https://github.com/djdll)
@@ -48,9 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MadB0i](https://github.com/MadB0i)
 - [UPVEX](https://github.com/UPVEX)
 - [toor-4](https://github.com/toor-4)
-- [satyamdas03](https://github.com/satyamdas03)
-- [ctp-eos](https://github.com/ctp-eos)
-- [x0rw](https://github.com/x0rw)
 
 ## ⭐ Recent stars
 
