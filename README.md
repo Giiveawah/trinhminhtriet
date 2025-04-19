@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [darth-sagar](https://github.com/darth-sagar)
+- [huynhbaoking112](https://github.com/huynhbaoking112)
+- [yermaka-a](https://github.com/yermaka-a)
 - [mariusrugan](https://github.com/mariusrugan)
 - [mek1986](https://github.com/mek1986)
 - [LazaroAntonino](https://github.com/LazaroAntonino)
@@ -48,9 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nam-hle](https://github.com/nam-hle)
 - [djdll](https://github.com/djdll)
 - [pvaswindas](https://github.com/pvaswindas)
-- [MadB0i](https://github.com/MadB0i)
-- [UPVEX](https://github.com/UPVEX)
-- [toor-4](https://github.com/toor-4)
 
 ## ⭐ Recent stars
 
