@@ -41,16 +41,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [911-carrera](https://github.com/911-carrera)
+- [nam-hle](https://github.com/nam-hle)
+- [djdll](https://github.com/djdll)
+- [pvaswindas](https://github.com/pvaswindas)
 - [MadB0i](https://github.com/MadB0i)
 - [UPVEX](https://github.com/UPVEX)
 - [toor-4](https://github.com/toor-4)
 - [satyamdas03](https://github.com/satyamdas03)
 - [ctp-eos](https://github.com/ctp-eos)
 - [x0rw](https://github.com/x0rw)
-- [HussainAther](https://github.com/HussainAther)
-- [NwogboPrince](https://github.com/NwogboPrince)
-- [py4rce](https://github.com/py4rce)
-- [mostaphaelansari](https://github.com/mostaphaelansari)
 
 ## ⭐ Recent stars
 
