@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [toor-4](https://github.com/toor-4)
 - [satyamdas03](https://github.com/satyamdas03)
 - [ctp-eos](https://github.com/ctp-eos)
 - [x0rw](https://github.com/x0rw)
@@ -50,15 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mostaphaelansari](https://github.com/mostaphaelansari)
 - [Gabrieliam42](https://github.com/Gabrieliam42)
 - [kushuh](https://github.com/kushuh)
-- [ripderek](https://github.com/ripderek)
 
 ## ⭐ Recent stars
 
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences (today)
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 (1 day ago)
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (1 day ago)
 - [rebeloper/NavigationKit](https://github.com/rebeloper/NavigationKit) - 🧭 SwiftUI navigation done right (1 day ago)
 - [xieweizhi/tubi_tv_flutter](https://github.com/xieweizhi/tubi_tv_flutter) - A movie app building with Flutter for fun. (1 day ago)
-- [shevakuilin/SKCalendarView](https://github.com/shevakuilin/SKCalendarView) - SKCalendarView是一个高可控性的日历基础组件，为了提高应用的自由度，默认只提供了日历部分的视图封装，但不涵盖切换月份按钮、年月分显示等非关键性控件，但请不要担心，SKCalendarView为你提供了多样性的API，你可以很轻松的拿到这些信息去展示在你自己的自定义控件中。不仅如此，SKCalendarView还为你封装了公历、农历、节假日以及中国24节气的核心算法，即使你觉得默认的视图并不合胃口，也可以直接快速的利用这套算法创造出一个全新的日历控件。最后，SKCalendarView还提供了一些简单的切换动画，如果你不喜欢它，可以忽略掉，用自己的，这里完全不会受到任何限制。 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
