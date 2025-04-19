@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mux-mux](https://github.com/mux-mux)
+- [Remyapraveen](https://github.com/Remyapraveen)
+- [testitok](https://github.com/testitok)
 - [NandiMK1990](https://github.com/NandiMK1990)
 - [saja-massimi](https://github.com/saja-massimi)
 - [chetankumarpulipati](https://github.com/chetankumarpulipati)
@@ -48,9 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Devserk](https://github.com/Devserk)
 - [imanbakhtiari](https://github.com/imanbakhtiari)
 - [bengo501](https://github.com/bengo501)
-- [Devon35K](https://github.com/Devon35K)
-- [darth-sagar](https://github.com/darth-sagar)
-- [huynhbaoking112](https://github.com/huynhbaoking112)
 
 ## ⭐ Recent stars
 
