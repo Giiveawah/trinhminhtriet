@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [joao-sillva](https://github.com/joao-sillva)
 - [M1ndSmith](https://github.com/M1ndSmith)
 - [vBlackOut](https://github.com/vBlackOut)
 - [ezakariaa](https://github.com/ezakariaa)
@@ -50,7 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mrlongruoi](https://github.com/mrlongruoi)
 - [g4rcez](https://github.com/g4rcez)
 - [Nicolakorff](https://github.com/Nicolakorff)
-- [Aamirshazad](https://github.com/Aamirshazad)
 
 ## ⭐ Recent stars
 
