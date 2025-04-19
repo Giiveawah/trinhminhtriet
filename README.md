@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ctp-eos](https://github.com/ctp-eos)
+- [x0rw](https://github.com/x0rw)
 - [HussainAther](https://github.com/HussainAther)
 - [NwogboPrince](https://github.com/NwogboPrince)
 - [py4rce](https://github.com/py4rce)
@@ -49,8 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [kushuh](https://github.com/kushuh)
 - [ripderek](https://github.com/ripderek)
 - [itzhoman](https://github.com/itzhoman)
-- [HydraMi](https://github.com/HydraMi)
-- [BJ-dev0706](https://github.com/BJ-dev0706)
 
 ## ⭐ Recent stars
 
