@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [vintagewang](https://github.com/vintagewang)
 - [Ahmed-Boga](https://github.com/Ahmed-Boga)
 - [wguilherme](https://github.com/wguilherme)
 - [2024yuva](https://github.com/2024yuva)
@@ -50,7 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [joao-sillva](https://github.com/joao-sillva)
 - [M1ndSmith](https://github.com/M1ndSmith)
 - [vBlackOut](https://github.com/vBlackOut)
-- [ezakariaa](https://github.com/ezakariaa)
 
 ## ⭐ Recent stars
 
