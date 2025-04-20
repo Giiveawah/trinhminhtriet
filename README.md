@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [eddive0v0](https://github.com/eddive0v0)
 - [mooncitydev](https://github.com/mooncitydev)
 - [vintagewang](https://github.com/vintagewang)
 - [Ahmed-Boga](https://github.com/Ahmed-Boga)
@@ -50,7 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BasharTaha06](https://github.com/BasharTaha06)
 - [Buffden](https://github.com/Buffden)
 - [joao-sillva](https://github.com/joao-sillva)
-- [M1ndSmith](https://github.com/M1ndSmith)
 
 ## ⭐ Recent stars
 
