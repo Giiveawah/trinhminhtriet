@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [dawitkebede123](https://github.com/dawitkebede123)
+- [mianmuhammadse](https://github.com/mianmuhammadse)
 - [ssrpsx](https://github.com/ssrpsx)
 - [codingcat40](https://github.com/codingcat40)
 - [Ruddernation-Designs](https://github.com/Ruddernation-Designs)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [anudeeps352](https://github.com/anudeeps352)
 - [bhza](https://github.com/bhza)
 - [Dav-Ayaro](https://github.com/Dav-Ayaro)
-- [ZainGS](https://github.com/ZainGS)
-- [michele-tn](https://github.com/michele-tn)
 
 ## ⭐ Recent stars
 
