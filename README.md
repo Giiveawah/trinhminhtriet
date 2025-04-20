@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ssrpsx](https://github.com/ssrpsx)
+- [codingcat40](https://github.com/codingcat40)
+- [Ruddernation-Designs](https://github.com/Ruddernation-Designs)
+- [Navin2k4](https://github.com/Navin2k4)
+- [ArchieDev242](https://github.com/ArchieDev242)
+- [anudeeps352](https://github.com/anudeeps352)
+- [bhza](https://github.com/bhza)
+- [Dav-Ayaro](https://github.com/Dav-Ayaro)
 - [ZainGS](https://github.com/ZainGS)
 - [michele-tn](https://github.com/michele-tn)
-- [anhnt02hp](https://github.com/anhnt02hp)
-- [ngantrandev](https://github.com/ngantrandev)
-- [mrk-97](https://github.com/mrk-97)
-- [khaled-dev](https://github.com/khaled-dev)
-- [dukechill](https://github.com/dukechill)
-- [isamytanaka](https://github.com/isamytanaka)
-- [kareemtarekK](https://github.com/kareemtarekK)
-- [ritikesh11052000](https://github.com/ritikesh11052000)
 
 ## ⭐ Recent stars
 
