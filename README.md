@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [govind527](https://github.com/govind527)
+- [DilysT](https://github.com/DilysT)
+- [Payback159](https://github.com/Payback159)
 - [vicktor9450](https://github.com/vicktor9450)
 - [Miraj-Rahman-AI](https://github.com/Miraj-Rahman-AI)
 - [itllsendamsg](https://github.com/itllsendamsg)
@@ -48,17 +51,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [A-Oez](https://github.com/A-Oez)
 - [infomotin](https://github.com/infomotin)
 - [Bridgetamana](https://github.com/Bridgetamana)
-- [ajaysehwal](https://github.com/ajaysehwal)
-- [khan678911](https://github.com/khan678911)
-- [yu-heejin](https://github.com/yu-heejin)
 
 ## ⭐ Recent stars
 
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (today)
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (today)
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (today)
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (today)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
