@@ -41,6 +41,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ahmed-Boga](https://github.com/Ahmed-Boga)
+- [wguilherme](https://github.com/wguilherme)
+- [2024yuva](https://github.com/2024yuva)
 - [d7prasad89](https://github.com/d7prasad89)
 - [BasharTaha06](https://github.com/BasharTaha06)
 - [Buffden](https://github.com/Buffden)
@@ -48,9 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [M1ndSmith](https://github.com/M1ndSmith)
 - [vBlackOut](https://github.com/vBlackOut)
 - [ezakariaa](https://github.com/ezakariaa)
-- [srikanth-paladugula](https://github.com/srikanth-paladugula)
-- [kohaku1907](https://github.com/kohaku1907)
-- [hungCS22hcmiu](https://github.com/hungCS22hcmiu)
 
 ## ⭐ Recent stars
 
