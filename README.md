@@ -41,24 +41,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [infomotin](https://github.com/infomotin)
+- [Bridgetamana](https://github.com/Bridgetamana)
+- [ajaysehwal](https://github.com/ajaysehwal)
+- [khan678911](https://github.com/khan678911)
 - [yu-heejin](https://github.com/yu-heejin)
 - [Daniel-Sogbey](https://github.com/Daniel-Sogbey)
 - [Abubacker07](https://github.com/Abubacker07)
 - [hkhairy](https://github.com/hkhairy)
 - [eddive0v0](https://github.com/eddive0v0)
 - [mooncitydev](https://github.com/mooncitydev)
-- [vintagewang](https://github.com/vintagewang)
-- [Ahmed-Boga](https://github.com/Ahmed-Boga)
-- [wguilherme](https://github.com/wguilherme)
-- [2024yuva](https://github.com/2024yuva)
 
 ## ⭐ Recent stars
 
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (today)
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (today)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences (1 day ago)
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 (2 days ago)
-- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
