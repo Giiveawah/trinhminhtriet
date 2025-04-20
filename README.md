@@ -41,6 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Alhaidra](https://github.com/Alhaidra)
+- [A-Oez](https://github.com/A-Oez)
 - [infomotin](https://github.com/infomotin)
 - [Bridgetamana](https://github.com/Bridgetamana)
 - [ajaysehwal](https://github.com/ajaysehwal)
@@ -49,8 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Daniel-Sogbey](https://github.com/Daniel-Sogbey)
 - [Abubacker07](https://github.com/Abubacker07)
 - [hkhairy](https://github.com/hkhairy)
-- [eddive0v0](https://github.com/eddive0v0)
-- [mooncitydev](https://github.com/mooncitydev)
 
 ## ⭐ Recent stars
 
