@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ngantrandev](https://github.com/ngantrandev)
 - [mrk-97](https://github.com/mrk-97)
 - [khaled-dev](https://github.com/khaled-dev)
 - [dukechill](https://github.com/dukechill)
@@ -50,7 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [govind527](https://github.com/govind527)
 - [DilysT](https://github.com/DilysT)
 - [Payback159](https://github.com/Payback159)
-- [vicktor9450](https://github.com/vicktor9450)
 
 ## ⭐ Recent stars
 
