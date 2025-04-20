@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Bu-Du-Dak](https://github.com/Bu-Du-Dak)
+- [MatinGhanbari](https://github.com/MatinGhanbari)
+- [imaun](https://github.com/imaun)
 - [pranaytelukuntla](https://github.com/pranaytelukuntla)
 - [MohamedEl-naagar](https://github.com/MohamedEl-naagar)
 - [dawitkebede123](https://github.com/dawitkebede123)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ssrpsx](https://github.com/ssrpsx)
 - [codingcat40](https://github.com/codingcat40)
 - [Ruddernation-Designs](https://github.com/Ruddernation-Designs)
-- [Navin2k4](https://github.com/Navin2k4)
-- [ArchieDev242](https://github.com/ArchieDev242)
-- [anudeeps352](https://github.com/anudeeps352)
 
 ## ⭐ Recent stars
 
