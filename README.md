@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [pranaytelukuntla](https://github.com/pranaytelukuntla)
+- [MohamedEl-naagar](https://github.com/MohamedEl-naagar)
 - [dawitkebede123](https://github.com/dawitkebede123)
 - [mianmuhammadse](https://github.com/mianmuhammadse)
 - [ssrpsx](https://github.com/ssrpsx)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Navin2k4](https://github.com/Navin2k4)
 - [ArchieDev242](https://github.com/ArchieDev242)
 - [anudeeps352](https://github.com/anudeeps352)
-- [bhza](https://github.com/bhza)
-- [Dav-Ayaro](https://github.com/Dav-Ayaro)
 
 ## ⭐ Recent stars
 
