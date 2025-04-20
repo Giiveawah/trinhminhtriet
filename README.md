@@ -26,10 +26,6 @@ Love interacting with the community, sharing knowledge, and learning new things.
 I'm always excited to connect with fellow developers and tech enthusiasts! 
 Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) - don't forget to mention you found me through GitHub! 😊
 
-## 🛠️ Programming languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhminhtriet&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
-
 ## 👷 Check out what I'm currently working on
 
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (today)
@@ -45,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mrk-97](https://github.com/mrk-97)
 - [khaled-dev](https://github.com/khaled-dev)
 - [dukechill](https://github.com/dukechill)
 - [isamytanaka](https://github.com/isamytanaka)
@@ -54,7 +51,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DilysT](https://github.com/DilysT)
 - [Payback159](https://github.com/Payback159)
 - [vicktor9450](https://github.com/vicktor9450)
-- [Miraj-Rahman-AI](https://github.com/Miraj-Rahman-AI)
 
 ## ⭐ Recent stars
 
