@@ -26,21 +26,28 @@ Love interacting with the community, sharing knowledge, and learning new things.
 I'm always excited to connect with fellow developers and tech enthusiasts! 
 Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) - don't forget to mention you found me through GitHub! 😊
 
+## 🛠️ Programming languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhminhtriet&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
+
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (today)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (3 days ago)
+- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (today)
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (3 days ago)
-- [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (1 week ago)
+- [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (3 days ago)
 - [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers' stats and energy usage with Intel RAPL support, built for efficiency! (1 week ago)
+- [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (1 week ago)
 - [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (1 week ago)
 - [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (1 week ago)
 - [trinhminhtriet/a-star-search](https://github.com/trinhminhtriet/a-star-search) - A* (A-star) algorithm is a widely used graph traversal and pathfinding algorithm known for its completeness, optimality, and efficiency. (1 week ago)
-- [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (1 week ago)
+- [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (1 week ago)
 
 ## 👯 Check out my recent followers
 
+- [ZainGS](https://github.com/ZainGS)
+- [michele-tn](https://github.com/michele-tn)
+- [anhnt02hp](https://github.com/anhnt02hp)
 - [ngantrandev](https://github.com/ngantrandev)
 - [mrk-97](https://github.com/mrk-97)
 - [khaled-dev](https://github.com/khaled-dev)
@@ -48,9 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [isamytanaka](https://github.com/isamytanaka)
 - [kareemtarekK](https://github.com/kareemtarekK)
 - [ritikesh11052000](https://github.com/ritikesh11052000)
-- [govind527](https://github.com/govind527)
-- [DilysT](https://github.com/DilysT)
-- [Payback159](https://github.com/Payback159)
 
 ## ⭐ Recent stars
 
