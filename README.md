@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [abrusu-collins](https://github.com/abrusu-collins)
+- [v1jayxz](https://github.com/v1jayxz)
 - [howdoor](https://github.com/howdoor)
 - [Abra7am](https://github.com/Abra7am)
 - [tawbazf](https://github.com/tawbazf)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Mobinafshari](https://github.com/Mobinafshari)
 - [GoncaloMark](https://github.com/GoncaloMark)
 - [Koopa0](https://github.com/Koopa0)
-- [gremlinwild](https://github.com/gremlinwild)
-- [Nirmalkumarofllll](https://github.com/Nirmalkumarofllll)
 
 ## ⭐ Recent stars
 
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (today)
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (today)
 - [jakartaee/common-annotations-api](https://github.com/jakartaee/common-annotations-api) - Jakarta Annotations (today)
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (1 day ago)
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (1 day ago)
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
