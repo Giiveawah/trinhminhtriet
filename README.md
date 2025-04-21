@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Mobinafshari](https://github.com/Mobinafshari)
+- [GoncaloMark](https://github.com/GoncaloMark)
+- [Koopa0](https://github.com/Koopa0)
+- [gremlinwild](https://github.com/gremlinwild)
+- [Nirmalkumarofllll](https://github.com/Nirmalkumarofllll)
 - [amirMshakouri](https://github.com/amirMshakouri)
 - [jkingz](https://github.com/jkingz)
 - [zawminhein](https://github.com/zawminhein)
 - [WeiHen01](https://github.com/WeiHen01)
 - [rheech22](https://github.com/rheech22)
-- [Sorivm](https://github.com/Sorivm)
-- [wh01s17](https://github.com/wh01s17)
-- [CappyT](https://github.com/CappyT)
-- [Nisreen24](https://github.com/Nisreen24)
-- [Bu-Du-Dak](https://github.com/Bu-Du-Dak)
 
 ## ⭐ Recent stars
 
