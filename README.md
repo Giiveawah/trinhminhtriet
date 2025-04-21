@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [atharvkadam11](https://github.com/atharvkadam11)
+- [mutuajames](https://github.com/mutuajames)
+- [Govi2020](https://github.com/Govi2020)
+- [RoystonDAlmeida](https://github.com/RoystonDAlmeida)
+- [Willmuseve](https://github.com/Willmuseve)
 - [devdarshan1495](https://github.com/devdarshan1495)
 - [DaFt-Oni](https://github.com/DaFt-Oni)
 - [stainless-nata](https://github.com/stainless-nata)
 - [Playfloor](https://github.com/Playfloor)
 - [lhybdv](https://github.com/lhybdv)
-- [autistic-helper](https://github.com/autistic-helper)
-- [rekren](https://github.com/rekren)
-- [abrusu-collins](https://github.com/abrusu-collins)
-- [v1jayxz](https://github.com/v1jayxz)
-- [howdoor](https://github.com/howdoor)
 
 ## ⭐ Recent stars
 
