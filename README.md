@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [WeiHen01](https://github.com/WeiHen01)
 - [rheech22](https://github.com/rheech22)
 - [Sorivm](https://github.com/Sorivm)
 - [wh01s17](https://github.com/wh01s17)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MatinGhanbari](https://github.com/MatinGhanbari)
 - [imaun](https://github.com/imaun)
 - [pranaytelukuntla](https://github.com/pranaytelukuntla)
-- [MohamedEl-naagar](https://github.com/MohamedEl-naagar)
 
 ## ⭐ Recent stars
 
