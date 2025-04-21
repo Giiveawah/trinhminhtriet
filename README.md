@@ -33,10 +33,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (today)
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (3 days ago)
-- [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (3 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 day ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (4 days ago)
+- [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (4 days ago)
 - [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers' stats and energy usage with Intel RAPL support, built for efficiency! (1 week ago)
 - [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (1 week ago)
 - [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (1 week ago)
@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [CappyT](https://github.com/CappyT)
+- [Nisreen24](https://github.com/Nisreen24)
 - [Bu-Du-Dak](https://github.com/Bu-Du-Dak)
 - [MatinGhanbari](https://github.com/MatinGhanbari)
 - [imaun](https://github.com/imaun)
@@ -54,21 +56,19 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dawitkebede123](https://github.com/dawitkebede123)
 - [mianmuhammadse](https://github.com/mianmuhammadse)
 - [ssrpsx](https://github.com/ssrpsx)
-- [codingcat40](https://github.com/codingcat40)
-- [Ruddernation-Designs](https://github.com/Ruddernation-Designs)
 
 ## ⭐ Recent stars
 
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (today)
-- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (today)
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (today)
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (today)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (1 day ago)
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (1 day ago)
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (1 day ago)
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (1 day ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Develop](https://github.com/trinhminhtriet/procx/pull/24) on [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) (1 week ago)
-- [Develop](https://github.com/trinhminhtriet/ftree/pull/8) on [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) (1 week ago)
+- [Develop](https://github.com/trinhminhtriet/procx/pull/24) on [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) (2 weeks ago)
+- [Develop](https://github.com/trinhminhtriet/ftree/pull/8) on [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) (2 weeks ago)
 - [Develop](https://github.com/trinhminhtriet/spiko/pull/13) on [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) (2 weeks ago)
 - [Develop](https://github.com/trinhminhtriet/spiko/pull/12) on [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) (2 weeks ago)
 - [Develop](https://github.com/trinhminhtriet/gitmgr/pull/39) on [trinhminhtriet/gitmgr](https://github.com/trinhminhtriet/gitmgr) (2 weeks ago)
