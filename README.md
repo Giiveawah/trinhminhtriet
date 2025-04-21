@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [devdarshan1495](https://github.com/devdarshan1495)
 - [DaFt-Oni](https://github.com/DaFt-Oni)
 - [stainless-nata](https://github.com/stainless-nata)
 - [Playfloor](https://github.com/Playfloor)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abrusu-collins](https://github.com/abrusu-collins)
 - [v1jayxz](https://github.com/v1jayxz)
 - [howdoor](https://github.com/howdoor)
-- [Abra7am](https://github.com/Abra7am)
 
 ## ⭐ Recent stars
 
