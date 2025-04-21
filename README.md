@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [tawbazf](https://github.com/tawbazf)
 - [yashyadurai](https://github.com/yashyadurai)
 - [NingQue0920](https://github.com/NingQue0920)
 - [Mobinafshari](https://github.com/Mobinafshari)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Nirmalkumarofllll](https://github.com/Nirmalkumarofllll)
 - [amirMshakouri](https://github.com/amirMshakouri)
 - [jkingz](https://github.com/jkingz)
-- [zawminhein](https://github.com/zawminhein)
 
 ## ⭐ Recent stars
 
