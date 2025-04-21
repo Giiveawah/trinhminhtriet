@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SyedMohammedSameer](https://github.com/SyedMohammedSameer)
+- [dnparadice](https://github.com/dnparadice)
+- [yzendour](https://github.com/yzendour)
 - [carolineloppi](https://github.com/carolineloppi)
 - [XxDrancerxX](https://github.com/XxDrancerxX)
 - [SeggyFault](https://github.com/SeggyFault)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nishantdecode](https://github.com/nishantdecode)
 - [xk0720](https://github.com/xk0720)
 - [fl334](https://github.com/fl334)
-- [atharvkadam11](https://github.com/atharvkadam11)
-- [mutuajames](https://github.com/mutuajames)
-- [Govi2020](https://github.com/Govi2020)
 
 ## ⭐ Recent stars
 
