@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ThanhVui](https://github.com/ThanhVui)
+- [Zeeyed](https://github.com/Zeeyed)
+- [shumova](https://github.com/shumova)
 - [ivannissimrch](https://github.com/ivannissimrch)
 - [kshama-jain](https://github.com/kshama-jain)
 - [KingStar365](https://github.com/KingStar365)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [laurazero](https://github.com/laurazero)
 - [arnabb38](https://github.com/arnabb38)
 - [grmarag](https://github.com/grmarag)
-- [1500256797](https://github.com/1500256797)
-- [Natura-Sol](https://github.com/Natura-Sol)
-- [Dotan53](https://github.com/Dotan53)
 
 ## ⭐ Recent stars
 
