@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [baosub](https://github.com/baosub)
 - [Geo0703](https://github.com/Geo0703)
 - [dan0dev](https://github.com/dan0dev)
 - [SyedMohammedSameer](https://github.com/SyedMohammedSameer)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [XxDrancerxX](https://github.com/XxDrancerxX)
 - [SeggyFault](https://github.com/SeggyFault)
 - [rajatksoni](https://github.com/rajatksoni)
-- [nishantdecode](https://github.com/nishantdecode)
 
 ## ⭐ Recent stars
 
