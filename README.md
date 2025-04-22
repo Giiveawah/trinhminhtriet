@@ -33,11 +33,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (today)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
-- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 day ago)
-- [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (4 days ago)
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (4 days ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (2 days ago)
+- [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (5 days ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (5 days ago)
 - [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (1 week ago)
 - [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers' stats and energy usage with Intel RAPL support, built for efficiency! (1 week ago)
 - [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (1 week ago)
@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Geo0703](https://github.com/Geo0703)
+- [dan0dev](https://github.com/dan0dev)
 - [SyedMohammedSameer](https://github.com/SyedMohammedSameer)
 - [dnparadice](https://github.com/dnparadice)
 - [yzendour](https://github.com/yzendour)
@@ -54,20 +56,18 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SeggyFault](https://github.com/SeggyFault)
 - [rajatksoni](https://github.com/rajatksoni)
 - [nishantdecode](https://github.com/nishantdecode)
-- [xk0720](https://github.com/xk0720)
-- [fl334](https://github.com/fl334)
 
 ## ⭐ Recent stars
 
-- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (today)
-- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (today)
-- [jakartaee/common-annotations-api](https://github.com/jakartaee/common-annotations-api) - Jakarta Annotations (today)
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (1 day ago)
-- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (1 day ago)
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (1 day ago)
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (1 day ago)
+- [jakartaee/common-annotations-api](https://github.com/jakartaee/common-annotations-api) - Jakarta Annotations (1 day ago)
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (2 days ago)
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Develop](https://github.com/trinhminhtriet/blast/pull/13) on [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) (today)
+- [Develop](https://github.com/trinhminhtriet/blast/pull/13) on [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) (1 day ago)
 - [Develop](https://github.com/trinhminhtriet/procx/pull/24) on [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) (2 weeks ago)
 - [Develop](https://github.com/trinhminhtriet/ftree/pull/8) on [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) (2 weeks ago)
 - [Develop](https://github.com/trinhminhtriet/spiko/pull/13) on [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) (2 weeks ago)
