@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [angeldavidhurtado](https://github.com/angeldavidhurtado)
+- [likhitha281](https://github.com/likhitha281)
 - [sharma-dipika](https://github.com/sharma-dipika)
 - [ThanhVui](https://github.com/ThanhVui)
 - [Zeeyed](https://github.com/Zeeyed)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [kshama-jain](https://github.com/kshama-jain)
 - [KingStar365](https://github.com/KingStar365)
 - [aubynsamuel](https://github.com/aubynsamuel)
-- [laurazero](https://github.com/laurazero)
-- [arnabb38](https://github.com/arnabb38)
 
 ## ⭐ Recent stars
 
