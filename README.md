@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [arnabb38](https://github.com/arnabb38)
+- [grmarag](https://github.com/grmarag)
 - [1500256797](https://github.com/1500256797)
 - [Natura-Sol](https://github.com/Natura-Sol)
 - [Dotan53](https://github.com/Dotan53)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MeantwoBee](https://github.com/MeantwoBee)
 - [realib1](https://github.com/realib1)
 - [Thang0226](https://github.com/Thang0226)
-- [MorLavender](https://github.com/MorLavender)
-- [baosub](https://github.com/baosub)
 
 ## ⭐ Recent stars
 
