@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Natura-Sol](https://github.com/Natura-Sol)
 - [Dotan53](https://github.com/Dotan53)
 - [gilberto-009199](https://github.com/gilberto-009199)
 - [jericojuegos](https://github.com/jericojuegos)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MorLavender](https://github.com/MorLavender)
 - [baosub](https://github.com/baosub)
 - [Geo0703](https://github.com/Geo0703)
-- [dan0dev](https://github.com/dan0dev)
 
 ## ⭐ Recent stars
 
