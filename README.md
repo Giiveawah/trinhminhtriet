@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ivannissimrch](https://github.com/ivannissimrch)
+- [kshama-jain](https://github.com/kshama-jain)
+- [KingStar365](https://github.com/KingStar365)
+- [aubynsamuel](https://github.com/aubynsamuel)
+- [laurazero](https://github.com/laurazero)
 - [arnabb38](https://github.com/arnabb38)
 - [grmarag](https://github.com/grmarag)
 - [1500256797](https://github.com/1500256797)
 - [Natura-Sol](https://github.com/Natura-Sol)
 - [Dotan53](https://github.com/Dotan53)
-- [gilberto-009199](https://github.com/gilberto-009199)
-- [jericojuegos](https://github.com/jericojuegos)
-- [MeantwoBee](https://github.com/MeantwoBee)
-- [realib1](https://github.com/realib1)
-- [Thang0226](https://github.com/Thang0226)
 
 ## ⭐ Recent stars
 
