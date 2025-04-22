@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MeantwoBee](https://github.com/MeantwoBee)
+- [realib1](https://github.com/realib1)
+- [Thang0226](https://github.com/Thang0226)
+- [MorLavender](https://github.com/MorLavender)
 - [baosub](https://github.com/baosub)
 - [Geo0703](https://github.com/Geo0703)
 - [dan0dev](https://github.com/dan0dev)
 - [SyedMohammedSameer](https://github.com/SyedMohammedSameer)
 - [dnparadice](https://github.com/dnparadice)
 - [yzendour](https://github.com/yzendour)
-- [carolineloppi](https://github.com/carolineloppi)
-- [XxDrancerxX](https://github.com/XxDrancerxX)
-- [SeggyFault](https://github.com/SeggyFault)
-- [rajatksoni](https://github.com/rajatksoni)
 
 ## ⭐ Recent stars
 
