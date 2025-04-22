@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Dotan53](https://github.com/Dotan53)
+- [gilberto-009199](https://github.com/gilberto-009199)
+- [jericojuegos](https://github.com/jericojuegos)
 - [MeantwoBee](https://github.com/MeantwoBee)
 - [realib1](https://github.com/realib1)
 - [Thang0226](https://github.com/Thang0226)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [baosub](https://github.com/baosub)
 - [Geo0703](https://github.com/Geo0703)
 - [dan0dev](https://github.com/dan0dev)
-- [SyedMohammedSameer](https://github.com/SyedMohammedSameer)
-- [dnparadice](https://github.com/dnparadice)
-- [yzendour](https://github.com/yzendour)
 
 ## ⭐ Recent stars
 
