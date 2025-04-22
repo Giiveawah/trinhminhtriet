@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [angelmartz](https://github.com/angelmartz)
 - [mattracx](https://github.com/mattracx)
 - [karannaagar](https://github.com/karannaagar)
 - [brightdev124](https://github.com/brightdev124)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ThanhVui](https://github.com/ThanhVui)
 - [Zeeyed](https://github.com/Zeeyed)
 - [shumova](https://github.com/shumova)
-- [ivannissimrch](https://github.com/ivannissimrch)
 
 ## ⭐ Recent stars
 
