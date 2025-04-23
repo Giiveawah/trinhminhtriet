@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [orayachan](https://github.com/orayachan)
+- [gdubon8806](https://github.com/gdubon8806)
+- [fpalvim](https://github.com/fpalvim)
+- [itrapnauskas](https://github.com/itrapnauskas)
 - [Ashwin-stack2005](https://github.com/Ashwin-stack2005)
 - [m-Vefa21](https://github.com/m-Vefa21)
 - [eypsay](https://github.com/eypsay)
 - [Al-Mahmud0](https://github.com/Al-Mahmud0)
 - [okradsllim](https://github.com/okradsllim)
 - [Prateek-Servant-of-Prabhupadanugas](https://github.com/Prateek-Servant-of-Prabhupadanugas)
-- [ragibalasad](https://github.com/ragibalasad)
-- [Zundal](https://github.com/Zundal)
-- [JUNGHO-GIT](https://github.com/JUNGHO-GIT)
-- [Arthur0108](https://github.com/Arthur0108)
 
 ## ⭐ Recent stars
 
