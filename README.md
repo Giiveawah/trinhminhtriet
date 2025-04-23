@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Zundal](https://github.com/Zundal)
 - [JUNGHO-GIT](https://github.com/JUNGHO-GIT)
 - [Arthur0108](https://github.com/Arthur0108)
 - [Zer0-Bug](https://github.com/Zer0-Bug)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [red-outrunner](https://github.com/red-outrunner)
 - [icedmoca](https://github.com/icedmoca)
 - [zxdhiru](https://github.com/zxdhiru)
-- [Danee-624](https://github.com/Danee-624)
 
 ## ⭐ Recent stars
 
