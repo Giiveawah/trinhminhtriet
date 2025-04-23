@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [saleh-ghazimoradi](https://github.com/saleh-ghazimoradi)
+- [arktony](https://github.com/arktony)
 - [M1T4U](https://github.com/M1T4U)
 - [red-outrunner](https://github.com/red-outrunner)
 - [icedmoca](https://github.com/icedmoca)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ninjacoder0331](https://github.com/ninjacoder0331)
 - [tsang05](https://github.com/tsang05)
 - [mahdi-shi](https://github.com/mahdi-shi)
-- [TCcjx](https://github.com/TCcjx)
-- [Hirthuk](https://github.com/Hirthuk)
 
 ## ⭐ Recent stars
 
