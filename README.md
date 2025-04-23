@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [M1T4U](https://github.com/M1T4U)
+- [red-outrunner](https://github.com/red-outrunner)
 - [icedmoca](https://github.com/icedmoca)
 - [zxdhiru](https://github.com/zxdhiru)
 - [Danee-624](https://github.com/Danee-624)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mahdi-shi](https://github.com/mahdi-shi)
 - [TCcjx](https://github.com/TCcjx)
 - [Hirthuk](https://github.com/Hirthuk)
-- [YanMennella](https://github.com/YanMennella)
-- [oyerohabib](https://github.com/oyerohabib)
 
 ## ⭐ Recent stars
 
