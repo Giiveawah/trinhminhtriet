@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [icedmoca](https://github.com/icedmoca)
+- [zxdhiru](https://github.com/zxdhiru)
+- [Danee-624](https://github.com/Danee-624)
+- [ninjacoder0331](https://github.com/ninjacoder0331)
 - [tsang05](https://github.com/tsang05)
 - [mahdi-shi](https://github.com/mahdi-shi)
 - [TCcjx](https://github.com/TCcjx)
 - [Hirthuk](https://github.com/Hirthuk)
 - [YanMennella](https://github.com/YanMennella)
 - [oyerohabib](https://github.com/oyerohabib)
-- [leongraff](https://github.com/leongraff)
-- [GabrielNetSec](https://github.com/GabrielNetSec)
-- [mkarots](https://github.com/mkarots)
-- [ethdomperin2018](https://github.com/ethdomperin2018)
 
 ## ⭐ Recent stars
 
