@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [tsang05](https://github.com/tsang05)
+- [mahdi-shi](https://github.com/mahdi-shi)
+- [TCcjx](https://github.com/TCcjx)
 - [Hirthuk](https://github.com/Hirthuk)
 - [YanMennella](https://github.com/YanMennella)
 - [oyerohabib](https://github.com/oyerohabib)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [GabrielNetSec](https://github.com/GabrielNetSec)
 - [mkarots](https://github.com/mkarots)
 - [ethdomperin2018](https://github.com/ethdomperin2018)
-- [felipegringow](https://github.com/felipegringow)
-- [angelmartz](https://github.com/angelmartz)
-- [mattracx](https://github.com/mattracx)
 
 ## ⭐ Recent stars
 
