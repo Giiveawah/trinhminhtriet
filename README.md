@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [connormccarl](https://github.com/connormccarl)
+- [PatelVaishvikk](https://github.com/PatelVaishvikk)
 - [orayachan](https://github.com/orayachan)
 - [gdubon8806](https://github.com/gdubon8806)
 - [fpalvim](https://github.com/fpalvim)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [m-Vefa21](https://github.com/m-Vefa21)
 - [eypsay](https://github.com/eypsay)
 - [Al-Mahmud0](https://github.com/Al-Mahmud0)
-- [okradsllim](https://github.com/okradsllim)
-- [Prateek-Servant-of-Prabhupadanugas](https://github.com/Prateek-Servant-of-Prabhupadanugas)
 
 ## ⭐ Recent stars
 
