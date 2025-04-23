@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ashwin-stack2005](https://github.com/Ashwin-stack2005)
+- [m-Vefa21](https://github.com/m-Vefa21)
 - [eypsay](https://github.com/eypsay)
 - [Al-Mahmud0](https://github.com/Al-Mahmud0)
 - [okradsllim](https://github.com/okradsllim)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Zundal](https://github.com/Zundal)
 - [JUNGHO-GIT](https://github.com/JUNGHO-GIT)
 - [Arthur0108](https://github.com/Arthur0108)
-- [Zer0-Bug](https://github.com/Zer0-Bug)
-- [saleh-ghazimoradi](https://github.com/saleh-ghazimoradi)
 
 ## ⭐ Recent stars
 
+- [in28minutes/devops-master-class](https://github.com/in28minutes/devops-master-class) - Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops (today)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (2 days ago)
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (2 days ago)
 - [jakartaee/common-annotations-api](https://github.com/jakartaee/common-annotations-api) - Jakarta Annotations (2 days ago)
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (3 days ago)
-- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (3 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
