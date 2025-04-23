@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Hirthuk](https://github.com/Hirthuk)
 - [YanMennella](https://github.com/YanMennella)
 - [oyerohabib](https://github.com/oyerohabib)
 - [leongraff](https://github.com/leongraff)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [felipegringow](https://github.com/felipegringow)
 - [angelmartz](https://github.com/angelmartz)
 - [mattracx](https://github.com/mattracx)
-- [karannaagar](https://github.com/karannaagar)
 
 ## ⭐ Recent stars
 
