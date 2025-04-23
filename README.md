@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ismailehasan1](https://github.com/ismailehasan1)
+- [helixedra](https://github.com/helixedra)
 - [connormccarl](https://github.com/connormccarl)
 - [PatelVaishvikk](https://github.com/PatelVaishvikk)
 - [orayachan](https://github.com/orayachan)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [itrapnauskas](https://github.com/itrapnauskas)
 - [Ashwin-stack2005](https://github.com/Ashwin-stack2005)
 - [m-Vefa21](https://github.com/m-Vefa21)
-- [eypsay](https://github.com/eypsay)
-- [Al-Mahmud0](https://github.com/Al-Mahmud0)
 
 ## ⭐ Recent stars
 
