@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [okradsllim](https://github.com/okradsllim)
+- [Prateek-Servant-of-Prabhupadanugas](https://github.com/Prateek-Servant-of-Prabhupadanugas)
+- [ragibalasad](https://github.com/ragibalasad)
 - [Zundal](https://github.com/Zundal)
 - [JUNGHO-GIT](https://github.com/JUNGHO-GIT)
 - [Arthur0108](https://github.com/Arthur0108)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [saleh-ghazimoradi](https://github.com/saleh-ghazimoradi)
 - [arktony](https://github.com/arktony)
 - [M1T4U](https://github.com/M1T4U)
-- [red-outrunner](https://github.com/red-outrunner)
-- [icedmoca](https://github.com/icedmoca)
-- [zxdhiru](https://github.com/zxdhiru)
 
 ## ⭐ Recent stars
 
