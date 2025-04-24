@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Fbin243](https://github.com/Fbin243)
 - [arangelovv](https://github.com/arangelovv)
 - [AmblessedUche](https://github.com/AmblessedUche)
 - [StAl15](https://github.com/StAl15)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [LeeMoonki](https://github.com/LeeMoonki)
 - [A1doranM](https://github.com/A1doranM)
 - [MysticLovegood](https://github.com/MysticLovegood)
-- [lib4u](https://github.com/lib4u)
 
 ## ⭐ Recent stars
 
