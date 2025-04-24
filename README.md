@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [raman976](https://github.com/raman976)
+- [darkhorse374](https://github.com/darkhorse374)
+- [Cboy220](https://github.com/Cboy220)
+- [judempoyo](https://github.com/judempoyo)
+- [lancemnguyen](https://github.com/lancemnguyen)
+- [NikaRamin](https://github.com/NikaRamin)
 - [Fbin243](https://github.com/Fbin243)
 - [arangelovv](https://github.com/arangelovv)
 - [AmblessedUche](https://github.com/AmblessedUche)
 - [StAl15](https://github.com/StAl15)
-- [hanzla-sib](https://github.com/hanzla-sib)
-- [HUYVESEA0](https://github.com/HUYVESEA0)
-- [SerhiyTo](https://github.com/SerhiyTo)
-- [LeeMoonki](https://github.com/LeeMoonki)
-- [A1doranM](https://github.com/A1doranM)
-- [MysticLovegood](https://github.com/MysticLovegood)
 
 ## ⭐ Recent stars
 
+- [reviewboard/reviewboard](https://github.com/reviewboard/reviewboard) - An extensible and friendly code review tool for projects and companies of all sizes. (today)
 - [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc (today)
 - [in28minutes/devops-master-class](https://github.com/in28minutes/devops-master-class) - Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops (1 day ago)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (3 days ago)
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (3 days ago)
-- [jakartaee/common-annotations-api](https://github.com/jakartaee/common-annotations-api) - Jakarta Annotations (3 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
