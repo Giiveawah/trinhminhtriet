@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [javiiervm](https://github.com/javiiervm)
 - [bounceru](https://github.com/bounceru)
 - [AKJUS](https://github.com/AKJUS)
 - [Ak-ko](https://github.com/Ak-ko)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ekefan](https://github.com/ekefan)
 - [ismailehasan1](https://github.com/ismailehasan1)
 - [helixedra](https://github.com/helixedra)
-- [connormccarl](https://github.com/connormccarl)
 
 ## ⭐ Recent stars
 
