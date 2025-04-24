@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [seferogluemre](https://github.com/seferogluemre)
+- [msamirma](https://github.com/msamirma)
 - [raman976](https://github.com/raman976)
 - [darkhorse374](https://github.com/darkhorse374)
 - [Cboy220](https://github.com/Cboy220)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [NikaRamin](https://github.com/NikaRamin)
 - [Fbin243](https://github.com/Fbin243)
 - [arangelovv](https://github.com/arangelovv)
-- [AmblessedUche](https://github.com/AmblessedUche)
-- [StAl15](https://github.com/StAl15)
 
 ## ⭐ Recent stars
 
