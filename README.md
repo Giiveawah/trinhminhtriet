@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [StAl15](https://github.com/StAl15)
+- [hanzla-sib](https://github.com/hanzla-sib)
 - [HUYVESEA0](https://github.com/HUYVESEA0)
 - [SerhiyTo](https://github.com/SerhiyTo)
 - [LeeMoonki](https://github.com/LeeMoonki)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lib4u](https://github.com/lib4u)
 - [kennys-cs1105](https://github.com/kennys-cs1105)
 - [javiiervm](https://github.com/javiiervm)
-- [bounceru](https://github.com/bounceru)
-- [AKJUS](https://github.com/AKJUS)
 
 ## ⭐ Recent stars
 
