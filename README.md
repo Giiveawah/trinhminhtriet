@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [FeddericoGarcia](https://github.com/FeddericoGarcia)
+- [michal-majewski](https://github.com/michal-majewski)
 - [seferogluemre](https://github.com/seferogluemre)
 - [msamirma](https://github.com/msamirma)
 - [raman976](https://github.com/raman976)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [judempoyo](https://github.com/judempoyo)
 - [lancemnguyen](https://github.com/lancemnguyen)
 - [NikaRamin](https://github.com/NikaRamin)
-- [Fbin243](https://github.com/Fbin243)
-- [arangelovv](https://github.com/arangelovv)
 
 ## ⭐ Recent stars
 
