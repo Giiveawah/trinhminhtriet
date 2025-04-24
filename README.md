@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [birenpatel6](https://github.com/birenpatel6)
 - [FeddericoGarcia](https://github.com/FeddericoGarcia)
 - [michal-majewski](https://github.com/michal-majewski)
 - [seferogluemre](https://github.com/seferogluemre)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Cboy220](https://github.com/Cboy220)
 - [judempoyo](https://github.com/judempoyo)
 - [lancemnguyen](https://github.com/lancemnguyen)
-- [NikaRamin](https://github.com/NikaRamin)
 
 ## ⭐ Recent stars
 
