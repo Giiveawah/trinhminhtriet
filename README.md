@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [HUYVESEA0](https://github.com/HUYVESEA0)
 - [SerhiyTo](https://github.com/SerhiyTo)
 - [LeeMoonki](https://github.com/LeeMoonki)
 - [A1doranM](https://github.com/A1doranM)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [javiiervm](https://github.com/javiiervm)
 - [bounceru](https://github.com/bounceru)
 - [AKJUS](https://github.com/AKJUS)
-- [Ak-ko](https://github.com/Ak-ko)
 
 ## ⭐ Recent stars
 
