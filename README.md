@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [simobk34](https://github.com/simobk34)
 - [reejadev](https://github.com/reejadev)
 - [suzannaprze](https://github.com/suzannaprze)
 - [SergoVashakmadze](https://github.com/SergoVashakmadze)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [iamchaitanya7](https://github.com/iamchaitanya7)
 - [SudaisK19](https://github.com/SudaisK19)
 - [TheMan-Umar](https://github.com/TheMan-Umar)
-- [chaule97](https://github.com/chaule97)
 
 ## ⭐ Recent stars
 
