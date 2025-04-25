@@ -33,19 +33,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/cargo-kit](https://github.com/trinhminhtriet/cargo-kit) - Cargo subcommand to apply performance, compile-time, or size-optimized profiles and configs to your Rust project for enhanced build efficiency. (today)
+- [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (today)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (2 days ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (4 days ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (5 days ago)
 - [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (1 week ago)
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 week ago)
-- [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (1 week ago)
 - [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers' stats and energy usage with Intel RAPL support, built for efficiency! (1 week ago)
-- [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (1 week ago)
-- [trinhminhtriet/a-star-search](https://github.com/trinhminhtriet/a-star-search) - A* (A-star) algorithm is a widely used graph traversal and pathfinding algorithm known for its completeness, optimality, and efficiency. (1 week ago)
+- [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (1 week ago)
 
 ## 👯 Check out my recent followers
 
+- [suzannaprze](https://github.com/suzannaprze)
 - [SergoVashakmadze](https://github.com/SergoVashakmadze)
 - [reyrove](https://github.com/reyrove)
 - [abdelrahmanrageh](https://github.com/abdelrahmanrageh)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [TheMan-Umar](https://github.com/TheMan-Umar)
 - [chaule97](https://github.com/chaule97)
 - [eshwar275](https://github.com/eshwar275)
-- [siva222003](https://github.com/siva222003)
 
 ## ⭐ Recent stars
 
