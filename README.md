@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [huongnguyen1602](https://github.com/huongnguyen1602)
 - [MayankMaheshwar](https://github.com/MayankMaheshwar)
 - [thomasnynas12](https://github.com/thomasnynas12)
 - [sanzaru](https://github.com/sanzaru)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [marleynika03](https://github.com/marleynika03)
 - [aleamb](https://github.com/aleamb)
 - [DevShiba](https://github.com/DevShiba)
-- [birenpatel6](https://github.com/birenpatel6)
 
 ## ⭐ Recent stars
 
