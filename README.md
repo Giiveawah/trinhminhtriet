@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [siva222003](https://github.com/siva222003)
 - [Fbin243](https://github.com/Fbin243)
 - [pratik9818](https://github.com/pratik9818)
 - [Karthikeyanhimself](https://github.com/Karthikeyanhimself)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [thomasnynas12](https://github.com/thomasnynas12)
 - [sanzaru](https://github.com/sanzaru)
 - [jsadaa](https://github.com/jsadaa)
-- [dreamstreamerr](https://github.com/dreamstreamerr)
 
 ## ⭐ Recent stars
 
