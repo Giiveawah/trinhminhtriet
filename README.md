@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SudaisK19](https://github.com/SudaisK19)
 - [TheMan-Umar](https://github.com/TheMan-Umar)
 - [chaule97](https://github.com/chaule97)
 - [eshwar275](https://github.com/eshwar275)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Karthikeyanhimself](https://github.com/Karthikeyanhimself)
 - [abrahem79](https://github.com/abrahem79)
 - [huongnguyen1602](https://github.com/huongnguyen1602)
-- [MayankMaheshwar](https://github.com/MayankMaheshwar)
 
 ## ⭐ Recent stars
 
