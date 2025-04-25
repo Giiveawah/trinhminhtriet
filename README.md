@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [GOKSEL2022](https://github.com/GOKSEL2022)
 - [HalitDemirDevOps](https://github.com/HalitDemirDevOps)
 - [CodingWCal](https://github.com/CodingWCal)
 - [simobk34](https://github.com/simobk34)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [reyrove](https://github.com/reyrove)
 - [abdelrahmanrageh](https://github.com/abdelrahmanrageh)
 - [Yuer-yuan](https://github.com/Yuer-yuan)
-- [iamchaitanya7](https://github.com/iamchaitanya7)
 
 ## ⭐ Recent stars
 
