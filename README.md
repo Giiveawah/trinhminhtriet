@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [devilsaint99](https://github.com/devilsaint99)
+- [pwoltschk](https://github.com/pwoltschk)
 - [Yuricosta22](https://github.com/Yuricosta22)
 - [Abdullah4345](https://github.com/Abdullah4345)
 - [AghlaAbdo](https://github.com/AghlaAbdo)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [getahunabr](https://github.com/getahunabr)
 - [OscarAglr](https://github.com/OscarAglr)
 - [Raraeva24](https://github.com/Raraeva24)
-- [yippee104](https://github.com/yippee104)
-- [Devilson8](https://github.com/Devilson8)
 
 ## ⭐ Recent stars
 
