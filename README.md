@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [belgradiostream](https://github.com/belgradiostream)
 - [devilsaint99](https://github.com/devilsaint99)
 - [pwoltschk](https://github.com/pwoltschk)
 - [Yuricosta22](https://github.com/Yuricosta22)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [AB-20005](https://github.com/AB-20005)
 - [getahunabr](https://github.com/getahunabr)
 - [OscarAglr](https://github.com/OscarAglr)
-- [Raraeva24](https://github.com/Raraeva24)
 
 ## ⭐ Recent stars
 
