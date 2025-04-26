@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Yuricosta22](https://github.com/Yuricosta22)
 - [Abdullah4345](https://github.com/Abdullah4345)
 - [AghlaAbdo](https://github.com/AghlaAbdo)
 - [lokeshwar777](https://github.com/lokeshwar777)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Raraeva24](https://github.com/Raraeva24)
 - [yippee104](https://github.com/yippee104)
 - [Devilson8](https://github.com/Devilson8)
-- [omerkaracay](https://github.com/omerkaracay)
 
 ## ⭐ Recent stars
 
