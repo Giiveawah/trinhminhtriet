@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [EddyBel](https://github.com/EddyBel)
 - [fawad526](https://github.com/fawad526)
 - [belgradiostream](https://github.com/belgradiostream)
 - [devilsaint99](https://github.com/devilsaint99)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [AghlaAbdo](https://github.com/AghlaAbdo)
 - [lokeshwar777](https://github.com/lokeshwar777)
 - [AB-20005](https://github.com/AB-20005)
-- [getahunabr](https://github.com/getahunabr)
 
 ## ⭐ Recent stars
 
