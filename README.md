@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [OscarAglr](https://github.com/OscarAglr)
 - [Raraeva24](https://github.com/Raraeva24)
 - [yippee104](https://github.com/yippee104)
 - [Devilson8](https://github.com/Devilson8)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [CodingWCal](https://github.com/CodingWCal)
 - [simobk34](https://github.com/simobk34)
 - [reejadev](https://github.com/reejadev)
-- [suzannaprze](https://github.com/suzannaprze)
 
 ## ⭐ Recent stars
 
