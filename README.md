@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AghlaAbdo](https://github.com/AghlaAbdo)
+- [lokeshwar777](https://github.com/lokeshwar777)
 - [AB-20005](https://github.com/AB-20005)
 - [getahunabr](https://github.com/getahunabr)
 - [OscarAglr](https://github.com/OscarAglr)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Devilson8](https://github.com/Devilson8)
 - [omerkaracay](https://github.com/omerkaracay)
 - [GOKSEL2022](https://github.com/GOKSEL2022)
-- [HalitDemirDevOps](https://github.com/HalitDemirDevOps)
-- [CodingWCal](https://github.com/CodingWCal)
 
 ## ⭐ Recent stars
 
