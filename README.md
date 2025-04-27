@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [reyrove](https://github.com/reyrove)
 - [alufena](https://github.com/alufena)
 - [zvielkoren](https://github.com/zvielkoren)
 - [Bhuvankambley2003](https://github.com/Bhuvankambley2003)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mohamedsalah01176](https://github.com/mohamedsalah01176)
 - [Mio1710](https://github.com/Mio1710)
 - [13inccc](https://github.com/13inccc)
-- [EddyBel](https://github.com/EddyBel)
 
 ## ⭐ Recent stars
 
-- [anhthii/golang-design-pattern](https://github.com/anhthii/golang-design-pattern) - Design patterns for golang developers in "tiếng việt" (today)
-- [anhthii/Echo](https://github.com/anhthii/Echo) - :musical_note: A music streaming app built with React and Nodejs (today)
-- [jedwards1211/meteor-webpack-react](https://github.com/jedwards1211/meteor-webpack-react) - (DEPRECATED) use jedwards1211/crater instead (today)
-- [GiacomoPope/kyber-py](https://github.com/GiacomoPope/kyber-py) - A pure python implementation of ML-KEM (FIPS 203) and CRYSTALS-Kyber (today)
-- [matteobertozzi/Hadoop](https://github.com/matteobertozzi/Hadoop) - Hadoop (Utilities, Patches and Examples) (today)
+- [bmullan91/express-subdomain](https://github.com/bmullan91/express-subdomain) - Super simple subdomain middleware for expressjs (today)
+- [chrisabrams/dragon](https://github.com/chrisabrams/dragon) - Hypothesis: What if Backbone were created today, with ES 6&7, Virtual DOM, etc? (today)
+- [lanistor/react-keeper](https://github.com/lanistor/react-keeper) - A routing library of React. (today)
+- [StarpTech/k-andy](https://github.com/StarpTech/k-andy) - Low cost Kubernetes stack for startups, prototypes, and playgrounds on Hetzner Cloud. (today)
+- [StarpTech/profiling-nodejs](https://github.com/StarpTech/profiling-nodejs) - 🌌 Collection of articles and tools to efficiently profile Node.js (today)
 
 ## 🔨 Latest Pull Requests I published
 
