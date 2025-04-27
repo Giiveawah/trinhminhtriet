@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [CloudBuilderDev](https://github.com/CloudBuilderDev)
 - [dathtph53550](https://github.com/dathtph53550)
 - [Bytenol](https://github.com/Bytenol)
 - [mohamedsalah01176](https://github.com/mohamedsalah01176)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [fawad526](https://github.com/fawad526)
 - [belgradiostream](https://github.com/belgradiostream)
 - [devilsaint99](https://github.com/devilsaint99)
-- [pwoltschk](https://github.com/pwoltschk)
 
 ## ⭐ Recent stars
 
+- [glowroot/glowroot](https://github.com/glowroot/glowroot) - Easy to use, very low overhead, Java APM (today)
 - [reviewboard/reviewboard](https://github.com/reviewboard/reviewboard) - An extensible and friendly code review tool for projects and companies of all sizes. (3 days ago)
 - [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc (3 days ago)
 - [in28minutes/devops-master-class](https://github.com/in28minutes/devops-master-class) - Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops (4 days ago)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (6 days ago)
-- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (6 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
