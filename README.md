@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [ZzZZCHS/Chat-Scene](https://github.com/ZzZZCHS/Chat-Scene) - Code for "Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers" (NeurIPS 2024) (today)
+- [pedroCabrera/PyFlowOpenCv](https://github.com/pedroCabrera/PyFlowOpenCv) - Wrapper for openCv (https://opencv.org/) python module. (today)
+- [pedroCabrera/PyFlow](https://github.com/pedroCabrera/PyFlow) - Visual scripting framework for python (today)
 - [glowroot/glowroot](https://github.com/glowroot/glowroot) - Easy to use, very low overhead, Java APM (today)
 - [reviewboard/reviewboard](https://github.com/reviewboard/reviewboard) - An extensible and friendly code review tool for projects and companies of all sizes. (3 days ago)
-- [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc (3 days ago)
-- [in28minutes/devops-master-class](https://github.com/in28minutes/devops-master-class) - Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops (4 days ago)
-- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (6 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
