@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [alufena](https://github.com/alufena)
+- [zvielkoren](https://github.com/zvielkoren)
+- [Bhuvankambley2003](https://github.com/Bhuvankambley2003)
 - [CloudBuilderDev](https://github.com/CloudBuilderDev)
 - [dathtph53550](https://github.com/dathtph53550)
 - [Bytenol](https://github.com/Bytenol)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Mio1710](https://github.com/Mio1710)
 - [13inccc](https://github.com/13inccc)
 - [EddyBel](https://github.com/EddyBel)
-- [fawad526](https://github.com/fawad526)
-- [belgradiostream](https://github.com/belgradiostream)
-- [devilsaint99](https://github.com/devilsaint99)
 
 ## ⭐ Recent stars
 
-- [ZzZZCHS/Chat-Scene](https://github.com/ZzZZCHS/Chat-Scene) - Code for "Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers" (NeurIPS 2024) (today)
-- [pedroCabrera/PyFlowOpenCv](https://github.com/pedroCabrera/PyFlowOpenCv) - Wrapper for openCv (https://opencv.org/) python module. (today)
-- [pedroCabrera/PyFlow](https://github.com/pedroCabrera/PyFlow) - Visual scripting framework for python (today)
-- [glowroot/glowroot](https://github.com/glowroot/glowroot) - Easy to use, very low overhead, Java APM (today)
-- [reviewboard/reviewboard](https://github.com/reviewboard/reviewboard) - An extensible and friendly code review tool for projects and companies of all sizes. (3 days ago)
+- [bruinxiong/SENet.mxnet](https://github.com/bruinxiong/SENet.mxnet) - :fire::fire: A MXNet implementation of Squeeze-and-Excitation Networks (SE-ResNext, SE-Resnet, SE-Inception-v4 and SE-Inception-Resnet-v2) :fire::fire: (today)
+- [cavalleria/cavaface](https://github.com/cavalleria/cavaface) - face recognition training project(pytorch) (today)
+- [Serge-weihao/CCNet-Pure-Pytorch](https://github.com/Serge-weihao/CCNet-Pure-Pytorch) - Criss-Cross Attention (2d&3d) for Semantic Segmentation in pure Pytorch with a faster and more precise implementation. (today)
+- [lucasjinreal/movenet](https://github.com/lucasjinreal/movenet) - Google's Next Gen Pose Estimation in PyTorch (today)
+- [lucasjinreal/nosmpl](https://github.com/lucasjinreal/nosmpl) - Accelerated SMPL operation, commonly used in generate 3D human mesh, STAR included. (today)
 
 ## 🔨 Latest Pull Requests I published
 
