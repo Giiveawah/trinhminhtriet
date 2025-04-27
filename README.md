@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [dathtph53550](https://github.com/dathtph53550)
+- [Bytenol](https://github.com/Bytenol)
 - [mohamedsalah01176](https://github.com/mohamedsalah01176)
 - [Mio1710](https://github.com/Mio1710)
 - [13inccc](https://github.com/13inccc)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [belgradiostream](https://github.com/belgradiostream)
 - [devilsaint99](https://github.com/devilsaint99)
 - [pwoltschk](https://github.com/pwoltschk)
-- [Yuricosta22](https://github.com/Yuricosta22)
-- [Abdullah4345](https://github.com/Abdullah4345)
 
 ## ⭐ Recent stars
 
