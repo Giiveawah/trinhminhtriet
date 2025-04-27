@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables) - Universal shadcn/ui for React Native featuring a focused collection of components - Crafted with NativeWind v4 and accessibility in mind. (today)
+- [sesto-dev/next-prisma-tailwind-ecommerce](https://github.com/sesto-dev/next-prisma-tailwind-ecommerce) - ✨ Open-Source Full-stack E-Commerce Storefront with CMS Admin Panel. Built with Typescript, Next.js 14 App Dir, Tailwind CSS ( @shadcn-ui ) and Prisma. Admin Panel: https://pardis.vercel.app (today)
+- [jsumners/alfred-emoji](https://github.com/jsumners/alfred-emoji) - Alfred workflow for searching and copying emoji (today)
 - [bmullan91/express-subdomain](https://github.com/bmullan91/express-subdomain) - Super simple subdomain middleware for expressjs (today)
 - [chrisabrams/dragon](https://github.com/chrisabrams/dragon) - Hypothesis: What if Backbone were created today, with ES 6&7, Virtual DOM, etc? (today)
-- [lanistor/react-keeper](https://github.com/lanistor/react-keeper) - A routing library of React. (today)
-- [StarpTech/k-andy](https://github.com/StarpTech/k-andy) - Low cost Kubernetes stack for startups, prototypes, and playgrounds on Hetzner Cloud. (today)
-- [StarpTech/profiling-nodejs](https://github.com/StarpTech/profiling-nodejs) - 🌌 Collection of articles and tools to efficiently profile Node.js (today)
 
 ## 🔨 Latest Pull Requests I published
 
