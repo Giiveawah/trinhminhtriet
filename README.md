@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Mio1710](https://github.com/Mio1710)
 - [13inccc](https://github.com/13inccc)
 - [EddyBel](https://github.com/EddyBel)
 - [fawad526](https://github.com/fawad526)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Yuricosta22](https://github.com/Yuricosta22)
 - [Abdullah4345](https://github.com/Abdullah4345)
 - [AghlaAbdo](https://github.com/AghlaAbdo)
-- [lokeshwar777](https://github.com/lokeshwar777)
 
 ## ⭐ Recent stars
 
