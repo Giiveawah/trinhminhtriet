@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [GiacomoPope/kyber-py](https://github.com/GiacomoPope/kyber-py) - A pure python implementation of ML-KEM (FIPS 203) and CRYSTALS-Kyber (today)
 - [matteobertozzi/Hadoop](https://github.com/matteobertozzi/Hadoop) - Hadoop (Utilities, Patches and Examples) (today)
 - [cybercase/google-forms-html-exporter](https://github.com/cybercase/google-forms-html-exporter) - Build a standard HTML <form> using any Google Forms (today)
 - [cybercase/webminidisc](https://github.com/cybercase/webminidisc) - Upload your Music to NetMD MiniDisc devices thanks to WebUSB and WASM (today)
 - [ElDavoo/wa-crypt-tools](https://github.com/ElDavoo/wa-crypt-tools) - Manage WhatsApp .crypt12, .crypt14 and .crypt15 files. (today)
-- [bruinxiong/SENet.mxnet](https://github.com/bruinxiong/SENet.mxnet) - :fire::fire: A MXNet implementation of Squeeze-and-Excitation Networks (SE-ResNext, SE-Resnet, SE-Inception-v4 and SE-Inception-Resnet-v2) :fire::fire: (today)
 
 ## 🔨 Latest Pull Requests I published
 
