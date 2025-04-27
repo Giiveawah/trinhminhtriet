@@ -33,9 +33,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (2 days ago)
 - [trinhminhtriet/cargo-kit](https://github.com/trinhminhtriet/cargo-kit) - Cargo subcommand to apply performance, compile-time, or size-optimized profiles and configs to your Rust project for enhanced build efficiency. (2 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (4 days ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (6 days ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 week ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mohamedsalah01176](https://github.com/mohamedsalah01176)
 - [Mio1710](https://github.com/Mio1710)
 - [13inccc](https://github.com/13inccc)
 - [EddyBel](https://github.com/EddyBel)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [pwoltschk](https://github.com/pwoltschk)
 - [Yuricosta22](https://github.com/Yuricosta22)
 - [Abdullah4345](https://github.com/Abdullah4345)
-- [AghlaAbdo](https://github.com/AghlaAbdo)
 
 ## ⭐ Recent stars
 
