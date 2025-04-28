@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [pholoshos](https://github.com/pholoshos)
 - [rajveerkhanduja](https://github.com/rajveerkhanduja)
 - [edgarBautista1](https://github.com/edgarBautista1)
 - [thtn-dev](https://github.com/thtn-dev)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [zvielkoren](https://github.com/zvielkoren)
 - [Bhuvankambley2003](https://github.com/Bhuvankambley2003)
 - [CloudBuilderDev](https://github.com/CloudBuilderDev)
-- [dathtph53550](https://github.com/dathtph53550)
 
 ## ⭐ Recent stars
 
