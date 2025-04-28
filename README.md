@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [edgarBautista1](https://github.com/edgarBautista1)
 - [thtn-dev](https://github.com/thtn-dev)
 - [felipedbene](https://github.com/felipedbene)
 - [reyrove](https://github.com/reyrove)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [CloudBuilderDev](https://github.com/CloudBuilderDev)
 - [dathtph53550](https://github.com/dathtph53550)
 - [Bytenol](https://github.com/Bytenol)
-- [mohamedsalah01176](https://github.com/mohamedsalah01176)
 
 ## ⭐ Recent stars
 
