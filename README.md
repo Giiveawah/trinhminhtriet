@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [medly/norm](https://github.com/medly/norm) - ⚡ Not an ORM (today)
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (today)
 - [percent4/ccks_triple_extract](https://github.com/percent4/ccks_triple_extract) - 限定领域的三元组抽取的一次尝试，本文将会介绍笔者在2019语言与智能技术竞赛的三元组抽取比赛方面的一次尝试。 (today)
 - [percent4/multi-label-classification-4-event-type](https://github.com/percent4/multi-label-classification-4-event-type) - multi-label-classification-4-event-type (today)
 - [percent4/knowledge_graph_demo](https://github.com/percent4/knowledge_graph_demo) - 本项目用于展示三元组抽取后形成的知识图谱，包括几本小说的实体关系，以及README.md，介绍这方面的一篇文章。 (today)
-- [percent4/embedding_rerank_retrieval](https://github.com/percent4/embedding_rerank_retrieval) - 本项目是针对RAG中的Retrieve阶段的召回技术及算法效果所做评估实验。使用主体框架为LlamaIndex. (today)
 
 ## 🔨 Latest Pull Requests I published
 
