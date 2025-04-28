@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [thtn-dev](https://github.com/thtn-dev)
+- [felipedbene](https://github.com/felipedbene)
 - [reyrove](https://github.com/reyrove)
 - [alufena](https://github.com/alufena)
 - [zvielkoren](https://github.com/zvielkoren)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dathtph53550](https://github.com/dathtph53550)
 - [Bytenol](https://github.com/Bytenol)
 - [mohamedsalah01176](https://github.com/mohamedsalah01176)
-- [Mio1710](https://github.com/Mio1710)
-- [13inccc](https://github.com/13inccc)
 
 ## ⭐ Recent stars
 
