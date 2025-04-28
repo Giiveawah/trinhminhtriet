@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sealdevnut](https://github.com/sealdevnut)
 - [SodiqSWE](https://github.com/SodiqSWE)
 - [vladimirzhushma](https://github.com/vladimirzhushma)
 - [RedApple990129](https://github.com/RedApple990129)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [thtn-dev](https://github.com/thtn-dev)
 - [felipedbene](https://github.com/felipedbene)
 - [reyrove](https://github.com/reyrove)
-- [alufena](https://github.com/alufena)
 
 ## ⭐ Recent stars
 
