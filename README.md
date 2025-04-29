@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [alexandrelamberty](https://github.com/alexandrelamberty)
 - [Abdullah12-tech](https://github.com/Abdullah12-tech)
 - [dalveer16](https://github.com/dalveer16)
 - [vellindev0324](https://github.com/vellindev0324)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [leadpassion](https://github.com/leadpassion)
 - [theprogramking](https://github.com/theprogramking)
 - [hermankarbello](https://github.com/hermankarbello)
-- [akdwivedi7355](https://github.com/akdwivedi7355)
 
 ## ⭐ Recent stars
 
