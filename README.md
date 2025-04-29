@@ -33,10 +33,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (3 days ago)
-- [trinhminhtriet/cargo-kit](https://github.com/trinhminhtriet/cargo-kit) - Cargo subcommand to apply performance, compile-time, or size-optimized profiles and configs to your Rust project for enhanced build efficiency. (3 days ago)
-- [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (5 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (4 days ago)
+- [trinhminhtriet/cargo-kit](https://github.com/trinhminhtriet/cargo-kit) - Cargo subcommand to apply performance, compile-time, or size-optimized profiles and configs to your Rust project for enhanced build efficiency. (4 days ago)
+- [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (6 days ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 week ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 week ago)
 - [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (1 week ago)
@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Charles-Chrismann](https://github.com/Charles-Chrismann)
+- [khan678911](https://github.com/khan678911)
+- [leadpassion](https://github.com/leadpassion)
 - [theprogramking](https://github.com/theprogramking)
 - [hermankarbello](https://github.com/hermankarbello)
 - [akdwivedi7355](https://github.com/akdwivedi7355)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [giannycabral](https://github.com/giannycabral)
 - [Sara-ibrahiim](https://github.com/Sara-ibrahiim)
 - [ftnfurina](https://github.com/ftnfurina)
-- [sealdevnut](https://github.com/sealdevnut)
-- [SodiqSWE](https://github.com/SodiqSWE)
-- [vladimirzhushma](https://github.com/vladimirzhushma)
 
 ## ⭐ Recent stars
 
-- [medly/norm](https://github.com/medly/norm) - ⚡ Not an ORM (today)
-- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (today)
-- [percent4/ccks_triple_extract](https://github.com/percent4/ccks_triple_extract) - 限定领域的三元组抽取的一次尝试，本文将会介绍笔者在2019语言与智能技术竞赛的三元组抽取比赛方面的一次尝试。 (today)
-- [percent4/multi-label-classification-4-event-type](https://github.com/percent4/multi-label-classification-4-event-type) - multi-label-classification-4-event-type (today)
-- [percent4/knowledge_graph_demo](https://github.com/percent4/knowledge_graph_demo) - 本项目用于展示三元组抽取后形成的知识图谱，包括几本小说的实体关系，以及README.md，介绍这方面的一篇文章。 (today)
+- [medly/norm](https://github.com/medly/norm) - ⚡ Not an ORM (1 day ago)
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (1 day ago)
+- [percent4/ccks_triple_extract](https://github.com/percent4/ccks_triple_extract) - 限定领域的三元组抽取的一次尝试，本文将会介绍笔者在2019语言与智能技术竞赛的三元组抽取比赛方面的一次尝试。 (1 day ago)
+- [percent4/multi-label-classification-4-event-type](https://github.com/percent4/multi-label-classification-4-event-type) - multi-label-classification-4-event-type (1 day ago)
+- [percent4/knowledge_graph_demo](https://github.com/percent4/knowledge_graph_demo) - 本项目用于展示三元组抽取后形成的知识图谱，包括几本小说的实体关系，以及README.md，介绍这方面的一篇文章。 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
