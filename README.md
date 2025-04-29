@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [lj020326](https://github.com/lj020326)
+- [redleafar](https://github.com/redleafar)
 - [alexandrelamberty](https://github.com/alexandrelamberty)
 - [Abdullah12-tech](https://github.com/Abdullah12-tech)
 - [dalveer16](https://github.com/dalveer16)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [khan678911](https://github.com/khan678911)
 - [leadpassion](https://github.com/leadpassion)
-- [theprogramking](https://github.com/theprogramking)
-- [hermankarbello](https://github.com/hermankarbello)
 
 ## ⭐ Recent stars
 
