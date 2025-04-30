@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Safyyan001](https://github.com/Safyyan001)
 - [nyanlhtet](https://github.com/nyanlhtet)
 - [KingStar365](https://github.com/KingStar365)
 - [lj020326](https://github.com/lj020326)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dalveer16](https://github.com/dalveer16)
 - [vellindev0324](https://github.com/vellindev0324)
 - [Fifixex](https://github.com/Fifixex)
-- [Charles-Chrismann](https://github.com/Charles-Chrismann)
 
 ## ⭐ Recent stars
 
