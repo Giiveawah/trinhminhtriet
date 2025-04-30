@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SilentProgrammer-max](https://github.com/SilentProgrammer-max)
+- [Linux-Scratcher](https://github.com/Linux-Scratcher)
+- [miltlima](https://github.com/miltlima)
 - [manu-arora](https://github.com/manu-arora)
 - [OYATSUTEAM](https://github.com/OYATSUTEAM)
 - [iusserhat](https://github.com/iusserhat)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [manuelnajera](https://github.com/manuelnajera)
 - [Safyyan001](https://github.com/Safyyan001)
 - [nyanlhtet](https://github.com/nyanlhtet)
-- [KingStar365](https://github.com/KingStar365)
-- [lj020326](https://github.com/lj020326)
-- [redleafar](https://github.com/redleafar)
 
 ## ⭐ Recent stars
 
