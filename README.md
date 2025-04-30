@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [OYATSUTEAM](https://github.com/OYATSUTEAM)
 - [iusserhat](https://github.com/iusserhat)
 - [Harold254](https://github.com/Harold254)
 - [manuelnajera](https://github.com/manuelnajera)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lj020326](https://github.com/lj020326)
 - [redleafar](https://github.com/redleafar)
 - [alexandrelamberty](https://github.com/alexandrelamberty)
-- [Abdullah12-tech](https://github.com/Abdullah12-tech)
 
 ## ⭐ Recent stars
 
