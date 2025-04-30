@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [umur40](https://github.com/umur40)
 - [faelmori](https://github.com/faelmori)
 - [shelarsujit](https://github.com/shelarsujit)
 - [SilentProgrammer-max](https://github.com/SilentProgrammer-max)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [OYATSUTEAM](https://github.com/OYATSUTEAM)
 - [iusserhat](https://github.com/iusserhat)
 - [Harold254](https://github.com/Harold254)
-- [manuelnajera](https://github.com/manuelnajera)
 
 ## ⭐ Recent stars
 
