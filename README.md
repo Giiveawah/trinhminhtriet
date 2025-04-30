@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [faelmori](https://github.com/faelmori)
+- [shelarsujit](https://github.com/shelarsujit)
 - [SilentProgrammer-max](https://github.com/SilentProgrammer-max)
 - [Linux-Scratcher](https://github.com/Linux-Scratcher)
 - [miltlima](https://github.com/miltlima)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [iusserhat](https://github.com/iusserhat)
 - [Harold254](https://github.com/Harold254)
 - [manuelnajera](https://github.com/manuelnajera)
-- [Safyyan001](https://github.com/Safyyan001)
-- [nyanlhtet](https://github.com/nyanlhtet)
 
 ## ⭐ Recent stars
 
