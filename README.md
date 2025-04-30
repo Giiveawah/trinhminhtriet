@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [manu-arora](https://github.com/manu-arora)
 - [OYATSUTEAM](https://github.com/OYATSUTEAM)
 - [iusserhat](https://github.com/iusserhat)
 - [Harold254](https://github.com/Harold254)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [KingStar365](https://github.com/KingStar365)
 - [lj020326](https://github.com/lj020326)
 - [redleafar](https://github.com/redleafar)
-- [alexandrelamberty](https://github.com/alexandrelamberty)
 
 ## ⭐ Recent stars
 
