@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Yasen-Getzov09](https://github.com/Yasen-Getzov09)
+- [DevXpert006](https://github.com/DevXpert006)
 - [Alphadavethedon](https://github.com/Alphadavethedon)
 - [webdevavi96](https://github.com/webdevavi96)
 - [micheal-ndoh](https://github.com/micheal-ndoh)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shelarsujit](https://github.com/shelarsujit)
 - [SilentProgrammer-max](https://github.com/SilentProgrammer-max)
 - [Linux-Scratcher](https://github.com/Linux-Scratcher)
-- [miltlima](https://github.com/miltlima)
-- [manu-arora](https://github.com/manu-arora)
 
 ## ⭐ Recent stars
 
