@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [marwam99](https://github.com/marwam99)
 - [capeandbayllc](https://github.com/capeandbayllc)
 - [XuShuwenn](https://github.com/XuShuwenn)
 - [ascndia](https://github.com/ascndia)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Alphadavethedon](https://github.com/Alphadavethedon)
 - [webdevavi96](https://github.com/webdevavi96)
 - [micheal-ndoh](https://github.com/micheal-ndoh)
-- [umur40](https://github.com/umur40)
 
 ## ⭐ Recent stars
 
