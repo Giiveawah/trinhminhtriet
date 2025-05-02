@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [vophuocthanh](https://github.com/vophuocthanh)
+- [koladeakinjolire](https://github.com/koladeakinjolire)
 - [hellojoshua10](https://github.com/hellojoshua10)
 - [AlanBennyOfficial](https://github.com/AlanBennyOfficial)
 - [CN-Xiao-SKY](https://github.com/CN-Xiao-SKY)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lillianphyo](https://github.com/lillianphyo)
 - [ZygimantasB](https://github.com/ZygimantasB)
 - [zoxilsi](https://github.com/zoxilsi)
-- [mannmehta0611](https://github.com/mannmehta0611)
-- [mustafaanilkaradavut](https://github.com/mustafaanilkaradavut)
 
 ## ⭐ Recent stars
 
