@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [OC15141355](https://github.com/OC15141355)
 - [alex-semenyuk](https://github.com/alex-semenyuk)
 - [lillianphyo](https://github.com/lillianphyo)
 - [ZygimantasB](https://github.com/ZygimantasB)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [alexperezortuno](https://github.com/alexperezortuno)
 - [diaspd](https://github.com/diaspd)
 - [marwam99](https://github.com/marwam99)
-- [capeandbayllc](https://github.com/capeandbayllc)
 
 ## ⭐ Recent stars
 
