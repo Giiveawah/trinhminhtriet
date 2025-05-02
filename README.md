@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mannmehta0611](https://github.com/mannmehta0611)
 - [mustafaanilkaradavut](https://github.com/mustafaanilkaradavut)
 - [alexperezortuno](https://github.com/alexperezortuno)
 - [diaspd](https://github.com/diaspd)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ascndia](https://github.com/ascndia)
 - [vikram-singh9](https://github.com/vikram-singh9)
 - [Yasen-Getzov09](https://github.com/Yasen-Getzov09)
-- [DevXpert006](https://github.com/DevXpert006)
 
 ## ⭐ Recent stars
 
