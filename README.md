@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (5 days ago)
 - [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (1 week ago)
 - [trinhminhtriet/cargo-kit](https://github.com/trinhminhtriet/cargo-kit) - Cargo subcommand to apply performance, compile-time, or size-optimized profiles and configs to your Rust project for enhanced build efficiency. (1 week ago)
 - [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (1 week ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [yassnemo](https://github.com/yassnemo)
 - [Abdullah4345](https://github.com/Abdullah4345)
 - [Emmanuel-Rojas](https://github.com/Emmanuel-Rojas)
 - [vophuocthanh](https://github.com/vophuocthanh)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [CN-Xiao-SKY](https://github.com/CN-Xiao-SKY)
 - [OC15141355](https://github.com/OC15141355)
 - [alex-semenyuk](https://github.com/alex-semenyuk)
-- [lillianphyo](https://github.com/lillianphyo)
 
 ## ⭐ Recent stars
 
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (3 days ago)
-- [apache/phoenix](https://github.com/apache/phoenix) - Apache Phoenix (3 days ago)
-- [medly/norm](https://github.com/medly/norm) - ⚡ Not an ORM (4 days ago)
-- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (4 days ago)
-- [percent4/ccks_triple_extract](https://github.com/percent4/ccks_triple_extract) - 限定领域的三元组抽取的一次尝试，本文将会介绍笔者在2019语言与智能技术竞赛的三元组抽取比赛方面的一次尝试。 (4 days ago)
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (4 days ago)
+- [apache/phoenix](https://github.com/apache/phoenix) - Apache Phoenix (4 days ago)
+- [medly/norm](https://github.com/medly/norm) - ⚡ Not an ORM (5 days ago)
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (5 days ago)
+- [percent4/ccks_triple_extract](https://github.com/percent4/ccks_triple_extract) - 限定领域的三元组抽取的一次尝试，本文将会介绍笔者在2019语言与智能技术竞赛的三元组抽取比赛方面的一次尝试。 (5 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
