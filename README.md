@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Hadi-Badran](https://github.com/Hadi-Badran)
 - [madara1793](https://github.com/madara1793)
 - [alejyoo](https://github.com/alejyoo)
 - [goingprodo](https://github.com/goingprodo)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Trevin07](https://github.com/Trevin07)
 - [yassnemo](https://github.com/yassnemo)
 - [Abdullah4345](https://github.com/Abdullah4345)
-- [Emmanuel-Rojas](https://github.com/Emmanuel-Rojas)
 
 ## ⭐ Recent stars
 
