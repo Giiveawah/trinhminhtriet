@@ -33,11 +33,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (6 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 week ago)
 - [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (1 week ago)
 - [trinhminhtriet/cargo-kit](https://github.com/trinhminhtriet/cargo-kit) - Cargo subcommand to apply performance, compile-time, or size-optimized profiles and configs to your Rust project for enhanced build efficiency. (1 week ago)
 - [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (1 week ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 week ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 weeks ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (2 weeks ago)
 - [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (2 weeks ago)
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (2 weeks ago)
@@ -59,16 +59,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (5 days ago)
-- [apache/phoenix](https://github.com/apache/phoenix) - Apache Phoenix (5 days ago)
-- [medly/norm](https://github.com/medly/norm) - ⚡ Not an ORM (6 days ago)
-- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (6 days ago)
-- [percent4/ccks_triple_extract](https://github.com/percent4/ccks_triple_extract) - 限定领域的三元组抽取的一次尝试，本文将会介绍笔者在2019语言与智能技术竞赛的三元组抽取比赛方面的一次尝试。 (6 days ago)
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (6 days ago)
+- [apache/phoenix](https://github.com/apache/phoenix) - Apache Phoenix (6 days ago)
+- [medly/norm](https://github.com/medly/norm) - ⚡ Not an ORM (1 week ago)
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (1 week ago)
+- [percent4/ccks_triple_extract](https://github.com/percent4/ccks_triple_extract) - 限定领域的三元组抽取的一次尝试，本文将会介绍笔者在2019语言与智能技术竞赛的三元组抽取比赛方面的一次尝试。 (1 week ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Develop](https://github.com/trinhminhtriet/blast/pull/13) on [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) (1 week ago)
-- [Develop](https://github.com/trinhminhtriet/procx/pull/24) on [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) (3 weeks ago)
-- [Develop](https://github.com/trinhminhtriet/ftree/pull/8) on [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) (3 weeks ago)
+- [Develop](https://github.com/trinhminhtriet/blast/pull/13) on [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) (2 weeks ago)
+- [Develop](https://github.com/trinhminhtriet/procx/pull/24) on [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) (4 weeks ago)
+- [Develop](https://github.com/trinhminhtriet/ftree/pull/8) on [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) (4 weeks ago)
 - [Develop](https://github.com/trinhminhtriet/spiko/pull/13) on [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) (4 weeks ago)
 - [Develop](https://github.com/trinhminhtriet/spiko/pull/12) on [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) (1 month ago)
