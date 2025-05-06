@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [savant-cat](https://github.com/savant-cat)
 - [Top-g99](https://github.com/Top-g99)
 - [gloriousLoaf](https://github.com/gloriousLoaf)
 - [burikiduck](https://github.com/burikiduck)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Hadi-Badran](https://github.com/Hadi-Badran)
 - [madara1793](https://github.com/madara1793)
 - [alejyoo](https://github.com/alejyoo)
-- [goingprodo](https://github.com/goingprodo)
 
 ## ⭐ Recent stars
 
