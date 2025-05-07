@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [prissycorrea](https://github.com/prissycorrea)
 - [Kirito9910](https://github.com/Kirito9910)
 - [SA926-COBRA](https://github.com/SA926-COBRA)
 - [savant-cat](https://github.com/savant-cat)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DinhSonHai](https://github.com/DinhSonHai)
 - [Emmanuel-Rojas](https://github.com/Emmanuel-Rojas)
 - [GalafassiNAT](https://github.com/GalafassiNAT)
-- [Hadi-Badran](https://github.com/Hadi-Badran)
 
 ## ⭐ Recent stars
 
+- [johnjohnsp1/Shellcode-Via-HTA](https://github.com/johnjohnsp1/Shellcode-Via-HTA) - How To Execute Shellcode via HTA (today)
+- [Techlord-RCE/Penetration-Testing](https://github.com/Techlord-RCE/Penetration-Testing) - List of awesome penetration testing resources, tools and other shiny things (today)
 - [kerasking/book-1](https://github.com/kerasking/book-1) - book (today)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (1 week ago)
 - [apache/phoenix](https://github.com/apache/phoenix) - Apache Phoenix (1 week ago)
-- [medly/norm](https://github.com/medly/norm) - ⚡ Not an ORM (1 week ago)
-- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (1 week ago)
 
 ## 🔨 Latest Pull Requests I published
 
