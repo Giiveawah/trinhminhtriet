@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [vaquarkhan/Apache-Kafka-poc-and-notes](https://github.com/vaquarkhan/Apache-Kafka-poc-and-notes) (today)
-- [Lerist/Go-Hosts](https://github.com/Lerist/Go-Hosts) - Go Hosts (today)
-- [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location (today)
-- [sry309/ihoneyBakFileScan](https://github.com/sry309/ihoneyBakFileScan) - 多进程批量网站备份文件泄露扫描工具v0.2 (today)
-- [mikalv/awesome-i2p](https://github.com/mikalv/awesome-i2p) - A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs. (today)
+- [ellerbrock/docker-security-images](https://github.com/ellerbrock/docker-security-images) - :closed_lock_with_key: Docker Container for Penetration Testing & Security (today)
+- [ellerbrock/fish-shell-setup-osx](https://github.com/ellerbrock/fish-shell-setup-osx) - :blowfish: Tutorial: Fish, Fisher, Powerline Fonts + iTerm2 (today)
+- [ellerbrock/awesome-koa](https://github.com/ellerbrock/awesome-koa) - :dancers: Awesome Koa.js Web Framework (today)
+- [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) - :octocat: Open Source & Licence Badges (today)
+- [Zumbalamambo/2D-3D-pose-tracking](https://github.com/Zumbalamambo/2D-3D-pose-tracking) - Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences (today)
 
 ## 🔨 Latest Pull Requests I published
 
