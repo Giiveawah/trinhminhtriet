@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ellerbrock/docker-security-images](https://github.com/ellerbrock/docker-security-images) - :closed_lock_with_key: Docker Container for Penetration Testing & Security (today)
-- [ellerbrock/fish-shell-setup-osx](https://github.com/ellerbrock/fish-shell-setup-osx) - :blowfish: Tutorial: Fish, Fisher, Powerline Fonts + iTerm2 (today)
-- [ellerbrock/awesome-koa](https://github.com/ellerbrock/awesome-koa) - :dancers: Awesome Koa.js Web Framework (today)
-- [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) - :octocat: Open Source & Licence Badges (today)
-- [Zumbalamambo/2D-3D-pose-tracking](https://github.com/Zumbalamambo/2D-3D-pose-tracking) - Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences (today)
+- [amilajack/awesome-web-audio](https://github.com/amilajack/awesome-web-audio) - A list of resources and projects to help learn about audio (today)
+- [amilajack/js-algorithms](https://github.com/amilajack/js-algorithms) - A collection of algorithms written in javascript (today)
+- [shantanu561993/SharpLoginPrompt](https://github.com/shantanu561993/SharpLoginPrompt) (today)
+- [shantanu561993/SharpChisel](https://github.com/shantanu561993/SharpChisel) - C# Wrapper around Chisel from https://github.com/jpillora/chisel (today)
+- [tuian/Books-2](https://github.com/tuian/Books-2) (today)
 
 ## 🔨 Latest Pull Requests I published
 
