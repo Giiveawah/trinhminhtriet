@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [kerasking/book-1](https://github.com/kerasking/book-1) - book (today)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (1 week ago)
 - [apache/phoenix](https://github.com/apache/phoenix) - Apache Phoenix (1 week ago)
 - [medly/norm](https://github.com/medly/norm) - ⚡ Not an ORM (1 week ago)
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (1 week ago)
-- [percent4/ccks_triple_extract](https://github.com/percent4/ccks_triple_extract) - 限定领域的三元组抽取的一次尝试，本文将会介绍笔者在2019语言与智能技术竞赛的三元组抽取比赛方面的一次尝试。 (1 week ago)
 
 ## 🔨 Latest Pull Requests I published
 
