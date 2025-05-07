@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [johnjohnsp1/Shellcode-Via-HTA](https://github.com/johnjohnsp1/Shellcode-Via-HTA) - How To Execute Shellcode via HTA (today)
-- [Techlord-RCE/Penetration-Testing](https://github.com/Techlord-RCE/Penetration-Testing) - List of awesome penetration testing resources, tools and other shiny things (today)
-- [kerasking/book-1](https://github.com/kerasking/book-1) - book (today)
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (1 week ago)
-- [apache/phoenix](https://github.com/apache/phoenix) - Apache Phoenix (1 week ago)
+- [vaquarkhan/Apache-Kafka-poc-and-notes](https://github.com/vaquarkhan/Apache-Kafka-poc-and-notes) (today)
+- [Lerist/Go-Hosts](https://github.com/Lerist/Go-Hosts) - Go Hosts (today)
+- [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location (today)
+- [sry309/ihoneyBakFileScan](https://github.com/sry309/ihoneyBakFileScan) - 多进程批量网站备份文件泄露扫描工具v0.2 (today)
+- [mikalv/awesome-i2p](https://github.com/mikalv/awesome-i2p) - A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs. (today)
 
 ## 🔨 Latest Pull Requests I published
 
