@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Kirito9910](https://github.com/Kirito9910)
 - [SA926-COBRA](https://github.com/SA926-COBRA)
 - [savant-cat](https://github.com/savant-cat)
 - [Top-g99](https://github.com/Top-g99)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Emmanuel-Rojas](https://github.com/Emmanuel-Rojas)
 - [GalafassiNAT](https://github.com/GalafassiNAT)
 - [Hadi-Badran](https://github.com/Hadi-Badran)
-- [madara1793](https://github.com/madara1793)
 
 ## ⭐ Recent stars
 
