@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Zupils](https://github.com/Zupils)
+- [Chuong98CC](https://github.com/Chuong98CC)
 - [prissycorrea](https://github.com/prissycorrea)
 - [Kirito9910](https://github.com/Kirito9910)
 - [SA926-COBRA](https://github.com/SA926-COBRA)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [gloriousLoaf](https://github.com/gloriousLoaf)
 - [burikiduck](https://github.com/burikiduck)
 - [DinhSonHai](https://github.com/DinhSonHai)
-- [Emmanuel-Rojas](https://github.com/Emmanuel-Rojas)
-- [GalafassiNAT](https://github.com/GalafassiNAT)
 
 ## ⭐ Recent stars
 
-- [eiriklv/json-populate](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with circular references. Sort of like Falcor and GraphQL, but for plain JSON with a transparent interface. (today)
-- [eiriklv/react-masonry-mixin](https://github.com/eiriklv/react-masonry-mixin) - A React.js mixin for using @desandro's Masonry (today)
-- [shiftwinting/FastGithub](https://github.com/shiftwinting/FastGithub) - github定制版的dns服务，解析访问github最快的ip (today)
-- [szepeviktor/waf4wordpress](https://github.com/szepeviktor/waf4wordpress) - WAF for WordPress 🔥 with 60+ security checks and weekly updates (today)
-- [szepeviktor/w3-total-cache-fixed](https://github.com/szepeviktor/w3-total-cache-fixed) - A community driven build of W3 Total Cache. The aim is to continuously incorporate fixes, improvements, and enhancements over the official WordPress release of W3 Total Cache. (today)
+- [graingert/WOW](https://github.com/graingert/WOW) - Reveal CSS animation as you scroll down a page (today)
+- [svn2github/valgrind](https://github.com/svn2github/valgrind) - This is a clone of an SVN repository at svn://svn.valgrind.org/valgrind/trunk. It had been cloned by http://svn2github.com/ , but the service was since closed. Please read a closing note on my blog post: http://piotr.gabryjeluk.pl/blog:closing-svn2github . If you want to continue synchronizing this repo, look at https://github.com/gabrys/svn2github  (today)
+- [svn2github/word2vec](https://github.com/svn2github/word2vec) - This is a clone of an SVN repository at http://word2vec.googlecode.com/svn/trunk. It had been cloned by http://svn2github.com/ , but the service was since closed. Please read a closing note on my blog post: http://piotr.gabryjeluk.pl/blog:closing-svn2github . If you want to continue synchronizing this repo, look at https://github.com/gabrys/svn2github  (today)
+- [svn2github/transistortester](https://github.com/svn2github/transistortester) - This is a clone of an SVN repository at svn://mikrocontroller.net/transistortester. It had been cloned by http://svn2github.com/ , but the service was since closed. Please read a closing note on my blog post: http://piotr.gabryjeluk.pl/blog:closing-svn2github . If you want to continue synchronizing this repo, look at https://github.com/gabrys/svn2github  (today)
+- [adamchainz/django-minify-html](https://github.com/adamchainz/django-minify-html) - Use minify-html, the extremely fast HTML + JS + CSS minifier, with Django. (today)
 
 ## 🔨 Latest Pull Requests I published
 
