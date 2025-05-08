@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [xormplus/xorm](https://github.com/xormplus/xorm) - xorm是一个简单而强大的Go语言ORM库，通过它可以使数据库操作非常简便。本库是基于原版xorm的定制增强版本，为xorm提供类似ibatis的配置文件及动态SQL支持，支持AcitveRecord操作 (today)
-- [mikhailklassen/Mining-the-Social-Web-3rd-Edition](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition) - The official online compendium for Mining the Social Web, 3rd Edition (O'Reilly, 2018) (today)
-- [kshcherban/acme-nginx](https://github.com/kshcherban/acme-nginx) - python acme client for nginx (today)
-- [stianeikeland/node-etcd](https://github.com/stianeikeland/node-etcd) - :satellite: Etcd client for nodejs (today)
-- [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) - :electric_plug: Raspberry Pi GPIO library for go-lang (today)
+- [tuzz/game-loop](https://github.com/tuzz/game-loop) - A Rust crate that implements a frame-rate-independent game loop. (today)
+- [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) - Rust - Augmented Audio Libraries (today)
+- [yamadapc/js-written-number](https://github.com/yamadapc/js-written-number) - Convert numbers to words - their written form (today)
+- [syamilmj/aqua-page-builder](https://github.com/syamilmj/aqua-page-builder) - Aqua Page Builder WordPress Plugin (today)
+- [syamilmj/Options-Framework](https://github.com/syamilmj/Options-Framework) - Slightly modified options framework, w/ drag & drop slider and other customizations. (today)
 
 ## 🔨 Latest Pull Requests I published
 
