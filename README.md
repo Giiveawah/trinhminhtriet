@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [stianeikeland/node-etcd](https://github.com/stianeikeland/node-etcd) - :satellite: Etcd client for nodejs (today)
+- [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) - :electric_plug: Raspberry Pi GPIO library for go-lang (today)
 - [materliu/gallery-by-react](https://github.com/materliu/gallery-by-react) - one photo gallery project based on react. (today)
 - [BinChengZhao/delay-timer](https://github.com/BinChengZhao/delay-timer) - Time-manager of delayed tasks. Like crontab, but synchronous asynchronous tasks are possible scheduling, and dynamic add/cancel/remove is supported. (today)
 - [BinChengZhao/delicate](https://github.com/BinChengZhao/delicate) - A lightweight and distributed task scheduling platform written in rust. （一个轻量的分布式的任务调度平台通过rust编写） (today)
-- [volsa/etherface](https://github.com/volsa/etherface) - Ethereum Signature Database (today)
-- [guycipher/k4](https://github.com/guycipher/k4) - High-performance open-source, durable, transactional embedded storage engine designed for low-latency, and optimized read and write efficiency. (today)
 
 ## 🔨 Latest Pull Requests I published
 
