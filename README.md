@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [gaurav-singh-25](https://github.com/gaurav-singh-25)
 - [Zupils](https://github.com/Zupils)
 - [Chuong98CC](https://github.com/Chuong98CC)
 - [prissycorrea](https://github.com/prissycorrea)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Top-g99](https://github.com/Top-g99)
 - [gloriousLoaf](https://github.com/gloriousLoaf)
 - [burikiduck](https://github.com/burikiduck)
-- [DinhSonHai](https://github.com/DinhSonHai)
 
 ## ⭐ Recent stars
 
-- [graingert/WOW](https://github.com/graingert/WOW) - Reveal CSS animation as you scroll down a page (today)
-- [svn2github/valgrind](https://github.com/svn2github/valgrind) - This is a clone of an SVN repository at svn://svn.valgrind.org/valgrind/trunk. It had been cloned by http://svn2github.com/ , but the service was since closed. Please read a closing note on my blog post: http://piotr.gabryjeluk.pl/blog:closing-svn2github . If you want to continue synchronizing this repo, look at https://github.com/gabrys/svn2github  (today)
-- [svn2github/word2vec](https://github.com/svn2github/word2vec) - This is a clone of an SVN repository at http://word2vec.googlecode.com/svn/trunk. It had been cloned by http://svn2github.com/ , but the service was since closed. Please read a closing note on my blog post: http://piotr.gabryjeluk.pl/blog:closing-svn2github . If you want to continue synchronizing this repo, look at https://github.com/gabrys/svn2github  (today)
-- [svn2github/transistortester](https://github.com/svn2github/transistortester) - This is a clone of an SVN repository at svn://mikrocontroller.net/transistortester. It had been cloned by http://svn2github.com/ , but the service was since closed. Please read a closing note on my blog post: http://piotr.gabryjeluk.pl/blog:closing-svn2github . If you want to continue synchronizing this repo, look at https://github.com/gabrys/svn2github  (today)
-- [adamchainz/django-minify-html](https://github.com/adamchainz/django-minify-html) - Use minify-html, the extremely fast HTML + JS + CSS minifier, with Django. (today)
+- [xhochy/fletcher](https://github.com/xhochy/fletcher) - Pandas ExtensionDType/Array backed by Apache Arrow (today)
+- [jeremykenedy/laravel-exception-notifier](https://github.com/jeremykenedy/laravel-exception-notifier) - Laravel Exception Notifier will send an email of the error along with the stack trace to the chosen recipients. This Package includes all necessary traits, views, configs, and Mailers for email notifications upon your applications exceptions. You can customize who send to, cc to, bcc to, enable/disable, and custom subject or default subject based on environment. Built for Laravel 5.2, 5.3, 5.4, 5.5+.  Get the errors and fix them before the client even reports them, that's why this exists! For Laravel 5, 6, and 7 (today)
+- [jeremykenedy/larablog](https://github.com/jeremykenedy/larablog) - A powerful open source Laravel Blog with WYSWYG and CRUD (Create Read Update Delete) built on Laravel 5.8 and Bootstrap 4 (today)
+- [jeremykenedy/laravel-material-design](https://github.com/jeremykenedy/laravel-material-design) - Laravel 5.6 on Material Design Lite 1.3 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. This makes full use of Controllers for the routes, templates for the views, and makes use of middleware for routing. Uses laravel ORM modeling and has CRUD (Create Read Update Delete) functionality for all tasks. Quick setup, can be done in 5 minutes. It will take longer to obtain your Facebook, Twitter, and Google Plus API Keys than it will to set this up. (today)
+- [jeremykenedy/laravel-spa](https://github.com/jeremykenedy/laravel-spa) - A Laravel + Socialite + Vite + Vue 3 + TailwindCSS SPA Boilerplate with user authentication, registration, email verification, social media authentication, password recovery, user management, and roles/permissions management. Uses TailwindCSS. While the front end is part of this repository it is a completely separated Vue 3 front end. (today)
 
 ## 🔨 Latest Pull Requests I published
 
