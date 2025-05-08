@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ultimateBroK](https://github.com/ultimateBroK)
+- [btwitsPratyush](https://github.com/btwitsPratyush)
 - [nilansh-07](https://github.com/nilansh-07)
 - [gaurav-singh-25](https://github.com/gaurav-singh-25)
 - [Zupils](https://github.com/Zupils)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Kirito9910](https://github.com/Kirito9910)
 - [SA926-COBRA](https://github.com/SA926-COBRA)
 - [savant-cat](https://github.com/savant-cat)
-- [Top-g99](https://github.com/Top-g99)
-- [gloriousLoaf](https://github.com/gloriousLoaf)
 
 ## ⭐ Recent stars
 
