@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Sibyx/phpGPX](https://github.com/Sibyx/phpGPX) - Simple library for reading and creating GPX files written in PHP. (today)
 - [oracle/visualvm](https://github.com/oracle/visualvm) - VisualVM is an All-in-One Java Troubleshooting Tool (today)
 - [xhochy/fletcher](https://github.com/xhochy/fletcher) - Pandas ExtensionDType/Array backed by Apache Arrow (today)
 - [jeremykenedy/laravel-exception-notifier](https://github.com/jeremykenedy/laravel-exception-notifier) - Laravel Exception Notifier will send an email of the error along with the stack trace to the chosen recipients. This Package includes all necessary traits, views, configs, and Mailers for email notifications upon your applications exceptions. You can customize who send to, cc to, bcc to, enable/disable, and custom subject or default subject based on environment. Built for Laravel 5.2, 5.3, 5.4, 5.5+.  Get the errors and fix them before the client even reports them, that's why this exists! For Laravel 5, 6, and 7 (today)
 - [jeremykenedy/larablog](https://github.com/jeremykenedy/larablog) - A powerful open source Laravel Blog with WYSWYG and CRUD (Create Read Update Delete) built on Laravel 5.8 and Bootstrap 4 (today)
-- [jeremykenedy/laravel-material-design](https://github.com/jeremykenedy/laravel-material-design) - Laravel 5.6 on Material Design Lite 1.3 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. This makes full use of Controllers for the routes, templates for the views, and makes use of middleware for routing. Uses laravel ORM modeling and has CRUD (Create Read Update Delete) functionality for all tasks. Quick setup, can be done in 5 minutes. It will take longer to obtain your Facebook, Twitter, and Google Plus API Keys than it will to set this up. (today)
 
 ## 🔨 Latest Pull Requests I published
 
