@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [prayerslayer/js.spec](https://github.com/prayerslayer/js.spec) - clojure.spec for Javascript (today)
+- [mareksuscak/cs50](https://github.com/mareksuscak/cs50) - 🎓 Harvard CS50x — 2018 solutions 👨‍🏫 (today)
 - [tmaximini/generator-ionic-gulp](https://github.com/tmaximini/generator-ionic-gulp) - A Yeoman generator for fast hybrid app development that stays out of your way (today)
 - [okonet/react-container-dimensions](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize and passes new dimensions down the tree. Based on https://github.com/wnr/element-resize-detector (today)
 - [okonet/modalbox](https://github.com/okonet/modalbox) - Mac OS X style javascript pop-ups for your browser (based on prototype + script.aculo.us) (today)
-- [okonet/react-scroll-sync](https://github.com/okonet/react-scroll-sync) - Synced scroll position across multiple scrollable elements (today)
-- [kaihendry/pingprom](https://github.com/kaihendry/pingprom) - Prometheus uptime monitoring quickstart (today)
 
 ## 🔨 Latest Pull Requests I published
 
