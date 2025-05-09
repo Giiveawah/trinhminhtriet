@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [geforce-tech](https://github.com/geforce-tech)
+- [youssef969](https://github.com/youssef969)
 - [devimccallion](https://github.com/devimccallion)
 - [Alexander-The-Great-1337](https://github.com/Alexander-The-Great-1337)
 - [soot-bit](https://github.com/soot-bit)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ultimateBroK](https://github.com/ultimateBroK)
 - [btwitsPratyush](https://github.com/btwitsPratyush)
 - [nilansh-07](https://github.com/nilansh-07)
-- [gaurav-singh-25](https://github.com/gaurav-singh-25)
-- [Zupils](https://github.com/Zupils)
 
 ## ⭐ Recent stars
 
