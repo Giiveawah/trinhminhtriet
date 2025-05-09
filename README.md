@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [soot-bit](https://github.com/soot-bit)
+- [ezzeddinp](https://github.com/ezzeddinp)
 - [AsHkAn-Django](https://github.com/AsHkAn-Django)
 - [ultimateBroK](https://github.com/ultimateBroK)
 - [btwitsPratyush](https://github.com/btwitsPratyush)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Zupils](https://github.com/Zupils)
 - [Chuong98CC](https://github.com/Chuong98CC)
 - [prissycorrea](https://github.com/prissycorrea)
-- [Kirito9910](https://github.com/Kirito9910)
-- [SA926-COBRA](https://github.com/SA926-COBRA)
 
 ## ⭐ Recent stars
 
