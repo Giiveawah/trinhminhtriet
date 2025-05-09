@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - A little beautifier tool for xcodebuild (today)
-- [paramaggarwal/rn-paper-interface](https://github.com/paramaggarwal/rn-paper-interface) - Implementation of Facebook Paper-like interactive UI in React Native. (today)
-- [britg/sinatra-cross_origin](https://github.com/britg/sinatra-cross_origin) - Cross Origin Request Sharing extension for Sinatra (today)
-- [britg/MultistrokeGestureRecognizer-iOS](https://github.com/britg/MultistrokeGestureRecognizer-iOS) - A library for defining and detecting multi-stroke gestures created through touch-input on iOS devices (today)
-- [dfed/SafeDI](https://github.com/dfed/SafeDI) - Compile-time-safe dependency injection in Swift (today)
+- [tmaximini/generator-ionic-gulp](https://github.com/tmaximini/generator-ionic-gulp) - A Yeoman generator for fast hybrid app development that stays out of your way (today)
+- [okonet/react-container-dimensions](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize and passes new dimensions down the tree. Based on https://github.com/wnr/element-resize-detector (today)
+- [okonet/modalbox](https://github.com/okonet/modalbox) - Mac OS X style javascript pop-ups for your browser (based on prototype + script.aculo.us) (today)
+- [okonet/react-scroll-sync](https://github.com/okonet/react-scroll-sync) - Synced scroll position across multiple scrollable elements (today)
+- [kaihendry/pingprom](https://github.com/kaihendry/pingprom) - Prometheus uptime monitoring quickstart (today)
 
 ## 🔨 Latest Pull Requests I published
 
