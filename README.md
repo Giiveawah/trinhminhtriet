@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AsHkAn-Django](https://github.com/AsHkAn-Django)
 - [ultimateBroK](https://github.com/ultimateBroK)
 - [btwitsPratyush](https://github.com/btwitsPratyush)
 - [nilansh-07](https://github.com/nilansh-07)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [prissycorrea](https://github.com/prissycorrea)
 - [Kirito9910](https://github.com/Kirito9910)
 - [SA926-COBRA](https://github.com/SA926-COBRA)
-- [savant-cat](https://github.com/savant-cat)
 
 ## ⭐ Recent stars
 
+- [ismamz/react-bootstrap-icons](https://github.com/ismamz/react-bootstrap-icons) - React component for Bootstrap Icons (today)
+- [ismamz/next-transition-router](https://github.com/ismamz/next-transition-router) - Easily add animated transitions between pages using Next.js App Router and your favorite animation library. (today)
+- [ismamz/postcss-utilities](https://github.com/ismamz/postcss-utilities) - PostCSS plugin to add a collection of mixins, shortcuts, helpers and tools for your CSS (today)
 - [prayerslayer/js.spec](https://github.com/prayerslayer/js.spec) - clojure.spec for Javascript (today)
 - [mareksuscak/cs50](https://github.com/mareksuscak/cs50) - 🎓 Harvard CS50x — 2018 solutions 👨‍🏫 (today)
-- [tmaximini/generator-ionic-gulp](https://github.com/tmaximini/generator-ionic-gulp) - A Yeoman generator for fast hybrid app development that stays out of your way (today)
-- [okonet/react-container-dimensions](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize and passes new dimensions down the tree. Based on https://github.com/wnr/element-resize-detector (today)
-- [okonet/modalbox](https://github.com/okonet/modalbox) - Mac OS X style javascript pop-ups for your browser (based on prototype + script.aculo.us) (today)
 
 ## 🔨 Latest Pull Requests I published
 
