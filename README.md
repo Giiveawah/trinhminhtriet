@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [milio48/serveo](https://github.com/milio48/serveo) - Serveo port forwarder, ngrok alternative (today)
+- [pymike00/The-Complete-Guide-To-DRF-and-VueJS](https://github.com/pymike00/The-Complete-Guide-To-DRF-and-VueJS) - :loudspeaker: Source Code from my Web Dev Course *The Complete Guide To Django REST Framework and Vue JS* (today)
 - [yaooqinn/spark-authorizer](https://github.com/yaooqinn/spark-authorizer) - A Spark SQL extension which provides SQL Standard Authorization for Apache Spark | This repo is contributed to Apache Kyuubi | 项目已迁移至 Apache Kyuubi (today)
 - [xinrong-meng/knowledge-sharing](https://github.com/xinrong-meng/knowledge-sharing) - Hub for curated insights and resources on software systems and technologies (today)
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives (today)
-- [wking-io/elm-live](https://github.com/wking-io/elm-live) - ⚡ A flexible dev server for Elm. Live reload included. (today)
-- [paulca/whenever.js](https://github.com/paulca/whenever.js) - A nice little library for writing and implementing web application behavior in javascript that looks like English. (today)
 
 ## 🔨 Latest Pull Requests I published
 
