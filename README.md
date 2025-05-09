@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [yaooqinn/spark-authorizer](https://github.com/yaooqinn/spark-authorizer) - A Spark SQL extension which provides SQL Standard Authorization for Apache Spark | This repo is contributed to Apache Kyuubi | 项目已迁移至 Apache Kyuubi (today)
+- [xinrong-meng/knowledge-sharing](https://github.com/xinrong-meng/knowledge-sharing) - Hub for curated insights and resources on software systems and technologies (today)
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives (today)
 - [wking-io/elm-live](https://github.com/wking-io/elm-live) - ⚡ A flexible dev server for Elm. Live reload included. (today)
 - [paulca/whenever.js](https://github.com/paulca/whenever.js) - A nice little library for writing and implementing web application behavior in javascript that looks like English. (today)
-- [paulca/eyeballs.js](https://github.com/paulca/eyeballs.js) - A lightweight MVC framework for building fast, tidy javascript web apps (today)
-- [blaine/xmpp4r-simple](https://github.com/blaine/xmpp4r-simple) - Jabber::Simple (today)
 
 ## 🔨 Latest Pull Requests I published
 
