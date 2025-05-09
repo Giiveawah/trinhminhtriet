@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity (today)
-- [lodev09/react-native-cell-components](https://github.com/lodev09/react-native-cell-components) - Awesome react-native cell components! From a Cell to more complex & awesome components. (today)
-- [lodev09/react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - The true native bottom sheet experience 💩 (today)
-- [milio48/serveo](https://github.com/milio48/serveo) - Serveo port forwarder, ngrok alternative (today)
-- [pymike00/The-Complete-Guide-To-DRF-and-VueJS](https://github.com/pymike00/The-Complete-Guide-To-DRF-and-VueJS) - :loudspeaker: Source Code from my Web Dev Course *The Complete Guide To Django REST Framework and Vue JS* (today)
+- [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - A little beautifier tool for xcodebuild (today)
+- [paramaggarwal/rn-paper-interface](https://github.com/paramaggarwal/rn-paper-interface) - Implementation of Facebook Paper-like interactive UI in React Native. (today)
+- [britg/sinatra-cross_origin](https://github.com/britg/sinatra-cross_origin) - Cross Origin Request Sharing extension for Sinatra (today)
+- [britg/MultistrokeGestureRecognizer-iOS](https://github.com/britg/MultistrokeGestureRecognizer-iOS) - A library for defining and detecting multi-stroke gestures created through touch-input on iOS devices (today)
+- [dfed/SafeDI](https://github.com/dfed/SafeDI) - Compile-time-safe dependency injection in Swift (today)
 
 ## 🔨 Latest Pull Requests I published
 
