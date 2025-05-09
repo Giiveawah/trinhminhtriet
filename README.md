@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [devimccallion](https://github.com/devimccallion)
 - [Alexander-The-Great-1337](https://github.com/Alexander-The-Great-1337)
 - [soot-bit](https://github.com/soot-bit)
 - [ezzeddinp](https://github.com/ezzeddinp)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nilansh-07](https://github.com/nilansh-07)
 - [gaurav-singh-25](https://github.com/gaurav-singh-25)
 - [Zupils](https://github.com/Zupils)
-- [Chuong98CC](https://github.com/Chuong98CC)
 
 ## ⭐ Recent stars
 
