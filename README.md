@@ -33,10 +33,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
-- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (3 days ago)
-- [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (1 week ago)
-- [trinhminhtriet/cargo-kit](https://github.com/trinhminhtriet/cargo-kit) - Cargo subcommand to apply performance, compile-time, or size-optimized profiles and configs to your Rust project for enhanced build efficiency. (1 week ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (4 days ago)
+- [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (2 weeks ago)
+- [trinhminhtriet/cargo-kit](https://github.com/trinhminhtriet/cargo-kit) - Cargo subcommand to apply performance, compile-time, or size-optimized profiles and configs to your Rust project for enhanced build efficiency. (2 weeks ago)
 - [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (2 weeks ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 weeks ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (2 weeks ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [tuzz/game-loop](https://github.com/tuzz/game-loop) - A Rust crate that implements a frame-rate-independent game loop. (today)
-- [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) - Rust - Augmented Audio Libraries (today)
-- [yamadapc/js-written-number](https://github.com/yamadapc/js-written-number) - Convert numbers to words - their written form (today)
-- [syamilmj/aqua-page-builder](https://github.com/syamilmj/aqua-page-builder) - Aqua Page Builder WordPress Plugin (today)
-- [syamilmj/Options-Framework](https://github.com/syamilmj/Options-Framework) - Slightly modified options framework, w/ drag & drop slider and other customizations. (today)
+- [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives (today)
+- [wking-io/elm-live](https://github.com/wking-io/elm-live) - ⚡ A flexible dev server for Elm. Live reload included. (today)
+- [paulca/whenever.js](https://github.com/paulca/whenever.js) - A nice little library for writing and implementing web application behavior in javascript that looks like English. (today)
+- [paulca/eyeballs.js](https://github.com/paulca/eyeballs.js) - A lightweight MVC framework for building fast, tidy javascript web apps (today)
+- [blaine/xmpp4r-simple](https://github.com/blaine/xmpp4r-simple) - Jabber::Simple (today)
 
 ## 🔨 Latest Pull Requests I published
 
