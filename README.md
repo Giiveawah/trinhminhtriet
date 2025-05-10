@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aliamini-gh](https://github.com/aliamini-gh)
+- [ntphuc149](https://github.com/ntphuc149)
 - [Rachmanullah](https://github.com/Rachmanullah)
 - [yoann256](https://github.com/yoann256)
 - [l3002](https://github.com/l3002)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [geforce-tech](https://github.com/geforce-tech)
 - [youssef969](https://github.com/youssef969)
 - [devimccallion](https://github.com/devimccallion)
-- [Alexander-The-Great-1337](https://github.com/Alexander-The-Great-1337)
-- [soot-bit](https://github.com/soot-bit)
 
 ## ⭐ Recent stars
 
