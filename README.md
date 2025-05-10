@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [yoann256](https://github.com/yoann256)
 - [l3002](https://github.com/l3002)
 - [palonza](https://github.com/palonza)
 - [Fanndev](https://github.com/Fanndev)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Alexander-The-Great-1337](https://github.com/Alexander-The-Great-1337)
 - [soot-bit](https://github.com/soot-bit)
 - [ezzeddinp](https://github.com/ezzeddinp)
-- [AsHkAn-Django](https://github.com/AsHkAn-Django)
 
 ## ⭐ Recent stars
 
