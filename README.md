@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [palonza](https://github.com/palonza)
 - [Fanndev](https://github.com/Fanndev)
 - [geforce-tech](https://github.com/geforce-tech)
 - [youssef969](https://github.com/youssef969)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ezzeddinp](https://github.com/ezzeddinp)
 - [AsHkAn-Django](https://github.com/AsHkAn-Django)
 - [ultimateBroK](https://github.com/ultimateBroK)
-- [btwitsPratyush](https://github.com/btwitsPratyush)
 
 ## ⭐ Recent stars
 
