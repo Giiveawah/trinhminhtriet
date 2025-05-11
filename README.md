@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Wissasono11](https://github.com/Wissasono11)
+- [jfullstackdev](https://github.com/jfullstackdev)
 - [joyangelai](https://github.com/joyangelai)
 - [bestrace103](https://github.com/bestrace103)
 - [Bykamri](https://github.com/Bykamri)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [aliamini-gh](https://github.com/aliamini-gh)
 - [ntphuc149](https://github.com/ntphuc149)
 - [Rachmanullah](https://github.com/Rachmanullah)
-- [yoann256](https://github.com/yoann256)
-- [l3002](https://github.com/l3002)
 
 ## ⭐ Recent stars
 
