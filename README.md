@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [pforret/bashew](https://github.com/pforret/bashew) - bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing (today)
 - [malyshev/yii-debug-toolbar](https://github.com/malyshev/yii-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.  (today)
 - [nikolaypavlov/MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X (today)
 - [dmaslov/flask-blog](https://github.com/dmaslov/flask-blog) - simple blog engine written on Flask (today)
 - [Sammyjo20/Wagonwheel](https://github.com/Sammyjo20/Wagonwheel) - ☸️ Offer an online version of your Laravel emails to users. (today)
-- [Sammyjo20/ssh-php](https://github.com/Sammyjo20/ssh-php) - The ridiculously simple starting point for building PHP SSH apps! 🔥 (today)
 
 ## 🔨 Latest Pull Requests I published
 
