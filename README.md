@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Bykamri](https://github.com/Bykamri)
 - [shamsmm](https://github.com/shamsmm)
 - [priyalorha](https://github.com/priyalorha)
 - [aliamini-gh](https://github.com/aliamini-gh)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [l3002](https://github.com/l3002)
 - [palonza](https://github.com/palonza)
 - [Fanndev](https://github.com/Fanndev)
-- [geforce-tech](https://github.com/geforce-tech)
 
 ## ⭐ Recent stars
 
