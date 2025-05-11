@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shamsmm](https://github.com/shamsmm)
 - [priyalorha](https://github.com/priyalorha)
 - [aliamini-gh](https://github.com/aliamini-gh)
 - [ntphuc149](https://github.com/ntphuc149)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [palonza](https://github.com/palonza)
 - [Fanndev](https://github.com/Fanndev)
 - [geforce-tech](https://github.com/geforce-tech)
-- [youssef969](https://github.com/youssef969)
 
 ## ⭐ Recent stars
 
+- [isidentical/refactor](https://github.com/isidentical/refactor) - AST-based fragmental source code refactoring toolkit for Python (today)
 - [pforret/bashew](https://github.com/pforret/bashew) - bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing (today)
 - [malyshev/yii-debug-toolbar](https://github.com/malyshev/yii-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.  (today)
 - [nikolaypavlov/MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X (today)
 - [dmaslov/flask-blog](https://github.com/dmaslov/flask-blog) - simple blog engine written on Flask (today)
-- [Sammyjo20/Wagonwheel](https://github.com/Sammyjo20/Wagonwheel) - ☸️ Offer an online version of your Laravel emails to users. (today)
 
 ## 🔨 Latest Pull Requests I published
 
