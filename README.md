@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [joyangelai](https://github.com/joyangelai)
 - [bestrace103](https://github.com/bestrace103)
 - [Bykamri](https://github.com/Bykamri)
 - [shamsmm](https://github.com/shamsmm)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Rachmanullah](https://github.com/Rachmanullah)
 - [yoann256](https://github.com/yoann256)
 - [l3002](https://github.com/l3002)
-- [palonza](https://github.com/palonza)
 
 ## ⭐ Recent stars
 
