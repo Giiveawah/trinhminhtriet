@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [priyalorha](https://github.com/priyalorha)
 - [aliamini-gh](https://github.com/aliamini-gh)
 - [ntphuc149](https://github.com/ntphuc149)
 - [Rachmanullah](https://github.com/Rachmanullah)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Fanndev](https://github.com/Fanndev)
 - [geforce-tech](https://github.com/geforce-tech)
 - [youssef969](https://github.com/youssef969)
-- [devimccallion](https://github.com/devimccallion)
 
 ## ⭐ Recent stars
 
-- [nicehorse06/se-job](https://github.com/nicehorse06/se-job) - Software Engineer Job Note，讓新手從0到1入門，有1到100的成長能力 (1 day ago)
-- [emmatyping/pyhooked](https://github.com/emmatyping/pyhooked) - Pure Python hotkey hook, with thanks to pyHook and pyhk (2 days ago)
-- [emmatyping/cce](https://github.com/emmatyping/cce) - commandline compiler explorer - use https://godbolt.org from your terminal! (2 days ago)
-- [emmatyping/python-wasm](https://github.com/emmatyping/python-wasm) - Build scripts and configuration for building CPython for Emscripten (2 days ago)
-- [emmatyping/WSL-Programs](https://github.com/emmatyping/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux (2 days ago)
+- [malyshev/yii-debug-toolbar](https://github.com/malyshev/yii-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.  (today)
+- [nikolaypavlov/MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X (today)
+- [dmaslov/flask-blog](https://github.com/dmaslov/flask-blog) - simple blog engine written on Flask (today)
+- [Sammyjo20/Wagonwheel](https://github.com/Sammyjo20/Wagonwheel) - ☸️ Offer an online version of your Laravel emails to users. (today)
+- [Sammyjo20/ssh-php](https://github.com/Sammyjo20/ssh-php) - The ridiculously simple starting point for building PHP SSH apps! 🔥 (today)
 
 ## 🔨 Latest Pull Requests I published
 
