@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [potato77/Tech_Blog](https://github.com/potato77/Tech_Blog) - 无人机理论及实践学习心得 (today)
-- [nkwangyh/CubemapSLAM](https://github.com/nkwangyh/CubemapSLAM) - A Piecewise-Pinhole Monocular Fisheye SLAM System (today)
-- [mengchaoheng/SCUT_thesis](https://github.com/mengchaoheng/SCUT_thesis) - 华南理工大学硕博士学位论文模板(LaTeX)。Latex templates for the thesis of South China University of Technology (today)
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks (today)
-- [hongweipeng/GreenGrapes](https://github.com/hongweipeng/GreenGrapes) - typecho 响应式绿色科技感双栏主题，永远相信有人的审美总会和我一样。 (1 day ago)
+- [sco1/flake8-annotations](https://github.com/sco1/flake8-annotations) - Flake8 Type Annotation Checking (today)
+- [C3n7ral051nt4g3ncy/OSINT-Bookmarklets](https://github.com/C3n7ral051nt4g3ncy/OSINT-Bookmarklets) - Fast Search including Dark Web Search (today)
+- [C3n7ral051nt4g3ncy/Prot1ntelligence](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence) - Protintelligence is a Python script for the OSINT and Cyber Community. This tool helps you to find intelligence on Protonmail users. (today)
+- [C3n7ral051nt4g3ncy/OSINT_Inception-links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links) - Current links from the OSINT Inception start-me project (today)
+- [C3n7ral051nt4g3ncy/WebOSINT](https://github.com/C3n7ral051nt4g3ncy/WebOSINT) - W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering. (today)
 
 ## 🔨 Latest Pull Requests I published
 
