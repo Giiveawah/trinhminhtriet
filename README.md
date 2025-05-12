@@ -59,16 +59,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [potato77/Tech_Blog](https://github.com/potato77/Tech_Blog) - 无人机理论及实践学习心得 (today)
+- [nkwangyh/CubemapSLAM](https://github.com/nkwangyh/CubemapSLAM) - A Piecewise-Pinhole Monocular Fisheye SLAM System (today)
+- [mengchaoheng/SCUT_thesis](https://github.com/mengchaoheng/SCUT_thesis) - 华南理工大学硕博士学位论文模板(LaTeX)。Latex templates for the thesis of South China University of Technology (today)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks (today)
 - [hongweipeng/GreenGrapes](https://github.com/hongweipeng/GreenGrapes) - typecho 响应式绿色科技感双栏主题，永远相信有人的审美总会和我一样。 (1 day ago)
-- [isidentical/refactor](https://github.com/isidentical/refactor) - AST-based fragmental source code refactoring toolkit for Python (1 day ago)
-- [pforret/bashew](https://github.com/pforret/bashew) - bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing (1 day ago)
-- [malyshev/yii-debug-toolbar](https://github.com/malyshev/yii-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.  (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
+- [Develop](https://github.com/trinhminhtriet/repoctl/pull/17) on [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) (today)
 - [Develop](https://github.com/trinhminhtriet/scanr/pull/22) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (3 days ago)
 - [Develop](https://github.com/trinhminhtriet/scanr/pull/21) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (3 days ago)
 - [Develop](https://github.com/trinhminhtriet/pingy/pull/8) on [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) (3 days ago)
 - [Develop](https://github.com/trinhminhtriet/blast/pull/13) on [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) (3 weeks ago)
-- [Develop](https://github.com/trinhminhtriet/procx/pull/24) on [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) (1 month ago)
