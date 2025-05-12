@@ -33,14 +33,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (1 day ago)
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 day ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
-- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (6 days ago)
+- [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (2 days ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (5 days ago)
+- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (1 week ago)
 - [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (2 weeks ago)
 - [trinhminhtriet/cargo-kit](https://github.com/trinhminhtriet/cargo-kit) - Cargo subcommand to apply performance, compile-time, or size-optimized profiles and configs to your Rust project for enhanced build efficiency. (2 weeks ago)
 - [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (2 weeks ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 weeks ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 weeks ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (3 weeks ago)
 - [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (3 weeks ago)
 
@@ -59,16 +59,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [hongweipeng/GreenGrapes](https://github.com/hongweipeng/GreenGrapes) - typecho 响应式绿色科技感双栏主题，永远相信有人的审美总会和我一样。 (today)
-- [isidentical/refactor](https://github.com/isidentical/refactor) - AST-based fragmental source code refactoring toolkit for Python (today)
-- [pforret/bashew](https://github.com/pforret/bashew) - bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing (today)
-- [malyshev/yii-debug-toolbar](https://github.com/malyshev/yii-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.  (today)
-- [nikolaypavlov/MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X (today)
+- [hongweipeng/GreenGrapes](https://github.com/hongweipeng/GreenGrapes) - typecho 响应式绿色科技感双栏主题，永远相信有人的审美总会和我一样。 (1 day ago)
+- [isidentical/refactor](https://github.com/isidentical/refactor) - AST-based fragmental source code refactoring toolkit for Python (1 day ago)
+- [pforret/bashew](https://github.com/pforret/bashew) - bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing (1 day ago)
+- [malyshev/yii-debug-toolbar](https://github.com/malyshev/yii-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.  (1 day ago)
+- [nikolaypavlov/MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Develop](https://github.com/trinhminhtriet/scanr/pull/22) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (2 days ago)
-- [Develop](https://github.com/trinhminhtriet/scanr/pull/21) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (2 days ago)
-- [Develop](https://github.com/trinhminhtriet/pingy/pull/8) on [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) (2 days ago)
-- [Develop](https://github.com/trinhminhtriet/blast/pull/13) on [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) (2 weeks ago)
+- [Develop](https://github.com/trinhminhtriet/scanr/pull/22) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (3 days ago)
+- [Develop](https://github.com/trinhminhtriet/scanr/pull/21) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (3 days ago)
+- [Develop](https://github.com/trinhminhtriet/pingy/pull/8) on [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) (3 days ago)
+- [Develop](https://github.com/trinhminhtriet/blast/pull/13) on [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) (3 weeks ago)
 - [Develop](https://github.com/trinhminhtriet/procx/pull/24) on [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) (1 month ago)
