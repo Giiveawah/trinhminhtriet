@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks (today)
 - [hongweipeng/GreenGrapes](https://github.com/hongweipeng/GreenGrapes) - typecho 响应式绿色科技感双栏主题，永远相信有人的审美总会和我一样。 (1 day ago)
 - [isidentical/refactor](https://github.com/isidentical/refactor) - AST-based fragmental source code refactoring toolkit for Python (1 day ago)
 - [pforret/bashew](https://github.com/pforret/bashew) - bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing (1 day ago)
 - [malyshev/yii-debug-toolbar](https://github.com/malyshev/yii-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.  (1 day ago)
-- [nikolaypavlov/MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
