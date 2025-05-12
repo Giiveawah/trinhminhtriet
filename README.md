@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [oshkoshbagoshh](https://github.com/oshkoshbagoshh)
 - [AB-JUBAIR](https://github.com/AB-JUBAIR)
 - [gpbaculio](https://github.com/gpbaculio)
 - [DanielShuey](https://github.com/DanielShuey)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [joyangelai](https://github.com/joyangelai)
 - [bestrace103](https://github.com/bestrace103)
 - [Bykamri](https://github.com/Bykamri)
-- [shamsmm](https://github.com/shamsmm)
 
 ## ⭐ Recent stars
 
