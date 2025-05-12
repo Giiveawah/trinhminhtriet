@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [katybennett](https://github.com/katybennett)
+- [Zer0-Bug](https://github.com/Zer0-Bug)
+- [pabelyakov](https://github.com/pabelyakov)
+- [BleedingCannibal](https://github.com/BleedingCannibal)
 - [oshkoshbagoshh](https://github.com/oshkoshbagoshh)
 - [AB-JUBAIR](https://github.com/AB-JUBAIR)
 - [gpbaculio](https://github.com/gpbaculio)
 - [DanielShuey](https://github.com/DanielShuey)
 - [marcellinoputra](https://github.com/marcellinoputra)
 - [Wissasono11](https://github.com/Wissasono11)
-- [jfullstackdev](https://github.com/jfullstackdev)
-- [joyangelai](https://github.com/joyangelai)
-- [bestrace103](https://github.com/bestrace103)
-- [Bykamri](https://github.com/Bykamri)
 
 ## ⭐ Recent stars
 
+- [szabolcsdombi/zengl](https://github.com/szabolcsdombi/zengl) - OpenGL Rendering Pipelines for Python (today)
+- [anderseknert/kube-review](https://github.com/anderseknert/kube-review) - Create Kubernetes AdmissionReview requests from Kubernetes resource manifests (today)
 - [sco1/flake8-annotations](https://github.com/sco1/flake8-annotations) - Flake8 Type Annotation Checking (today)
 - [C3n7ral051nt4g3ncy/OSINT-Bookmarklets](https://github.com/C3n7ral051nt4g3ncy/OSINT-Bookmarklets) - Fast Search including Dark Web Search (today)
 - [C3n7ral051nt4g3ncy/Prot1ntelligence](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence) - Protintelligence is a Python script for the OSINT and Cyber Community. This tool helps you to find intelligence on Protonmail users. (today)
-- [C3n7ral051nt4g3ncy/OSINT_Inception-links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links) - Current links from the OSINT Inception start-me project (today)
-- [C3n7ral051nt4g3ncy/WebOSINT](https://github.com/C3n7ral051nt4g3ncy/WebOSINT) - W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering. (today)
 
 ## 🔨 Latest Pull Requests I published
 
