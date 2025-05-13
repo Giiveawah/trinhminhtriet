@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [loyvsc](https://github.com/loyvsc)
 - [wyaaaattwho](https://github.com/wyaaaattwho)
 - [Wilksonflor](https://github.com/Wilksonflor)
 - [SACRlFICE](https://github.com/SACRlFICE)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mcdrm](https://github.com/mcdrm)
 - [Vitorfullstack](https://github.com/Vitorfullstack)
 - [katybennett](https://github.com/katybennett)
-- [Zer0-Bug](https://github.com/Zer0-Bug)
 
 ## ⭐ Recent stars
 
-- [mildsunrise/darter](https://github.com/mildsunrise/darter) - :detective: Dart / Flutter VM snapshot analyzer (today)
-- [mildsunrise/protobuf-inspector](https://github.com/mildsunrise/protobuf-inspector) - 🕵️ Tool to reverse-engineer Protocol Buffers with unknown definition (today)
-- [2307vivek/Paging-3-Sample](https://github.com/2307vivek/Paging-3-Sample) - This app is created as a sample app which loads movies from Tmdb api and uses Paging 3 library to show it in a Recycler view. (today)
-- [2307vivek/BubblePager](https://github.com/2307vivek/BubblePager) - Clone of a onboarding screen📱animation using Jetpack Compose in Android. (today)
-- [2307vivek/Seeker](https://github.com/2307vivek/Seeker) - A highly customizable seekbar/slider library for android with support for readahead indicator, segments and more. Made with Jetpack Compose ❤. (today)
+- [jessety/pm2-installer](https://github.com/jessety/pm2-installer) - Install PM2 offline as a service on Windows or Linux. Mostly designed for Windows. (today)
+- [numToStr/lemmy-help](https://github.com/numToStr/lemmy-help) - Every one needs help, so lemmy-help you! A CLI to generate vim/nvim help doc from emmylua (today)
+- [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow (today)
+- [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim and terminal multiplexer(s) :sparkles: (today)
+- [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire: (today)
 
 ## 🔨 Latest Pull Requests I published
 
