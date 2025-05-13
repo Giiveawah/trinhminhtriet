@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [nathanborror/django-registration](https://github.com/nathanborror/django-registration) - Unofficial mirror of django-registration with templates!  (today)
-- [nathanborror/FlapFlap](https://github.com/nathanborror/FlapFlap) - Flappy Bird Clone for learning purposes—feel free to play along. (today)
-- [nathanborror/SonosKit](https://github.com/nathanborror/SonosKit) - A simple API for interacting with Sonos speakers on a local network. (today)
-- [nathanborror/Heat](https://github.com/nathanborror/Heat) - An LLM agnostic desktop and mobile client. (today)
-- [nathanborror/Play](https://github.com/nathanborror/Play) - A better Sonos controller for iOS (today)
+- [crisxuan/bestJavaer](https://github.com/crisxuan/bestJavaer) - 这是一个成为更好的Java程序员的系列教程 (today)
+- [yuhaoliu7456/Diff-Plugin](https://github.com/yuhaoliu7456/Diff-Plugin) - [CVPR 2024] Official code release of our paper "Diff-Plugin: Revitalizing Details for Diffusion-based Low-level tasks" (today)
+- [yuhaoliu7456/CVPR2020-HAttMatting](https://github.com/yuhaoliu7456/CVPR2020-HAttMatting) - Attention-Guided Hierarchical Structure Aggregation for Image Matting(CVPR2020) (today)
+- [jiawen-zhu/ViPT](https://github.com/jiawen-zhu/ViPT) - [CVPR23] Visual Prompt Multi-Modal Tracking (today)
+- [jiawen-zhu/HQTrack](https://github.com/jiawen-zhu/HQTrack) - Tracking Anything in High Quality (today)
 
 ## 🔨 Latest Pull Requests I published
 
