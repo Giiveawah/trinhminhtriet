@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [wyaaaattwho](https://github.com/wyaaaattwho)
+- [Wilksonflor](https://github.com/Wilksonflor)
+- [SACRlFICE](https://github.com/SACRlFICE)
 - [Nima-Mollaei](https://github.com/Nima-Mollaei)
 - [sodaMelon](https://github.com/sodaMelon)
 - [zoxilsi](https://github.com/zoxilsi)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Vitorfullstack](https://github.com/Vitorfullstack)
 - [katybennett](https://github.com/katybennett)
 - [Zer0-Bug](https://github.com/Zer0-Bug)
-- [pabelyakov](https://github.com/pabelyakov)
-- [BleedingCannibal](https://github.com/BleedingCannibal)
-- [oshkoshbagoshh](https://github.com/oshkoshbagoshh)
 
 ## ⭐ Recent stars
 
