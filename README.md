@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [crisxuan/bestJavaer](https://github.com/crisxuan/bestJavaer) - 这是一个成为更好的Java程序员的系列教程 (today)
-- [yuhaoliu7456/Diff-Plugin](https://github.com/yuhaoliu7456/Diff-Plugin) - [CVPR 2024] Official code release of our paper "Diff-Plugin: Revitalizing Details for Diffusion-based Low-level tasks" (today)
-- [yuhaoliu7456/CVPR2020-HAttMatting](https://github.com/yuhaoliu7456/CVPR2020-HAttMatting) - Attention-Guided Hierarchical Structure Aggregation for Image Matting(CVPR2020) (today)
-- [jiawen-zhu/ViPT](https://github.com/jiawen-zhu/ViPT) - [CVPR23] Visual Prompt Multi-Modal Tracking (today)
-- [jiawen-zhu/HQTrack](https://github.com/jiawen-zhu/HQTrack) - Tracking Anything in High Quality (today)
+- [mildsunrise/darter](https://github.com/mildsunrise/darter) - :detective: Dart / Flutter VM snapshot analyzer (today)
+- [mildsunrise/protobuf-inspector](https://github.com/mildsunrise/protobuf-inspector) - 🕵️ Tool to reverse-engineer Protocol Buffers with unknown definition (today)
+- [2307vivek/Paging-3-Sample](https://github.com/2307vivek/Paging-3-Sample) - This app is created as a sample app which loads movies from Tmdb api and uses Paging 3 library to show it in a Recycler view. (today)
+- [2307vivek/BubblePager](https://github.com/2307vivek/BubblePager) - Clone of a onboarding screen📱animation using Jetpack Compose in Android. (today)
+- [2307vivek/Seeker](https://github.com/2307vivek/Seeker) - A highly customizable seekbar/slider library for android with support for readahead indicator, segments and more. Made with Jetpack Compose ❤. (today)
 
 ## 🔨 Latest Pull Requests I published
 
