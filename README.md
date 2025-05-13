@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [UlisesGascon/javascript-inspirate](https://github.com/UlisesGascon/javascript-inspirate) - :book: JavaScript, ¡Inspírate! por Ulises Gascón (today)
-- [darribas/gds_env](https://github.com/darribas/gds_env) - A containerised platform for Geographic Data Science (today)
-- [Ovyerus/prismaliser](https://github.com/Ovyerus/prismaliser) - Visualise your Prisma schema! (today)
-- [gruberdev/tf-free](https://github.com/gruberdev/tf-free) - This repository enables the creation of cloud-native resources across all major cloud providers, utilizing only free-tier resources, provisioning them using Terraform. (today)
-- [gruberdev/homelab](https://github.com/gruberdev/homelab) - A self-managed ArgoCD homelab kubernetes cluster using Talos (today)
+- [nathanborror/django-registration](https://github.com/nathanborror/django-registration) - Unofficial mirror of django-registration with templates!  (today)
+- [nathanborror/FlapFlap](https://github.com/nathanborror/FlapFlap) - Flappy Bird Clone for learning purposes—feel free to play along. (today)
+- [nathanborror/SonosKit](https://github.com/nathanborror/SonosKit) - A simple API for interacting with Sonos speakers on a local network. (today)
+- [nathanborror/Heat](https://github.com/nathanborror/Heat) - An LLM agnostic desktop and mobile client. (today)
+- [nathanborror/Play](https://github.com/nathanborror/Play) - A better Sonos controller for iOS (today)
 
 ## 🔨 Latest Pull Requests I published
 
