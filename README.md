@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Nima-Mollaei](https://github.com/Nima-Mollaei)
 - [sodaMelon](https://github.com/sodaMelon)
 - [zoxilsi](https://github.com/zoxilsi)
 - [mcdrm](https://github.com/mcdrm)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [pabelyakov](https://github.com/pabelyakov)
 - [BleedingCannibal](https://github.com/BleedingCannibal)
 - [oshkoshbagoshh](https://github.com/oshkoshbagoshh)
-- [AB-JUBAIR](https://github.com/AB-JUBAIR)
 
 ## ⭐ Recent stars
 
