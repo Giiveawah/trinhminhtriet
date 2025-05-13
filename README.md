@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [zoxilsi](https://github.com/zoxilsi)
 - [mcdrm](https://github.com/mcdrm)
 - [Vitorfullstack](https://github.com/Vitorfullstack)
 - [katybennett](https://github.com/katybennett)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [oshkoshbagoshh](https://github.com/oshkoshbagoshh)
 - [AB-JUBAIR](https://github.com/AB-JUBAIR)
 - [gpbaculio](https://github.com/gpbaculio)
-- [DanielShuey](https://github.com/DanielShuey)
 
 ## ⭐ Recent stars
 
+- [UlisesGascon/javascript-inspirate](https://github.com/UlisesGascon/javascript-inspirate) - :book: JavaScript, ¡Inspírate! por Ulises Gascón (today)
 - [darribas/gds_env](https://github.com/darribas/gds_env) - A containerised platform for Geographic Data Science (today)
 - [Ovyerus/prismaliser](https://github.com/Ovyerus/prismaliser) - Visualise your Prisma schema! (today)
 - [gruberdev/tf-free](https://github.com/gruberdev/tf-free) - This repository enables the creation of cloud-native resources across all major cloud providers, utilizing only free-tier resources, provisioning them using Terraform. (today)
 - [gruberdev/homelab](https://github.com/gruberdev/homelab) - A self-managed ArgoCD homelab kubernetes cluster using Talos (today)
-- [wuzhiguocarter/Awesome-WiFi-CSI-Research](https://github.com/wuzhiguocarter/Awesome-WiFi-CSI-Research) - Accelerate your WiFi CSI research progress by sharing and cooperation! (today)
 
 ## 🔨 Latest Pull Requests I published
 
