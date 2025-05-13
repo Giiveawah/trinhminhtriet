@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [CombiningIdeas](https://github.com/CombiningIdeas)
 - [loyvsc](https://github.com/loyvsc)
 - [wyaaaattwho](https://github.com/wyaaaattwho)
 - [Wilksonflor](https://github.com/Wilksonflor)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [zoxilsi](https://github.com/zoxilsi)
 - [mcdrm](https://github.com/mcdrm)
 - [Vitorfullstack](https://github.com/Vitorfullstack)
-- [katybennett](https://github.com/katybennett)
 
 ## ⭐ Recent stars
 
+- [yshkk/shanbay-mina](https://github.com/yshkk/shanbay-mina) - 基于wepy框架的“扇贝阅读”微信小程序 (today)
+- [Tishacy/SciDownl](https://github.com/Tishacy/SciDownl) - An unofficial api for downloading papers from SciHub via DOI, PMID, title (today)
+- [kikoso/Swipeable-Cards](https://github.com/kikoso/Swipeable-Cards) - A native library providing a Tinder-like cards effect. A card can be constructed using an image and displayed with animation effects, dismiss-to-like and dismiss-to-unlike, and use different sorting mechanisms. (today)
+- [kikoso/android-stackblur](https://github.com/kikoso/android-stackblur) - Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann. (today)
 - [jessety/pm2-installer](https://github.com/jessety/pm2-installer) - Install PM2 offline as a service on Windows or Linux. Mostly designed for Windows. (today)
-- [numToStr/lemmy-help](https://github.com/numToStr/lemmy-help) - Every one needs help, so lemmy-help you! A CLI to generate vim/nvim help doc from emmylua (today)
-- [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow (today)
-- [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim and terminal multiplexer(s) :sparkles: (today)
-- [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire: (today)
 
 ## 🔨 Latest Pull Requests I published
 
