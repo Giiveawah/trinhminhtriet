@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [bastilimbach/docker-MagicMirror](https://github.com/bastilimbach/docker-MagicMirror) - Docker image for the Magic Mirror 2 project by Michael Teeuw. (today)
-- [bfolkens/py-market-profile](https://github.com/bfolkens/py-market-profile) - A library to calculate Market Profile (aka Volume Profile) for financial data from a Pandas DataFrame. (today)
-- [ValarDragon/CTF-Crypto](https://github.com/ValarDragon/CTF-Crypto) - Contains tools for solving RSA and other crypto problems in CTFs. (today)
-- [daodaoliang/NBaseUiKit](https://github.com/daodaoliang/NBaseUiKit) - 个人平时使用的一些Qt编写的组件(有部分是整合的开源作品，部分是自己原创)； (today)
-- [tomquist/Android-Error-Reporter](https://github.com/tomquist/Android-Error-Reporter) - Library to report unhandled exceptions in android projects (today)
+- [mmomtchev/node-gdal-async](https://github.com/mmomtchev/node-gdal-async) - Node.js bindings for GDAL (Geospatial Data Abstraction Library) with full async support (today)
+- [mmomtchev/rlayers](https://github.com/mmomtchev/rlayers) - React Component Library for OpenLayers (today)
+- [mcchrish/nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager for vim/neovim powered by n³ (today)
+- [mcchrish/vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors (today)
+- [ayamir/bspwm-dotfiles](https://github.com/ayamir/bspwm-dotfiles) - My Arch+Bspwm dotfiles (today)
 
 ## 🔨 Latest Pull Requests I published
 
