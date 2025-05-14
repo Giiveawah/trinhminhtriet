@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [OscarAglr](https://github.com/OscarAglr)
 - [mumuz3ra](https://github.com/mumuz3ra)
 - [bar-echa](https://github.com/bar-echa)
 - [space-bio](https://github.com/space-bio)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [CombiningIdeas](https://github.com/CombiningIdeas)
 - [loyvsc](https://github.com/loyvsc)
 - [wyaaaattwho](https://github.com/wyaaaattwho)
-- [Wilksonflor](https://github.com/Wilksonflor)
 
 ## ⭐ Recent stars
 
