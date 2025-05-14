@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer (today)
 - [LeslieTrue/SFTvsRL](https://github.com/LeslieTrue/SFTvsRL) - Official implementation of paper: SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training (today)
 - [HaozhiQi/hora](https://github.com/HaozhiQi/hora) - In-Hand Object Rotation via Rapid Motor Adaptation (CoRL 2022), and more (today)
 - [HaozhiQi/ISONet](https://github.com/HaozhiQi/ISONet) - Deep Isometric Learning for Visual Recognition (ICML 2020) (today)
 - [Easonyesheng/A2PM-MESA](https://github.com/Easonyesheng/A2PM-MESA) - [CVPR'24] MESA: Matching Everything by Segmenting Anything (today)
-- [theangryangel/logstash-output-jdbc](https://github.com/theangryangel/logstash-output-jdbc) - JDBC output for Logstash (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
