@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [isadora-cmn](https://github.com/isadora-cmn)
+- [CombiningIdeas](https://github.com/CombiningIdeas)
+- [Gaini-Laxman](https://github.com/Gaini-Laxman)
 - [serkantolga](https://github.com/serkantolga)
 - [toroDragon0206](https://github.com/toroDragon0206)
 - [hl2311](https://github.com/hl2311)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BagusAri-17](https://github.com/BagusAri-17)
 - [OscarAglr](https://github.com/OscarAglr)
 - [mumuz3ra](https://github.com/mumuz3ra)
-- [bar-echa](https://github.com/bar-echa)
-- [space-bio](https://github.com/space-bio)
-- [Nuuriii](https://github.com/Nuuriii)
 
 ## ⭐ Recent stars
 
+- [kellenf/TSP_collection](https://github.com/kellenf/TSP_collection) - TSP算法全复现：遗传(GA)、粒子群(PSO)、模拟退火(SA)、禁忌搜索(ST)、蚁群算法(ACO)、自自组织神经网络(SOM) (today)
+- [vagusX/koa-proxies](https://github.com/vagusX/koa-proxies) - a koa@2.x+ proxy middleware (today)
 - [luzzhong/tcc-transaction](https://github.com/luzzhong/tcc-transaction) - 基于Hyperf的TCC分布式事务 (today)
 - [carmel/gooxml](https://github.com/carmel/gooxml) (today)
 - [fexed/Pinball-on-Android](https://github.com/fexed/Pinball-on-Android) - Android port of 3D Pinball Space Cadet (today)
-- [helins/binf.cljc](https://github.com/helins/binf.cljc) - Handling binary formats in all shapes and forms (today)
-- [helins/wasm.cljc](https://github.com/helins/wasm.cljc) - Spec compliant WebAssembly compiler, decompiler, and generator (today)
 
 ## 🔨 Latest Pull Requests I published
 
