@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [kellenf/TSP_collection](https://github.com/kellenf/TSP_collection) - TSP算法全复现：遗传(GA)、粒子群(PSO)、模拟退火(SA)、禁忌搜索(ST)、蚁群算法(ACO)、自自组织神经网络(SOM) (today)
-- [vagusX/koa-proxies](https://github.com/vagusX/koa-proxies) - a koa@2.x+ proxy middleware (today)
-- [luzzhong/tcc-transaction](https://github.com/luzzhong/tcc-transaction) - 基于Hyperf的TCC分布式事务 (today)
-- [carmel/gooxml](https://github.com/carmel/gooxml) (today)
-- [fexed/Pinball-on-Android](https://github.com/fexed/Pinball-on-Android) - Android port of 3D Pinball Space Cadet (today)
+- [justmoon/constitute](https://github.com/justmoon/constitute) - Minimalistic Dependency Injection (DI) for ES5/ES6/ES7 (today)
+- [justmoon/node-extend](https://github.com/justmoon/node-extend) - Simple function to extend objects (today)
+- [justmoon/node-bignum](https://github.com/justmoon/node-bignum) - Big integers for Node.js using OpenSSL (today)
+- [wess/overlook](https://github.com/wess/overlook) - The Judge, Jury and Executioner for the file system (today)
+- [wess/Survey](https://github.com/wess/Survey) - iOS Form building made simple (today)
 
 ## 🔨 Latest Pull Requests I published
 
