@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BagusAri-17](https://github.com/BagusAri-17)
 - [OscarAglr](https://github.com/OscarAglr)
 - [mumuz3ra](https://github.com/mumuz3ra)
 - [bar-echa](https://github.com/bar-echa)
@@ -53,7 +54,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Nuuriii](https://github.com/Nuuriii)
 - [mrjahsan](https://github.com/mrjahsan)
 - [Pratikw369](https://github.com/Pratikw369)
-- [CombiningIdeas](https://github.com/CombiningIdeas)
 - [loyvsc](https://github.com/loyvsc)
 - [wyaaaattwho](https://github.com/wyaaaattwho)
 
