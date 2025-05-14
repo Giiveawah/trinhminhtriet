@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (4 days ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (4 days ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (1 week ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hl2311](https://github.com/hl2311)
 - [tsautier](https://github.com/tsautier)
 - [BagusAri-17](https://github.com/BagusAri-17)
 - [OscarAglr](https://github.com/OscarAglr)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Nuuriii](https://github.com/Nuuriii)
 - [mrjahsan](https://github.com/mrjahsan)
 - [Pratikw369](https://github.com/Pratikw369)
-- [loyvsc](https://github.com/loyvsc)
 
 ## ⭐ Recent stars
 
-- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (today)
-- [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer (today)
-- [LeslieTrue/SFTvsRL](https://github.com/LeslieTrue/SFTvsRL) - Official implementation of paper: SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training (today)
-- [HaozhiQi/hora](https://github.com/HaozhiQi/hora) - In-Hand Object Rotation via Rapid Motor Adaptation (CoRL 2022), and more (today)
-- [HaozhiQi/ISONet](https://github.com/HaozhiQi/ISONet) - Deep Isometric Learning for Visual Recognition (ICML 2020) (today)
+- [bastilimbach/docker-MagicMirror](https://github.com/bastilimbach/docker-MagicMirror) - Docker image for the Magic Mirror 2 project by Michael Teeuw. (today)
+- [bfolkens/py-market-profile](https://github.com/bfolkens/py-market-profile) - A library to calculate Market Profile (aka Volume Profile) for financial data from a Pandas DataFrame. (today)
+- [ValarDragon/CTF-Crypto](https://github.com/ValarDragon/CTF-Crypto) - Contains tools for solving RSA and other crypto problems in CTFs. (today)
+- [daodaoliang/NBaseUiKit](https://github.com/daodaoliang/NBaseUiKit) - 个人平时使用的一些Qt编写的组件(有部分是整合的开源作品，部分是自己原创)； (today)
+- [tomquist/Android-Error-Reporter](https://github.com/tomquist/Android-Error-Reporter) - Library to report unhandled exceptions in android projects (today)
 
 ## 🔨 Latest Pull Requests I published
 
