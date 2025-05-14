@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mumuz3ra](https://github.com/mumuz3ra)
+- [bar-echa](https://github.com/bar-echa)
+- [space-bio](https://github.com/space-bio)
+- [Nuuriii](https://github.com/Nuuriii)
 - [mrjahsan](https://github.com/mrjahsan)
 - [Pratikw369](https://github.com/Pratikw369)
 - [CombiningIdeas](https://github.com/CombiningIdeas)
 - [loyvsc](https://github.com/loyvsc)
 - [wyaaaattwho](https://github.com/wyaaaattwho)
 - [Wilksonflor](https://github.com/Wilksonflor)
-- [SACRlFICE](https://github.com/SACRlFICE)
-- [Nima-Mollaei](https://github.com/Nima-Mollaei)
-- [sodaMelon](https://github.com/sodaMelon)
-- [zoxilsi](https://github.com/zoxilsi)
 
 ## ⭐ Recent stars
 
