@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [serkantolga](https://github.com/serkantolga)
 - [toroDragon0206](https://github.com/toroDragon0206)
 - [hl2311](https://github.com/hl2311)
 - [tsautier](https://github.com/tsautier)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [bar-echa](https://github.com/bar-echa)
 - [space-bio](https://github.com/space-bio)
 - [Nuuriii](https://github.com/Nuuriii)
-- [mrjahsan](https://github.com/mrjahsan)
 
 ## ⭐ Recent stars
 
