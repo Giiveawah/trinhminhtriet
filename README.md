@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [tsautier](https://github.com/tsautier)
 - [BagusAri-17](https://github.com/BagusAri-17)
 - [OscarAglr](https://github.com/OscarAglr)
 - [mumuz3ra](https://github.com/mumuz3ra)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mrjahsan](https://github.com/mrjahsan)
 - [Pratikw369](https://github.com/Pratikw369)
 - [loyvsc](https://github.com/loyvsc)
-- [wyaaaattwho](https://github.com/wyaaaattwho)
 
 ## ⭐ Recent stars
 
+- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (today)
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer (today)
 - [LeslieTrue/SFTvsRL](https://github.com/LeslieTrue/SFTvsRL) - Official implementation of paper: SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training (today)
 - [HaozhiQi/hora](https://github.com/HaozhiQi/hora) - In-Hand Object Rotation via Rapid Motor Adaptation (CoRL 2022), and more (today)
 - [HaozhiQi/ISONet](https://github.com/HaozhiQi/ISONet) - Deep Isometric Learning for Visual Recognition (ICML 2020) (today)
-- [Easonyesheng/A2PM-MESA](https://github.com/Easonyesheng/A2PM-MESA) - [CVPR'24] MESA: Matching Everything by Segmenting Anything (today)
 
 ## 🔨 Latest Pull Requests I published
 
