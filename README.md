@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [saransh-g1](https://github.com/saransh-g1)
 - [AdelinoBard](https://github.com/AdelinoBard)
 - [yaronday](https://github.com/yaronday)
 - [Saon110](https://github.com/Saon110)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Gaini-Laxman](https://github.com/Gaini-Laxman)
 - [serkantolga](https://github.com/serkantolga)
 - [toroDragon0206](https://github.com/toroDragon0206)
-- [hl2311](https://github.com/hl2311)
 
 ## ⭐ Recent stars
 
