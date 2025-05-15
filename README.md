@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ImJustB1ll](https://github.com/ImJustB1ll)
 - [isadora-cmn](https://github.com/isadora-cmn)
 - [CombiningIdeas](https://github.com/CombiningIdeas)
 - [Gaini-Laxman](https://github.com/Gaini-Laxman)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [tsautier](https://github.com/tsautier)
 - [BagusAri-17](https://github.com/BagusAri-17)
 - [OscarAglr](https://github.com/OscarAglr)
-- [mumuz3ra](https://github.com/mumuz3ra)
 
 ## ⭐ Recent stars
 
