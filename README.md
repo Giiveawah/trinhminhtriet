@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AmirPeyravan](https://github.com/AmirPeyravan)
+- [Eliakim-ellie](https://github.com/Eliakim-ellie)
 - [otoshimtoshi](https://github.com/otoshimtoshi)
 - [emiryusuftopbas](https://github.com/emiryusuftopbas)
 - [OsqY](https://github.com/OsqY)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [amittenak47](https://github.com/amittenak47)
 - [alisher-kadraliev](https://github.com/alisher-kadraliev)
 - [vasu-kukkapalli](https://github.com/vasu-kukkapalli)
-- [charlesking421](https://github.com/charlesking421)
-- [lisentowind](https://github.com/lisentowind)
 
 ## ⭐ Recent stars
 
