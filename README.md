@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [charlesking421](https://github.com/charlesking421)
+- [lisentowind](https://github.com/lisentowind)
 - [hambone81](https://github.com/hambone81)
 - [parthvirani7](https://github.com/parthvirani7)
 - [mybadclan](https://github.com/mybadclan)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [AdelinoBard](https://github.com/AdelinoBard)
 - [yaronday](https://github.com/yaronday)
 - [Saon110](https://github.com/Saon110)
-- [ImJustB1ll](https://github.com/ImJustB1ll)
-- [isadora-cmn](https://github.com/isadora-cmn)
 
 ## ⭐ Recent stars
 
