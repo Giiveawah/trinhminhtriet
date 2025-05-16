@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [DeclanChidlow/BritCSS](https://github.com/DeclanChidlow/BritCSS) - Fixes CSS to use non-bastardised spellings. (today)
-- [icodebuster/transition.js](https://github.com/icodebuster/transition.js) - A simple and elegant single page transition library. (today)
-- [Fonta1n3/FullyNoded](https://github.com/Fonta1n3/FullyNoded) - Self sovereign, secure, powerful, easy to use wallet that utilizes your own node as a backend. Powered by PSBT's and descriptors. Acts as an offline signer using your node as a watch-only wallet. C-Lightning compatible for instant, unfairly cheap payments.  (today)
-- [caio-andres/leetcode-challenge](https://github.com/caio-andres/leetcode-challenge) - It's the LeetCode Challenge. Created by @caio-andres & @matheusaudibert & @enzowxl to improve our structure algorithm skill using https://leetcode.com/. (today)
-- [andreruffert/progressive-image-element](https://github.com/andreruffert/progressive-image-element) - ⚡️ Progressively enhance image placeholders once they are in the viewport (2 days ago)
+- [eddiemoore/angular-spotify](https://github.com/eddiemoore/angular-spotify) - Angular Service to connect to Spotify Web API (today)
+- [RichardBray/color-me-sass](https://github.com/RichardBray/color-me-sass) - Colour library for the css preprocessor SASS (today)
+- [elazar/asynchronous-php](https://github.com/elazar/asynchronous-php) - List of resources for asynchronous programming in PHP (today)
+- [felixgirault/pure-render-decorator](https://github.com/felixgirault/pure-render-decorator) - An ES7 decorator to make React components "pure". (today)
+- [mieky/sideshow](https://github.com/mieky/sideshow) - A minimalistic dashboard-as-a-service (today)
 
 ## 🔨 Latest Pull Requests I published
 
