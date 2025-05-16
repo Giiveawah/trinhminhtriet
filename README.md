@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hambone81](https://github.com/hambone81)
+- [parthvirani7](https://github.com/parthvirani7)
 - [mybadclan](https://github.com/mybadclan)
 - [letfontenelle](https://github.com/letfontenelle)
 - [saransh-g1](https://github.com/saransh-g1)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Saon110](https://github.com/Saon110)
 - [ImJustB1ll](https://github.com/ImJustB1ll)
 - [isadora-cmn](https://github.com/isadora-cmn)
-- [Gaini-Laxman](https://github.com/Gaini-Laxman)
-- [serkantolga](https://github.com/serkantolga)
 
 ## ⭐ Recent stars
 
