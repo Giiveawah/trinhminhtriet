@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [amittenak47](https://github.com/amittenak47)
 - [alisher-kadraliev](https://github.com/alisher-kadraliev)
 - [vasu-kukkapalli](https://github.com/vasu-kukkapalli)
 - [charlesking421](https://github.com/charlesking421)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mybadclan](https://github.com/mybadclan)
 - [letfontenelle](https://github.com/letfontenelle)
 - [saransh-g1](https://github.com/saransh-g1)
-- [AdelinoBard](https://github.com/AdelinoBard)
 
 ## ⭐ Recent stars
 
+- [DeclanChidlow/BritCSS](https://github.com/DeclanChidlow/BritCSS) - Fixes CSS to use non-bastardised spellings. (today)
+- [icodebuster/transition.js](https://github.com/icodebuster/transition.js) - A simple and elegant single page transition library. (today)
 - [Fonta1n3/FullyNoded](https://github.com/Fonta1n3/FullyNoded) - Self sovereign, secure, powerful, easy to use wallet that utilizes your own node as a backend. Powered by PSBT's and descriptors. Acts as an offline signer using your node as a watch-only wallet. C-Lightning compatible for instant, unfairly cheap payments.  (today)
 - [caio-andres/leetcode-challenge](https://github.com/caio-andres/leetcode-challenge) - It's the LeetCode Challenge. Created by @caio-andres & @matheusaudibert & @enzowxl to improve our structure algorithm skill using https://leetcode.com/. (today)
 - [andreruffert/progressive-image-element](https://github.com/andreruffert/progressive-image-element) - ⚡️ Progressively enhance image placeholders once they are in the viewport (2 days ago)
-- [andreruffert/rangeslider.js](https://github.com/andreruffert/rangeslider.js) - 🎚 HTML5 input range slider element  jQuery polyfill (2 days ago)
-- [justmoon/constitute](https://github.com/justmoon/constitute) - Minimalistic Dependency Injection (DI) for ES5/ES6/ES7 (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
