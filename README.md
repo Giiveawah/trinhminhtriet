@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [marichu-kt](https://github.com/marichu-kt)
 - [AmirPeyravan](https://github.com/AmirPeyravan)
 - [Eliakim-ellie](https://github.com/Eliakim-ellie)
 - [otoshimtoshi](https://github.com/otoshimtoshi)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mbitujames](https://github.com/mbitujames)
 - [amittenak47](https://github.com/amittenak47)
 - [alisher-kadraliev](https://github.com/alisher-kadraliev)
-- [vasu-kukkapalli](https://github.com/vasu-kukkapalli)
 
 ## ⭐ Recent stars
 
+- [59naga/babel-plugin-add-module-exports](https://github.com/59naga/babel-plugin-add-module-exports) - 【v0.2 no longer maintained】 Fix babel/babel#2212 - Follow the babel@5 behavior for babel@6 (today)
+- [NateBaldwinDesign/proportio](https://github.com/NateBaldwinDesign/proportio) - Tool for creating proportional scales for typography, iconography, spacing, and components in design systems. (today)
 - [eddiemoore/angular-spotify](https://github.com/eddiemoore/angular-spotify) - Angular Service to connect to Spotify Web API (today)
 - [RichardBray/color-me-sass](https://github.com/RichardBray/color-me-sass) - Colour library for the css preprocessor SASS (today)
 - [elazar/asynchronous-php](https://github.com/elazar/asynchronous-php) - List of resources for asynchronous programming in PHP (today)
-- [felixgirault/pure-render-decorator](https://github.com/felixgirault/pure-render-decorator) - An ES7 decorator to make React components "pure". (today)
-- [mieky/sideshow](https://github.com/mieky/sideshow) - A minimalistic dashboard-as-a-service (today)
 
 ## 🔨 Latest Pull Requests I published
 
