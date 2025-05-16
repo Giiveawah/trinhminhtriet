@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [caio-andres/leetcode-challenge](https://github.com/caio-andres/leetcode-challenge) - It's the LeetCode Challenge. Created by @caio-andres & @matheusaudibert & @enzowxl to improve our structure algorithm skill using https://leetcode.com/. (today)
 - [andreruffert/progressive-image-element](https://github.com/andreruffert/progressive-image-element) - ⚡️ Progressively enhance image placeholders once they are in the viewport (2 days ago)
 - [andreruffert/rangeslider.js](https://github.com/andreruffert/rangeslider.js) - 🎚 HTML5 input range slider element  jQuery polyfill (2 days ago)
 - [justmoon/constitute](https://github.com/justmoon/constitute) - Minimalistic Dependency Injection (DI) for ES5/ES6/ES7 (2 days ago)
 - [justmoon/node-extend](https://github.com/justmoon/node-extend) - Simple function to extend objects (2 days ago)
-- [justmoon/node-bignum](https://github.com/justmoon/node-bignum) - Big integers for Node.js using OpenSSL (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
