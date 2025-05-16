@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [OsqY](https://github.com/OsqY)
+- [AlexanderDev2004](https://github.com/AlexanderDev2004)
+- [mbitujames](https://github.com/mbitujames)
 - [amittenak47](https://github.com/amittenak47)
 - [alisher-kadraliev](https://github.com/alisher-kadraliev)
 - [vasu-kukkapalli](https://github.com/vasu-kukkapalli)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lisentowind](https://github.com/lisentowind)
 - [hambone81](https://github.com/hambone81)
 - [parthvirani7](https://github.com/parthvirani7)
-- [mybadclan](https://github.com/mybadclan)
-- [letfontenelle](https://github.com/letfontenelle)
-- [saransh-g1](https://github.com/saransh-g1)
 
 ## ⭐ Recent stars
 
