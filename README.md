@@ -55,7 +55,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [emiryusuftopbas](https://github.com/emiryusuftopbas)
 - [OsqY](https://github.com/OsqY)
 - [AlexanderDev2004](https://github.com/AlexanderDev2004)
-- [mbitujames](https://github.com/mbitujames)
+- [amittenak47](https://github.com/amittenak47)
 
 ## ⭐ Recent stars
 
