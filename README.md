@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [phfg1](https://github.com/phfg1)
 - [marichu-kt](https://github.com/marichu-kt)
 - [AmirPeyravan](https://github.com/AmirPeyravan)
 - [Eliakim-ellie](https://github.com/Eliakim-ellie)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [AlexanderDev2004](https://github.com/AlexanderDev2004)
 - [mbitujames](https://github.com/mbitujames)
 - [amittenak47](https://github.com/amittenak47)
-- [alisher-kadraliev](https://github.com/alisher-kadraliev)
 
 ## ⭐ Recent stars
 
