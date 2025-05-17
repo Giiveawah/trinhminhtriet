@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nantunggaputra](https://github.com/nantunggaputra)
 - [Saurav3004](https://github.com/Saurav3004)
 - [Riciolus](https://github.com/Riciolus)
 - [phfg1](https://github.com/phfg1)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [otoshimtoshi](https://github.com/otoshimtoshi)
 - [emiryusuftopbas](https://github.com/emiryusuftopbas)
 - [OsqY](https://github.com/OsqY)
-- [AlexanderDev2004](https://github.com/AlexanderDev2004)
 
 ## ⭐ Recent stars
 
