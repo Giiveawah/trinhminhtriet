@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [devtanish](https://github.com/devtanish)
 - [Nima-Mollaei](https://github.com/Nima-Mollaei)
 - [SideeID](https://github.com/SideeID)
 - [iam-rishabh](https://github.com/iam-rishabh)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [phfg1](https://github.com/phfg1)
 - [marichu-kt](https://github.com/marichu-kt)
 - [AmirPeyravan](https://github.com/AmirPeyravan)
-- [Eliakim-ellie](https://github.com/Eliakim-ellie)
 
 ## ⭐ Recent stars
 
