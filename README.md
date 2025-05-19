@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Baku-Stark](https://github.com/Baku-Stark)
+- [hiccup000](https://github.com/hiccup000)
 - [pinkth3floyd](https://github.com/pinkth3floyd)
 - [RissMorisson](https://github.com/RissMorisson)
 - [EliotMan](https://github.com/EliotMan)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [majidrazaee2](https://github.com/majidrazaee2)
 - [minshantt](https://github.com/minshantt)
 - [ghost2468developer](https://github.com/ghost2468developer)
-- [john1123-git](https://github.com/john1123-git)
-- [alivveee](https://github.com/alivveee)
 
 ## ⭐ Recent stars
 
