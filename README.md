@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [sudoguy/tiktok_bot](https://github.com/sudoguy/tiktok_bot) - New tiktok bot on https://github.com/sudoguy/tiktokpy (today)
+- [sudoguy/tiktokpy](https://github.com/sudoguy/tiktokpy) - Tool for automated TikTok interactions (today)
+- [arvimal/oop_with_python](https://github.com/arvimal/oop_with_python) - Object-Oriented Programming concepts, with Python (today)
 - [sfter/cias-mint](https://github.com/sfter/cias-mint) - Celestia(tia) 公链铭文 cias mint 脚本 (today)
 - [sfter/evm-inscription-mint](https://github.com/sfter/evm-inscription-mint) - 兼容 evm 的铭文 Mint 工具 (today)
-- [douglasduteil/isparta](https://github.com/douglasduteil/isparta) - :skull: A code coverage tool for ES6 (babel/6to5) (3 days ago)
-- [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively (3 days ago)
-- [MichalZalecki/connect-rxjs-to-react](https://github.com/MichalZalecki/connect-rxjs-to-react) - Connect rxjs to React component in Redux style... but without dispatch and constants. (3 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
