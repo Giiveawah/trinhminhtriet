@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [majidrazaee2](https://github.com/majidrazaee2)
 - [minshantt](https://github.com/minshantt)
 - [ghost2468developer](https://github.com/ghost2468developer)
 - [john1123-git](https://github.com/john1123-git)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [devtanish](https://github.com/devtanish)
 - [Nima-Mollaei](https://github.com/Nima-Mollaei)
 - [SideeID](https://github.com/SideeID)
-- [iam-rishabh](https://github.com/iam-rishabh)
 
 ## ⭐ Recent stars
 
