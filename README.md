@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [pinkth3floyd](https://github.com/pinkth3floyd)
+- [RissMorisson](https://github.com/RissMorisson)
 - [EliotMan](https://github.com/EliotMan)
 - [brian-kim31](https://github.com/brian-kim31)
 - [tasnimahmed11](https://github.com/tasnimahmed11)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ghost2468developer](https://github.com/ghost2468developer)
 - [john1123-git](https://github.com/john1123-git)
 - [alivveee](https://github.com/alivveee)
-- [Upwork-Job32](https://github.com/Upwork-Job32)
-- [kurkul608](https://github.com/kurkul608)
 
 ## ⭐ Recent stars
 
