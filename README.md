@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [john1123-git](https://github.com/john1123-git)
 - [alivveee](https://github.com/alivveee)
 - [Upwork-Job32](https://github.com/Upwork-Job32)
 - [kurkul608](https://github.com/kurkul608)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [iam-rishabh](https://github.com/iam-rishabh)
 - [nantunggaputra](https://github.com/nantunggaputra)
 - [Saurav3004](https://github.com/Saurav3004)
-- [Riciolus](https://github.com/Riciolus)
 
 ## ⭐ Recent stars
 
