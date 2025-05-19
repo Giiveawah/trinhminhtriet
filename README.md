@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [xk19yahoo](https://github.com/xk19yahoo)
 - [mahmoudz98](https://github.com/mahmoudz98)
 - [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
 - [Baku-Stark](https://github.com/Baku-Stark)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [EliotMan](https://github.com/EliotMan)
 - [brian-kim31](https://github.com/brian-kim31)
 - [tasnimahmed11](https://github.com/tasnimahmed11)
-- [majidrazaee2](https://github.com/majidrazaee2)
 
 ## ⭐ Recent stars
 
