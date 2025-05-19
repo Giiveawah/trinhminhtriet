@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [zhuangsirui/binpacker](https://github.com/zhuangsirui/binpacker) - A binary stream packer and unpacker (today)
+- [hjlarry/flask-shop](https://github.com/hjlarry/flask-shop) - an e-commerce project mock of saleor (today)
+- [gauravghongde/social-icons](https://github.com/gauravghongde/social-icons) - Collection of SVG & PNG social media icons. Embeddable Social Icons, Use directly on your websites. (today)
+- [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜 (today)
 - [sudoguy/tiktok_bot](https://github.com/sudoguy/tiktok_bot) - New tiktok bot on https://github.com/sudoguy/tiktokpy (today)
-- [sudoguy/tiktokpy](https://github.com/sudoguy/tiktokpy) - Tool for automated TikTok interactions (today)
-- [arvimal/oop_with_python](https://github.com/arvimal/oop_with_python) - Object-Oriented Programming concepts, with Python (today)
-- [sfter/cias-mint](https://github.com/sfter/cias-mint) - Celestia(tia) 公链铭文 cias mint 脚本 (today)
-- [sfter/evm-inscription-mint](https://github.com/sfter/evm-inscription-mint) - 兼容 evm 的铭文 Mint 工具 (today)
 
 ## 🔨 Latest Pull Requests I published
 
