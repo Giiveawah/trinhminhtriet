@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [fandreuz/TUI-ConsoleLauncher](https://github.com/fandreuz/TUI-ConsoleLauncher) - Linux CLI Launcher for Android (today)
 - [seregazhuk/php-watcher](https://github.com/seregazhuk/php-watcher) - Monitor for any changes in your php application and automatically restart it (suitable for async apps). (today)
 - [seregazhuk/php-pinterest-bot](https://github.com/seregazhuk/php-pinterest-bot) - This PHP library will help you to work with your Pinterest account without using any API account credentials. (today)
 - [ihor/react-native-scalable-image](https://github.com/ihor/react-native-scalable-image) - React Native Image component which scales width or height automatically to keep the original aspect ratio (today)
 - [ihor/NSPL](https://github.com/ihor/NSPL) - Non-Standard PHP Library - functional primitives toolbox and more (today)
-- [horstjens/ThePythonGameBook](https://github.com/horstjens/ThePythonGameBook) - ThePythonGameBook.com - learn Python programming by coding games (today)
 
 ## 🔨 Latest Pull Requests I published
 
