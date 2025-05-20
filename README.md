@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ShiroDima](https://github.com/ShiroDima)
+- [ashu-011](https://github.com/ashu-011)
+- [eng-Shahd-Mostafa](https://github.com/eng-Shahd-Mostafa)
 - [NicoV00](https://github.com/NicoV00)
 - [Avantiermv](https://github.com/Avantiermv)
 - [mbahomaid](https://github.com/mbahomaid)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SecretariatV](https://github.com/SecretariatV)
 - [wprotheus](https://github.com/wprotheus)
 - [mightstar](https://github.com/mightstar)
-- [suharasalim](https://github.com/suharasalim)
-- [Nuuriii](https://github.com/Nuuriii)
-- [xk19yahoo](https://github.com/xk19yahoo)
 
 ## ⭐ Recent stars
 
