@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [suharasalim](https://github.com/suharasalim)
 - [Nuuriii](https://github.com/Nuuriii)
 - [xk19yahoo](https://github.com/xk19yahoo)
 - [mahmoudz98](https://github.com/mahmoudz98)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [pinkth3floyd](https://github.com/pinkth3floyd)
 - [RissMorisson](https://github.com/RissMorisson)
 - [EliotMan](https://github.com/EliotMan)
-- [brian-kim31](https://github.com/brian-kim31)
 
 ## ⭐ Recent stars
 
+- [seregazhuk/php-watcher](https://github.com/seregazhuk/php-watcher) - Monitor for any changes in your php application and automatically restart it (suitable for async apps). (today)
+- [seregazhuk/php-pinterest-bot](https://github.com/seregazhuk/php-pinterest-bot) - This PHP library will help you to work with your Pinterest account without using any API account credentials. (today)
+- [ihor/react-native-scalable-image](https://github.com/ihor/react-native-scalable-image) - React Native Image component which scales width or height automatically to keep the original aspect ratio (today)
+- [ihor/NSPL](https://github.com/ihor/NSPL) - Non-Standard PHP Library - functional primitives toolbox and more (today)
 - [horstjens/ThePythonGameBook](https://github.com/horstjens/ThePythonGameBook) - ThePythonGameBook.com - learn Python programming by coding games (today)
-- [AaronCosmos/wdcnn_bearning_fault_diagnosis](https://github.com/AaronCosmos/wdcnn_bearning_fault_diagnosis) - wdcnn轴承故障模型 (today)
-- [gsilano/CrazyS](https://github.com/gsilano/CrazyS) - CrazyS is an extension of the ROS package RotorS, aimed to modeling, developing and integrating the Crazyflie 2.0 (today)
-- [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images (today)
-- [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer. (today)
 
 ## 🔨 Latest Pull Requests I published
 
