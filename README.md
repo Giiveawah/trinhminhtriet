@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Avantiermv](https://github.com/Avantiermv)
 - [mbahomaid](https://github.com/mbahomaid)
 - [vnshtiwari](https://github.com/vnshtiwari)
 - [SecretariatV](https://github.com/SecretariatV)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Nuuriii](https://github.com/Nuuriii)
 - [xk19yahoo](https://github.com/xk19yahoo)
 - [mahmoudz98](https://github.com/mahmoudz98)
-- [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
 
 ## ⭐ Recent stars
 
