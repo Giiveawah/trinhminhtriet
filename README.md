@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images (today)
+- [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer. (today)
+- [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation. (today)
 - [zhuangsirui/binpacker](https://github.com/zhuangsirui/binpacker) - A binary stream packer and unpacker (1 day ago)
 - [hjlarry/flask-shop](https://github.com/hjlarry/flask-shop) - an e-commerce project mock of saleor (1 day ago)
-- [gauravghongde/social-icons](https://github.com/gauravghongde/social-icons) - Collection of SVG & PNG social media icons. Embeddable Social Icons, Use directly on your websites. (1 day ago)
-- [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜 (1 day ago)
-- [sudoguy/tiktok_bot](https://github.com/sudoguy/tiktok_bot) - New tiktok bot on https://github.com/sudoguy/tiktokpy (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
