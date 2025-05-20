@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [horstjens/ThePythonGameBook](https://github.com/horstjens/ThePythonGameBook) - ThePythonGameBook.com - learn Python programming by coding games (today)
+- [AaronCosmos/wdcnn_bearning_fault_diagnosis](https://github.com/AaronCosmos/wdcnn_bearning_fault_diagnosis) - wdcnn轴承故障模型 (today)
 - [gsilano/CrazyS](https://github.com/gsilano/CrazyS) - CrazyS is an extension of the ROS package RotorS, aimed to modeling, developing and integrating the Crazyflie 2.0 (today)
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images (today)
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer. (today)
-- [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation. (today)
-- [zhuangsirui/binpacker](https://github.com/zhuangsirui/binpacker) - A binary stream packer and unpacker (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
