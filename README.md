@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SecretariatV](https://github.com/SecretariatV)
+- [wprotheus](https://github.com/wprotheus)
 - [mightstar](https://github.com/mightstar)
 - [suharasalim](https://github.com/suharasalim)
 - [Nuuriii](https://github.com/Nuuriii)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
 - [Baku-Stark](https://github.com/Baku-Stark)
 - [hiccup000](https://github.com/hiccup000)
-- [pinkth3floyd](https://github.com/pinkth3floyd)
-- [RissMorisson](https://github.com/RissMorisson)
 
 ## ⭐ Recent stars
 
