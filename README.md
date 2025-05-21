@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet (today)
+- [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (today)
 - [AngelSanchezT/books-1](https://github.com/AngelSanchezT/books-1) - Books about Nodejs, Angular2, Agile, Clean Code, Docker, Golang, Microservices, REST, TDD, BDD, and Startups. (today)
 - [dcalsky/zzkia](https://github.com/dcalsky/zzkia) - Generate the Nokia picture for fun! 1k star  🥳  🥳  🥳 (today)
 - [xiongwilee/Gracejs](https://github.com/xiongwilee/Gracejs) - A Nodejs BFF framework, build with koa2（基于koa2的标准前后端分离框架） (today)
-- [qhduan/cn-chat-arxiv](https://github.com/qhduan/cn-chat-arxiv) (today)
-- [qhduan/just_another_seq2seq](https://github.com/qhduan/just_another_seq2seq) - Just another seq2seq repo (today)
 
 ## 🔨 Latest Pull Requests I published
 
