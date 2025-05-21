@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [fatal-error-404-samar](https://github.com/fatal-error-404-samar)
 - [G-Hensley](https://github.com/G-Hensley)
 - [Abrahamyozz](https://github.com/Abrahamyozz)
 - [hammadii123](https://github.com/hammadii123)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [AyA-EhaB](https://github.com/AyA-EhaB)
 - [Emiliano-Blackbird](https://github.com/Emiliano-Blackbird)
 - [anandhukrish](https://github.com/anandhukrish)
-- [jihaad23](https://github.com/jihaad23)
 
 ## ⭐ Recent stars
 
