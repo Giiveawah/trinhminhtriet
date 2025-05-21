@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [G-Hensley](https://github.com/G-Hensley)
 - [Abrahamyozz](https://github.com/Abrahamyozz)
 - [hammadii123](https://github.com/hammadii123)
 - [jaysangil](https://github.com/jaysangil)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Emiliano-Blackbird](https://github.com/Emiliano-Blackbird)
 - [anandhukrish](https://github.com/anandhukrish)
 - [jihaad23](https://github.com/jihaad23)
-- [areppzubaidi](https://github.com/areppzubaidi)
 
 ## ⭐ Recent stars
 
+- [AngelSanchezT/books-1](https://github.com/AngelSanchezT/books-1) - Books about Nodejs, Angular2, Agile, Clean Code, Docker, Golang, Microservices, REST, TDD, BDD, and Startups. (today)
 - [dcalsky/zzkia](https://github.com/dcalsky/zzkia) - Generate the Nokia picture for fun! 1k star  🥳  🥳  🥳 (today)
 - [xiongwilee/Gracejs](https://github.com/xiongwilee/Gracejs) - A Nodejs BFF framework, build with koa2（基于koa2的标准前后端分离框架） (today)
 - [qhduan/cn-chat-arxiv](https://github.com/qhduan/cn-chat-arxiv) (today)
 - [qhduan/just_another_seq2seq](https://github.com/qhduan/just_another_seq2seq) - Just another seq2seq repo (today)
-- [qhduan/Seq2Seq_Chatbot_QA](https://github.com/qhduan/Seq2Seq_Chatbot_QA) - 使用TensorFlow实现的Sequence to Sequence的聊天机器人模型 (today)
 
 ## 🔨 Latest Pull Requests I published
 
