@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Andersonmartinsalvesadc](https://github.com/Andersonmartinsalvesadc)
 - [fatal-error-404-samar](https://github.com/fatal-error-404-samar)
 - [G-Hensley](https://github.com/G-Hensley)
 - [Abrahamyozz](https://github.com/Abrahamyozz)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Sawi78112](https://github.com/Sawi78112)
 - [AyA-EhaB](https://github.com/AyA-EhaB)
 - [Emiliano-Blackbird](https://github.com/Emiliano-Blackbird)
-- [anandhukrish](https://github.com/anandhukrish)
 
 ## ⭐ Recent stars
 
+- [dengdan/seglink](https://github.com/dengdan/seglink) - An Implementation of the seglink alogrithm in paper Detecting Oriented Text in Natural Images by Linking Segments (today)
 - [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet (today)
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (today)
 - [AngelSanchezT/books-1](https://github.com/AngelSanchezT/books-1) - Books about Nodejs, Angular2, Agile, Clean Code, Docker, Golang, Microservices, REST, TDD, BDD, and Startups. (today)
 - [dcalsky/zzkia](https://github.com/dcalsky/zzkia) - Generate the Nokia picture for fun! 1k star  🥳  🥳  🥳 (today)
-- [xiongwilee/Gracejs](https://github.com/xiongwilee/Gracejs) - A Nodejs BFF framework, build with koa2（基于koa2的标准前后端分离框架） (today)
 
 ## 🔨 Latest Pull Requests I published
 
