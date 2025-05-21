@@ -34,18 +34,19 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👷 Check out what I'm currently working on
 
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (1 week ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (today)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (today)
+- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (today)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
+- [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (1 week ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (2 weeks ago)
 - [trinhminhtriet/vault](https://github.com/trinhminhtriet/vault) - 🔐 Decrypt and manage encrypted data with a CLI tool built using Go and Cobra framework. (3 weeks ago)
 - [trinhminhtriet/cargo-kit](https://github.com/trinhminhtriet/cargo-kit) - Cargo subcommand to apply performance, compile-time, or size-optimized profiles and configs to your Rust project for enhanced build efficiency. (3 weeks ago)
 - [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (4 weeks ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 month ago)
-- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 month ago)
-- [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (1 month ago)
 
 ## 👯 Check out my recent followers
 
+- [Abrahamyozz](https://github.com/Abrahamyozz)
 - [hammadii123](https://github.com/hammadii123)
 - [jaysangil](https://github.com/jaysangil)
 - [apollo-hero](https://github.com/apollo-hero)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [anandhukrish](https://github.com/anandhukrish)
 - [jihaad23](https://github.com/jihaad23)
 - [areppzubaidi](https://github.com/areppzubaidi)
-- [ShiroDima](https://github.com/ShiroDima)
 
 ## ⭐ Recent stars
 
-- [SethHWeidman/DLFS_code](https://github.com/SethHWeidman/DLFS_code) - Code for the book Deep Learning From Scratch, from O'Reilly September 2019 (today)
-- [bradyz/2020_CARLA_challenge](https://github.com/bradyz/2020_CARLA_challenge) - "Learning by Cheating" (CoRL 2019) submission for the 2020 CARLA Challenge (today)
-- [bradyz/cross_view_transformers](https://github.com/bradyz/cross_view_transformers) - Cross-view Transformers for real-time Map-view Semantic Segmentation (CVPR 2022 Oral) (today)
-- [lzrobots/DeepEmbeddingModel_ZSL](https://github.com/lzrobots/DeepEmbeddingModel_ZSL) - Tensorflow code for CVPR 2017 paper: Learning a Deep Embedding Model for Zero-Shot Learning (today)
-- [lzrobots/LearningToCompare_ZSL](https://github.com/lzrobots/LearningToCompare_ZSL) - PyTorch code for CVPR 2018 paper: Learning to Compare: Relation Network for Few-Shot Learning  (Zero-Shot Learning part) (today)
+- [jrgarciadev/nextjs-todo-list](https://github.com/jrgarciadev/nextjs-todo-list) - 📝 Nextjs TODO List - (Nicolas Schurmann) Challenge (today)
+- [jrgarciadev/react-iconly](https://github.com/jrgarciadev/react-iconly) - 🌈    React component for Iconly icons (today)
+- [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username (today)
+- [FanhuaandLuomu/pkulaw_spider](https://github.com/FanhuaandLuomu/pkulaw_spider) - 爬取北大法宝网http://www.pkulaw.cn/Case/ (today)
+- [FanhuaandLuomu/ParseLawDocuments](https://github.com/FanhuaandLuomu/ParseLawDocuments) - 对收集的法律文档进行一系列分析，包括根据规范自动切分、案件相似度计算、案件聚类、法律条文推荐等（试验目前基于婚姻类案件，可扩展至其它领域）。 (today)
 
 ## 🔨 Latest Pull Requests I published
 
