@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [jaysangil](https://github.com/jaysangil)
+- [apollo-hero](https://github.com/apollo-hero)
 - [Sawi78112](https://github.com/Sawi78112)
 - [AyA-EhaB](https://github.com/AyA-EhaB)
 - [Emiliano-Blackbird](https://github.com/Emiliano-Blackbird)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [areppzubaidi](https://github.com/areppzubaidi)
 - [ShiroDima](https://github.com/ShiroDima)
 - [ashu-011](https://github.com/ashu-011)
-- [eng-Shahd-Mostafa](https://github.com/eng-Shahd-Mostafa)
-- [NicoV00](https://github.com/NicoV00)
 
 ## ⭐ Recent stars
 
