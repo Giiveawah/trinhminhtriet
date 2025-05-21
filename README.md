@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers (today)
+- [modelmapper/modelmapper](https://github.com/modelmapper/modelmapper) - Intelligent object mapping (today)
 - [fandreuz/TUI-ConsoleLauncher](https://github.com/fandreuz/TUI-ConsoleLauncher) - Linux CLI Launcher for Android (1 day ago)
 - [seregazhuk/php-watcher](https://github.com/seregazhuk/php-watcher) - Monitor for any changes in your php application and automatically restart it (suitable for async apps). (1 day ago)
 - [seregazhuk/php-pinterest-bot](https://github.com/seregazhuk/php-pinterest-bot) - This PHP library will help you to work with your Pinterest account without using any API account credentials. (1 day ago)
-- [ihor/react-native-scalable-image](https://github.com/ihor/react-native-scalable-image) - React Native Image component which scales width or height automatically to keep the original aspect ratio (1 day ago)
-- [ihor/NSPL](https://github.com/ihor/NSPL) - Non-Standard PHP Library - functional primitives toolbox and more (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
