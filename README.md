@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (1 week ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (2 weeks ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hammadii123](https://github.com/hammadii123)
 - [jaysangil](https://github.com/jaysangil)
 - [apollo-hero](https://github.com/apollo-hero)
 - [Sawi78112](https://github.com/Sawi78112)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [jihaad23](https://github.com/jihaad23)
 - [areppzubaidi](https://github.com/areppzubaidi)
 - [ShiroDima](https://github.com/ShiroDima)
-- [ashu-011](https://github.com/ashu-011)
 
 ## ⭐ Recent stars
 
-- [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers (today)
-- [modelmapper/modelmapper](https://github.com/modelmapper/modelmapper) - Intelligent object mapping (today)
-- [fandreuz/TUI-ConsoleLauncher](https://github.com/fandreuz/TUI-ConsoleLauncher) - Linux CLI Launcher for Android (1 day ago)
-- [seregazhuk/php-watcher](https://github.com/seregazhuk/php-watcher) - Monitor for any changes in your php application and automatically restart it (suitable for async apps). (1 day ago)
-- [seregazhuk/php-pinterest-bot](https://github.com/seregazhuk/php-pinterest-bot) - This PHP library will help you to work with your Pinterest account without using any API account credentials. (1 day ago)
+- [SethHWeidman/DLFS_code](https://github.com/SethHWeidman/DLFS_code) - Code for the book Deep Learning From Scratch, from O'Reilly September 2019 (today)
+- [bradyz/2020_CARLA_challenge](https://github.com/bradyz/2020_CARLA_challenge) - "Learning by Cheating" (CoRL 2019) submission for the 2020 CARLA Challenge (today)
+- [bradyz/cross_view_transformers](https://github.com/bradyz/cross_view_transformers) - Cross-view Transformers for real-time Map-view Semantic Segmentation (CVPR 2022 Oral) (today)
+- [lzrobots/DeepEmbeddingModel_ZSL](https://github.com/lzrobots/DeepEmbeddingModel_ZSL) - Tensorflow code for CVPR 2017 paper: Learning a Deep Embedding Model for Zero-Shot Learning (today)
+- [lzrobots/LearningToCompare_ZSL](https://github.com/lzrobots/LearningToCompare_ZSL) - PyTorch code for CVPR 2018 paper: Learning to Compare: Relation Network for Few-Shot Learning  (Zero-Shot Learning part) (today)
 
 ## 🔨 Latest Pull Requests I published
 
