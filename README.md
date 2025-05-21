@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [areppzubaidi](https://github.com/areppzubaidi)
 - [ShiroDima](https://github.com/ShiroDima)
 - [ashu-011](https://github.com/ashu-011)
 - [eng-Shahd-Mostafa](https://github.com/eng-Shahd-Mostafa)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [vnshtiwari](https://github.com/vnshtiwari)
 - [SecretariatV](https://github.com/SecretariatV)
 - [wprotheus](https://github.com/wprotheus)
-- [mightstar](https://github.com/mightstar)
 
 ## ⭐ Recent stars
 
