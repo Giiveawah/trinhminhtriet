@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rcogal](https://github.com/rcogal)
 - [ductq1801](https://github.com/ductq1801)
 - [Andersonmartinsalvesadc](https://github.com/Andersonmartinsalvesadc)
 - [fatal-error-404-samar](https://github.com/fatal-error-404-samar)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [jaysangil](https://github.com/jaysangil)
 - [apollo-hero](https://github.com/apollo-hero)
 - [Sawi78112](https://github.com/Sawi78112)
-- [AyA-EhaB](https://github.com/AyA-EhaB)
 
 ## ⭐ Recent stars
 
+- [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records (today)
+- [TNG/ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java (today)
 - [dengdan/seglink](https://github.com/dengdan/seglink) - An Implementation of the seglink alogrithm in paper Detecting Oriented Text in Natural Images by Linking Segments (1 day ago)
 - [NalinPlad/OuterFlightTracker](https://github.com/NalinPlad/OuterFlightTracker) - A flight tracker made in 6 hours on a flight home from OuterNet (1 day ago)
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (1 day ago)
-- [AngelSanchezT/books-1](https://github.com/AngelSanchezT/books-1) - Books about Nodejs, Angular2, Agile, Clean Code, Docker, Golang, Microservices, REST, TDD, BDD, and Startups. (1 day ago)
-- [dcalsky/zzkia](https://github.com/dcalsky/zzkia) - Generate the Nokia picture for fun! 1k star  🥳  🥳  🥳 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
