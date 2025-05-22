@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Carlos9190](https://github.com/Carlos9190)
 - [sronnaim](https://github.com/sronnaim)
 - [Aufafikri](https://github.com/Aufafikri)
 - [rcogal](https://github.com/rcogal)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [G-Hensley](https://github.com/G-Hensley)
 - [Abrahamyozz](https://github.com/Abrahamyozz)
 - [hammadii123](https://github.com/hammadii123)
-- [jaysangil](https://github.com/jaysangil)
 
 ## ⭐ Recent stars
 
