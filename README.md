@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [TVATDCI](https://github.com/TVATDCI)
 - [bmorri13](https://github.com/bmorri13)
 - [Carlos9190](https://github.com/Carlos9190)
 - [sronnaim](https://github.com/sronnaim)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Andersonmartinsalvesadc](https://github.com/Andersonmartinsalvesadc)
 - [fatal-error-404-samar](https://github.com/fatal-error-404-samar)
 - [G-Hensley](https://github.com/G-Hensley)
-- [Abrahamyozz](https://github.com/Abrahamyozz)
 
 ## ⭐ Recent stars
 
