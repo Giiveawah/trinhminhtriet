@@ -33,10 +33,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) - 🚀 repoctl – A powerful CLI tool to manage multiple Git repositories effortlessly. Sync, pull, and run commands! 🎯 (1 day ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 day ago)
 - [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (1 day ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 day ago)
 - [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (1 week ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
