@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [scobal/seyren](https://github.com/scobal/seyren) - An alerting dashboard for Graphite (today)
-- [cortiz/prawn-rails](https://github.com/cortiz/prawn-rails) - Prawn Handler for Rails. Handles and registers pdf formats. (today)
-- [cmaron/CS-7641-assignments](https://github.com/cmaron/CS-7641-assignments) - CS 7641 - All the code (today)
-- [ErKeLost/create-vite-app](https://github.com/ErKeLost/create-vite-app) - 🍰🍰 VIte-CLI resolve Vite create starter template  No need to configure vite scaffolding templates quickly build vite4.x development templates highly customized Vue3.x React 18 Vite5.x  (today)
-- [skaltenegger/customcursor](https://github.com/skaltenegger/customcursor) - Custom Cursor Demos and Tutorial for Codrops (today)
+- [SiyuanHuang95/Livox-Localization](https://github.com/SiyuanHuang95/Livox-Localization) - A simple localization framework that can re-localize in one point-cloud map. (today)
+- [buaacyw/IT3D-text-to-3D](https://github.com/buaacyw/IT3D-text-to-3D) - [AAAI'2024] IT3D: Improved Text-to-3D Generation with Explicit View Synthesis  (today)
+- [buaacyw/MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - From anything to mesh like human artists. Official impl. of "MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization" (today)
+- [buaacyw/GaussianEditor](https://github.com/buaacyw/GaussianEditor) - [CVPR 2024] GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting (today)
+- [buaacyw/MeshAnything](https://github.com/buaacyw/MeshAnything) - [ICLR 2025] From anything to mesh like human artists. Official impl. of "MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers" (today)
 
 ## 🔨 Latest Pull Requests I published
 
