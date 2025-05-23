@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility. (today)
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. (today)
 - [lkostrowski/job-interview-questions-to-ask-companies](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - List of interview questions... For candidates! Pick your next company wisely (today)
 - [bleakie/MaskInsightface](https://github.com/bleakie/MaskInsightface) - 基于人脸关键区域提取的人脸识别（LFW:99.82%+ CFP_FP:98.50%+ AgeDB30:98.25%+） (today)
 - [bleakie/CenterMulti](https://github.com/bleakie/CenterMulti) - 基于CenterNet训练的目标检测&人脸对齐&姿态估计模型 (today)
-- [zxrzju/SuperLine3D](https://github.com/zxrzju/SuperLine3D) - [ECCV 2022] SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud (today)
-- [StiphyJay/FastPillars](https://github.com/StiphyJay/FastPillars) - FastPillars: A Deployment-friendly Pillar-based 3D Detector (today)
 
 ## 🔨 Latest Pull Requests I published
 
