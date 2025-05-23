@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shinguakira](https://github.com/shinguakira)
 - [eduardamoredias](https://github.com/eduardamoredias)
 - [TVATDCI](https://github.com/TVATDCI)
 - [bmorri13](https://github.com/bmorri13)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [rcogal](https://github.com/rcogal)
 - [ductq1801](https://github.com/ductq1801)
 - [Andersonmartinsalvesadc](https://github.com/Andersonmartinsalvesadc)
-- [fatal-error-404-samar](https://github.com/fatal-error-404-samar)
 
 ## ⭐ Recent stars
 
+- [scobal/seyren](https://github.com/scobal/seyren) - An alerting dashboard for Graphite (today)
+- [cortiz/prawn-rails](https://github.com/cortiz/prawn-rails) - Prawn Handler for Rails. Handles and registers pdf formats. (today)
+- [cmaron/CS-7641-assignments](https://github.com/cmaron/CS-7641-assignments) - CS 7641 - All the code (today)
 - [ErKeLost/create-vite-app](https://github.com/ErKeLost/create-vite-app) - 🍰🍰 VIte-CLI resolve Vite create starter template  No need to configure vite scaffolding templates quickly build vite4.x development templates highly customized Vue3.x React 18 Vite5.x  (today)
 - [skaltenegger/customcursor](https://github.com/skaltenegger/customcursor) - Custom Cursor Demos and Tutorial for Codrops (today)
-- [fisheva/Eva-Theme](https://github.com/fisheva/Eva-Theme) - A comfortable and semantic theme. (today)
-- [cvengler/sysget](https://github.com/cvengler/sysget) - One package manager to rule them all (today)
-- [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
