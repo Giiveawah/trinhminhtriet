@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [phuochau/react-native-thumbnail](https://github.com/phuochau/react-native-thumbnail) - Get thumbnail from local media. Currently, it only supports for video. (today)
-- [phuochau/react-native-beautiful-video-recorder](https://github.com/phuochau/react-native-beautiful-video-recorder) - The video recorder component that extends from react-native-camera. It works for both iOS & Android. (today)
-- [GuHY777/VaDE-pytorch](https://github.com/GuHY777/VaDE-pytorch) - the reproduce of Variational Deep Embedding : A Generative Approach to Clustering Requirements by pytorch (today)
-- [marshyski/quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems (today)
-- [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Visually customizable shell utils (today)
+- [cloga/scipy-lecture-notes_cn](https://github.com/cloga/scipy-lecture-notes_cn) - Pytho科学计算生态介绍的中文翻译，英文原文地址： (today)
+- [eecrazy/fucking-algorithm](https://github.com/eecrazy/fucking-algorithm) - labuladong 的算法小抄，总结各种常考算法的套路，助力刷题面试 (today)
+- [eecrazy/ConstructingNEEG_IJCAI_2018](https://github.com/eecrazy/ConstructingNEEG_IJCAI_2018) - The data and code for our IJCAI-ECAI 2018 paper: Constructing Narrative Event Evolutionary Graph for Script Event Prediction (today)
+- [eecrazy/ACM](https://github.com/eecrazy/ACM) - ACM模板和一些题目的代码实现 (today)
+- [gunesmes/page-object-python-selenium](https://github.com/gunesmes/page-object-python-selenium) - This project shows how to apply page-object-pattern / model (POM) for Selenium by using Python and unittest. There are six test cases which are written against to sign-in page for amazon.com (today)
 
 ## 🔨 Latest Pull Requests I published
 
