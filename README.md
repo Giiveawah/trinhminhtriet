@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [ErKeLost/create-vite-app](https://github.com/ErKeLost/create-vite-app) - 🍰🍰 VIte-CLI resolve Vite create starter template  No need to configure vite scaffolding templates quickly build vite4.x development templates highly customized Vue3.x React 18 Vite5.x  (today)
+- [skaltenegger/customcursor](https://github.com/skaltenegger/customcursor) - Custom Cursor Demos and Tutorial for Codrops (today)
+- [fisheva/Eva-Theme](https://github.com/fisheva/Eva-Theme) - A comfortable and semantic theme. (today)
+- [cvengler/sysget](https://github.com/cvengler/sysget) - One package manager to rule them all (today)
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript (1 day ago)
-- [ngrx/platform](https://github.com/ngrx/platform) - Reactive State for Angular (1 day ago)
-- [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records (1 day ago)
-- [TNG/ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java (1 day ago)
-- [dengdan/seglink](https://github.com/dengdan/seglink) - An Implementation of the seglink alogrithm in paper Detecting Oriented Text in Natural Images by Linking Segments (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
