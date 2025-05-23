@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Randomass73](https://github.com/Randomass73)
 - [KCprsnlcc](https://github.com/KCprsnlcc)
 - [JasonKrik](https://github.com/JasonKrik)
 - [shinguakira](https://github.com/shinguakira)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Carlos9190](https://github.com/Carlos9190)
 - [sronnaim](https://github.com/sronnaim)
 - [Aufafikri](https://github.com/Aufafikri)
-- [rcogal](https://github.com/rcogal)
 
 ## ⭐ Recent stars
 
