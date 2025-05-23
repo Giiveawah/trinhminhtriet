@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [JasonKrik](https://github.com/JasonKrik)
 - [shinguakira](https://github.com/shinguakira)
 - [eduardamoredias](https://github.com/eduardamoredias)
 - [TVATDCI](https://github.com/TVATDCI)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Aufafikri](https://github.com/Aufafikri)
 - [rcogal](https://github.com/rcogal)
 - [ductq1801](https://github.com/ductq1801)
-- [Andersonmartinsalvesadc](https://github.com/Andersonmartinsalvesadc)
 
 ## ⭐ Recent stars
 
-- [elamperti/OpenWebScrobbler](https://github.com/elamperti/OpenWebScrobbler) - 🎧 An open source web scrobbler for Last.fm (today)
-- [nan0s7/nfancurve](https://github.com/nan0s7/nfancurve) - A small and lightweight POSIX script for using a custom fan curve in Linux for those with an Nvidia GPU. (today)
-- [microsoft/typespec](https://github.com/microsoft/typespec) (today)
-- [dianariyanto/virtual-display-linux](https://github.com/dianariyanto/virtual-display-linux) - Create virtual display / monitor on linux OS for extended display via teamviewer or vnc server without any real Monitor is Plugged In. (today)
-- [apache/paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. (today)
+- [rampadc/cc254x-hidKbdM](https://github.com/rampadc/cc254x-hidKbdM) - HID Keyboard and Mouse firmware for CC2541 ICs (today)
+- [daneah/practices-of-the-python-pro](https://github.com/daneah/practices-of-the-python-pro) - Examples and exercises for Practices of the Python Pro from Manning Books 🐍📘 (today)
+- [pboyer/flood](https://github.com/pboyer/flood) - Visual programming for the browser (today)
+- [pboyer/verb](https://github.com/pboyer/verb) - Open-source, cross-platform NURBS (today)
+- [mbrenman/TetrisPlayground](https://github.com/mbrenman/TetrisPlayground) - A final project for Advanced Machine Learning. Build bots to play against this Tetris Sandbox! (today)
 
 ## 🔨 Latest Pull Requests I published
 
