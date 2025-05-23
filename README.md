@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [KCprsnlcc](https://github.com/KCprsnlcc)
 - [JasonKrik](https://github.com/JasonKrik)
 - [shinguakira](https://github.com/shinguakira)
 - [eduardamoredias](https://github.com/eduardamoredias)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sronnaim](https://github.com/sronnaim)
 - [Aufafikri](https://github.com/Aufafikri)
 - [rcogal](https://github.com/rcogal)
-- [ductq1801](https://github.com/ductq1801)
 
 ## ⭐ Recent stars
 
-- [rampadc/cc254x-hidKbdM](https://github.com/rampadc/cc254x-hidKbdM) - HID Keyboard and Mouse firmware for CC2541 ICs (today)
-- [daneah/practices-of-the-python-pro](https://github.com/daneah/practices-of-the-python-pro) - Examples and exercises for Practices of the Python Pro from Manning Books 🐍📘 (today)
-- [pboyer/flood](https://github.com/pboyer/flood) - Visual programming for the browser (today)
-- [pboyer/verb](https://github.com/pboyer/verb) - Open-source, cross-platform NURBS (today)
-- [mbrenman/TetrisPlayground](https://github.com/mbrenman/TetrisPlayground) - A final project for Advanced Machine Learning. Build bots to play against this Tetris Sandbox! (today)
+- [lkostrowski/job-interview-questions-to-ask-companies](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - List of interview questions... For candidates! Pick your next company wisely (today)
+- [bleakie/MaskInsightface](https://github.com/bleakie/MaskInsightface) - 基于人脸关键区域提取的人脸识别（LFW:99.82%+ CFP_FP:98.50%+ AgeDB30:98.25%+） (today)
+- [bleakie/CenterMulti](https://github.com/bleakie/CenterMulti) - 基于CenterNet训练的目标检测&人脸对齐&姿态估计模型 (today)
+- [zxrzju/SuperLine3D](https://github.com/zxrzju/SuperLine3D) - [ECCV 2022] SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud (today)
+- [StiphyJay/FastPillars](https://github.com/StiphyJay/FastPillars) - FastPillars: A Deployment-friendly Pillar-based 3D Detector (today)
 
 ## 🔨 Latest Pull Requests I published
 
