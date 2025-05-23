@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SafaaRamadan](https://github.com/SafaaRamadan)
 - [Randomass73](https://github.com/Randomass73)
 - [KCprsnlcc](https://github.com/KCprsnlcc)
 - [JasonKrik](https://github.com/JasonKrik)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [bmorri13](https://github.com/bmorri13)
 - [Carlos9190](https://github.com/Carlos9190)
 - [sronnaim](https://github.com/sronnaim)
-- [Aufafikri](https://github.com/Aufafikri)
 
 ## ⭐ Recent stars
 
