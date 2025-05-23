@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [SiyuanHuang95/Livox-Localization](https://github.com/SiyuanHuang95/Livox-Localization) - A simple localization framework that can re-localize in one point-cloud map. (today)
-- [buaacyw/IT3D-text-to-3D](https://github.com/buaacyw/IT3D-text-to-3D) - [AAAI'2024] IT3D: Improved Text-to-3D Generation with Explicit View Synthesis  (today)
-- [buaacyw/MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - From anything to mesh like human artists. Official impl. of "MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization" (today)
-- [buaacyw/GaussianEditor](https://github.com/buaacyw/GaussianEditor) - [CVPR 2024] GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting (today)
-- [buaacyw/MeshAnything](https://github.com/buaacyw/MeshAnything) - [ICLR 2025] From anything to mesh like human artists. Official impl. of "MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers" (today)
+- [lastweek/fpga_readings](https://github.com/lastweek/fpga_readings) - Recipe for FPGA cooking (today)
+- [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System (today)
+- [lxuechen/private-transformers](https://github.com/lxuechen/private-transformers) - A codebase that makes differentially private training of transformers easy. (today)
+- [ctavolazzi/NovaSystem](https://github.com/ctavolazzi/NovaSystem) - Polymorphic self-modifying modular intelligence layer for integrating new open source software into your apps automatically. (today)
+- [grll/mcpadapt](https://github.com/grll/mcpadapt) - Unlock 650+ MCP servers tools in your favorite agentic framework. (today)
 
 ## 🔨 Latest Pull Requests I published
 
