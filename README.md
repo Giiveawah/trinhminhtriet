@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.  (today)
-- [aeron-io/agrona](https://github.com/aeron-io/agrona) - High Performance data structures and utility methods for Java (today)
-- [ta4j/ta4j](https://github.com/ta4j/ta4j) - A Java library for technical analysis. (today)
-- [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last. (today)
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox (today)
+- [aseaday/git-style-guide](https://github.com/aseaday/git-style-guide) - A Git Style Guide (today)
+- [cooperleong00/Awesome-LLM-Interpretability](https://github.com/cooperleong00/Awesome-LLM-Interpretability) - A curated list of LLM Interpretability related material - Tutorial, Library, Survey, Paper, Blog, etc.. (today)
+- [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android. (today)
+- [libgdx/packr](https://github.com/libgdx/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X (today)
+- [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages. (today)
 
 ## 🔨 Latest Pull Requests I published
 
