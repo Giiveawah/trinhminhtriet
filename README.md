@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [lastweek/fpga_readings](https://github.com/lastweek/fpga_readings) - Recipe for FPGA cooking (today)
-- [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System (today)
-- [lxuechen/private-transformers](https://github.com/lxuechen/private-transformers) - A codebase that makes differentially private training of transformers easy. (today)
-- [ctavolazzi/NovaSystem](https://github.com/ctavolazzi/NovaSystem) - Polymorphic self-modifying modular intelligence layer for integrating new open source software into your apps automatically. (today)
-- [grll/mcpadapt](https://github.com/grll/mcpadapt) - Unlock 650+ MCP servers tools in your favorite agentic framework. (today)
+- [elamperti/OpenWebScrobbler](https://github.com/elamperti/OpenWebScrobbler) - 🎧 An open source web scrobbler for Last.fm (today)
+- [nan0s7/nfancurve](https://github.com/nan0s7/nfancurve) - A small and lightweight POSIX script for using a custom fan curve in Linux for those with an Nvidia GPU. (today)
+- [microsoft/typespec](https://github.com/microsoft/typespec) (today)
+- [dianariyanto/virtual-display-linux](https://github.com/dianariyanto/virtual-display-linux) - Create virtual display / monitor on linux OS for extended display via teamviewer or vnc server without any real Monitor is Plugged In. (today)
+- [apache/paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. (today)
 
 ## 🔨 Latest Pull Requests I published
 
