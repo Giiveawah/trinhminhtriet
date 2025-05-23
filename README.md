@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [aseaday/git-style-guide](https://github.com/aseaday/git-style-guide) - A Git Style Guide (today)
-- [cooperleong00/Awesome-LLM-Interpretability](https://github.com/cooperleong00/Awesome-LLM-Interpretability) - A curated list of LLM Interpretability related material - Tutorial, Library, Survey, Paper, Blog, etc.. (today)
-- [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android. (today)
-- [libgdx/packr](https://github.com/libgdx/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X (today)
-- [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages. (today)
+- [phuochau/react-native-thumbnail](https://github.com/phuochau/react-native-thumbnail) - Get thumbnail from local media. Currently, it only supports for video. (today)
+- [phuochau/react-native-beautiful-video-recorder](https://github.com/phuochau/react-native-beautiful-video-recorder) - The video recorder component that extends from react-native-camera. It works for both iOS & Android. (today)
+- [GuHY777/VaDE-pytorch](https://github.com/GuHY777/VaDE-pytorch) - the reproduce of Variational Deep Embedding : A Generative Approach to Clustering Requirements by pytorch (today)
+- [marshyski/quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems (today)
+- [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Visually customizable shell utils (today)
 
 ## 🔨 Latest Pull Requests I published
 
