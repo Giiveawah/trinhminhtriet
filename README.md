@@ -37,11 +37,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 day ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (3 days ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 days ago)
-- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (3 days ago)
 - [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) - 🚀 repoctl – A powerful CLI tool to manage multiple Git repositories effortlessly. Sync, pull, and run commands! 🎯 (3 days ago)
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (2 weeks ago)
+- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (3 days ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 days ago)
 - [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (2 weeks ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (2 weeks ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (2 weeks ago)
 
 ## 👯 Check out my recent followers
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [transpchan/Live3D-v2](https://github.com/transpchan/Live3D-v2) - Neural Rendering with Attention: An Incremental Improvement for Anime Character Animation (today)
-- [saidwivedi/TokenHMR](https://github.com/saidwivedi/TokenHMR) - [CVPR 2024] TokenHMR: Advancing Human Mesh Recovery with a Tokenized Pose Representation (today)
-- [zhaozhen2333/iFLYTEK2021](https://github.com/zhaozhen2333/iFLYTEK2021) - The Winning Solution to the Cultivated land Extraction From High-Resolution Remote Sensing Image Challenge (1 / 486) (today)
-- [Stick-To/CenterNet-tensorflow](https://github.com/Stick-To/CenterNet-tensorflow) - CenterNet: Objects as Points in Tensorflow (today)
-- [Stick-To/Object-Detection-Tensorflow](https://github.com/Stick-To/Object-Detection-Tensorflow) - Object Detection API Tensorflow (today)
+- [athon2/BraTS2018_NvNet](https://github.com/athon2/BraTS2018_NvNet) - Implementation of NvNet (today)
+- [martinnormark/HalfModalPresentationController](https://github.com/martinnormark/HalfModalPresentationController) - Modal presentation that takes up half the screen. Swipe down to dismiss. (today)
+- [iliketomatoes/tabellajs](https://github.com/iliketomatoes/tabellajs) - Pure javascript, touch enabled, responsive tables.  (today)
+- [benbrignell/principles.design](https://github.com/benbrignell/principles.design) - An open source collection of design principles and methods. (today)
+- [BUPTlhuanyu/react-music-lhy](https://github.com/BUPTlhuanyu/react-music-lhy) - 基于react16+  react-router4+ typescript  react-redux的移动端音乐播放器 (today)
 
 ## 🔨 Latest Pull Requests I published
 
