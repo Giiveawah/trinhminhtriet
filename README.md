@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mi-hal](https://github.com/mi-hal)
 - [wqts](https://github.com/wqts)
 - [Jojo588](https://github.com/Jojo588)
 - [CN-LEON-DX](https://github.com/CN-LEON-DX)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [JasonKrik](https://github.com/JasonKrik)
 - [shinguakira](https://github.com/shinguakira)
 - [eduardamoredias](https://github.com/eduardamoredias)
-- [TVATDCI](https://github.com/TVATDCI)
 
 ## ⭐ Recent stars
 
