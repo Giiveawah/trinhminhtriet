@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability. (today)
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (today)
 - [athon2/BraTS2018_NvNet](https://github.com/athon2/BraTS2018_NvNet) - Implementation of NvNet (today)
 - [martinnormark/HalfModalPresentationController](https://github.com/martinnormark/HalfModalPresentationController) - Modal presentation that takes up half the screen. Swipe down to dismiss. (today)
 - [iliketomatoes/tabellajs](https://github.com/iliketomatoes/tabellajs) - Pure javascript, touch enabled, responsive tables.  (today)
-- [benbrignell/principles.design](https://github.com/benbrignell/principles.design) - An open source collection of design principles and methods. (today)
 
 ## 🔨 Latest Pull Requests I published
 
