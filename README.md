@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (today)
 - [athon2/BraTS2018_NvNet](https://github.com/athon2/BraTS2018_NvNet) - Implementation of NvNet (today)
 - [martinnormark/HalfModalPresentationController](https://github.com/martinnormark/HalfModalPresentationController) - Modal presentation that takes up half the screen. Swipe down to dismiss. (today)
 - [iliketomatoes/tabellajs](https://github.com/iliketomatoes/tabellajs) - Pure javascript, touch enabled, responsive tables.  (today)
 - [benbrignell/principles.design](https://github.com/benbrignell/principles.design) - An open source collection of design principles and methods. (today)
-- [BUPTlhuanyu/react-music-lhy](https://github.com/BUPTlhuanyu/react-music-lhy) - 基于react16+  react-router4+ typescript  react-redux的移动端音乐播放器 (today)
 
 ## 🔨 Latest Pull Requests I published
 
