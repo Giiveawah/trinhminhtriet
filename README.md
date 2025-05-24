@@ -33,19 +33,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (today)
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (today)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (2 days ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 days ago)
-- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (2 days ago)
-- [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) - 🚀 repoctl – A powerful CLI tool to manage multiple Git repositories effortlessly. Sync, pull, and run commands! 🎯 (2 days ago)
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
-- [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (1 week ago)
+- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (1 day ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (3 days ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 days ago)
+- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (3 days ago)
+- [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) - 🚀 repoctl – A powerful CLI tool to manage multiple Git repositories effortlessly. Sync, pull, and run commands! 🎯 (3 days ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (2 weeks ago)
+- [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (2 weeks ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (2 weeks ago)
 
 ## 👯 Check out my recent followers
 
+- [CN-LEON-DX](https://github.com/CN-LEON-DX)
 - [SafaaRamadan](https://github.com/SafaaRamadan)
 - [Randomass73](https://github.com/Randomass73)
 - [KCprsnlcc](https://github.com/KCprsnlcc)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [TVATDCI](https://github.com/TVATDCI)
 - [bmorri13](https://github.com/bmorri13)
 - [Carlos9190](https://github.com/Carlos9190)
-- [sronnaim](https://github.com/sronnaim)
 
 ## ⭐ Recent stars
 
-- [cloga/scipy-lecture-notes_cn](https://github.com/cloga/scipy-lecture-notes_cn) - Pytho科学计算生态介绍的中文翻译，英文原文地址： (today)
-- [eecrazy/fucking-algorithm](https://github.com/eecrazy/fucking-algorithm) - labuladong 的算法小抄，总结各种常考算法的套路，助力刷题面试 (today)
-- [eecrazy/ConstructingNEEG_IJCAI_2018](https://github.com/eecrazy/ConstructingNEEG_IJCAI_2018) - The data and code for our IJCAI-ECAI 2018 paper: Constructing Narrative Event Evolutionary Graph for Script Event Prediction (today)
-- [eecrazy/ACM](https://github.com/eecrazy/ACM) - ACM模板和一些题目的代码实现 (today)
-- [gunesmes/page-object-python-selenium](https://github.com/gunesmes/page-object-python-selenium) - This project shows how to apply page-object-pattern / model (POM) for Selenium by using Python and unittest. There are six test cases which are written against to sign-in page for amazon.com (today)
+- [transpchan/Live3D-v2](https://github.com/transpchan/Live3D-v2) - Neural Rendering with Attention: An Incremental Improvement for Anime Character Animation (today)
+- [saidwivedi/TokenHMR](https://github.com/saidwivedi/TokenHMR) - [CVPR 2024] TokenHMR: Advancing Human Mesh Recovery with a Tokenized Pose Representation (today)
+- [zhaozhen2333/iFLYTEK2021](https://github.com/zhaozhen2333/iFLYTEK2021) - The Winning Solution to the Cultivated land Extraction From High-Resolution Remote Sensing Image Challenge (1 / 486) (today)
+- [Stick-To/CenterNet-tensorflow](https://github.com/Stick-To/CenterNet-tensorflow) - CenterNet: Objects as Points in Tensorflow (today)
+- [Stick-To/Object-Detection-Tensorflow](https://github.com/Stick-To/Object-Detection-Tensorflow) - Object Detection API Tensorflow (today)
 
 ## 🔨 Latest Pull Requests I published
 
