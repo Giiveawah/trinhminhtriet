@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [isaacdiniiz](https://github.com/isaacdiniiz)
 - [EfekanSalman](https://github.com/EfekanSalman)
 - [Neymarvhilla](https://github.com/Neymarvhilla)
 - [rootdingj](https://github.com/rootdingj)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mi-hal](https://github.com/mi-hal)
 - [wqts](https://github.com/wqts)
 - [Jojo588](https://github.com/Jojo588)
-- [CN-LEON-DX](https://github.com/CN-LEON-DX)
 
 ## ⭐ Recent stars
 
