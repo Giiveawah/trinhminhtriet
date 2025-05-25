@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [skirdey/voicerestore](https://github.com/skirdey/voicerestore) - VoiceRestore: Flow-Matching Transformers for Universal Speech Restoration (today)
+- [underyx/flask-redis](https://github.com/underyx/flask-redis) - A Flask extension for using Redis (today)
 - [JimLee1996/TrojanX](https://github.com/JimLee1996/TrojanX) - Trojan Client for macOS, ported from ShadowsocksX-NG. Please use it in compliance with laws, regulations and rules. (today)
 - [muzipiao/OOB](https://github.com/muzipiao/OOB) - 基于 OpenCV，使用模板匹配法识别图像，供参考学习。 (today)
 - [muzipiao/LFPhoneInfo](https://github.com/muzipiao/LFPhoneInfo) - iOS 快速获取硬件信息。 (today)
-- [muzipiao/GMObjC](https://github.com/muzipiao/GMObjC) - SM2/SM3/SM4/ECDH crypto library based on OpenSSL. (today)
-- [jypjypjypjyp/lvio_fusion](https://github.com/jypjypjypjyp/lvio_fusion) - Lvio-Fusion: A Self-adaptive Multi-sensor Fusion SLAM Framework Using Actor-critic Method (IROS 2021) (today)
 
 ## 🔨 Latest Pull Requests I published
 
