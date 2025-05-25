@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [dnanhkhoa/nb_black](https://github.com/dnanhkhoa/nb_black) - A simple extension for Jupyter Notebook and Jupyter Lab to beautify Python code automatically using black. (today)
 - [fuzziqersoftware/newserv](https://github.com/fuzziqersoftware/newserv) - Phantasy Star Online game server, proxy, and reverse-engineering tools (today)
 - [wenkesj/holdem](https://github.com/wenkesj/holdem) - :black_joker: OpenAI Gym No Limit Texas Hold 'em Environment for Reinforcement Learning (today)
 - [Jhy1993/Datasets-for-Heterogeneous-Graph](https://github.com/Jhy1993/Datasets-for-Heterogeneous-Graph) - Datasets-for-Heterogeneous-Graph (today)
 - [Jhy1993/Awesome-GNN-Recommendation](https://github.com/Jhy1993/Awesome-GNN-Recommendation) - Graph Neural Network (today)
-- [Jhy1993/Representation-Learning-on-Heterogeneous-Graph](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph) - Representation-Learning-on-Heterogeneous-Graph (today)
 
 ## 🔨 Latest Pull Requests I published
 
