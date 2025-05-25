@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rootdingj](https://github.com/rootdingj)
 - [Roland-Front-Back](https://github.com/Roland-Front-Back)
 - [knmts](https://github.com/knmts)
 - [hetailang](https://github.com/hetailang)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [CN-LEON-DX](https://github.com/CN-LEON-DX)
 - [SafaaRamadan](https://github.com/SafaaRamadan)
 - [Randomass73](https://github.com/Randomass73)
-- [KCprsnlcc](https://github.com/KCprsnlcc)
 
 ## ⭐ Recent stars
 
+- [fuzziqersoftware/newserv](https://github.com/fuzziqersoftware/newserv) - Phantasy Star Online game server, proxy, and reverse-engineering tools (today)
+- [wenkesj/holdem](https://github.com/wenkesj/holdem) - :black_joker: OpenAI Gym No Limit Texas Hold 'em Environment for Reinforcement Learning (today)
 - [Jhy1993/Datasets-for-Heterogeneous-Graph](https://github.com/Jhy1993/Datasets-for-Heterogeneous-Graph) - Datasets-for-Heterogeneous-Graph (today)
 - [Jhy1993/Awesome-GNN-Recommendation](https://github.com/Jhy1993/Awesome-GNN-Recommendation) - Graph Neural Network (today)
 - [Jhy1993/Representation-Learning-on-Heterogeneous-Graph](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph) - Representation-Learning-on-Heterogeneous-Graph (today)
-- [Jhy1993/HAN](https://github.com/Jhy1993/HAN) - Heterogeneous Graph Neural Network (today)
-- [airalcorn2/Solr-LTR](https://github.com/airalcorn2/Solr-LTR) - From Zero to Learning to Rank in Apache Solr (today)
 
 ## 🔨 Latest Pull Requests I published
 
