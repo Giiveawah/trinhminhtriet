@@ -33,19 +33,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (1 day ago)
+- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 day ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 day ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (1 day ago)
-- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 day ago)
-- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (2 days ago)
+- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (1 day ago)
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (2 days ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (2 days ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (4 days ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (4 days ago)
 - [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) - 🚀 repoctl – A powerful CLI tool to manage multiple Git repositories effortlessly. Sync, pull, and run commands! 🎯 (4 days ago)
 
 ## 👯 Check out my recent followers
 
+- [hetailang](https://github.com/hetailang)
 - [mi-hal](https://github.com/mi-hal)
 - [wqts](https://github.com/wqts)
 - [Jojo588](https://github.com/Jojo588)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [KCprsnlcc](https://github.com/KCprsnlcc)
 - [JasonKrik](https://github.com/JasonKrik)
 - [shinguakira](https://github.com/shinguakira)
-- [eduardamoredias](https://github.com/eduardamoredias)
 
 ## ⭐ Recent stars
 
