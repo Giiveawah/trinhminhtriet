@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [EfekanSalman](https://github.com/EfekanSalman)
 - [Neymarvhilla](https://github.com/Neymarvhilla)
 - [rootdingj](https://github.com/rootdingj)
 - [Roland-Front-Back](https://github.com/Roland-Front-Back)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [wqts](https://github.com/wqts)
 - [Jojo588](https://github.com/Jojo588)
 - [CN-LEON-DX](https://github.com/CN-LEON-DX)
-- [SafaaRamadan](https://github.com/SafaaRamadan)
 
 ## ⭐ Recent stars
 
+- [google/dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java. (today)
+- [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back (today)
 - [dnanhkhoa/nb_black](https://github.com/dnanhkhoa/nb_black) - A simple extension for Jupyter Notebook and Jupyter Lab to beautify Python code automatically using black. (today)
 - [fuzziqersoftware/newserv](https://github.com/fuzziqersoftware/newserv) - Phantasy Star Online game server, proxy, and reverse-engineering tools (today)
 - [wenkesj/holdem](https://github.com/wenkesj/holdem) - :black_joker: OpenAI Gym No Limit Texas Hold 'em Environment for Reinforcement Learning (today)
-- [Jhy1993/Datasets-for-Heterogeneous-Graph](https://github.com/Jhy1993/Datasets-for-Heterogeneous-Graph) - Datasets-for-Heterogeneous-Graph (today)
-- [Jhy1993/Awesome-GNN-Recommendation](https://github.com/Jhy1993/Awesome-GNN-Recommendation) - Graph Neural Network (today)
 
 ## 🔨 Latest Pull Requests I published
 
