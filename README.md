@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [knmts](https://github.com/knmts)
 - [hetailang](https://github.com/hetailang)
 - [mi-hal](https://github.com/mi-hal)
 - [wqts](https://github.com/wqts)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Randomass73](https://github.com/Randomass73)
 - [KCprsnlcc](https://github.com/KCprsnlcc)
 - [JasonKrik](https://github.com/JasonKrik)
-- [shinguakira](https://github.com/shinguakira)
 
 ## ⭐ Recent stars
 
+- [austinpray/asset-builder](https://github.com/austinpray/asset-builder) - assembles and orchestrates your dependencies so you can run them through your asset pipeline. (today)
 - [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability. (1 day ago)
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (1 day ago)
 - [athon2/BraTS2018_NvNet](https://github.com/athon2/BraTS2018_NvNet) - Implementation of NvNet (1 day ago)
 - [martinnormark/HalfModalPresentationController](https://github.com/martinnormark/HalfModalPresentationController) - Modal presentation that takes up half the screen. Swipe down to dismiss. (1 day ago)
-- [iliketomatoes/tabellajs](https://github.com/iliketomatoes/tabellajs) - Pure javascript, touch enabled, responsive tables.  (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
