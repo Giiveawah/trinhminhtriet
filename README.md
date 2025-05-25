@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [austinpray/asset-builder](https://github.com/austinpray/asset-builder) - assembles and orchestrates your dependencies so you can run them through your asset pipeline. (today)
-- [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability. (1 day ago)
-- [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (1 day ago)
-- [athon2/BraTS2018_NvNet](https://github.com/athon2/BraTS2018_NvNet) - Implementation of NvNet (1 day ago)
-- [martinnormark/HalfModalPresentationController](https://github.com/martinnormark/HalfModalPresentationController) - Modal presentation that takes up half the screen. Swipe down to dismiss. (1 day ago)
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (today)
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections. (today)
+- [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system (today)
+- [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows (today)
+- [sebdesign/laravel-state-machine](https://github.com/sebdesign/laravel-state-machine) - Winzou State Machine service provider for Laravel (today)
 
 ## 🔨 Latest Pull Requests I published
 
