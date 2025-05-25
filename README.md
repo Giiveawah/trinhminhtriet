@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Eros175](https://github.com/Eros175)
 - [isaacdiniiz](https://github.com/isaacdiniiz)
 - [EfekanSalman](https://github.com/EfekanSalman)
 - [Neymarvhilla](https://github.com/Neymarvhilla)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [hetailang](https://github.com/hetailang)
 - [mi-hal](https://github.com/mi-hal)
 - [wqts](https://github.com/wqts)
-- [Jojo588](https://github.com/Jojo588)
 
 ## ⭐ Recent stars
 
