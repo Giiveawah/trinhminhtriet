@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Roland-Front-Back](https://github.com/Roland-Front-Back)
 - [knmts](https://github.com/knmts)
 - [hetailang](https://github.com/hetailang)
 - [mi-hal](https://github.com/mi-hal)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SafaaRamadan](https://github.com/SafaaRamadan)
 - [Randomass73](https://github.com/Randomass73)
 - [KCprsnlcc](https://github.com/KCprsnlcc)
-- [JasonKrik](https://github.com/JasonKrik)
 
 ## ⭐ Recent stars
 
-- [skirdey/voicerestore](https://github.com/skirdey/voicerestore) - VoiceRestore: Flow-Matching Transformers for Universal Speech Restoration (today)
-- [underyx/flask-redis](https://github.com/underyx/flask-redis) - A Flask extension for using Redis (today)
-- [JimLee1996/TrojanX](https://github.com/JimLee1996/TrojanX) - Trojan Client for macOS, ported from ShadowsocksX-NG. Please use it in compliance with laws, regulations and rules. (today)
-- [muzipiao/OOB](https://github.com/muzipiao/OOB) - 基于 OpenCV，使用模板匹配法识别图像，供参考学习。 (today)
-- [muzipiao/LFPhoneInfo](https://github.com/muzipiao/LFPhoneInfo) - iOS 快速获取硬件信息。 (today)
+- [Jhy1993/Datasets-for-Heterogeneous-Graph](https://github.com/Jhy1993/Datasets-for-Heterogeneous-Graph) - Datasets-for-Heterogeneous-Graph (today)
+- [Jhy1993/Awesome-GNN-Recommendation](https://github.com/Jhy1993/Awesome-GNN-Recommendation) - Graph Neural Network (today)
+- [Jhy1993/Representation-Learning-on-Heterogeneous-Graph](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph) - Representation-Learning-on-Heterogeneous-Graph (today)
+- [Jhy1993/HAN](https://github.com/Jhy1993/HAN) - Heterogeneous Graph Neural Network (today)
+- [airalcorn2/Solr-LTR](https://github.com/airalcorn2/Solr-LTR) - From Zero to Learning to Rank in Apache Solr (today)
 
 ## 🔨 Latest Pull Requests I published
 
