@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [menacedjava](https://github.com/menacedjava)
 - [sinha-19](https://github.com/sinha-19)
 - [Eros175](https://github.com/Eros175)
 - [isaacdiniiz](https://github.com/isaacdiniiz)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Roland-Front-Back](https://github.com/Roland-Front-Back)
 - [knmts](https://github.com/knmts)
 - [hetailang](https://github.com/hetailang)
-- [mi-hal](https://github.com/mi-hal)
 
 ## ⭐ Recent stars
 
