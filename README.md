@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Katia-almasri](https://github.com/Katia-almasri)
 - [sshyta](https://github.com/sshyta)
 - [donadev](https://github.com/donadev)
 - [menacedjava](https://github.com/menacedjava)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [EfekanSalman](https://github.com/EfekanSalman)
 - [Neymarvhilla](https://github.com/Neymarvhilla)
 - [rootdingj](https://github.com/rootdingj)
-- [Roland-Front-Back](https://github.com/Roland-Front-Back)
 
 ## ⭐ Recent stars
 
+- [albertodebortoli/GoldRaccoon](https://github.com/albertodebortoli/GoldRaccoon) - The iOS component to connect to a FTP service and perform the operations you need. http://albertodebortoli.github.io/GoldRaccoon/ (today)
+- [albertodebortoli/Skopelos](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data. Simply all you need for doing Core Data. Swift flavour. (today)
+- [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collection (including sub-domain name, ip address, country information, organizational information and time zone, etc.) and vulnerability scanning. (today)
+- [oldinaction/ChatGPT-MP](https://github.com/oldinaction/ChatGPT-MP) - 基于DeepSeek/ChatGPT等模型实现的聊天微信小程序，适配H5和WEB端。包含前后端，支持打字效果输出流式输出，支持AI聊天次数限制，支持分享增加次数等功能。（**AI落地接单中，欢迎咨询**） (today)
 - [debug45/PermissionWizard](https://github.com/debug45/PermissionWizard) - 🔮 An ultimate library for iOS and macOS system permissions management. The easiest way to check or request a permission. (today)
-- [rudransh61/Physix-go](https://github.com/rudransh61/Physix-go) - A simple Physics engine in GoLang (today)
-- [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨ (1 day ago)
-- [google/dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java. (1 day ago)
-- [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
