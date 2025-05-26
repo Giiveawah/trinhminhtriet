@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Prashant15887](https://github.com/Prashant15887)
+- [Sawi78112](https://github.com/Sawi78112)
 - [iidmsa](https://github.com/iidmsa)
 - [KCprsnlcc](https://github.com/KCprsnlcc)
 - [amirho3einfi](https://github.com/amirho3einfi)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sshyta](https://github.com/sshyta)
 - [donadev](https://github.com/donadev)
 - [menacedjava](https://github.com/menacedjava)
-- [sinha-19](https://github.com/sinha-19)
-- [Eros175](https://github.com/Eros175)
 
 ## ⭐ Recent stars
 
-- [gjlondon/definitive_guide_to_django_deployment](https://github.com/gjlondon/definitive_guide_to_django_deployment) - A guide to best practices in production Django deployment, plus a set of Chef scripts to create a solid configuration. (today)
-- [seiflotfy/hyperbitbit](https://github.com/seiflotfy/hyperbitbit) - HyperBitBit (today)
-- [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo Filter: Practically Better Than Bloom (today)
-- [njpatel/grpcc](https://github.com/njpatel/grpcc) - A gRPC cli interface for easy testing against gRPC servers (today)
-- [gleicon/restmq](https://github.com/gleicon/restmq) - REST/JSON/HTTP based message queue (today)
+- [Musixal/HAProxy](https://github.com/Musixal/HAProxy) - A simple script for port-forwarding via HAProxy and load-balancing support (today)
+- [Musixal/GamingVPN](https://github.com/Musixal/GamingVPN) - A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link. Optimized for gaming. (today)
+- [Musixal/Easy-Mesh](https://github.com/Musixal/Easy-Mesh) - Peer to Peer VPN based on easytier core (today)
+- [Musixal/Backhaul](https://github.com/Musixal/Backhaul) - Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support. (today)
+- [Musixal/Rathole-Tunnel](https://github.com/Musixal/Rathole-Tunnel) - A secure, stable and high-performance reverse proxy with TCP/UDP support. (today)
 
 ## 🔨 Latest Pull Requests I published
 
