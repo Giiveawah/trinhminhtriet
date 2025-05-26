@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [iidmsa](https://github.com/iidmsa)
+- [KCprsnlcc](https://github.com/KCprsnlcc)
 - [amirho3einfi](https://github.com/amirho3einfi)
 - [BabiDoo](https://github.com/BabiDoo)
 - [Katia-almasri](https://github.com/Katia-almasri)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [menacedjava](https://github.com/menacedjava)
 - [sinha-19](https://github.com/sinha-19)
 - [Eros175](https://github.com/Eros175)
-- [isaacdiniiz](https://github.com/isaacdiniiz)
-- [EfekanSalman](https://github.com/EfekanSalman)
 
 ## ⭐ Recent stars
 
-- [gadfly361/rid3](https://github.com/gadfly361/rid3) - Reagent Interface to D3 (today)
-- [gadfly361/soda-ash](https://github.com/gadfly361/soda-ash) - Soda-ash is an interface between clojurescript's Reagent and Semantic UI React (today)
-- [gadfly361/reagent-figwheel](https://github.com/gadfly361/reagent-figwheel) - Leiningen template for Reagent applications in Clojurescript with Figwheel. Optionally includes secretary, cljs.test, garden, less, cider, devcards, cljs-devtools, re-risk (today)
-- [gadfly361/re-pressed](https://github.com/gadfly361/re-pressed) - re-pressed is a clojurescript library that handles keyboard events for re-frame applications. (today)
-- [gwhalin/Memcached-Java-Client](https://github.com/gwhalin/Memcached-Java-Client) - Information about this project lives on the wiki (today)
+- [gjlondon/definitive_guide_to_django_deployment](https://github.com/gjlondon/definitive_guide_to_django_deployment) - A guide to best practices in production Django deployment, plus a set of Chef scripts to create a solid configuration. (today)
+- [seiflotfy/hyperbitbit](https://github.com/seiflotfy/hyperbitbit) - HyperBitBit (today)
+- [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo Filter: Practically Better Than Bloom (today)
+- [njpatel/grpcc](https://github.com/njpatel/grpcc) - A gRPC cli interface for easy testing against gRPC servers (today)
+- [gleicon/restmq](https://github.com/gleicon/restmq) - REST/JSON/HTTP based message queue (today)
 
 ## 🔨 Latest Pull Requests I published
 
