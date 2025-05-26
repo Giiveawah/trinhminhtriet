@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [EstebanFuentealba/MALVEKE-Flipper-Zero](https://github.com/EstebanFuentealba/MALVEKE-Flipper-Zero) - GAME BOY Tools for Flipper Zero. The perfect companion for your Flipper Zero. Equipped with ESP32-S2 for WiFi. MALVEKE allows you to connect all GAME BOY peripherals and additional accessories such as NRF24, CC1101, and GPS. (today)
-- [glitchedgitz/cook](https://github.com/glitchedgitz/cook) - A wordlist framework to fullfill your kinks with your wordlists. For security researchers, bug bounty and hackers.  (today)
-- [dmgk/faker](https://github.com/dmgk/faker) - A library for generating fake data such as names, addresses, and phone numbers. (today)
-- [andrewmd5/orion](https://github.com/andrewmd5/orion) - a command-line game launcher for the Game Porting Toolkit (today)
-- [andrewmd5/hako](https://github.com/andrewmd5/hako) - An embeddable, lightweight, secure, high-performance JavaScript engine. (today)
+- [PaulSolt/WEPopover](https://github.com/PaulSolt/WEPopover) - Generic popover implementation for iOS with same API as the UIPopoverController for the iPad, but configurable with custom background and available for iPhone/iPhone4 (today)
+- [witekbobrowski/EPUBKit](https://github.com/witekbobrowski/EPUBKit) - 📚 Simple EPUB Parser in Swift (today)
+- [derekli66/Learning-Core-Audio-Swift-SampleCode](https://github.com/derekli66/Learning-Core-Audio-Swift-SampleCode) - Swift sample code for the book, Learning Core Audio. The original sample code was written in C/Objective-C but I tried to make it in Swift version. (today)
+- [darrarski/xcframework-maker](https://github.com/darrarski/xcframework-maker) - macOS utility for converting fat-frameworks to SPM-compatible XCFramework with arm64-simulator support (today)
+- [DragonCherry/AssetsPickerViewController](https://github.com/DragonCherry/AssetsPickerViewController) - Powerfully Customizable - Multiple Photo & Video Picker Controller (today)
 
 ## 🔨 Latest Pull Requests I published
 
