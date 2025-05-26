@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [donadev](https://github.com/donadev)
 - [menacedjava](https://github.com/menacedjava)
 - [sinha-19](https://github.com/sinha-19)
 - [Eros175](https://github.com/Eros175)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [rootdingj](https://github.com/rootdingj)
 - [Roland-Front-Back](https://github.com/Roland-Front-Back)
 - [knmts](https://github.com/knmts)
-- [hetailang](https://github.com/hetailang)
 
 ## ⭐ Recent stars
 
+- [rudransh61/Physix-go](https://github.com/rudransh61/Physix-go) - A simple Physics engine in GoLang (today)
 - [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨ (1 day ago)
 - [google/dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java. (1 day ago)
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back (1 day ago)
 - [dnanhkhoa/nb_black](https://github.com/dnanhkhoa/nb_black) - A simple extension for Jupyter Notebook and Jupyter Lab to beautify Python code automatically using black. (1 day ago)
-- [fuzziqersoftware/newserv](https://github.com/fuzziqersoftware/newserv) - Phantasy Star Online game server, proxy, and reverse-engineering tools (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
