@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [debug45/PermissionWizard](https://github.com/debug45/PermissionWizard) - 🔮 An ultimate library for iOS and macOS system permissions management. The easiest way to check or request a permission. (today)
 - [rudransh61/Physix-go](https://github.com/rudransh61/Physix-go) - A simple Physics engine in GoLang (today)
 - [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨ (1 day ago)
 - [google/dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java. (1 day ago)
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back (1 day ago)
-- [dnanhkhoa/nb_black](https://github.com/dnanhkhoa/nb_black) - A simple extension for Jupyter Notebook and Jupyter Lab to beautify Python code automatically using black. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
