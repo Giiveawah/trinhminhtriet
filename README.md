@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sshyta](https://github.com/sshyta)
 - [donadev](https://github.com/donadev)
 - [menacedjava](https://github.com/menacedjava)
 - [sinha-19](https://github.com/sinha-19)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Neymarvhilla](https://github.com/Neymarvhilla)
 - [rootdingj](https://github.com/rootdingj)
 - [Roland-Front-Back](https://github.com/Roland-Front-Back)
-- [knmts](https://github.com/knmts)
 
 ## ⭐ Recent stars
 
