@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Musixal/HAProxy](https://github.com/Musixal/HAProxy) - A simple script for port-forwarding via HAProxy and load-balancing support (today)
-- [Musixal/GamingVPN](https://github.com/Musixal/GamingVPN) - A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link. Optimized for gaming. (today)
-- [Musixal/Easy-Mesh](https://github.com/Musixal/Easy-Mesh) - Peer to Peer VPN based on easytier core (today)
-- [Musixal/Backhaul](https://github.com/Musixal/Backhaul) - Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support. (today)
-- [Musixal/Rathole-Tunnel](https://github.com/Musixal/Rathole-Tunnel) - A secure, stable and high-performance reverse proxy with TCP/UDP support. (today)
+- [EstebanFuentealba/MALVEKE-Flipper-Zero](https://github.com/EstebanFuentealba/MALVEKE-Flipper-Zero) - GAME BOY Tools for Flipper Zero. The perfect companion for your Flipper Zero. Equipped with ESP32-S2 for WiFi. MALVEKE allows you to connect all GAME BOY peripherals and additional accessories such as NRF24, CC1101, and GPS. (today)
+- [glitchedgitz/cook](https://github.com/glitchedgitz/cook) - A wordlist framework to fullfill your kinks with your wordlists. For security researchers, bug bounty and hackers.  (today)
+- [dmgk/faker](https://github.com/dmgk/faker) - A library for generating fake data such as names, addresses, and phone numbers. (today)
+- [andrewmd5/orion](https://github.com/andrewmd5/orion) - a command-line game launcher for the Game Porting Toolkit (today)
+- [andrewmd5/hako](https://github.com/andrewmd5/hako) - An embeddable, lightweight, secure, high-performance JavaScript engine. (today)
 
 ## 🔨 Latest Pull Requests I published
 
