@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [steinathan/reelsmaker](https://github.com/steinathan/reelsmaker) - ReelsMaker is a Python-based/streamlit application designed to create captivating faceless videos for social media platforms like TikTok and YouTube. (today)
-- [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go (today)
-- [shiguanghuxian/etcd-manage](https://github.com/shiguanghuxian/etcd-manage) - 一个现代的etcd v3管理ui (today)
-- [shiguanghuxian/docker-compose](https://github.com/shiguanghuxian/docker-compose) - 一些基础服务的docker-compose配置文件，方便在一台新电脑上快速开始工作 (today)
-- [verygenericname/SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) - Shell script that creates a ssh ramdisk (today)
+- [gadfly361/rid3](https://github.com/gadfly361/rid3) - Reagent Interface to D3 (today)
+- [gadfly361/soda-ash](https://github.com/gadfly361/soda-ash) - Soda-ash is an interface between clojurescript's Reagent and Semantic UI React (today)
+- [gadfly361/reagent-figwheel](https://github.com/gadfly361/reagent-figwheel) - Leiningen template for Reagent applications in Clojurescript with Figwheel. Optionally includes secretary, cljs.test, garden, less, cider, devcards, cljs-devtools, re-risk (today)
+- [gadfly361/re-pressed](https://github.com/gadfly361/re-pressed) - re-pressed is a clojurescript library that handles keyboard events for re-frame applications. (today)
+- [gwhalin/Memcached-Java-Client](https://github.com/gwhalin/Memcached-Java-Client) - Information about this project lives on the wiki (today)
 
 ## 🔨 Latest Pull Requests I published
 
