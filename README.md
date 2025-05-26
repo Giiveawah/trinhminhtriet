@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [steinathan/reelsmaker](https://github.com/steinathan/reelsmaker) - ReelsMaker is a Python-based/streamlit application designed to create captivating faceless videos for social media platforms like TikTok and YouTube. (today)
+- [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go (today)
+- [shiguanghuxian/etcd-manage](https://github.com/shiguanghuxian/etcd-manage) - 一个现代的etcd v3管理ui (today)
+- [shiguanghuxian/docker-compose](https://github.com/shiguanghuxian/docker-compose) - 一些基础服务的docker-compose配置文件，方便在一台新电脑上快速开始工作 (today)
 - [verygenericname/SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) - Shell script that creates a ssh ramdisk (today)
-- [albertodebortoli/GoldRaccoon](https://github.com/albertodebortoli/GoldRaccoon) - The iOS component to connect to a FTP service and perform the operations you need. http://albertodebortoli.github.io/GoldRaccoon/ (today)
-- [albertodebortoli/Skopelos](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data. Simply all you need for doing Core Data. Swift flavour. (today)
-- [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collection (including sub-domain name, ip address, country information, organizational information and time zone, etc.) and vulnerability scanning. (today)
-- [oldinaction/ChatGPT-MP](https://github.com/oldinaction/ChatGPT-MP) - 基于DeepSeek/ChatGPT等模型实现的聊天微信小程序，适配H5和WEB端。包含前后端，支持打字效果输出流式输出，支持AI聊天次数限制，支持分享增加次数等功能。（**AI落地接单中，欢迎咨询**） (today)
 
 ## 🔨 Latest Pull Requests I published
 
