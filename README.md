@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [amirho3einfi](https://github.com/amirho3einfi)
+- [BabiDoo](https://github.com/BabiDoo)
 - [Katia-almasri](https://github.com/Katia-almasri)
 - [sshyta](https://github.com/sshyta)
 - [donadev](https://github.com/donadev)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Eros175](https://github.com/Eros175)
 - [isaacdiniiz](https://github.com/isaacdiniiz)
 - [EfekanSalman](https://github.com/EfekanSalman)
-- [Neymarvhilla](https://github.com/Neymarvhilla)
-- [rootdingj](https://github.com/rootdingj)
 
 ## ⭐ Recent stars
 
+- [verygenericname/SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) - Shell script that creates a ssh ramdisk (today)
 - [albertodebortoli/GoldRaccoon](https://github.com/albertodebortoli/GoldRaccoon) - The iOS component to connect to a FTP service and perform the operations you need. http://albertodebortoli.github.io/GoldRaccoon/ (today)
 - [albertodebortoli/Skopelos](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data. Simply all you need for doing Core Data. Swift flavour. (today)
 - [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collection (including sub-domain name, ip address, country information, organizational information and time zone, etc.) and vulnerability scanning. (today)
 - [oldinaction/ChatGPT-MP](https://github.com/oldinaction/ChatGPT-MP) - 基于DeepSeek/ChatGPT等模型实现的聊天微信小程序，适配H5和WEB端。包含前后端，支持打字效果输出流式输出，支持AI聊天次数限制，支持分享增加次数等功能。（**AI落地接单中，欢迎咨询**） (today)
-- [debug45/PermissionWizard](https://github.com/debug45/PermissionWizard) - 🔮 An ultimate library for iOS and macOS system permissions management. The easiest way to check or request a permission. (today)
 
 ## 🔨 Latest Pull Requests I published
 
