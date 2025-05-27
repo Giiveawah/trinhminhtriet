@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [appkr/l5essential](https://github.com/appkr/l5essential) - 라라벨 (Laravel) 5 입문 및 실전 강좌 (today)
-- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches (today)
-- [durul/terminal-mac-cheatsheet](https://github.com/durul/terminal-mac-cheatsheet) - List of my most used commands and shortcuts in the terminal for Mac (today)
-- [durul/My-Medium-Articles](https://github.com/durul/My-Medium-Articles) - List of my blog posts in the Medium  (today)
-- [durul/Fakery](https://github.com/durul/Fakery) - :alien: Swift fake data generator (today)
+- [Matty9191/ssl-cert-check](https://github.com/Matty9191/ssl-cert-check) - Send notifications when SSL certificates are about to expire. (today)
+- [kairen/learning-blockchain](https://github.com/kairen/learning-blockchain) - Tidy up Blockchain ecosystem and tutorial (today)
+- [kairen/kube-ansible](https://github.com/kairen/kube-ansible) - Build a Kubernetes cluster via Ansible playbook. :wrench: :wrench: :wrench: (today)
+- [kairen/kubeadm-ansible](https://github.com/kairen/kubeadm-ansible) - Build a Kubernetes cluster using kubeadm via Ansible. (today)
+- [martinda/Jenkinsfile-vim-syntax](https://github.com/martinda/Jenkinsfile-vim-syntax) - Jenkinsfile DSL vim syntax (today)
 
 ## 🔨 Latest Pull Requests I published
 
