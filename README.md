@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [josebayondev](https://github.com/josebayondev)
 - [RajiaRani](https://github.com/RajiaRani)
 - [m4rcu5o](https://github.com/m4rcu5o)
 - [techEdge3030](https://github.com/techEdge3030)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [jackson951](https://github.com/jackson951)
 - [windlow](https://github.com/windlow)
-- [Prashant15887](https://github.com/Prashant15887)
 
 ## ⭐ Recent stars
 
