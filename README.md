@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [techEdge3030](https://github.com/techEdge3030)
 - [mbahomaid](https://github.com/mbahomaid)
 - [naruto9554](https://github.com/naruto9554)
 - [wayaadhyasta](https://github.com/wayaadhyasta)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [windlow](https://github.com/windlow)
 - [Prashant15887](https://github.com/Prashant15887)
 - [iidmsa](https://github.com/iidmsa)
-- [KCprsnlcc](https://github.com/KCprsnlcc)
 
 ## ⭐ Recent stars
 
