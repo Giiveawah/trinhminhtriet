@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mbahomaid](https://github.com/mbahomaid)
 - [naruto9554](https://github.com/naruto9554)
 - [wayaadhyasta](https://github.com/wayaadhyasta)
 - [smutluuuu](https://github.com/smutluuuu)
@@ -53,17 +54,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [jackson951](https://github.com/jackson951)
 - [windlow](https://github.com/windlow)
 - [Prashant15887](https://github.com/Prashant15887)
-- [Sawi78112](https://github.com/Sawi78112)
 - [iidmsa](https://github.com/iidmsa)
 - [KCprsnlcc](https://github.com/KCprsnlcc)
 
 ## ⭐ Recent stars
 
+- [trinhminhtriet/trinhminhtriet](https://github.com/trinhminhtriet/trinhminhtriet) - 👨‍💻 Personal portfolio and contact information for Trinh Minh Triet, including social media profiles and professional details. (today)
 - [0xjmp/ObjectMapper-Realm](https://github.com/0xjmp/ObjectMapper-Realm) - An ObjectMapper extension that serializes arbitrary JSON into Realm's List class (today)
 - [aufzayed/bugbounty](https://github.com/aufzayed/bugbounty) - Bugbounty Resources (today)
 - [aalex954/evilginx2-TTPs](https://github.com/aalex954/evilginx2-TTPs) - Reverse engineered to remove IOCs, added Exchange Online Protection IP blacklist and bing-bot user-agent blocking, DNS configuration and notes on usage. (today)
 - [SivanLiu/HwFrameWorkSource](https://github.com/SivanLiu/HwFrameWorkSource) - 华为 framework 源码 (today)
-- [Guolei1130/android_p_no_sdkapi_support](https://github.com/Guolei1130/android_p_no_sdkapi_support) - use hideapi on anroid P (today)
 
 ## 🔨 Latest Pull Requests I published
 
