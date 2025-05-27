@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [wayaadhyasta](https://github.com/wayaadhyasta)
 - [smutluuuu](https://github.com/smutluuuu)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [jackson951](https://github.com/jackson951)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [iidmsa](https://github.com/iidmsa)
 - [KCprsnlcc](https://github.com/KCprsnlcc)
 - [amirho3einfi](https://github.com/amirho3einfi)
-- [BabiDoo](https://github.com/BabiDoo)
 
 ## ⭐ Recent stars
 
-- [bjzhou/Coolapk-kotlin](https://github.com/bjzhou/Coolapk-kotlin) - 酷安开源版..... (today)
-- [nguyenhuy/AsyncMessagesViewController](https://github.com/nguyenhuy/AsyncMessagesViewController) - A smooth, responsive and flexible messages UI library for iOS. (today)
-- [hotchemi/khronos](https://github.com/hotchemi/khronos) - An intuitive Date extensions in Kotlin. (today)
-- [hotchemi/Android-Rate](https://github.com/hotchemi/Android-Rate) - Android-Rate is a library to help you promote your android app by prompting users to rate the app after using it for a few days. (today)
-- [hotchemi/awesome-android-testing](https://github.com/hotchemi/awesome-android-testing) - A curated list of awesome android testing libraries. (today)
+- [petehouston/laravel-docs-vn](https://github.com/petehouston/laravel-docs-vn) - The Vietnamese translation of the Official Laravel Documentation (today)
+- [petehouston/vue-ui-framework](https://github.com/petehouston/vue-ui-framework) - My personal collection of Vue UI framework (today)
+- [petehouston/laravel-deploy-on-shared-hosting](https://github.com/petehouston/laravel-deploy-on-shared-hosting) - The simple guide to deploy Laravel application to shared hosting services. (today)
+- [JonathanMonga/flutter_shine.dart](https://github.com/JonathanMonga/flutter_shine.dart) - Flutter Shine is a library for pretty and realistic shadows, dynamic light positions, extremely customizable shadows, no library dependencies, text or box shadows based on content. (today)
+- [JonathanMonga/flutter_gradients](https://github.com/JonathanMonga/flutter_gradients) - A curated collection of awesome gradients made in Dart for Flutter (today)
 
 ## 🔨 Latest Pull Requests I published
 
