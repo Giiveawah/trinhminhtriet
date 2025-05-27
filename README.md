@@ -52,10 +52,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mbahomaid](https://github.com/mbahomaid)
 - [naruto9554](https://github.com/naruto9554)
 - [wayaadhyasta](https://github.com/wayaadhyasta)
-- [smutluuuu](https://github.com/smutluuuu)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [jackson951](https://github.com/jackson951)
 - [windlow](https://github.com/windlow)
+- [Prashant15887](https://github.com/Prashant15887)
 
 ## ⭐ Recent stars
 
