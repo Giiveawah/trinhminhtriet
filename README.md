@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [wenhuix/COMDBG](https://github.com/wenhuix/COMDBG) - C# Serial port debug assistant 串口调试助手 (today)
-- [signaflo/java-timeseries](https://github.com/signaflo/java-timeseries) - Time series analysis in Java (today)
-- [mesutpiskin/opencv-object-detection](https://github.com/mesutpiskin/opencv-object-detection) - :camera:  Object detection with OpenCV on Java. DNN, HaarCascade, Template Matching, Color Detection etc. (today)
-- [mesutpiskin/keycloak-2fa-email-authenticator](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator) - 🔒  Keycloak Authentication Provider implementation to get a two factor authentication with a OTP/code/token send via Email (through SMTP) (today)
-- [mesutpiskin/face-detection-and-recognition](https://github.com/mesutpiskin/face-detection-and-recognition) - :hurtrealbad:C# Face detection and recognition with EmguCV. Eigenfaces, Fisherfaces and LBPH algorithms. (today)
+- [bjzhou/Coolapk-kotlin](https://github.com/bjzhou/Coolapk-kotlin) - 酷安开源版..... (today)
+- [nguyenhuy/AsyncMessagesViewController](https://github.com/nguyenhuy/AsyncMessagesViewController) - A smooth, responsive and flexible messages UI library for iOS. (today)
+- [hotchemi/khronos](https://github.com/hotchemi/khronos) - An intuitive Date extensions in Kotlin. (today)
+- [hotchemi/Android-Rate](https://github.com/hotchemi/Android-Rate) - Android-Rate is a library to help you promote your android app by prompting users to rate the app after using it for a few days. (today)
+- [hotchemi/awesome-android-testing](https://github.com/hotchemi/awesome-android-testing) - A curated list of awesome android testing libraries. (today)
 
 ## 🔨 Latest Pull Requests I published
 
