@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ogrodnek/csv-serde](https://github.com/ogrodnek/csv-serde) - Hive SerDe for CSV (today)
-- [ecmnet/MAVGCL](https://github.com/ecmnet/MAVGCL) - In-Flight Analysis for PX4 (today)
-- [SmartBear/soapui](https://github.com/SmartBear/soapui) - SoapUI is a free and open source cross-platform functional testing solution for APIs and web services. (today)
-- [Matty9191/ssl-cert-check](https://github.com/Matty9191/ssl-cert-check) - Send notifications when SSL certificates are about to expire. (today)
-- [kairen/learning-blockchain](https://github.com/kairen/learning-blockchain) - Tidy up Blockchain ecosystem and tutorial (today)
+- [wenhuix/COMDBG](https://github.com/wenhuix/COMDBG) - C# Serial port debug assistant 串口调试助手 (today)
+- [signaflo/java-timeseries](https://github.com/signaflo/java-timeseries) - Time series analysis in Java (today)
+- [mesutpiskin/opencv-object-detection](https://github.com/mesutpiskin/opencv-object-detection) - :camera:  Object detection with OpenCV on Java. DNN, HaarCascade, Template Matching, Color Detection etc. (today)
+- [mesutpiskin/keycloak-2fa-email-authenticator](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator) - 🔒  Keycloak Authentication Provider implementation to get a two factor authentication with a OTP/code/token send via Email (through SMTP) (today)
+- [mesutpiskin/face-detection-and-recognition](https://github.com/mesutpiskin/face-detection-and-recognition) - :hurtrealbad:C# Face detection and recognition with EmguCV. Eigenfaces, Fisherfaces and LBPH algorithms. (today)
 
 ## 🔨 Latest Pull Requests I published
 
