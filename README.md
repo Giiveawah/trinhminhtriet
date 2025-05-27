@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [aufzayed/bugbounty](https://github.com/aufzayed/bugbounty) - Bugbounty Resources (today)
+- [aalex954/evilginx2-TTPs](https://github.com/aalex954/evilginx2-TTPs) - Reverse engineered to remove IOCs, added Exchange Online Protection IP blacklist and bing-bot user-agent blocking, DNS configuration and notes on usage. (today)
+- [SivanLiu/HwFrameWorkSource](https://github.com/SivanLiu/HwFrameWorkSource) - 华为 framework 源码 (today)
+- [Guolei1130/android_p_no_sdkapi_support](https://github.com/Guolei1130/android_p_no_sdkapi_support) - use hideapi on anroid P (today)
 - [petehouston/laravel-docs-vn](https://github.com/petehouston/laravel-docs-vn) - The Vietnamese translation of the Official Laravel Documentation (today)
-- [petehouston/vue-ui-framework](https://github.com/petehouston/vue-ui-framework) - My personal collection of Vue UI framework (today)
-- [petehouston/laravel-deploy-on-shared-hosting](https://github.com/petehouston/laravel-deploy-on-shared-hosting) - The simple guide to deploy Laravel application to shared hosting services. (today)
-- [JonathanMonga/flutter_shine.dart](https://github.com/JonathanMonga/flutter_shine.dart) - Flutter Shine is a library for pretty and realistic shadows, dynamic light positions, extremely customizable shadows, no library dependencies, text or box shadows based on content. (today)
-- [JonathanMonga/flutter_gradients](https://github.com/JonathanMonga/flutter_gradients) - A curated collection of awesome gradients made in Dart for Flutter (today)
 
 ## 🔨 Latest Pull Requests I published
 
