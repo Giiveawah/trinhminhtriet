@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [jackson951](https://github.com/jackson951)
 - [windlow](https://github.com/windlow)
 - [Prashant15887](https://github.com/Prashant15887)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [amirho3einfi](https://github.com/amirho3einfi)
 - [BabiDoo](https://github.com/BabiDoo)
 - [Katia-almasri](https://github.com/Katia-almasri)
-- [sshyta](https://github.com/sshyta)
 
 ## ⭐ Recent stars
 
