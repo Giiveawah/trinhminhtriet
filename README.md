@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [ecmnet/MAVGCL](https://github.com/ecmnet/MAVGCL) - In-Flight Analysis for PX4 (today)
+- [SmartBear/soapui](https://github.com/SmartBear/soapui) - SoapUI is a free and open source cross-platform functional testing solution for APIs and web services. (today)
 - [Matty9191/ssl-cert-check](https://github.com/Matty9191/ssl-cert-check) - Send notifications when SSL certificates are about to expire. (today)
 - [kairen/learning-blockchain](https://github.com/kairen/learning-blockchain) - Tidy up Blockchain ecosystem and tutorial (today)
 - [kairen/kube-ansible](https://github.com/kairen/kube-ansible) - Build a Kubernetes cluster via Ansible playbook. :wrench: :wrench: :wrench: (today)
-- [kairen/kubeadm-ansible](https://github.com/kairen/kubeadm-ansible) - Build a Kubernetes cluster using kubeadm via Ansible. (today)
-- [martinda/Jenkinsfile-vim-syntax](https://github.com/martinda/Jenkinsfile-vim-syntax) - Jenkinsfile DSL vim syntax (today)
 
 ## 🔨 Latest Pull Requests I published
 
