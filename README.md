@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [appkr/l5essential](https://github.com/appkr/l5essential) - 라라벨 (Laravel) 5 입문 및 실전 강좌 (today)
+- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches (today)
 - [durul/terminal-mac-cheatsheet](https://github.com/durul/terminal-mac-cheatsheet) - List of my most used commands and shortcuts in the terminal for Mac (today)
 - [durul/My-Medium-Articles](https://github.com/durul/My-Medium-Articles) - List of my blog posts in the Medium  (today)
 - [durul/Fakery](https://github.com/durul/Fakery) - :alien: Swift fake data generator (today)
-- [ren6/RKRichTextView](https://github.com/ren6/RKRichTextView) - Rich Text Editor for iOS (today)
-- [PaulSolt/WEPopover](https://github.com/PaulSolt/WEPopover) - Generic popover implementation for iOS with same API as the UIPopoverController for the iPad, but configurable with custom background and available for iPhone/iPhone4 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
