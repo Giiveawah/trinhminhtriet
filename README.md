@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Dilshan-hesara](https://github.com/Dilshan-hesara)
 - [anish2056](https://github.com/anish2056)
 - [qmamushroof](https://github.com/qmamushroof)
 - [roddrick369](https://github.com/roddrick369)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [m4rcu5o](https://github.com/m4rcu5o)
 - [techEdge3030](https://github.com/techEdge3030)
 - [mbahomaid](https://github.com/mbahomaid)
-- [naruto9554](https://github.com/naruto9554)
 
 ## ⭐ Recent stars
 
