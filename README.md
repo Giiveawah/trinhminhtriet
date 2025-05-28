@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (today)
 - [trinhminhtriet/trinhminhtriet](https://github.com/trinhminhtriet/trinhminhtriet) - 👨‍💻 Personal portfolio and contact information for Trinh Minh Triet, including social media profiles and professional details. (1 day ago)
 - [0xjmp/ObjectMapper-Realm](https://github.com/0xjmp/ObjectMapper-Realm) - An ObjectMapper extension that serializes arbitrary JSON into Realm's List class (1 day ago)
 - [aufzayed/bugbounty](https://github.com/aufzayed/bugbounty) - Bugbounty Resources (1 day ago)
 - [aalex954/evilginx2-TTPs](https://github.com/aalex954/evilginx2-TTPs) - Reverse engineered to remove IOCs, added Exchange Online Protection IP blacklist and bing-bot user-agent blocking, DNS configuration and notes on usage. (1 day ago)
-- [SivanLiu/HwFrameWorkSource](https://github.com/SivanLiu/HwFrameWorkSource) - 华为 framework 源码 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
