@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Jeruwu](https://github.com/Jeruwu)
 - [alirezaamjadi](https://github.com/alirezaamjadi)
 - [Dilshan-hesara](https://github.com/Dilshan-hesara)
 - [anish2056](https://github.com/anish2056)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [josebayondev](https://github.com/josebayondev)
 - [RajiaRani](https://github.com/RajiaRani)
 - [m4rcu5o](https://github.com/m4rcu5o)
-- [techEdge3030](https://github.com/techEdge3030)
 
 ## ⭐ Recent stars
 
