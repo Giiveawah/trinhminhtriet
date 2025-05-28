@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [roddrick369](https://github.com/roddrick369)
 - [Yoel-stack](https://github.com/Yoel-stack)
 - [josebayondev](https://github.com/josebayondev)
 - [RajiaRani](https://github.com/RajiaRani)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [naruto9554](https://github.com/naruto9554)
 - [wayaadhyasta](https://github.com/wayaadhyasta)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
-- [jackson951](https://github.com/jackson951)
 
 ## ⭐ Recent stars
 
