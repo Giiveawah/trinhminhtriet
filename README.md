@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [wibosco/GhostTypewriter](https://github.com/wibosco/GhostTypewriter) - 👻  A UILabel subclass that adds a typewriting animation effect (today)
 - [gotcha/vimpdb](https://github.com/gotcha/vimpdb) - Pdb and Vim integration (today)
 - [gotcha/ipdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb (today)
 - [fguby/Electron-elf](https://github.com/fguby/Electron-elf) - 使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D） (today)
 - [fguby/live2D](https://github.com/fguby/live2D) - 来定制一个自己专属的live2D看板娘吧(๑•̀ㅂ•́)و✧ (today)
-- [tinylog-org/tinylog](https://github.com/tinylog-org/tinylog) - tinylog is a lightweight logging framework for Java, Kotlin, Scala, and Android (today)
 
 ## 🔨 Latest Pull Requests I published
 
