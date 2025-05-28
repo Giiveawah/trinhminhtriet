@@ -33,19 +33,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (3 days ago)
-- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (3 days ago)
-- [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (3 days ago)
-- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (3 days ago)
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (4 days ago)
-- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (4 days ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (6 days ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (6 days ago)
-- [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) - 🚀 repoctl – A powerful CLI tool to manage multiple Git repositories effortlessly. Sync, pull, and run commands! 🎯 (6 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (4 days ago)
+- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (4 days ago)
+- [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (4 days ago)
+- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (4 days ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (5 days ago)
+- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (5 days ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 week ago)
+- [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) - 🚀 repoctl – A powerful CLI tool to manage multiple Git repositories effortlessly. Sync, pull, and run commands! 🎯 (1 week ago)
 
 ## 👯 Check out my recent followers
 
+- [Yoel-stack](https://github.com/Yoel-stack)
 - [josebayondev](https://github.com/josebayondev)
 - [RajiaRani](https://github.com/RajiaRani)
 - [m4rcu5o](https://github.com/m4rcu5o)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [wayaadhyasta](https://github.com/wayaadhyasta)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [jackson951](https://github.com/jackson951)
-- [windlow](https://github.com/windlow)
 
 ## ⭐ Recent stars
 
-- [trinhminhtriet/trinhminhtriet](https://github.com/trinhminhtriet/trinhminhtriet) - 👨‍💻 Personal portfolio and contact information for Trinh Minh Triet, including social media profiles and professional details. (today)
-- [0xjmp/ObjectMapper-Realm](https://github.com/0xjmp/ObjectMapper-Realm) - An ObjectMapper extension that serializes arbitrary JSON into Realm's List class (today)
-- [aufzayed/bugbounty](https://github.com/aufzayed/bugbounty) - Bugbounty Resources (today)
-- [aalex954/evilginx2-TTPs](https://github.com/aalex954/evilginx2-TTPs) - Reverse engineered to remove IOCs, added Exchange Online Protection IP blacklist and bing-bot user-agent blocking, DNS configuration and notes on usage. (today)
-- [SivanLiu/HwFrameWorkSource](https://github.com/SivanLiu/HwFrameWorkSource) - 华为 framework 源码 (today)
+- [trinhminhtriet/trinhminhtriet](https://github.com/trinhminhtriet/trinhminhtriet) - 👨‍💻 Personal portfolio and contact information for Trinh Minh Triet, including social media profiles and professional details. (1 day ago)
+- [0xjmp/ObjectMapper-Realm](https://github.com/0xjmp/ObjectMapper-Realm) - An ObjectMapper extension that serializes arbitrary JSON into Realm's List class (1 day ago)
+- [aufzayed/bugbounty](https://github.com/aufzayed/bugbounty) - Bugbounty Resources (1 day ago)
+- [aalex954/evilginx2-TTPs](https://github.com/aalex954/evilginx2-TTPs) - Reverse engineered to remove IOCs, added Exchange Online Protection IP blacklist and bing-bot user-agent blocking, DNS configuration and notes on usage. (1 day ago)
+- [SivanLiu/HwFrameWorkSource](https://github.com/SivanLiu/HwFrameWorkSource) - 华为 framework 源码 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
