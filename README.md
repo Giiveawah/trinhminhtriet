@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BlueOpsHub](https://github.com/BlueOpsHub)
 - [Jeruwu](https://github.com/Jeruwu)
 - [alirezaamjadi](https://github.com/alirezaamjadi)
 - [Dilshan-hesara](https://github.com/Dilshan-hesara)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Yoel-stack](https://github.com/Yoel-stack)
 - [josebayondev](https://github.com/josebayondev)
 - [RajiaRani](https://github.com/RajiaRani)
-- [m4rcu5o](https://github.com/m4rcu5o)
 
 ## ⭐ Recent stars
 
+- [gotcha/vimpdb](https://github.com/gotcha/vimpdb) - Pdb and Vim integration (today)
+- [gotcha/ipdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb (today)
+- [fguby/Electron-elf](https://github.com/fguby/Electron-elf) - 使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D） (today)
+- [fguby/live2D](https://github.com/fguby/live2D) - 来定制一个自己专属的live2D看板娘吧(๑•̀ㅂ•́)و✧ (today)
 - [tinylog-org/tinylog](https://github.com/tinylog-org/tinylog) - tinylog is a lightweight logging framework for Java, Kotlin, Scala, and Android (today)
-- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (today)
-- [trinhminhtriet/trinhminhtriet](https://github.com/trinhminhtriet/trinhminhtriet) - 👨‍💻 Personal portfolio and contact information for Trinh Minh Triet, including social media profiles and professional details. (1 day ago)
-- [0xjmp/ObjectMapper-Realm](https://github.com/0xjmp/ObjectMapper-Realm) - An ObjectMapper extension that serializes arbitrary JSON into Realm's List class (1 day ago)
-- [aufzayed/bugbounty](https://github.com/aufzayed/bugbounty) - Bugbounty Resources (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
