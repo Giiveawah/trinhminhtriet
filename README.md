@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [anish2056](https://github.com/anish2056)
 - [qmamushroof](https://github.com/qmamushroof)
 - [roddrick369](https://github.com/roddrick369)
 - [Yoel-stack](https://github.com/Yoel-stack)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [techEdge3030](https://github.com/techEdge3030)
 - [mbahomaid](https://github.com/mbahomaid)
 - [naruto9554](https://github.com/naruto9554)
-- [wayaadhyasta](https://github.com/wayaadhyasta)
 
 ## ⭐ Recent stars
 
