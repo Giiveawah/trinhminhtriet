@@ -50,20 +50,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [wangyukai585](https://github.com/wangyukai585)
 - [suraskariyil](https://github.com/suraskariyil)
 - [dartmehedi](https://github.com/dartmehedi)
-- [hitblast](https://github.com/hitblast)
 - [dsavvari](https://github.com/dsavvari)
 - [NikitaUrazov123](https://github.com/NikitaUrazov123)
 - [mdashrafali-cs](https://github.com/mdashrafali-cs)
 - [BlueOpsHub](https://github.com/BlueOpsHub)
 - [Jeruwu](https://github.com/Jeruwu)
+- [Dilshan-hesara](https://github.com/Dilshan-hesara)
 
 ## ⭐ Recent stars
 
+- [klaemo/docker-couchdb](https://github.com/klaemo/docker-couchdb) - :whale: Source of the official Apache CouchDB Docker image ⚠️ NOTICE ⚠️: moved to the CouchDB org  (today)
+- [AlexGilleran/jsx-control-statements](https://github.com/AlexGilleran/jsx-control-statements) - Neater If and For for React JSX (today)
 - [danvick/flutter_boilerplate](https://github.com/danvick/flutter_boilerplate) - My starter template for Flutter Android and iOS apps. (today)
 - [jtmcdole/dart-webgl](https://github.com/jtmcdole/dart-webgl) - Learn WebGL with Dart (today)
 - [ABausG/home_widget](https://github.com/ABausG/home_widget) - Flutter Package for Easier Creation of Home Screen Widgets (today)
-- [jonasbark/flutter_stripe_payment](https://github.com/jonasbark/flutter_stripe_payment) - [DISCONTINUED] A flutter plugin with stripe payment plugin integration (today)
-- [jonasbark/flutter_in_app_update](https://github.com/jonasbark/flutter_in_app_update) - Flutter Plugin: Enables In App Updates on Android using the official Android APIs. (today)
 
 ## 🔨 Latest Pull Requests I published
 
