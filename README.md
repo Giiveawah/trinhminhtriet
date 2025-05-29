@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [derekr/jquery.sugar](https://github.com/derekr/jquery.sugar) - jQuery sugar for Macrabbit's Espresso code editor. (today)
 - [klaemo/docker-couchdb](https://github.com/klaemo/docker-couchdb) - :whale: Source of the official Apache CouchDB Docker image ⚠️ NOTICE ⚠️: moved to the CouchDB org  (today)
 - [AlexGilleran/jsx-control-statements](https://github.com/AlexGilleran/jsx-control-statements) - Neater If and For for React JSX (today)
 - [danvick/flutter_boilerplate](https://github.com/danvick/flutter_boilerplate) - My starter template for Flutter Android and iOS apps. (today)
 - [jtmcdole/dart-webgl](https://github.com/jtmcdole/dart-webgl) - Learn WebGL with Dart (today)
-- [ABausG/home_widget](https://github.com/ABausG/home_widget) - Flutter Package for Easier Creation of Home Screen Widgets (today)
 
 ## 🔨 Latest Pull Requests I published
 
