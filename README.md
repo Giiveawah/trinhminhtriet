@@ -50,20 +50,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mdashrafali-cs](https://github.com/mdashrafali-cs)
 - [BlueOpsHub](https://github.com/BlueOpsHub)
 - [Jeruwu](https://github.com/Jeruwu)
-- [alirezaamjadi](https://github.com/alirezaamjadi)
 - [Dilshan-hesara](https://github.com/Dilshan-hesara)
 - [anish2056](https://github.com/anish2056)
 - [qmamushroof](https://github.com/qmamushroof)
 - [roddrick369](https://github.com/roddrick369)
 - [Yoel-stack](https://github.com/Yoel-stack)
+- [josebayondev](https://github.com/josebayondev)
 
 ## ⭐ Recent stars
 
+- [SkyTreasure/Airbnb-Android-Google-Map-View](https://github.com/SkyTreasure/Airbnb-Android-Google-Map-View) - This is a sample Android Application which has Google Map view similar to what AirBnb Android Application. Moving Markers like Uber/Ola. Custom Google Search for places. Recycler view with Animations added.   (today)
 - [wibosco/GhostTypewriter](https://github.com/wibosco/GhostTypewriter) - 👻  A UILabel subclass that adds a typewriting animation effect (1 day ago)
 - [gotcha/vimpdb](https://github.com/gotcha/vimpdb) - Pdb and Vim integration (1 day ago)
 - [gotcha/ipdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb (1 day ago)
 - [fguby/Electron-elf](https://github.com/fguby/Electron-elf) - 使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D） (1 day ago)
-- [fguby/live2D](https://github.com/fguby/live2D) - 来定制一个自己专属的live2D看板娘吧(๑•̀ㅂ•́)و✧ (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
