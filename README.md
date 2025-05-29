@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [dartmehedi](https://github.com/dartmehedi)
 - [hitblast](https://github.com/hitblast)
 - [dsavvari](https://github.com/dsavvari)
 - [NikitaUrazov123](https://github.com/NikitaUrazov123)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Dilshan-hesara](https://github.com/Dilshan-hesara)
 - [anish2056](https://github.com/anish2056)
 - [qmamushroof](https://github.com/qmamushroof)
-- [roddrick369](https://github.com/roddrick369)
 
 ## ⭐ Recent stars
 
+- [mtellect/Flutter-Ecommerce-App](https://github.com/mtellect/Flutter-Ecommerce-App) (today)
 - [brianschardt/node_rest_api_mysql](https://github.com/brianschardt/node_rest_api_mysql) (today)
 - [orestesgaolin/animations_samples](https://github.com/orestesgaolin/animations_samples) - Flutter animation showcase (today)
 - [orestesgaolin/navigator_20_example](https://github.com/orestesgaolin/navigator_20_example) - Bunch of examples of Navigator 2.0 (today)
 - [furkansarihan/enigine](https://github.com/furkansarihan/enigine) - Game engine playground. (today)
-- [yaoandy107/line-bot-tutorial](https://github.com/yaoandy107/line-bot-tutorial) - Line bot tutorial. (today)
 
 ## 🔨 Latest Pull Requests I published
 
