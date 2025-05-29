@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NikitaUrazov123](https://github.com/NikitaUrazov123)
+- [mdashrafali-cs](https://github.com/mdashrafali-cs)
 - [BlueOpsHub](https://github.com/BlueOpsHub)
 - [Jeruwu](https://github.com/Jeruwu)
 - [alirezaamjadi](https://github.com/alirezaamjadi)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [qmamushroof](https://github.com/qmamushroof)
 - [roddrick369](https://github.com/roddrick369)
 - [Yoel-stack](https://github.com/Yoel-stack)
-- [josebayondev](https://github.com/josebayondev)
-- [RajiaRani](https://github.com/RajiaRani)
 
 ## ⭐ Recent stars
 
