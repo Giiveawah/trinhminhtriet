@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [anselmh/object-fit](https://github.com/anselmh/object-fit) - Polyfill (mostly IE) for CSS object-fit property to fill-in/fit-in images into containers. (today)
-- [orige-zz/githubpages.registro.br](https://github.com/orige-zz/githubpages.registro.br) - Pequeno tutorial de como configurar o DNS do registro.br para seu projeto hospedado aqui no GitHub. (today)
-- [Fintasys/emoji_picker_flutter](https://github.com/Fintasys/emoji_picker_flutter) - A Flutter package that provides an Emoji picker widget with 1500+ emojis in 8 categories. (today)
-- [wiiznokes/fan-control](https://github.com/wiiznokes/fan-control) - Control your fans with different behaviors (today)
-- [ahmetaa/zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) - NLP tools for Turkish. (today)
+- [danvick/flutter_boilerplate](https://github.com/danvick/flutter_boilerplate) - My starter template for Flutter Android and iOS apps. (today)
+- [jtmcdole/dart-webgl](https://github.com/jtmcdole/dart-webgl) - Learn WebGL with Dart (today)
+- [ABausG/home_widget](https://github.com/ABausG/home_widget) - Flutter Package for Easier Creation of Home Screen Widgets (today)
+- [jonasbark/flutter_stripe_payment](https://github.com/jonasbark/flutter_stripe_payment) - [DISCONTINUED] A flutter plugin with stripe payment plugin integration (today)
+- [jonasbark/flutter_in_app_update](https://github.com/jonasbark/flutter_in_app_update) - Flutter Plugin: Enables In App Updates on Android using the official Android APIs. (today)
 
 ## 🔨 Latest Pull Requests I published
 
