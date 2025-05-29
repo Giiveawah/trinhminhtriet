@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hitblast](https://github.com/hitblast)
 - [dsavvari](https://github.com/dsavvari)
 - [NikitaUrazov123](https://github.com/NikitaUrazov123)
 - [mdashrafali-cs](https://github.com/mdashrafali-cs)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [anish2056](https://github.com/anish2056)
 - [qmamushroof](https://github.com/qmamushroof)
 - [roddrick369](https://github.com/roddrick369)
-- [Yoel-stack](https://github.com/Yoel-stack)
 
 ## ⭐ Recent stars
 
+- [brianschardt/node_rest_api_mysql](https://github.com/brianschardt/node_rest_api_mysql) (today)
+- [orestesgaolin/animations_samples](https://github.com/orestesgaolin/animations_samples) - Flutter animation showcase (today)
+- [orestesgaolin/navigator_20_example](https://github.com/orestesgaolin/navigator_20_example) - Bunch of examples of Navigator 2.0 (today)
+- [furkansarihan/enigine](https://github.com/furkansarihan/enigine) - Game engine playground. (today)
 - [yaoandy107/line-bot-tutorial](https://github.com/yaoandy107/line-bot-tutorial) - Line bot tutorial. (today)
-- [SkyTreasure/Airbnb-Android-Google-Map-View](https://github.com/SkyTreasure/Airbnb-Android-Google-Map-View) - This is a sample Android Application which has Google Map view similar to what AirBnb Android Application. Moving Markers like Uber/Ola. Custom Google Search for places. Recycler view with Animations added.   (today)
-- [wibosco/GhostTypewriter](https://github.com/wibosco/GhostTypewriter) - 👻  A UILabel subclass that adds a typewriting animation effect (1 day ago)
-- [gotcha/vimpdb](https://github.com/gotcha/vimpdb) - Pdb and Vim integration (1 day ago)
-- [gotcha/ipdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
