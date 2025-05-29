@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [prudentelias1024](https://github.com/prudentelias1024)
 - [wangyukai585](https://github.com/wangyukai585)
 - [suraskariyil](https://github.com/suraskariyil)
 - [dartmehedi](https://github.com/dartmehedi)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mdashrafali-cs](https://github.com/mdashrafali-cs)
 - [BlueOpsHub](https://github.com/BlueOpsHub)
 - [Jeruwu](https://github.com/Jeruwu)
-- [Dilshan-hesara](https://github.com/Dilshan-hesara)
 
 ## ⭐ Recent stars
 
+- [anselmh/object-fit](https://github.com/anselmh/object-fit) - Polyfill (mostly IE) for CSS object-fit property to fill-in/fit-in images into containers. (today)
+- [orige-zz/githubpages.registro.br](https://github.com/orige-zz/githubpages.registro.br) - Pequeno tutorial de como configurar o DNS do registro.br para seu projeto hospedado aqui no GitHub. (today)
+- [Fintasys/emoji_picker_flutter](https://github.com/Fintasys/emoji_picker_flutter) - A Flutter package that provides an Emoji picker widget with 1500+ emojis in 8 categories. (today)
+- [wiiznokes/fan-control](https://github.com/wiiznokes/fan-control) - Control your fans with different behaviors (today)
 - [ahmetaa/zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) - NLP tools for Turkish. (today)
-- [MarcelGarus/marquee](https://github.com/MarcelGarus/marquee) - A Flutter widget that scrolls text infinitely. Provides many customizations including custom scroll directions and velocities, pausing after every round and specifying custom durations and curves for accelerating and decelerating. (today)
-- [dilumdesilva/cs-student-starter-pack](https://github.com/dilumdesilva/cs-student-starter-pack) - Computer science student starter pack is a repository which contains all the free and open source resources which can be helpful to any computer science or IT student. (today)
-- [BrutalCoding/shady.ai](https://github.com/BrutalCoding/shady.ai) - Making offline AI models accessible to all types of edge devices. (today)
-- [BrutalCoding/aub.ai](https://github.com/BrutalCoding/aub.ai) - AubAI brings you on-device gen-AI capabilities, including offline text generation and more, directly within your app. (today)
 
 ## 🔨 Latest Pull Requests I published
 
