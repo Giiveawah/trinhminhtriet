@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [wangyukai585](https://github.com/wangyukai585)
 - [suraskariyil](https://github.com/suraskariyil)
 - [dartmehedi](https://github.com/dartmehedi)
 - [hitblast](https://github.com/hitblast)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BlueOpsHub](https://github.com/BlueOpsHub)
 - [Jeruwu](https://github.com/Jeruwu)
 - [Dilshan-hesara](https://github.com/Dilshan-hesara)
-- [anish2056](https://github.com/anish2056)
 
 ## ⭐ Recent stars
 
+- [ahmetaa/zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) - NLP tools for Turkish. (today)
+- [MarcelGarus/marquee](https://github.com/MarcelGarus/marquee) - A Flutter widget that scrolls text infinitely. Provides many customizations including custom scroll directions and velocities, pausing after every round and specifying custom durations and curves for accelerating and decelerating. (today)
 - [dilumdesilva/cs-student-starter-pack](https://github.com/dilumdesilva/cs-student-starter-pack) - Computer science student starter pack is a repository which contains all the free and open source resources which can be helpful to any computer science or IT student. (today)
 - [BrutalCoding/shady.ai](https://github.com/BrutalCoding/shady.ai) - Making offline AI models accessible to all types of edge devices. (today)
 - [BrutalCoding/aub.ai](https://github.com/BrutalCoding/aub.ai) - AubAI brings you on-device gen-AI capabilities, including offline text generation and more, directly within your app. (today)
-- [cscoderr/flutter_advance](https://github.com/cscoderr/flutter_advance) - A collection of custom/advanced Flutter design, animations and UI  (today)
-- [edemekong/city-cab](https://github.com/edemekong/city-cab) - An open source flutter taxi - app for learning purpose(Provider & Bloc) using firebase as backend/server (today)
 
 ## 🔨 Latest Pull Requests I published
 
