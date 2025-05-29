@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [suraskariyil](https://github.com/suraskariyil)
 - [dartmehedi](https://github.com/dartmehedi)
 - [hitblast](https://github.com/hitblast)
 - [dsavvari](https://github.com/dsavvari)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Jeruwu](https://github.com/Jeruwu)
 - [Dilshan-hesara](https://github.com/Dilshan-hesara)
 - [anish2056](https://github.com/anish2056)
-- [qmamushroof](https://github.com/qmamushroof)
 
 ## ⭐ Recent stars
 
-- [mtellect/Flutter-Ecommerce-App](https://github.com/mtellect/Flutter-Ecommerce-App) (today)
-- [brianschardt/node_rest_api_mysql](https://github.com/brianschardt/node_rest_api_mysql) (today)
-- [orestesgaolin/animations_samples](https://github.com/orestesgaolin/animations_samples) - Flutter animation showcase (today)
-- [orestesgaolin/navigator_20_example](https://github.com/orestesgaolin/navigator_20_example) - Bunch of examples of Navigator 2.0 (today)
-- [furkansarihan/enigine](https://github.com/furkansarihan/enigine) - Game engine playground. (today)
+- [dilumdesilva/cs-student-starter-pack](https://github.com/dilumdesilva/cs-student-starter-pack) - Computer science student starter pack is a repository which contains all the free and open source resources which can be helpful to any computer science or IT student. (today)
+- [BrutalCoding/shady.ai](https://github.com/BrutalCoding/shady.ai) - Making offline AI models accessible to all types of edge devices. (today)
+- [BrutalCoding/aub.ai](https://github.com/BrutalCoding/aub.ai) - AubAI brings you on-device gen-AI capabilities, including offline text generation and more, directly within your app. (today)
+- [cscoderr/flutter_advance](https://github.com/cscoderr/flutter_advance) - A collection of custom/advanced Flutter design, animations and UI  (today)
+- [edemekong/city-cab](https://github.com/edemekong/city-cab) - An open source flutter taxi - app for learning purpose(Provider & Bloc) using firebase as backend/server (today)
 
 ## 🔨 Latest Pull Requests I published
 
