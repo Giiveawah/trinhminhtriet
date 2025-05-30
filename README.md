@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [leosmigel/analyzingalpha](https://github.com/leosmigel/analyzingalpha) (today)
-- [patchy631/machine-learning](https://github.com/patchy631/machine-learning) (today)
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (today)
-- [jujumilk3/fastapi-clean-architecture](https://github.com/jujumilk3/fastapi-clean-architecture) - Base FastAPI Project to create general api. (today)
-- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts (today)
+- [crespum/edge-ai](https://github.com/crespum/edge-ai) - A curated list of resources for embedded AI (today)
+- [mvexel/overpass-api-python-wrapper](https://github.com/mvexel/overpass-api-python-wrapper) - Python bindings for the OpenStreetMap Overpass API (today)
+- [JamesLMilner/quadtree-go](https://github.com/JamesLMilner/quadtree-go) - :four_leaf_clover:  A Quadtree implemented in Go (today)
+- [JamesLMilner/THREEAR](https://github.com/JamesLMilner/THREEAR) - A marker based Augmented Reality library for Three.js (today)
+- [JamesLMilner/cheap-ruler-go](https://github.com/JamesLMilner/cheap-ruler-go) - 📏 cheapruler in Go: fast geodesic measurements (today)
 
 ## 🔨 Latest Pull Requests I published
 
