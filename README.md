@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [heliomarpm](https://github.com/heliomarpm)
 - [Dheyhasan](https://github.com/Dheyhasan)
 - [org-tekeli-borisp](https://github.com/org-tekeli-borisp)
 - [Nayeem0011](https://github.com/Nayeem0011)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ctvnjhnrmmlp](https://github.com/ctvnjhnrmmlp)
 - [Nour484](https://github.com/Nour484)
 - [pakpuk](https://github.com/pakpuk)
-- [Roshan20222](https://github.com/Roshan20222)
 
 ## ⭐ Recent stars
 
+- [xmhafiz/CustomModalVC](https://github.com/xmhafiz/CustomModalVC) - Simple Half-screen view controller, draggable and less code (learning purpose) (today)
+- [SD10/Nora](https://github.com/SD10/Nora) - Nora is a Firebase abstraction layer for FirebaseDatabase and FirebaseStorage (today)
 - [Tadashi-Hikari/Sapphire](https://github.com/Tadashi-Hikari/Sapphire) - A free and open source replacement for Google Assistant on Android devices, meant to integrate with the Sapphire Framework. It contains both speech-to-text and text-to-speech services. It does not require Google services or network connectivity (today)
 - [Tadashi-Hikari/Sapphire-Assistant-Framework](https://github.com/Tadashi-Hikari/Sapphire-Assistant-Framework) - An extensible framework for creating Android Assistants on-device. It does not require Google services or network connectivity (today)
 - [yannjor/krabby](https://github.com/yannjor/krabby) - Print pokemon sprites in your terminal (today)
-- [sooshin/android-news-app](https://github.com/sooshin/android-news-app) - News App Project as a part of Android Basics Nanodegree at Udacity. Navigation Drawer | ViewPager plus TabLayout | Loaders | JSON Parsing | SharedPreferences (today)
-- [donlan/Tuyi](https://github.com/donlan/Tuyi) - 基于位置信息，空间时间结合的社交与分享的应用。 (today)
 
 ## 🔨 Latest Pull Requests I published
 
