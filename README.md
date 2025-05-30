@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [dudongge/DDGScreenShot](https://github.com/dudongge/DDGScreenShot) - DDGScreenShot截屏图片处理，只需一句代码,复杂屏幕截屏（如view ScrollView webView wkwebView）,图片后期处理，拼图，裁剪等 (today)
+- [frostnova721/animestream](https://github.com/frostnova721/animestream) - An app to stream and download anime (today)
+- [Mazahir26/koduko](https://github.com/Mazahir26/koduko) - A habit tracker made using flutter. (today)
 - [5hirish/adam_qas](https://github.com/5hirish/adam_qas) - ADAM - A Question Answering System. Inspired from IBM Watson (today)
 - [IceClear/CLIP-IQA](https://github.com/IceClear/CLIP-IQA) - [AAAI 2023] Exploring CLIP for Assessing the Look and Feel of Images (today)
-- [IceClear/StableSR](https://github.com/IceClear/StableSR) - [IJCV2024] Exploiting Diffusion Prior for Real-World Image Super-Resolution (today)
-- [EverettYou/Mathematica-for-physics](https://github.com/EverettYou/Mathematica-for-physics) - Mathematica Packages for Physicists (today)
-- [marcboeker/go-duckdb](https://github.com/marcboeker/go-duckdb) - go-duckdb provides a database/sql driver for the DuckDB database engine. (today)
 
 ## 🔨 Latest Pull Requests I published
 
