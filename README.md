@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MonoPX](https://github.com/MonoPX)
 - [myathtut-zafir](https://github.com/myathtut-zafir)
 - [JOR-Attack](https://github.com/JOR-Attack)
 - [EriksDevelopment](https://github.com/EriksDevelopment)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [suraskariyil](https://github.com/suraskariyil)
 - [dartmehedi](https://github.com/dartmehedi)
 - [dsavvari](https://github.com/dsavvari)
-- [NikitaUrazov123](https://github.com/NikitaUrazov123)
 
 ## ⭐ Recent stars
 
