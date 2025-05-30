@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Dheyhasan](https://github.com/Dheyhasan)
+- [org-tekeli-borisp](https://github.com/org-tekeli-borisp)
 - [Nayeem0011](https://github.com/Nayeem0011)
 - [Laqrabti](https://github.com/Laqrabti)
 - [febrinurhidayat](https://github.com/febrinurhidayat)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Nour484](https://github.com/Nour484)
 - [pakpuk](https://github.com/pakpuk)
 - [Roshan20222](https://github.com/Roshan20222)
-- [MonoPX](https://github.com/MonoPX)
-- [myathtut-zafir](https://github.com/myathtut-zafir)
 
 ## ⭐ Recent stars
 
+- [Tadashi-Hikari/Sapphire](https://github.com/Tadashi-Hikari/Sapphire) - A free and open source replacement for Google Assistant on Android devices, meant to integrate with the Sapphire Framework. It contains both speech-to-text and text-to-speech services. It does not require Google services or network connectivity (today)
+- [Tadashi-Hikari/Sapphire-Assistant-Framework](https://github.com/Tadashi-Hikari/Sapphire-Assistant-Framework) - An extensible framework for creating Android Assistants on-device. It does not require Google services or network connectivity (today)
+- [yannjor/krabby](https://github.com/yannjor/krabby) - Print pokemon sprites in your terminal (today)
 - [sooshin/android-news-app](https://github.com/sooshin/android-news-app) - News App Project as a part of Android Basics Nanodegree at Udacity. Navigation Drawer | ViewPager plus TabLayout | Loaders | JSON Parsing | SharedPreferences (today)
 - [donlan/Tuyi](https://github.com/donlan/Tuyi) - 基于位置信息，空间时间结合的社交与分享的应用。 (today)
-- [ForceGT/Tata-Sky-IPTV](https://github.com/ForceGT/Tata-Sky-IPTV) - Generate direct m3u playlist for all the channels subscribed in the IPTV Portal (today)
-- [balazsgerlei/AndroidSecurityEvolution](https://github.com/balazsgerlei/AndroidSecurityEvolution) - Significant security enchancements of recent major Android versions. (today)
-- [Kwevan/42-Tests](https://github.com/Kwevan/42-Tests) (today)
 
 ## 🔨 Latest Pull Requests I published
 
