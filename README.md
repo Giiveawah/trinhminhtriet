@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [darods/CanSat-Ground-station](https://github.com/darods/CanSat-Ground-station) - Code for a CanSat or OBCs GUI ground station where different sensor data are displayed in real time. No sensors needed to try it. (today)
 - [crespum/edge-ai](https://github.com/crespum/edge-ai) - A curated list of resources for embedded AI (today)
 - [mvexel/overpass-api-python-wrapper](https://github.com/mvexel/overpass-api-python-wrapper) - Python bindings for the OpenStreetMap Overpass API (today)
 - [JamesLMilner/quadtree-go](https://github.com/JamesLMilner/quadtree-go) - :four_leaf_clover:  A Quadtree implemented in Go (today)
 - [JamesLMilner/THREEAR](https://github.com/JamesLMilner/THREEAR) - A marker based Augmented Reality library for Three.js (today)
-- [JamesLMilner/cheap-ruler-go](https://github.com/JamesLMilner/cheap-ruler-go) - 📏 cheapruler in Go: fast geodesic measurements (today)
 
 ## 🔨 Latest Pull Requests I published
 
