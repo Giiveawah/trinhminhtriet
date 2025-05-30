@@ -33,19 +33,22 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (5 days ago)
-- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (5 days ago)
-- [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (5 days ago)
-- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (5 days ago)
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (6 days ago)
-- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (6 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (6 days ago)
+- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (6 days ago)
+- [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (6 days ago)
+- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (6 days ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 week ago)
+- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (1 week ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 week ago)
 - [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) - 🚀 repoctl – A powerful CLI tool to manage multiple Git repositories effortlessly. Sync, pull, and run commands! 🎯 (1 week ago)
 
 ## 👯 Check out my recent followers
 
+- [JOR-Attack](https://github.com/JOR-Attack)
+- [EriksDevelopment](https://github.com/EriksDevelopment)
+- [hunterjsb](https://github.com/hunterjsb)
 - [prudentelias1024](https://github.com/prudentelias1024)
 - [wangyukai585](https://github.com/wangyukai585)
 - [suraskariyil](https://github.com/suraskariyil)
@@ -53,22 +56,19 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dsavvari](https://github.com/dsavvari)
 - [NikitaUrazov123](https://github.com/NikitaUrazov123)
 - [mdashrafali-cs](https://github.com/mdashrafali-cs)
-- [BlueOpsHub](https://github.com/BlueOpsHub)
-- [Jeruwu](https://github.com/Jeruwu)
-- [Dilshan-hesara](https://github.com/Dilshan-hesara)
 
 ## ⭐ Recent stars
 
-- [derekr/jquery.sugar](https://github.com/derekr/jquery.sugar) - jQuery sugar for Macrabbit's Espresso code editor. (today)
-- [klaemo/docker-couchdb](https://github.com/klaemo/docker-couchdb) - :whale: Source of the official Apache CouchDB Docker image ⚠️ NOTICE ⚠️: moved to the CouchDB org  (today)
-- [AlexGilleran/jsx-control-statements](https://github.com/AlexGilleran/jsx-control-statements) - Neater If and For for React JSX (today)
-- [danvick/flutter_boilerplate](https://github.com/danvick/flutter_boilerplate) - My starter template for Flutter Android and iOS apps. (today)
-- [jtmcdole/dart-webgl](https://github.com/jtmcdole/dart-webgl) - Learn WebGL with Dart (today)
+- [phpnode/YiiRedis](https://github.com/phpnode/YiiRedis) - A set of wrappers for different data types in redis (today)
+- [gtdalp/listloading](https://github.com/gtdalp/listloading) - listloading是一个移动端的上拉、下拉加载更多的组件。主要依赖于iscroll.js v5.1.2基础上开发的组件，基础库可以使用jquery.js或者zepto.js操作dom节点，目前我是使用了zepto.js作为基础库操作dom，以jquery插件的形式存在。如果不想以插件方式使用，则只需要把listloading直接移植你需要的库里面就ok啦。listloading主要针对移动端而生，在使用浏览器自带滚动，用户体验很不友好，与Android和ios差别甚远，所以选择iscroll.js，它实现方式是使用css3动画translate 3D 转换来实现滚动效果，transform属性使用硬件加速，性能方法得到很大提高。 https://gtdalp.github.io/widget/listloading/demos/listloading.html (today)
+- [davellanedam/vue-skeleton-mvp](https://github.com/davellanedam/vue-skeleton-mvp) - VueJs, Vuetify, Vue Router and Vuex skeleton MVP written on JavaScript using async/await built to work with API REST skeleton: https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton (today)
+- [davellanedam/node-express-mongodb-jwt-rest-api-skeleton](https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton) - This is a basic API REST skeleton written on JavaScript using async/await. Great for building a starter web API for your front-end (Android, iOS, Vue, react, angular, or anything that can consume an API). Demo of frontend in VueJS here: https://github.com/davellanedam/vue-skeleton-mvp (today)
+- [roceys/Taobao](https://github.com/roceys/Taobao) - 2020天猫淘宝双11自动领喵币吸猫脚本（过无障碍防检测）无后门无推广原生Auto.js纯净版 (today)
 
 ## 🔨 Latest Pull Requests I published
 
 - [Develop](https://github.com/trinhminhtriet/repoctl/pull/17) on [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) (2 weeks ago)
-- [Develop](https://github.com/trinhminhtriet/scanr/pull/22) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (2 weeks ago)
-- [Develop](https://github.com/trinhminhtriet/scanr/pull/21) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (2 weeks ago)
-- [Develop](https://github.com/trinhminhtriet/pingy/pull/8) on [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) (2 weeks ago)
+- [Develop](https://github.com/trinhminhtriet/scanr/pull/22) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (3 weeks ago)
+- [Develop](https://github.com/trinhminhtriet/scanr/pull/21) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (3 weeks ago)
+- [Develop](https://github.com/trinhminhtriet/pingy/pull/8) on [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) (3 weeks ago)
 - [Develop](https://github.com/trinhminhtriet/blast/pull/13) on [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) (1 month ago)
