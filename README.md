@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SiddharthJoshi1](https://github.com/SiddharthJoshi1)
 - [heliomarpm](https://github.com/heliomarpm)
 - [Dheyhasan](https://github.com/Dheyhasan)
 - [org-tekeli-borisp](https://github.com/org-tekeli-borisp)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [diegoaces](https://github.com/diegoaces)
 - [ctvnjhnrmmlp](https://github.com/ctvnjhnrmmlp)
 - [Nour484](https://github.com/Nour484)
-- [pakpuk](https://github.com/pakpuk)
 
 ## ⭐ Recent stars
 
-- [xmhafiz/CustomModalVC](https://github.com/xmhafiz/CustomModalVC) - Simple Half-screen view controller, draggable and less code (learning purpose) (today)
-- [SD10/Nora](https://github.com/SD10/Nora) - Nora is a Firebase abstraction layer for FirebaseDatabase and FirebaseStorage (today)
-- [Tadashi-Hikari/Sapphire](https://github.com/Tadashi-Hikari/Sapphire) - A free and open source replacement for Google Assistant on Android devices, meant to integrate with the Sapphire Framework. It contains both speech-to-text and text-to-speech services. It does not require Google services or network connectivity (today)
-- [Tadashi-Hikari/Sapphire-Assistant-Framework](https://github.com/Tadashi-Hikari/Sapphire-Assistant-Framework) - An extensible framework for creating Android Assistants on-device. It does not require Google services or network connectivity (today)
-- [yannjor/krabby](https://github.com/yannjor/krabby) - Print pokemon sprites in your terminal (today)
+- [larryaasen/LAWalkthrough](https://github.com/larryaasen/LAWalkthrough) - A walkthrough view controller class for iOS designed to simplify the creation of the walkthrough design pattern. (today)
+- [larryaasen/upgrader](https://github.com/larryaasen/upgrader) - A Flutter package for prompting users to upgrade when there is a newer version of the app in the store. (today)
+- [fairytale110/BezierSeekBar](https://github.com/fairytale110/BezierSeekBar) - Beautiful custom View, SeekBar selector, easy to use, and rich in customization.漂亮的区间选择器，贝塞尔曲线优雅实现 (today)
+- [danabeknar/kazakhstan-it-internships](https://github.com/danabeknar/kazakhstan-it-internships) - 🇰🇿 A collection of IT internships taking place in Kazakshtan (today)
+- [targetkiller/gulp-imageisux](https://github.com/targetkiller/gulp-imageisux) - 智图gulp插件 (today)
 
 ## 🔨 Latest Pull Requests I published
 
