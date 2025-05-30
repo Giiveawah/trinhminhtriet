@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Nayeem0011](https://github.com/Nayeem0011)
 - [Laqrabti](https://github.com/Laqrabti)
 - [febrinurhidayat](https://github.com/febrinurhidayat)
 - [diegoaces](https://github.com/diegoaces)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Roshan20222](https://github.com/Roshan20222)
 - [MonoPX](https://github.com/MonoPX)
 - [myathtut-zafir](https://github.com/myathtut-zafir)
-- [JOR-Attack](https://github.com/JOR-Attack)
 
 ## ⭐ Recent stars
 
+- [Kwevan/42-Tests](https://github.com/Kwevan/42-Tests) (today)
+- [tittojose/TimeRangePicker](https://github.com/tittojose/TimeRangePicker) - Android time range picker (today)
+- [binglingziyu/OwlView](https://github.com/binglingziyu/OwlView) (today)
+- [mmBs/NavigationDrawerSI](https://github.com/mmBs/NavigationDrawerSI) - Navigation Drawer Simple Implementation (today)
 - [jakepurple13/OtakuWorld](https://github.com/jakepurple13/OtakuWorld) - Anime Watcher, Manga Reader, and Novel Reader as three separate apps, same UI (today)
-- [binaryshrey/Awesome-Android-Open-Source-Projects](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects) - :eyeglasses: A curated list of awesome android projects by open-source contributors.  (today)
-- [saurabharora90/MotionLayout-Playground](https://github.com/saurabharora90/MotionLayout-Playground) - A collection of UI's built to showcase the capabilities of Motion Layout and Constraint Layout 2.0/2.1 (today)
-- [saurabharora90/MaterialArcMenu](https://github.com/saurabharora90/MaterialArcMenu) - An android custom view which allows you to have a arc style-menu on your pages (today)
-- [loper7/tablayout-ext](https://github.com/loper7/tablayout-ext) - :star::tada:google 原生 Tablayout( com.google.android.material.tabs.TabLayout) 零入侵拓展，帮你更便捷的使用原生TabLayout实现一些UI效果 (today)
 
 ## 🔨 Latest Pull Requests I published
 
