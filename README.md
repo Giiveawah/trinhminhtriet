@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [diegoaces](https://github.com/diegoaces)
 - [ctvnjhnrmmlp](https://github.com/ctvnjhnrmmlp)
 - [Nour484](https://github.com/Nour484)
 - [pakpuk](https://github.com/pakpuk)
@@ -54,16 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [myathtut-zafir](https://github.com/myathtut-zafir)
 - [JOR-Attack](https://github.com/JOR-Attack)
 - [EriksDevelopment](https://github.com/EriksDevelopment)
-- [hunterjsb](https://github.com/hunterjsb)
 - [prudentelias1024](https://github.com/prudentelias1024)
 
 ## ⭐ Recent stars
 
+- [5hirish/adam_qas](https://github.com/5hirish/adam_qas) - ADAM - A Question Answering System. Inspired from IBM Watson (today)
 - [IceClear/CLIP-IQA](https://github.com/IceClear/CLIP-IQA) - [AAAI 2023] Exploring CLIP for Assessing the Look and Feel of Images (today)
 - [IceClear/StableSR](https://github.com/IceClear/StableSR) - [IJCV2024] Exploiting Diffusion Prior for Real-World Image Super-Resolution (today)
 - [EverettYou/Mathematica-for-physics](https://github.com/EverettYou/Mathematica-for-physics) - Mathematica Packages for Physicists (today)
 - [marcboeker/go-duckdb](https://github.com/marcboeker/go-duckdb) - go-duckdb provides a database/sql driver for the DuckDB database engine. (today)
-- [marcboeker/gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Index your Gmail account to a SQLite DB and play with the data. (today)
 
 ## 🔨 Latest Pull Requests I published
 
