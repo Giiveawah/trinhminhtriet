@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [hylarucoder/tifa](https://github.com/hylarucoder/tifa) - Yet another opinionated fastapi-start-kit with best practice (today)
-- [hylarucoder/YaVueBlog](https://github.com/hylarucoder/YaVueBlog) - Vue 最佳实践 (today)
-- [hylarucoder/comfyui-workflow](https://github.com/hylarucoder/comfyui-workflow) (today)
-- [hylarucoder/ChatGPT-Nuxt](https://github.com/hylarucoder/ChatGPT-Nuxt) - ChatGPT Web Nuxt 3  Vue 3 Version (today)
-- [hylarucoder/danmu.fm](https://github.com/hylarucoder/danmu.fm) - douyutv danmu 斗鱼TV 弹幕助手 (today)
+- [DachunKai/Ev-DeblurVSR](https://github.com/DachunKai/Ev-DeblurVSR) - [AAAI 2025] Event-Enhanced Blurry Video Super-Resolution (today)
+- [DachunKai/EvTexture](https://github.com/DachunKai/EvTexture) - [ICML 2024] EvTexture: Event-driven Texture Enhancement for Video Super-Resolution (today)
+- [dongyh20/Insight-V](https://github.com/dongyh20/Insight-V) - [CVPR2025 Highlight] Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models (today)
+- [dongyh20/Octopus](https://github.com/dongyh20/Octopus) - [ECCV2024] 🐙Octopus, an embodied vision-language model trained with RLEF, emerging superior in embodied visual planning and programming. (today)
+- [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Open-source and strong foundation image recognition models. (today)
 
 ## 🔨 Latest Pull Requests I published
 
