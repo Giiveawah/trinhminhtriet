@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [sooshin/android-news-app](https://github.com/sooshin/android-news-app) - News App Project as a part of Android Basics Nanodegree at Udacity. Navigation Drawer | ViewPager plus TabLayout | Loaders | JSON Parsing | SharedPreferences (today)
+- [donlan/Tuyi](https://github.com/donlan/Tuyi) - 基于位置信息，空间时间结合的社交与分享的应用。 (today)
+- [ForceGT/Tata-Sky-IPTV](https://github.com/ForceGT/Tata-Sky-IPTV) - Generate direct m3u playlist for all the channels subscribed in the IPTV Portal (today)
+- [balazsgerlei/AndroidSecurityEvolution](https://github.com/balazsgerlei/AndroidSecurityEvolution) - Significant security enchancements of recent major Android versions. (today)
 - [Kwevan/42-Tests](https://github.com/Kwevan/42-Tests) (today)
-- [tittojose/TimeRangePicker](https://github.com/tittojose/TimeRangePicker) - Android time range picker (today)
-- [binglingziyu/OwlView](https://github.com/binglingziyu/OwlView) (today)
-- [mmBs/NavigationDrawerSI](https://github.com/mmBs/NavigationDrawerSI) - Navigation Drawer Simple Implementation (today)
-- [jakepurple13/OtakuWorld](https://github.com/jakepurple13/OtakuWorld) - Anime Watcher, Manga Reader, and Novel Reader as three separate apps, same UI (today)
 
 ## 🔨 Latest Pull Requests I published
 
