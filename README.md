@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [myathtut-zafir](https://github.com/myathtut-zafir)
 - [JOR-Attack](https://github.com/JOR-Attack)
 - [EriksDevelopment](https://github.com/EriksDevelopment)
 - [hunterjsb](https://github.com/hunterjsb)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dartmehedi](https://github.com/dartmehedi)
 - [dsavvari](https://github.com/dsavvari)
 - [NikitaUrazov123](https://github.com/NikitaUrazov123)
-- [mdashrafali-cs](https://github.com/mdashrafali-cs)
 
 ## ⭐ Recent stars
 
-- [phpnode/YiiRedis](https://github.com/phpnode/YiiRedis) - A set of wrappers for different data types in redis (today)
-- [gtdalp/listloading](https://github.com/gtdalp/listloading) - listloading是一个移动端的上拉、下拉加载更多的组件。主要依赖于iscroll.js v5.1.2基础上开发的组件，基础库可以使用jquery.js或者zepto.js操作dom节点，目前我是使用了zepto.js作为基础库操作dom，以jquery插件的形式存在。如果不想以插件方式使用，则只需要把listloading直接移植你需要的库里面就ok啦。listloading主要针对移动端而生，在使用浏览器自带滚动，用户体验很不友好，与Android和ios差别甚远，所以选择iscroll.js，它实现方式是使用css3动画translate 3D 转换来实现滚动效果，transform属性使用硬件加速，性能方法得到很大提高。 https://gtdalp.github.io/widget/listloading/demos/listloading.html (today)
-- [davellanedam/vue-skeleton-mvp](https://github.com/davellanedam/vue-skeleton-mvp) - VueJs, Vuetify, Vue Router and Vuex skeleton MVP written on JavaScript using async/await built to work with API REST skeleton: https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton (today)
-- [davellanedam/node-express-mongodb-jwt-rest-api-skeleton](https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton) - This is a basic API REST skeleton written on JavaScript using async/await. Great for building a starter web API for your front-end (Android, iOS, Vue, react, angular, or anything that can consume an API). Demo of frontend in VueJS here: https://github.com/davellanedam/vue-skeleton-mvp (today)
-- [roceys/Taobao](https://github.com/roceys/Taobao) - 2020天猫淘宝双11自动领喵币吸猫脚本（过无障碍防检测）无后门无推广原生Auto.js纯净版 (today)
+- [leosmigel/analyzingalpha](https://github.com/leosmigel/analyzingalpha) (today)
+- [patchy631/machine-learning](https://github.com/patchy631/machine-learning) (today)
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (today)
+- [jujumilk3/fastapi-clean-architecture](https://github.com/jujumilk3/fastapi-clean-architecture) - Base FastAPI Project to create general api. (today)
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts (today)
 
 ## 🔨 Latest Pull Requests I published
 
