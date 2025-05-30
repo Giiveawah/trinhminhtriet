@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ibyatovadinara](https://github.com/ibyatovadinara)
 - [SiddharthJoshi1](https://github.com/SiddharthJoshi1)
 - [heliomarpm](https://github.com/heliomarpm)
 - [Dheyhasan](https://github.com/Dheyhasan)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [febrinurhidayat](https://github.com/febrinurhidayat)
 - [diegoaces](https://github.com/diegoaces)
 - [ctvnjhnrmmlp](https://github.com/ctvnjhnrmmlp)
-- [Nour484](https://github.com/Nour484)
 
 ## ⭐ Recent stars
 
-- [larryaasen/LAWalkthrough](https://github.com/larryaasen/LAWalkthrough) - A walkthrough view controller class for iOS designed to simplify the creation of the walkthrough design pattern. (today)
-- [larryaasen/upgrader](https://github.com/larryaasen/upgrader) - A Flutter package for prompting users to upgrade when there is a newer version of the app in the store. (today)
-- [fairytale110/BezierSeekBar](https://github.com/fairytale110/BezierSeekBar) - Beautiful custom View, SeekBar selector, easy to use, and rich in customization.漂亮的区间选择器，贝塞尔曲线优雅实现 (today)
-- [danabeknar/kazakhstan-it-internships](https://github.com/danabeknar/kazakhstan-it-internships) - 🇰🇿 A collection of IT internships taking place in Kazakshtan (today)
-- [targetkiller/gulp-imageisux](https://github.com/targetkiller/gulp-imageisux) - 智图gulp插件 (today)
+- [ygit/swiftui](https://github.com/ygit/swiftui) - A collaborative list of awesome SwiftUI resources. Feel free to contribute! (today)
+- [dylanslewis/stylesync](https://github.com/dylanslewis/stylesync) - A command line tool to extract shared styles from a Sketch document, and generate native code for any platform. (today)
+- [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple and intuitive way to explore and analyze a codebase by using graph structures. (today)
+- [johnernaut/goatee](https://github.com/johnernaut/goatee) - A Redis-backed notification server written in Go (today)
+- [iraycd/React-Redux-Styleguide](https://github.com/iraycd/React-Redux-Styleguide) - This is a working set of guidelines for developing React applications. We say "guideline" because there are no hard-and-fast rules; best practices, patterns and technology change over time, so we consider this a living set of style guides. (today)
 
 ## 🔨 Latest Pull Requests I published
 
