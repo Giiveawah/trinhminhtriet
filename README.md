@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Laqrabti](https://github.com/Laqrabti)
+- [febrinurhidayat](https://github.com/febrinurhidayat)
 - [diegoaces](https://github.com/diegoaces)
 - [ctvnjhnrmmlp](https://github.com/ctvnjhnrmmlp)
 - [Nour484](https://github.com/Nour484)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MonoPX](https://github.com/MonoPX)
 - [myathtut-zafir](https://github.com/myathtut-zafir)
 - [JOR-Attack](https://github.com/JOR-Attack)
-- [EriksDevelopment](https://github.com/EriksDevelopment)
-- [prudentelias1024](https://github.com/prudentelias1024)
 
 ## ⭐ Recent stars
 
+- [lyledean1/flutter_whisper.cpp](https://github.com/lyledean1/flutter_whisper.cpp) - Flutter App That Can Transcribe Audio Offline/On Device with Whisper C++ Bindings via Rust (today)
 - [dudongge/DDGScreenShot](https://github.com/dudongge/DDGScreenShot) - DDGScreenShot截屏图片处理，只需一句代码,复杂屏幕截屏（如view ScrollView webView wkwebView）,图片后期处理，拼图，裁剪等 (today)
 - [frostnova721/animestream](https://github.com/frostnova721/animestream) - An app to stream and download anime (today)
 - [Mazahir26/koduko](https://github.com/Mazahir26/koduko) - A habit tracker made using flutter. (today)
 - [5hirish/adam_qas](https://github.com/5hirish/adam_qas) - ADAM - A Question Answering System. Inspired from IBM Watson (today)
-- [IceClear/CLIP-IQA](https://github.com/IceClear/CLIP-IQA) - [AAAI 2023] Exploring CLIP for Assessing the Look and Feel of Images (today)
 
 ## 🔨 Latest Pull Requests I published
 
