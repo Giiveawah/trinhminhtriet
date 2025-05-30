@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ctvnjhnrmmlp](https://github.com/ctvnjhnrmmlp)
+- [Nour484](https://github.com/Nour484)
 - [pakpuk](https://github.com/pakpuk)
 - [Roshan20222](https://github.com/Roshan20222)
 - [MonoPX](https://github.com/MonoPX)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [EriksDevelopment](https://github.com/EriksDevelopment)
 - [hunterjsb](https://github.com/hunterjsb)
 - [prudentelias1024](https://github.com/prudentelias1024)
-- [wangyukai585](https://github.com/wangyukai585)
-- [suraskariyil](https://github.com/suraskariyil)
 
 ## ⭐ Recent stars
 
-- [DachunKai/Ev-DeblurVSR](https://github.com/DachunKai/Ev-DeblurVSR) - [AAAI 2025] Event-Enhanced Blurry Video Super-Resolution (today)
-- [DachunKai/EvTexture](https://github.com/DachunKai/EvTexture) - [ICML 2024] EvTexture: Event-driven Texture Enhancement for Video Super-Resolution (today)
-- [dongyh20/Insight-V](https://github.com/dongyh20/Insight-V) - [CVPR2025 Highlight] Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models (today)
-- [dongyh20/Octopus](https://github.com/dongyh20/Octopus) - [ECCV2024] 🐙Octopus, an embodied vision-language model trained with RLEF, emerging superior in embodied visual planning and programming. (today)
-- [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Open-source and strong foundation image recognition models. (today)
+- [IceClear/CLIP-IQA](https://github.com/IceClear/CLIP-IQA) - [AAAI 2023] Exploring CLIP for Assessing the Look and Feel of Images (today)
+- [IceClear/StableSR](https://github.com/IceClear/StableSR) - [IJCV2024] Exploiting Diffusion Prior for Real-World Image Super-Resolution (today)
+- [EverettYou/Mathematica-for-physics](https://github.com/EverettYou/Mathematica-for-physics) - Mathematica Packages for Physicists (today)
+- [marcboeker/go-duckdb](https://github.com/marcboeker/go-duckdb) - go-duckdb provides a database/sql driver for the DuckDB database engine. (today)
+- [marcboeker/gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Index your Gmail account to a SQLite DB and play with the data. (today)
 
 ## 🔨 Latest Pull Requests I published
 
