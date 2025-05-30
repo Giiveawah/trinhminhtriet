@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [pakpuk](https://github.com/pakpuk)
+- [Roshan20222](https://github.com/Roshan20222)
 - [MonoPX](https://github.com/MonoPX)
 - [myathtut-zafir](https://github.com/myathtut-zafir)
 - [JOR-Attack](https://github.com/JOR-Attack)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [prudentelias1024](https://github.com/prudentelias1024)
 - [wangyukai585](https://github.com/wangyukai585)
 - [suraskariyil](https://github.com/suraskariyil)
-- [dartmehedi](https://github.com/dartmehedi)
-- [dsavvari](https://github.com/dsavvari)
 
 ## ⭐ Recent stars
 
-- [cynricfu/dual-fisheye-video-stitching](https://github.com/cynricfu/dual-fisheye-video-stitching) - Dual fisheye video stitching (today)
-- [cynricfu/MAGNN](https://github.com/cynricfu/MAGNN) - Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding (today)
-- [darods/CanSat-Ground-station](https://github.com/darods/CanSat-Ground-station) - Code for a CanSat or OBCs GUI ground station where different sensor data are displayed in real time. No sensors needed to try it. (today)
-- [crespum/edge-ai](https://github.com/crespum/edge-ai) - A curated list of resources for embedded AI (today)
-- [mvexel/overpass-api-python-wrapper](https://github.com/mvexel/overpass-api-python-wrapper) - Python bindings for the OpenStreetMap Overpass API (today)
+- [hylarucoder/tifa](https://github.com/hylarucoder/tifa) - Yet another opinionated fastapi-start-kit with best practice (today)
+- [hylarucoder/YaVueBlog](https://github.com/hylarucoder/YaVueBlog) - Vue 最佳实践 (today)
+- [hylarucoder/comfyui-workflow](https://github.com/hylarucoder/comfyui-workflow) (today)
+- [hylarucoder/ChatGPT-Nuxt](https://github.com/hylarucoder/ChatGPT-Nuxt) - ChatGPT Web Nuxt 3  Vue 3 Version (today)
+- [hylarucoder/danmu.fm](https://github.com/hylarucoder/danmu.fm) - douyutv danmu 斗鱼TV 弹幕助手 (today)
 
 ## 🔨 Latest Pull Requests I published
 
