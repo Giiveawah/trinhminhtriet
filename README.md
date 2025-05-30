@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [martj42/international_results](https://github.com/martj42/international_results) (today)
-- [ashbaldry/designer](https://github.com/ashbaldry/designer) - Prototype UI for Shiny Apps (today)
-- [lyledean1/flutter_whisper.cpp](https://github.com/lyledean1/flutter_whisper.cpp) - Flutter App That Can Transcribe Audio Offline/On Device with Whisper C++ Bindings via Rust (today)
-- [dudongge/DDGScreenShot](https://github.com/dudongge/DDGScreenShot) - DDGScreenShot截屏图片处理，只需一句代码,复杂屏幕截屏（如view ScrollView webView wkwebView）,图片后期处理，拼图，裁剪等 (today)
-- [frostnova721/animestream](https://github.com/frostnova721/animestream) - An app to stream and download anime (today)
+- [jakepurple13/OtakuWorld](https://github.com/jakepurple13/OtakuWorld) - Anime Watcher, Manga Reader, and Novel Reader as three separate apps, same UI (today)
+- [binaryshrey/Awesome-Android-Open-Source-Projects](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects) - :eyeglasses: A curated list of awesome android projects by open-source contributors.  (today)
+- [saurabharora90/MotionLayout-Playground](https://github.com/saurabharora90/MotionLayout-Playground) - A collection of UI's built to showcase the capabilities of Motion Layout and Constraint Layout 2.0/2.1 (today)
+- [saurabharora90/MaterialArcMenu](https://github.com/saurabharora90/MaterialArcMenu) - An android custom view which allows you to have a arc style-menu on your pages (today)
+- [loper7/tablayout-ext](https://github.com/loper7/tablayout-ext) - :star::tada:google 原生 Tablayout( com.google.android.material.tabs.TabLayout) 零入侵拓展，帮你更便捷的使用原生TabLayout实现一些UI效果 (today)
 
 ## 🔨 Latest Pull Requests I published
 
