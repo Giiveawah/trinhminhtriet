@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Wael0dfg](https://github.com/Wael0dfg)
 - [AbdelrahmanEsam](https://github.com/AbdelrahmanEsam)
 - [isostack](https://github.com/isostack)
 - [alejandrogiubel](https://github.com/alejandrogiubel)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [heliomarpm](https://github.com/heliomarpm)
 - [Dheyhasan](https://github.com/Dheyhasan)
 - [org-tekeli-borisp](https://github.com/org-tekeli-borisp)
-- [Nayeem0011](https://github.com/Nayeem0011)
 
 ## ⭐ Recent stars
 
-- [glennzw/shodan-hq-nse](https://github.com/glennzw/shodan-hq-nse) - Shodan HQ nmap plugin - passively scan targets (today)
-- [kytrinyx/therapeutic-refactoring](https://github.com/kytrinyx/therapeutic-refactoring) - Code examples for the talk Therapeutic Refactoring (today)
-- [thomsmed/ios-examples](https://github.com/thomsmed/ios-examples) - A collection of iOS example code and applications. (today)
-- [yulingtianxia/SimilarImageHunter](https://github.com/yulingtianxia/SimilarImageHunter) - Mac 上寻找相似内容的图片工具 (today)
-- [yulingtianxia/YXYDashLayer](https://github.com/yulingtianxia/YXYDashLayer) - Colorful Rounded Rect Dash Border (today)
+- [t2mune/mrtparse](https://github.com/t2mune/mrtparse) - MRT format data parser (today)
+- [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster) - GitOps/Flux2 managed full-stack Kubernetes clusters (today)
+- [loisaidasam/pyslack](https://github.com/loisaidasam/pyslack) - A Python wrapper for Slack's API (today)
+- [hillu/go-yara](https://github.com/hillu/go-yara) - Go bindings for YARA (today)
+- [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - Simple local scanner for vulnerable log4j instances (today)
 
 ## 🔨 Latest Pull Requests I published
 
