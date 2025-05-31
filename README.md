@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [AJMitev/FileTypeChecker](https://github.com/AJMitev/FileTypeChecker) - Cross platform file type validator for .NET  (today)
-- [HighwayofLife/awesome-chatgpt-plugins](https://github.com/HighwayofLife/awesome-chatgpt-plugins) - A curated and categeorized list of all of the ChatGPT plugins available within ChatGPT plus, includes detailed descriptions and usage docs, as well as unofficial sources of plugins (today)
-- [aramperes/onetun](https://github.com/aramperes/onetun) - User space WireGuard port-forward in Rust (today)
-- [kellydunn/golang-geo](https://github.com/kellydunn/golang-geo) - Geographical calculations in Go. (today)
-- [tmaiaroto/aegis](https://github.com/tmaiaroto/aegis) - Serverless Golang deploy tool and framework for AWS Lambda (today)
+- [bluenote10/NimSvg](https://github.com/bluenote10/NimSvg) - Nim-based DSL allowing to generate SVG files and GIF animations. (today)
+- [bluenote10/yachalk](https://github.com/bluenote10/yachalk) - 🖍️  Terminal string styling done right  (today)
+- [bluenote10/tabloo](https://github.com/bluenote10/tabloo) - Minimalistic dashboard app for visualizing tabular data (today)
+- [bluenote10/PandasDataFrameGUI](https://github.com/bluenote10/PandasDataFrameGUI) - A minimalistic GUI for analyzing Pandas DataFrames. (today)
+- [bluenote10/NimData](https://github.com/bluenote10/NimData) - DataFrame API written in Nim, enabling fast out-of-core data processing (today)
 
 ## 🔨 Latest Pull Requests I published
 
