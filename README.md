@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [t2mune/mrtparse](https://github.com/t2mune/mrtparse) - MRT format data parser (today)
-- [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster) - GitOps/Flux2 managed full-stack Kubernetes clusters (today)
-- [loisaidasam/pyslack](https://github.com/loisaidasam/pyslack) - A Python wrapper for Slack's API (today)
-- [hillu/go-yara](https://github.com/hillu/go-yara) - Go bindings for YARA (today)
-- [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - Simple local scanner for vulnerable log4j instances (today)
+- [KissPeter/APIFuzzer](https://github.com/KissPeter/APIFuzzer) - Fuzz test your application using your OpenAPI or Swagger API definition without coding (today)
+- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch (today)
+- [tg12/rapid7_OSINT](https://github.com/tg12/rapid7_OSINT) - All the tools you need to make your own mind up from the Open Data Sets (today)
+- [tg12/FAIG](https://github.com/tg12/FAIG) - Fully Automated IG Trading (today)
+- [tg12/PoC_CVEs](https://github.com/tg12/PoC_CVEs) - PoC_CVEs (today)
 
 ## 🔨 Latest Pull Requests I published
 
