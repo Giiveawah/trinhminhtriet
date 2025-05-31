@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AbdelrahmanEsam](https://github.com/AbdelrahmanEsam)
+- [isostack](https://github.com/isostack)
+- [alejandrogiubel](https://github.com/alejandrogiubel)
 - [hanichu](https://github.com/hanichu)
 - [ibyatovadinara](https://github.com/ibyatovadinara)
 - [SiddharthJoshi1](https://github.com/SiddharthJoshi1)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Dheyhasan](https://github.com/Dheyhasan)
 - [org-tekeli-borisp](https://github.com/org-tekeli-borisp)
 - [Nayeem0011](https://github.com/Nayeem0011)
-- [Laqrabti](https://github.com/Laqrabti)
-- [febrinurhidayat](https://github.com/febrinurhidayat)
-- [diegoaces](https://github.com/diegoaces)
 
 ## ⭐ Recent stars
 
-- [Vkt0r/AccordionSwift](https://github.com/Vkt0r/AccordionSwift) - The best way of implement an accordion menu using an UITableView in Swift (today)
-- [heliomarpm/udemy-downloader-gui](https://github.com/heliomarpm/udemy-downloader-gui) - A desktop application for downloading Udemy Courses (today)
-- [ygit/swiftui](https://github.com/ygit/swiftui) - A collaborative list of awesome SwiftUI resources. Feel free to contribute! (1 day ago)
-- [dylanslewis/stylesync](https://github.com/dylanslewis/stylesync) - A command line tool to extract shared styles from a Sketch document, and generate native code for any platform. (1 day ago)
-- [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple and intuitive way to explore and analyze a codebase by using graph structures. (1 day ago)
+- [glennzw/shodan-hq-nse](https://github.com/glennzw/shodan-hq-nse) - Shodan HQ nmap plugin - passively scan targets (today)
+- [kytrinyx/therapeutic-refactoring](https://github.com/kytrinyx/therapeutic-refactoring) - Code examples for the talk Therapeutic Refactoring (today)
+- [thomsmed/ios-examples](https://github.com/thomsmed/ios-examples) - A collection of iOS example code and applications. (today)
+- [yulingtianxia/SimilarImageHunter](https://github.com/yulingtianxia/SimilarImageHunter) - Mac 上寻找相似内容的图片工具 (today)
+- [yulingtianxia/YXYDashLayer](https://github.com/yulingtianxia/YXYDashLayer) - Colorful Rounded Rect Dash Border (today)
 
 ## 🔨 Latest Pull Requests I published
 
