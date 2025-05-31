@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [AmosWang0626/think-cola](https://github.com/AmosWang0626/think-cola) - 本项目结合COLA（整洁面向对象分层架构）4.0 实现 (today)
+- [daniellitoc/xultimate-resource](https://github.com/daniellitoc/xultimate-resource) - 采用Spring MVC，用于在FastDFS分布式文件系统中完成资源管理(上传、删除、下载)的ShowCase。图片类资源的支持实时缩略图功能。缩放、剪裁、水印等功能通过已封装好AWT和im4java进行处理，即支持GraphicsMagick。 (today)
+- [GavinHwa/alibaba](https://github.com/GavinHwa/alibaba) - 2016阿里巴巴面试题目 (today)
 - [todorex/Coding-Interviews](https://github.com/todorex/Coding-Interviews) - 📚剑指Offer（java版） (today)
 - [bluenote10/NimSvg](https://github.com/bluenote10/NimSvg) - Nim-based DSL allowing to generate SVG files and GIF animations. (today)
-- [bluenote10/yachalk](https://github.com/bluenote10/yachalk) - 🖍️  Terminal string styling done right  (today)
-- [bluenote10/tabloo](https://github.com/bluenote10/tabloo) - Minimalistic dashboard app for visualizing tabular data (today)
-- [bluenote10/PandasDataFrameGUI](https://github.com/bluenote10/PandasDataFrameGUI) - A minimalistic GUI for analyzing Pandas DataFrames. (today)
 
 ## 🔨 Latest Pull Requests I published
 
