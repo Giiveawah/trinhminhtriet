@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [acupofjose/elasticstore](https://github.com/acupofjose/elasticstore) - A pluggable union between Firebase CloudFirestore + ElasticSearch (today)
-- [maxjustus/sinatra-authentication](https://github.com/maxjustus/sinatra-authentication) - A sinatra extension wrapped in a gem that implements authentication/permissions with users stored in the database. Now with optional support for facebook connect (today)
-- [alehander92/hivemind](https://github.com/alehander92/hivemind) - a multi-syntax language (today)
-- [alehander92/Airtight](https://github.com/alehander92/Airtight) - a python-like language with hindley-milner-like type system, which is compiled to c (today)
-- [lfkdsk/SICP-Magical-Book](https://github.com/lfkdsk/SICP-Magical-Book) - Magical Book The book uses dialects Scheme in the programming language Lisp to explain the core concepts of computer science, including abstraction, recursion, interpreters, and metalinguistic abstraction. Specific and micro-macroscopical to microcosmic to give a clear outline and context. (today)
+- [ruisaraiva19/favycon](https://github.com/ruisaraiva19/favycon) - Favycon - A favicon generator tool (today)
+- [poliva/ggposrv](https://github.com/poliva/ggposrv) - Unofficial ggpo server (re)implementation (today)
+- [poliva/pyqtggpo](https://github.com/poliva/pyqtggpo) - Cross platform (Linux, MacOSX, Windows) GUI client for FightCade (today)
+- [poliva/interactive-feedback-mcp](https://github.com/poliva/interactive-feedback-mcp) - Interactive User Feedback MCP (today)
+- [poliva/rootadb](https://github.com/poliva/rootadb) - restart adbd with root privileges (today)
 
 ## 🔨 Latest Pull Requests I published
 
