@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hertelendymm](https://github.com/hertelendymm)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 - [unknown91tech](https://github.com/unknown91tech)
 - [huhdy32](https://github.com/huhdy32)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Prathviraj98](https://github.com/Prathviraj98)
 - [adityabmv](https://github.com/adityabmv)
 - [Wael0dfg](https://github.com/Wael0dfg)
-- [isostack](https://github.com/isostack)
 
 ## ⭐ Recent stars
 
