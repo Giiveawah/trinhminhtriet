@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
+- [unknown91tech](https://github.com/unknown91tech)
 - [huhdy32](https://github.com/huhdy32)
 - [NNXXYOD](https://github.com/NNXXYOD)
 - [Karoly97](https://github.com/Karoly97)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [adityabmv](https://github.com/adityabmv)
 - [Wael0dfg](https://github.com/Wael0dfg)
 - [isostack](https://github.com/isostack)
-- [alejandrogiubel](https://github.com/alejandrogiubel)
-- [hanichu](https://github.com/hanichu)
 
 ## ⭐ Recent stars
 
+- [jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具 (today)
+- [luckykun/About-React](https://github.com/luckykun/About-React) - 关于React的各种学习实例。 (today)
+- [towavephone/MemoryCleaner](https://github.com/towavephone/MemoryCleaner) - 安卓内存清理 (today)
 - [ruisaraiva19/favycon](https://github.com/ruisaraiva19/favycon) - Favycon - A favicon generator tool (today)
 - [poliva/ggposrv](https://github.com/poliva/ggposrv) - Unofficial ggpo server (re)implementation (today)
-- [poliva/pyqtggpo](https://github.com/poliva/pyqtggpo) - Cross platform (Linux, MacOSX, Windows) GUI client for FightCade (today)
-- [poliva/interactive-feedback-mcp](https://github.com/poliva/interactive-feedback-mcp) - Interactive User Feedback MCP (today)
-- [poliva/rootadb](https://github.com/poliva/rootadb) - restart adbd with root privileges (today)
 
 ## 🔨 Latest Pull Requests I published
 
