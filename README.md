@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [acupofjose/elasticstore](https://github.com/acupofjose/elasticstore) - A pluggable union between Firebase CloudFirestore + ElasticSearch (today)
+- [maxjustus/sinatra-authentication](https://github.com/maxjustus/sinatra-authentication) - A sinatra extension wrapped in a gem that implements authentication/permissions with users stored in the database. Now with optional support for facebook connect (today)
+- [alehander92/hivemind](https://github.com/alehander92/hivemind) - a multi-syntax language (today)
+- [alehander92/Airtight](https://github.com/alehander92/Airtight) - a python-like language with hindley-milner-like type system, which is compiled to c (today)
 - [lfkdsk/SICP-Magical-Book](https://github.com/lfkdsk/SICP-Magical-Book) - Magical Book The book uses dialects Scheme in the programming language Lisp to explain the core concepts of computer science, including abstraction, recursion, interpreters, and metalinguistic abstraction. Specific and micro-macroscopical to microcosmic to give a clear outline and context. (today)
-- [lfkdsk/JustWeTools](https://github.com/lfkdsk/JustWeTools) - Some useful tools (today)
-- [lfkdsk/JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork. (today)
-- [zacharydenton/euler](https://github.com/zacharydenton/euler) - Project Euler solutions in Python, Haskell, Ruby, Rust, and more. (today)
-- [zacharydenton/wavebender](https://github.com/zacharydenton/wavebender) - Audio synthesis in Python. (today)
 
 ## 🔨 Latest Pull Requests I published
 
