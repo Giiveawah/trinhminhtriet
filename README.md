@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Karoly97](https://github.com/Karoly97)
+- [Ahmednt](https://github.com/Ahmednt)
 - [Prathviraj98](https://github.com/Prathviraj98)
 - [adityabmv](https://github.com/adityabmv)
 - [Wael0dfg](https://github.com/Wael0dfg)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [hanichu](https://github.com/hanichu)
 - [ibyatovadinara](https://github.com/ibyatovadinara)
 - [SiddharthJoshi1](https://github.com/SiddharthJoshi1)
-- [heliomarpm](https://github.com/heliomarpm)
-- [Dheyhasan](https://github.com/Dheyhasan)
 
 ## ⭐ Recent stars
 
+- [AJMitev/FileTypeChecker](https://github.com/AJMitev/FileTypeChecker) - Cross platform file type validator for .NET  (today)
+- [HighwayofLife/awesome-chatgpt-plugins](https://github.com/HighwayofLife/awesome-chatgpt-plugins) - A curated and categeorized list of all of the ChatGPT plugins available within ChatGPT plus, includes detailed descriptions and usage docs, as well as unofficial sources of plugins (today)
+- [aramperes/onetun](https://github.com/aramperes/onetun) - User space WireGuard port-forward in Rust (today)
 - [kellydunn/golang-geo](https://github.com/kellydunn/golang-geo) - Geographical calculations in Go. (today)
 - [tmaiaroto/aegis](https://github.com/tmaiaroto/aegis) - Serverless Golang deploy tool and framework for AWS Lambda (today)
-- [pranavgupta1234/rqmonitor](https://github.com/pranavgupta1234/rqmonitor) - Flask based more dynamic and actionable frontend dashboard for monitoring Redis Queue  👩🏿‍💻  http://python-rq.org  (today)
-- [selaux/node-sprite-generator](https://github.com/selaux/node-sprite-generator) - Generates image sprites and their spritesheets (css, stylus, sass or less) from sets of images. Supports retina sprites. Provides express middleware and grunt task. (today)
-- [selaux/eslint-plugin-filenames](https://github.com/selaux/eslint-plugin-filenames) - Eslint plugin to check filenames. (today)
 
 ## 🔨 Latest Pull Requests I published
 
