@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NNXXYOD](https://github.com/NNXXYOD)
 - [Karoly97](https://github.com/Karoly97)
 - [Ahmednt](https://github.com/Ahmednt)
 - [Prathviraj98](https://github.com/Prathviraj98)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [alejandrogiubel](https://github.com/alejandrogiubel)
 - [hanichu](https://github.com/hanichu)
 - [ibyatovadinara](https://github.com/ibyatovadinara)
-- [SiddharthJoshi1](https://github.com/SiddharthJoshi1)
 
 ## ⭐ Recent stars
 
+- [todorex/Coding-Interviews](https://github.com/todorex/Coding-Interviews) - 📚剑指Offer（java版） (today)
 - [bluenote10/NimSvg](https://github.com/bluenote10/NimSvg) - Nim-based DSL allowing to generate SVG files and GIF animations. (today)
 - [bluenote10/yachalk](https://github.com/bluenote10/yachalk) - 🖍️  Terminal string styling done right  (today)
 - [bluenote10/tabloo](https://github.com/bluenote10/tabloo) - Minimalistic dashboard app for visualizing tabular data (today)
 - [bluenote10/PandasDataFrameGUI](https://github.com/bluenote10/PandasDataFrameGUI) - A minimalistic GUI for analyzing Pandas DataFrames. (today)
-- [bluenote10/NimData](https://github.com/bluenote10/NimData) - DataFrame API written in Nim, enabling fast out-of-core data processing (today)
 
 ## 🔨 Latest Pull Requests I published
 
