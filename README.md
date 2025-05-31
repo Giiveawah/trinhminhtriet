@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [adityabmv](https://github.com/adityabmv)
 - [Wael0dfg](https://github.com/Wael0dfg)
 - [AbdelrahmanEsam](https://github.com/AbdelrahmanEsam)
 - [isostack](https://github.com/isostack)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SiddharthJoshi1](https://github.com/SiddharthJoshi1)
 - [heliomarpm](https://github.com/heliomarpm)
 - [Dheyhasan](https://github.com/Dheyhasan)
-- [org-tekeli-borisp](https://github.com/org-tekeli-borisp)
 
 ## ⭐ Recent stars
 
-- [KissPeter/APIFuzzer](https://github.com/KissPeter/APIFuzzer) - Fuzz test your application using your OpenAPI or Swagger API definition without coding (today)
-- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch (today)
-- [tg12/rapid7_OSINT](https://github.com/tg12/rapid7_OSINT) - All the tools you need to make your own mind up from the Open Data Sets (today)
-- [tg12/FAIG](https://github.com/tg12/FAIG) - Fully Automated IG Trading (today)
-- [tg12/PoC_CVEs](https://github.com/tg12/PoC_CVEs) - PoC_CVEs (today)
+- [pranavgupta1234/rqmonitor](https://github.com/pranavgupta1234/rqmonitor) - Flask based more dynamic and actionable frontend dashboard for monitoring Redis Queue  👩🏿‍💻  http://python-rq.org  (today)
+- [selaux/node-sprite-generator](https://github.com/selaux/node-sprite-generator) - Generates image sprites and their spritesheets (css, stylus, sass or less) from sets of images. Supports retina sprites. Provides express middleware and grunt task. (today)
+- [selaux/eslint-plugin-filenames](https://github.com/selaux/eslint-plugin-filenames) - Eslint plugin to check filenames. (today)
+- [arsmn/fiber-swagger](https://github.com/arsmn/fiber-swagger) - fiber middleware to automatically generate RESTful API documentation with Swagger 2.0. (today)
+- [romanticu/simple_webpack](https://github.com/romanticu/simple_webpack) - 写一个简易的webpack，BUILD YOUR OWN WEBPACK. webpack原理 (today)
 
 ## 🔨 Latest Pull Requests I published
 
