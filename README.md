@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [huhdy32](https://github.com/huhdy32)
 - [NNXXYOD](https://github.com/NNXXYOD)
 - [Karoly97](https://github.com/Karoly97)
 - [Ahmednt](https://github.com/Ahmednt)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [isostack](https://github.com/isostack)
 - [alejandrogiubel](https://github.com/alejandrogiubel)
 - [hanichu](https://github.com/hanichu)
-- [ibyatovadinara](https://github.com/ibyatovadinara)
 
 ## ⭐ Recent stars
 
-- [AmosWang0626/think-cola](https://github.com/AmosWang0626/think-cola) - 本项目结合COLA（整洁面向对象分层架构）4.0 实现 (today)
-- [daniellitoc/xultimate-resource](https://github.com/daniellitoc/xultimate-resource) - 采用Spring MVC，用于在FastDFS分布式文件系统中完成资源管理(上传、删除、下载)的ShowCase。图片类资源的支持实时缩略图功能。缩放、剪裁、水印等功能通过已封装好AWT和im4java进行处理，即支持GraphicsMagick。 (today)
-- [GavinHwa/alibaba](https://github.com/GavinHwa/alibaba) - 2016阿里巴巴面试题目 (today)
-- [todorex/Coding-Interviews](https://github.com/todorex/Coding-Interviews) - 📚剑指Offer（java版） (today)
-- [bluenote10/NimSvg](https://github.com/bluenote10/NimSvg) - Nim-based DSL allowing to generate SVG files and GIF animations. (today)
+- [lfkdsk/SICP-Magical-Book](https://github.com/lfkdsk/SICP-Magical-Book) - Magical Book The book uses dialects Scheme in the programming language Lisp to explain the core concepts of computer science, including abstraction, recursion, interpreters, and metalinguistic abstraction. Specific and micro-macroscopical to microcosmic to give a clear outline and context. (today)
+- [lfkdsk/JustWeTools](https://github.com/lfkdsk/JustWeTools) - Some useful tools (today)
+- [lfkdsk/JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork. (today)
+- [zacharydenton/euler](https://github.com/zacharydenton/euler) - Project Euler solutions in Python, Haskell, Ruby, Rust, and more. (today)
+- [zacharydenton/wavebender](https://github.com/zacharydenton/wavebender) - Audio synthesis in Python. (today)
 
 ## 🔨 Latest Pull Requests I published
 
