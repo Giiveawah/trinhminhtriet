@@ -46,9 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Prathviraj98](https://github.com/Prathviraj98)
 - [adityabmv](https://github.com/adityabmv)
 - [Wael0dfg](https://github.com/Wael0dfg)
-- [AbdelrahmanEsam](https://github.com/AbdelrahmanEsam)
 - [isostack](https://github.com/isostack)
 - [alejandrogiubel](https://github.com/alejandrogiubel)
 - [hanichu](https://github.com/hanichu)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [kellydunn/golang-geo](https://github.com/kellydunn/golang-geo) - Geographical calculations in Go. (today)
+- [tmaiaroto/aegis](https://github.com/tmaiaroto/aegis) - Serverless Golang deploy tool and framework for AWS Lambda (today)
 - [pranavgupta1234/rqmonitor](https://github.com/pranavgupta1234/rqmonitor) - Flask based more dynamic and actionable frontend dashboard for monitoring Redis Queue  👩🏿‍💻  http://python-rq.org  (today)
 - [selaux/node-sprite-generator](https://github.com/selaux/node-sprite-generator) - Generates image sprites and their spritesheets (css, stylus, sass or less) from sets of images. Supports retina sprites. Provides express middleware and grunt task. (today)
 - [selaux/eslint-plugin-filenames](https://github.com/selaux/eslint-plugin-filenames) - Eslint plugin to check filenames. (today)
-- [arsmn/fiber-swagger](https://github.com/arsmn/fiber-swagger) - fiber middleware to automatically generate RESTful API documentation with Swagger 2.0. (today)
-- [romanticu/simple_webpack](https://github.com/romanticu/simple_webpack) - 写一个简易的webpack，BUILD YOUR OWN WEBPACK. webpack原理 (today)
 
 ## 🔨 Latest Pull Requests I published
 
