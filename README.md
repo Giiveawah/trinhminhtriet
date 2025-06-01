@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [armelsoubeiga](https://github.com/armelsoubeiga)
+- [steven-kamanga](https://github.com/steven-kamanga)
 - [faizisyellow](https://github.com/faizisyellow)
 - [SanaAitLahcen](https://github.com/SanaAitLahcen)
 - [I-Am-Shimanto](https://github.com/I-Am-Shimanto)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ChanMeng666](https://github.com/ChanMeng666)
 - [kacperzielinskidev](https://github.com/kacperzielinskidev)
 - [FongFox](https://github.com/FongFox)
-- [MrYland3r](https://github.com/MrYland3r)
-- [hertelendymm](https://github.com/hertelendymm)
 
 ## ⭐ Recent stars
 
