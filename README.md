@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [kacperzielinskidev](https://github.com/kacperzielinskidev)
 - [FongFox](https://github.com/FongFox)
 - [MrYland3r](https://github.com/MrYland3r)
 - [Victor-Choe](https://github.com/Victor-Choe)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [huhdy32](https://github.com/huhdy32)
 - [NNXXYOD](https://github.com/NNXXYOD)
 - [Karoly97](https://github.com/Karoly97)
-- [Ahmednt](https://github.com/Ahmednt)
 
 ## ⭐ Recent stars
 
