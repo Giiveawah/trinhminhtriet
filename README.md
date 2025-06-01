@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [faizisyellow](https://github.com/faizisyellow)
 - [SanaAitLahcen](https://github.com/SanaAitLahcen)
 - [I-Am-Shimanto](https://github.com/I-Am-Shimanto)
 - [monokkai](https://github.com/monokkai)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [FongFox](https://github.com/FongFox)
 - [MrYland3r](https://github.com/MrYland3r)
 - [hertelendymm](https://github.com/hertelendymm)
-- [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 
 ## ⭐ Recent stars
 
