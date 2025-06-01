@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 week ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 week ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (1 week ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Victor-Choe](https://github.com/Victor-Choe)
 - [hertelendymm](https://github.com/hertelendymm)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 - [unknown91tech](https://github.com/unknown91tech)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Ahmednt](https://github.com/Ahmednt)
 - [Prathviraj98](https://github.com/Prathviraj98)
 - [adityabmv](https://github.com/adityabmv)
-- [Wael0dfg](https://github.com/Wael0dfg)
 
 ## ⭐ Recent stars
 
-- [jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具 (today)
-- [luckykun/About-React](https://github.com/luckykun/About-React) - 关于React的各种学习实例。 (today)
-- [towavephone/MemoryCleaner](https://github.com/towavephone/MemoryCleaner) - 安卓内存清理 (today)
-- [ruisaraiva19/favycon](https://github.com/ruisaraiva19/favycon) - Favycon - A favicon generator tool (today)
-- [poliva/ggposrv](https://github.com/poliva/ggposrv) - Unofficial ggpo server (re)implementation (today)
+- [jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具 (1 day ago)
+- [luckykun/About-React](https://github.com/luckykun/About-React) - 关于React的各种学习实例。 (1 day ago)
+- [towavephone/MemoryCleaner](https://github.com/towavephone/MemoryCleaner) - 安卓内存清理 (1 day ago)
+- [ruisaraiva19/favycon](https://github.com/ruisaraiva19/favycon) - Favycon - A favicon generator tool (1 day ago)
+- [poliva/ggposrv](https://github.com/poliva/ggposrv) - Unofficial ggpo server (re)implementation (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
