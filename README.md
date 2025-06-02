@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [tiendu](https://github.com/tiendu)
 - [nixtomalon](https://github.com/nixtomalon)
 - [katoisa256](https://github.com/katoisa256)
 - [Lil-Code30](https://github.com/Lil-Code30)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [faizisyellow](https://github.com/faizisyellow)
 - [SanaAitLahcen](https://github.com/SanaAitLahcen)
 - [I-Am-Shimanto](https://github.com/I-Am-Shimanto)
-- [monokkai](https://github.com/monokkai)
 
 ## ⭐ Recent stars
 
