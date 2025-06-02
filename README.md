@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF. (today)
+- [aaronpenne/data_visualization](https://github.com/aaronpenne/data_visualization) - A collection of my data visualizations, mostly in Python. (today)
+- [rjduran/adobe-scripting](https://github.com/rjduran/adobe-scripting) - A guide for learning how to write scripts for use in Adobe Illustrator (today)
 - [jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具 (2 days ago)
 - [luckykun/About-React](https://github.com/luckykun/About-React) - 关于React的各种学习实例。 (2 days ago)
-- [towavephone/MemoryCleaner](https://github.com/towavephone/MemoryCleaner) - 安卓内存清理 (2 days ago)
-- [ruisaraiva19/favycon](https://github.com/ruisaraiva19/favycon) - Favycon - A favicon generator tool (2 days ago)
-- [poliva/ggposrv](https://github.com/poliva/ggposrv) - Unofficial ggpo server (re)implementation (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
