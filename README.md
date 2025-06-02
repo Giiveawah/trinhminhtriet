@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Feerse](https://github.com/Feerse)
+- [muhammadhamzakhalid](https://github.com/muhammadhamzakhalid)
 - [Mesuttt123](https://github.com/Mesuttt123)
 - [solobalbo](https://github.com/solobalbo)
 - [NaNomicon](https://github.com/NaNomicon)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nixtomalon](https://github.com/nixtomalon)
 - [katoisa256](https://github.com/katoisa256)
 - [Lil-Code30](https://github.com/Lil-Code30)
-- [worldart](https://github.com/worldart)
-- [armelsoubeiga](https://github.com/armelsoubeiga)
 
 ## ⭐ Recent stars
 
