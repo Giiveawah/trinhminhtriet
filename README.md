@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [kobeHub](https://github.com/kobeHub)
 - [Mubashir12392](https://github.com/Mubashir12392)
 - [AllanLucky](https://github.com/AllanLucky)
 - [Bayrktr](https://github.com/Bayrktr)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Mesuttt123](https://github.com/Mesuttt123)
 - [solobalbo](https://github.com/solobalbo)
 - [NaNomicon](https://github.com/NaNomicon)
-- [tinymahua](https://github.com/tinymahua)
 
 ## ⭐ Recent stars
 
