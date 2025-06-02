@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NaNomicon](https://github.com/NaNomicon)
 - [tinymahua](https://github.com/tinymahua)
 - [tiendu](https://github.com/tiendu)
 - [nixtomalon](https://github.com/nixtomalon)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [armelsoubeiga](https://github.com/armelsoubeiga)
 - [steven-kamanga](https://github.com/steven-kamanga)
 - [faizisyellow](https://github.com/faizisyellow)
-- [SanaAitLahcen](https://github.com/SanaAitLahcen)
 
 ## ⭐ Recent stars
 
