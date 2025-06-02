@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 week ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 week ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (1 week ago)
@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nixtomalon](https://github.com/nixtomalon)
+- [katoisa256](https://github.com/katoisa256)
 - [Lil-Code30](https://github.com/Lil-Code30)
 - [worldart](https://github.com/worldart)
 - [armelsoubeiga](https://github.com/armelsoubeiga)
@@ -54,20 +56,18 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SanaAitLahcen](https://github.com/SanaAitLahcen)
 - [I-Am-Shimanto](https://github.com/I-Am-Shimanto)
 - [monokkai](https://github.com/monokkai)
-- [fauzantaslim](https://github.com/fauzantaslim)
-- [ChanMeng666](https://github.com/ChanMeng666)
 
 ## ⭐ Recent stars
 
-- [jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具 (1 day ago)
-- [luckykun/About-React](https://github.com/luckykun/About-React) - 关于React的各种学习实例。 (1 day ago)
-- [towavephone/MemoryCleaner](https://github.com/towavephone/MemoryCleaner) - 安卓内存清理 (1 day ago)
-- [ruisaraiva19/favycon](https://github.com/ruisaraiva19/favycon) - Favycon - A favicon generator tool (1 day ago)
-- [poliva/ggposrv](https://github.com/poliva/ggposrv) - Unofficial ggpo server (re)implementation (1 day ago)
+- [jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具 (2 days ago)
+- [luckykun/About-React](https://github.com/luckykun/About-React) - 关于React的各种学习实例。 (2 days ago)
+- [towavephone/MemoryCleaner](https://github.com/towavephone/MemoryCleaner) - 安卓内存清理 (2 days ago)
+- [ruisaraiva19/favycon](https://github.com/ruisaraiva19/favycon) - Favycon - A favicon generator tool (2 days ago)
+- [poliva/ggposrv](https://github.com/poliva/ggposrv) - Unofficial ggpo server (re)implementation (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Develop](https://github.com/trinhminhtriet/repoctl/pull/17) on [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) (2 weeks ago)
+- [Develop](https://github.com/trinhminhtriet/repoctl/pull/17) on [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) (3 weeks ago)
 - [Develop](https://github.com/trinhminhtriet/scanr/pull/22) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (3 weeks ago)
 - [Develop](https://github.com/trinhminhtriet/scanr/pull/21) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (3 weeks ago)
 - [Develop](https://github.com/trinhminhtriet/pingy/pull/8) on [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) (3 weeks ago)
