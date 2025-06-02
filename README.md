@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Bayrktr](https://github.com/Bayrktr)
 - [devtamer7](https://github.com/devtamer7)
 - [Feerse](https://github.com/Feerse)
 - [muhammadhamzakhalid](https://github.com/muhammadhamzakhalid)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [tinymahua](https://github.com/tinymahua)
 - [tiendu](https://github.com/tiendu)
 - [nixtomalon](https://github.com/nixtomalon)
-- [katoisa256](https://github.com/katoisa256)
 
 ## ⭐ Recent stars
 
