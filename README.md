@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [devtamer7](https://github.com/devtamer7)
 - [Feerse](https://github.com/Feerse)
 - [muhammadhamzakhalid](https://github.com/muhammadhamzakhalid)
 - [Mesuttt123](https://github.com/Mesuttt123)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [tiendu](https://github.com/tiendu)
 - [nixtomalon](https://github.com/nixtomalon)
 - [katoisa256](https://github.com/katoisa256)
-- [Lil-Code30](https://github.com/Lil-Code30)
 
 ## ⭐ Recent stars
 
