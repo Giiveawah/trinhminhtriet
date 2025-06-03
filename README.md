@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aaalgieee](https://github.com/aaalgieee)
 - [AIbyKJ](https://github.com/AIbyKJ)
 - [echetoui](https://github.com/echetoui)
 - [Fraankky](https://github.com/Fraankky)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Mubashir12392](https://github.com/Mubashir12392)
 - [AllanLucky](https://github.com/AllanLucky)
 - [Bayrktr](https://github.com/Bayrktr)
-- [devtamer7](https://github.com/devtamer7)
 
 ## ⭐ Recent stars
 
+- [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin (today)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (today)
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool (today)
 - [sathomas/acc-wizard](https://github.com/sathomas/acc-wizard) - Wizard implementation for bootstrap based on accordion (today)
 - [sathomas/jsDataV.is-source](https://github.com/sathomas/jsDataV.is-source) - Source code for jsDataV.is visualizations (today)
-- [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine (today)
 
 ## 🔨 Latest Pull Requests I published
 
