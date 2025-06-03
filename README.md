@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Fraankky](https://github.com/Fraankky)
 - [kgleader](https://github.com/kgleader)
 - [Jailtonfonseca](https://github.com/Jailtonfonseca)
 - [kobeHub](https://github.com/kobeHub)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [devtamer7](https://github.com/devtamer7)
 - [Feerse](https://github.com/Feerse)
 - [muhammadhamzakhalid](https://github.com/muhammadhamzakhalid)
-- [Mesuttt123](https://github.com/Mesuttt123)
 
 ## ⭐ Recent stars
 
-- [cesardeazevedo/react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout (today)
-- [cesardeazevedo/react-native-bottom-sheet-behavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - react-native wrapper for android BottomSheetBehavior (today)
-- [jvican/dijon](https://github.com/jvican/dijon) - A Dynamically Typed Scala Json Library (today)
-- [yzy1996/Awesome-Learn-3D-From-2D](https://github.com/yzy1996/Awesome-Learn-3D-From-2D) - A collection of resources on learning 3D object from 2D images. (today)
-- [yzy1996/English-Writing](https://github.com/yzy1996/English-Writing) - Enhance Your English Writing for Science Research 写论文英语素材 (today)
+- [muggledy/typora-dyzj-theme](https://github.com/muggledy/typora-dyzj-theme) - Typora主题css样式 (today)
+- [renxingkai/BERT_Chinese_Classification](https://github.com/renxingkai/BERT_Chinese_Classification) - 本实验，是用BERT进行中文情感分类，记录了详细操作及完整程序 (today)
+- [tidys/egretCleanGame](https://github.com/tidys/egretCleanGame) - 由egret引擎编写的小游戏 (today)
+- [tidys/CocosCreatorPlugins](https://github.com/tidys/CocosCreatorPlugins) - cocos creator 热更新插件,bugly插件,cc-Inspector插件,excel转换插件,贝塞尔曲线插件 (today)
+- [sskender/pornhub-api](https://github.com/sskender/pornhub-api) - Unofficial API for PornHub.com in Python (today)
 
 ## 🔨 Latest Pull Requests I published
 
