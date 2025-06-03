@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [cesardeazevedo/react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout (today)
+- [cesardeazevedo/react-native-bottom-sheet-behavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - react-native wrapper for android BottomSheetBehavior (today)
+- [jvican/dijon](https://github.com/jvican/dijon) - A Dynamically Typed Scala Json Library (today)
 - [yzy1996/Awesome-Learn-3D-From-2D](https://github.com/yzy1996/Awesome-Learn-3D-From-2D) - A collection of resources on learning 3D object from 2D images. (today)
 - [yzy1996/English-Writing](https://github.com/yzy1996/English-Writing) - Enhance Your English Writing for Science Research 写论文英语素材 (today)
-- [0xIslamTaha/Python-Rootkit](https://github.com/0xIslamTaha/Python-Rootkit) - Python Remote Administration Tool (RAT) to gain meterpreter session (today)
-- [liubin915249126/javascript](https://github.com/liubin915249126/javascript) - len的博客->前端相关。  (today)
-- [baizn/g6-in-react](https://github.com/baizn/g6-in-react) - 如何在React中使用G6，如何在使用G6的过程中渲染自定义的React组件，所有的疑问这里都可以帮你解答。 (today)
 
 ## 🔨 Latest Pull Requests I published
 
