@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [GLinBoy](https://github.com/GLinBoy)
 - [a5ke4j0rd](https://github.com/a5ke4j0rd)
 - [koyeba](https://github.com/koyeba)
 - [sn](https://github.com/sn)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Fraankky](https://github.com/Fraankky)
 - [kgleader](https://github.com/kgleader)
 - [Jailtonfonseca](https://github.com/Jailtonfonseca)
-- [kobeHub](https://github.com/kobeHub)
 
 ## ⭐ Recent stars
 
+- [ironcamel/Graph-Easy](https://github.com/ironcamel/Graph-Easy) - Convert or render graphs (as ASCII, HTML, SVG or via Graphviz) (today)
+- [rupok/webview](https://github.com/rupok/webview) - Native Android WebView App Template with Loader (Progressbar).  (today)
 - [venediktov/vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - Real Time Bidding (RTB) - Demand Side Platform framework   (today)
 - [vicenteguerra/git-deploy](https://github.com/vicenteguerra/git-deploy) - Php Script for Auto-Pull in server (Using WebHook from GitLab, GitHub and Bitbucket) (today)
 - [adriankumpf/tesla_auth](https://github.com/adriankumpf/tesla_auth) - Securely generate API tokens for third-party access to your Tesla. (today)
-- [tribou/react-todo](https://github.com/tribou/react-todo) - A sample todo app with React and Flux in ES2015 (ES6) served by Hapi (today)
-- [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin (today)
 
 ## 🔨 Latest Pull Requests I published
 
