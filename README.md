@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [muggledy/typora-dyzj-theme](https://github.com/muggledy/typora-dyzj-theme) - Typora主题css样式 (today)
-- [renxingkai/BERT_Chinese_Classification](https://github.com/renxingkai/BERT_Chinese_Classification) - 本实验，是用BERT进行中文情感分类，记录了详细操作及完整程序 (today)
-- [tidys/egretCleanGame](https://github.com/tidys/egretCleanGame) - 由egret引擎编写的小游戏 (today)
-- [tidys/CocosCreatorPlugins](https://github.com/tidys/CocosCreatorPlugins) - cocos creator 热更新插件,bugly插件,cc-Inspector插件,excel转换插件,贝塞尔曲线插件 (today)
-- [sskender/pornhub-api](https://github.com/sskender/pornhub-api) - Unofficial API for PornHub.com in Python (today)
+- [removeif/hexo-theme-amazing](https://github.com/removeif/hexo-theme-amazing) - Demo: https://removeif.github.io/removeif-demo hexo-theme (today)
+- [marlonchiu/imooc-zhihu-zheye-column](https://github.com/marlonchiu/imooc-zhihu-zheye-column) - 慕课网 | Vue3.0 + TS 仿知乎专栏企业级项目 (today)
+- [XiongAmao/vue-easy-lightbox](https://github.com/XiongAmao/vue-easy-lightbox) - A tiny lightbox component for Vue.js 3.0 :tada::tada: https://xiongamao.github.io/vue-easy-lightbox/ (today)
+- [lfb/nodejs-koa-blog](https://github.com/lfb/nodejs-koa-blog) - 基于 Node.js Koa2 实战开发的一套完整的博客项目网站 (today)
+- [Kuingsmile/word-GPT-Plus](https://github.com/Kuingsmile/word-GPT-Plus) - Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported. (today)
 
 ## 🔨 Latest Pull Requests I published
 
