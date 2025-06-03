@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [removeif/hexo-theme-amazing](https://github.com/removeif/hexo-theme-amazing) - Demo: https://removeif.github.io/removeif-demo hexo-theme (today)
-- [marlonchiu/imooc-zhihu-zheye-column](https://github.com/marlonchiu/imooc-zhihu-zheye-column) - 慕课网 | Vue3.0 + TS 仿知乎专栏企业级项目 (today)
-- [XiongAmao/vue-easy-lightbox](https://github.com/XiongAmao/vue-easy-lightbox) - A tiny lightbox component for Vue.js 3.0 :tada::tada: https://xiongamao.github.io/vue-easy-lightbox/ (today)
-- [lfb/nodejs-koa-blog](https://github.com/lfb/nodejs-koa-blog) - 基于 Node.js Koa2 实战开发的一套完整的博客项目网站 (today)
-- [Kuingsmile/word-GPT-Plus](https://github.com/Kuingsmile/word-GPT-Plus) - Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported. (today)
+- [ele828/panda-run](https://github.com/ele828/panda-run) - A panda parkour game, based on Cocos2d-js, running on Android / iOS (today)
+- [ele828/hexo-prism-plugin](https://github.com/ele828/hexo-prism-plugin) - Hexo plugin for code highlighting by prism.js, supporting JSX syntax (today)
+- [ele828/leanote-ios-rn](https://github.com/ele828/leanote-ios-rn) - Leanote iOS App based on React Native (today)
+- [monkey-papa/POEMON-BLOG](https://github.com/monkey-papa/POEMON-BLOG) - 后端Python+Django 前端Vue2：博客前台+后台系统（均移动端适配） 博客系统：具有登录，文章，评论留言，友链，工具导航，爱链，幻音坊，时间线，后台管理等众多功能。 本网站搭建于阿里云服务器，采用前后端分离进行实现，前端采用宝塔部署。为了美观，本网站大量使用图片，因此对网络具有一定要求。为了提高浏览体验，图片均存储在七牛云。 (today)
+- [qinyuenlp/CommunityDetection](https://github.com/qinyuenlp/CommunityDetection) - 复杂网络社区发现算法、评价指标、常用数据集整理 (today)
 
 ## 🔨 Latest Pull Requests I published
 
