@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 week ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 week ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (1 week ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Jailtonfonseca](https://github.com/Jailtonfonseca)
 - [kobeHub](https://github.com/kobeHub)
 - [Mubashir12392](https://github.com/Mubashir12392)
 - [AllanLucky](https://github.com/AllanLucky)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [muhammadhamzakhalid](https://github.com/muhammadhamzakhalid)
 - [Mesuttt123](https://github.com/Mesuttt123)
 - [solobalbo](https://github.com/solobalbo)
-- [NaNomicon](https://github.com/NaNomicon)
 
 ## ⭐ Recent stars
 
-- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF. (today)
-- [aaronpenne/data_visualization](https://github.com/aaronpenne/data_visualization) - A collection of my data visualizations, mostly in Python. (today)
-- [rjduran/adobe-scripting](https://github.com/rjduran/adobe-scripting) - A guide for learning how to write scripts for use in Adobe Illustrator (today)
-- [jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具 (2 days ago)
-- [luckykun/About-React](https://github.com/luckykun/About-React) - 关于React的各种学习实例。 (2 days ago)
+- [crisptrutski/matchbox](https://github.com/crisptrutski/matchbox) - Firebase client for Clojure(Script) (today)
+- [vedhavyas/zwfp](https://github.com/vedhavyas/zwfp) - Zero-Width fingerprinting (today)
+- [nicekate/mistral-ocr](https://github.com/nicekate/mistral-ocr) (today)
+- [nicekate/AI-ContentCraft](https://github.com/nicekate/AI-ContentCraft) - AI ContentCraft is an all-in-one content creation suite that helps creators generate stories, podcast scripts, and multimedia content using AI-powered text generation, speech synthesis, and image generation capabilities. (today)
+- [Verf/deepwhite.nvim](https://github.com/Verf/deepwhite.nvim) - DeepWhite colorscheme for Neovim. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
