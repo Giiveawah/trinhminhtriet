@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [echetoui](https://github.com/echetoui)
 - [Fraankky](https://github.com/Fraankky)
 - [kgleader](https://github.com/kgleader)
 - [Jailtonfonseca](https://github.com/Jailtonfonseca)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Bayrktr](https://github.com/Bayrktr)
 - [devtamer7](https://github.com/devtamer7)
 - [Feerse](https://github.com/Feerse)
-- [muhammadhamzakhalid](https://github.com/muhammadhamzakhalid)
 
 ## ⭐ Recent stars
 
+- [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font) - 336 pixel perfect, all-purpose vector icons in a web-font kit (today)
 - [MWDelaney/sage-acf-wp-blocks](https://github.com/MWDelaney/sage-acf-wp-blocks) - Composer library for generating ACF Gutenberg blocks from templates. Intended for use with Roots/Sage (http://roots.io) (today)
 - [MWDelaney/bootstrap-3-shortcodes](https://github.com/MWDelaney/bootstrap-3-shortcodes) - WordPress shortcodes for easier use of Bootstrap elements in your content. (today)
 - [aknuds1/html-to-react](https://github.com/aknuds1/html-to-react) - A lightweight library that converts raw HTML to a React DOM structure. (today)
 - [actuallyakash/spacers](https://github.com/actuallyakash/spacers) - 🔳 when you need more __space__. Quick margin/padding for your no-code tools. (today)
-- [asrvd/asrvd.me](https://github.com/asrvd/asrvd.me) - personal site made using the t3 stack (today)
 
 ## 🔨 Latest Pull Requests I published
 
