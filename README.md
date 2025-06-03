@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [crisptrutski/matchbox](https://github.com/crisptrutski/matchbox) - Firebase client for Clojure(Script) (today)
-- [vedhavyas/zwfp](https://github.com/vedhavyas/zwfp) - Zero-Width fingerprinting (today)
-- [nicekate/mistral-ocr](https://github.com/nicekate/mistral-ocr) (today)
-- [nicekate/AI-ContentCraft](https://github.com/nicekate/AI-ContentCraft) - AI ContentCraft is an all-in-one content creation suite that helps creators generate stories, podcast scripts, and multimedia content using AI-powered text generation, speech synthesis, and image generation capabilities. (today)
-- [Verf/deepwhite.nvim](https://github.com/Verf/deepwhite.nvim) - DeepWhite colorscheme for Neovim. (1 day ago)
+- [macdonst/VideoPlayer](https://github.com/macdonst/VideoPlayer) (today)
+- [macdonst/SpeechRecognitionPlugin](https://github.com/macdonst/SpeechRecognitionPlugin) - W3C Web Speech API - Speech Recognition plugin for PhoneGap (today)
+- [Geek-James/Blog](https://github.com/Geek-James/Blog) - ✍️大前端进阶Blog (today)
+- [Geek-James/ddBuy](https://github.com/Geek-James/ddBuy) - 🎉Vue全家桶+Vant 搭建大型单页面电商项目.http://ddbuy.7-orange.cn (today)
+- [ChrAlpha/hexo-theme-cards](https://github.com/ChrAlpha/hexo-theme-cards) - Another Simple & Swift theme for Hexo (today)
 
 ## 🔨 Latest Pull Requests I published
 
