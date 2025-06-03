@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Stieneee/mumble-discord-bridge](https://github.com/Stieneee/mumble-discord-bridge) - A simple voice bridge between Mumble and Discord. (today)
 - [ironcamel/Graph-Easy](https://github.com/ironcamel/Graph-Easy) - Convert or render graphs (as ASCII, HTML, SVG or via Graphviz) (today)
 - [rupok/webview](https://github.com/rupok/webview) - Native Android WebView App Template with Loader (Progressbar).  (today)
 - [venediktov/vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - Real Time Bidding (RTB) - Demand Side Platform framework   (today)
 - [vicenteguerra/git-deploy](https://github.com/vicenteguerra/git-deploy) - Php Script for Auto-Pull in server (Using WebHook from GitLab, GitHub and Bitbucket) (today)
-- [adriankumpf/tesla_auth](https://github.com/adriankumpf/tesla_auth) - Securely generate API tokens for third-party access to your Tesla. (today)
 
 ## 🔨 Latest Pull Requests I published
 
