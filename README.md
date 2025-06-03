@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 week ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 week ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (1 week ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ele828/panda-run](https://github.com/ele828/panda-run) - A panda parkour game, based on Cocos2d-js, running on Android / iOS (today)
-- [ele828/hexo-prism-plugin](https://github.com/ele828/hexo-prism-plugin) - Hexo plugin for code highlighting by prism.js, supporting JSX syntax (today)
-- [ele828/leanote-ios-rn](https://github.com/ele828/leanote-ios-rn) - Leanote iOS App based on React Native (today)
-- [monkey-papa/POEMON-BLOG](https://github.com/monkey-papa/POEMON-BLOG) - 后端Python+Django 前端Vue2：博客前台+后台系统（均移动端适配） 博客系统：具有登录，文章，评论留言，友链，工具导航，爱链，幻音坊，时间线，后台管理等众多功能。 本网站搭建于阿里云服务器，采用前后端分离进行实现，前端采用宝塔部署。为了美观，本网站大量使用图片，因此对网络具有一定要求。为了提高浏览体验，图片均存储在七牛云。 (today)
-- [qinyuenlp/CommunityDetection](https://github.com/qinyuenlp/CommunityDetection) - 复杂网络社区发现算法、评价指标、常用数据集整理 (today)
+- [MWDelaney/sage-acf-wp-blocks](https://github.com/MWDelaney/sage-acf-wp-blocks) - Composer library for generating ACF Gutenberg blocks from templates. Intended for use with Roots/Sage (http://roots.io) (today)
+- [MWDelaney/bootstrap-3-shortcodes](https://github.com/MWDelaney/bootstrap-3-shortcodes) - WordPress shortcodes for easier use of Bootstrap elements in your content. (today)
+- [aknuds1/html-to-react](https://github.com/aknuds1/html-to-react) - A lightweight library that converts raw HTML to a React DOM structure. (today)
+- [actuallyakash/spacers](https://github.com/actuallyakash/spacers) - 🔳 when you need more __space__. Quick margin/padding for your no-code tools. (today)
+- [asrvd/asrvd.me](https://github.com/asrvd/asrvd.me) - personal site made using the t3 stack (today)
 
 ## 🔨 Latest Pull Requests I published
 
