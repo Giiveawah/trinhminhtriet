@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font) - 336 pixel perfect, all-purpose vector icons in a web-font kit (today)
-- [MWDelaney/sage-acf-wp-blocks](https://github.com/MWDelaney/sage-acf-wp-blocks) - Composer library for generating ACF Gutenberg blocks from templates. Intended for use with Roots/Sage (http://roots.io) (today)
-- [MWDelaney/bootstrap-3-shortcodes](https://github.com/MWDelaney/bootstrap-3-shortcodes) - WordPress shortcodes for easier use of Bootstrap elements in your content. (today)
-- [aknuds1/html-to-react](https://github.com/aknuds1/html-to-react) - A lightweight library that converts raw HTML to a React DOM structure. (today)
-- [actuallyakash/spacers](https://github.com/actuallyakash/spacers) - 🔳 when you need more __space__. Quick margin/padding for your no-code tools. (today)
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (today)
+- [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool (today)
+- [sathomas/acc-wizard](https://github.com/sathomas/acc-wizard) - Wizard implementation for bootstrap based on accordion (today)
+- [sathomas/jsDataV.is-source](https://github.com/sathomas/jsDataV.is-source) - Source code for jsDataV.is visualizations (today)
+- [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine (today)
 
 ## 🔨 Latest Pull Requests I published
 
