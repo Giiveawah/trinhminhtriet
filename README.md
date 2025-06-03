@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [liubin915249126/javascript](https://github.com/liubin915249126/javascript) - len的博客->前端相关。  (today)
+- [baizn/g6-in-react](https://github.com/baizn/g6-in-react) - 如何在React中使用G6，如何在使用G6的过程中渲染自定义的React组件，所有的疑问这里都可以帮你解答。 (today)
+- [hexiang10/facial-expression-recognition](https://github.com/hexiang10/facial-expression-recognition) - 利用Pytorch设计完成的基于卷积神经网络实现的面部表情识别项目 —— A facial expression recognition project based on convolution neural network designed by Pytorch 【Plus版本】：https://github.com/hexiang10/face-recognition-plus (today)
 - [macdonst/VideoPlayer](https://github.com/macdonst/VideoPlayer) (today)
 - [macdonst/SpeechRecognitionPlugin](https://github.com/macdonst/SpeechRecognitionPlugin) - W3C Web Speech API - Speech Recognition plugin for PhoneGap (today)
-- [Geek-James/Blog](https://github.com/Geek-James/Blog) - ✍️大前端进阶Blog (today)
-- [Geek-James/ddBuy](https://github.com/Geek-James/ddBuy) - 🎉Vue全家桶+Vant 搭建大型单页面电商项目.http://ddbuy.7-orange.cn (today)
-- [ChrAlpha/hexo-theme-cards](https://github.com/ChrAlpha/hexo-theme-cards) - Another Simple & Swift theme for Hexo (today)
 
 ## 🔨 Latest Pull Requests I published
 
