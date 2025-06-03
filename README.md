@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [a5ke4j0rd](https://github.com/a5ke4j0rd)
+- [koyeba](https://github.com/koyeba)
+- [sn](https://github.com/sn)
 - [aaalgieee](https://github.com/aaalgieee)
 - [AIbyKJ](https://github.com/AIbyKJ)
 - [echetoui](https://github.com/echetoui)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [kgleader](https://github.com/kgleader)
 - [Jailtonfonseca](https://github.com/Jailtonfonseca)
 - [kobeHub](https://github.com/kobeHub)
-- [Mubashir12392](https://github.com/Mubashir12392)
-- [AllanLucky](https://github.com/AllanLucky)
-- [Bayrktr](https://github.com/Bayrktr)
 
 ## ⭐ Recent stars
 
+- [venediktov/vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - Real Time Bidding (RTB) - Demand Side Platform framework   (today)
+- [vicenteguerra/git-deploy](https://github.com/vicenteguerra/git-deploy) - Php Script for Auto-Pull in server (Using WebHook from GitLab, GitHub and Bitbucket) (today)
+- [adriankumpf/tesla_auth](https://github.com/adriankumpf/tesla_auth) - Securely generate API tokens for third-party access to your Tesla. (today)
+- [tribou/react-todo](https://github.com/tribou/react-todo) - A sample todo app with React and Flux in ES2015 (ES6) served by Hapi (today)
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin (today)
-- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (today)
-- [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool (today)
-- [sathomas/acc-wizard](https://github.com/sathomas/acc-wizard) - Wizard implementation for bootstrap based on accordion (today)
-- [sathomas/jsDataV.is-source](https://github.com/sathomas/jsDataV.is-source) - Source code for jsDataV.is visualizations (today)
 
 ## 🔨 Latest Pull Requests I published
 
