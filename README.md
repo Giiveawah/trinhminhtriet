@@ -39,13 +39,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 day ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (1 week ago)
 - [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (1 week ago)
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 week ago)
 - [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (1 week ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 week ago)
+- [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) - 🚀 repoctl – A powerful CLI tool to manage multiple Git repositories effortlessly. Sync, pull, and run commands! 🎯 (2 weeks ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (2 weeks ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 weeks ago)
 
 ## 👯 Check out my recent followers
 
+- [AlexeyTsekun2011](https://github.com/AlexeyTsekun2011)
+- [patrickmcrawley](https://github.com/patrickmcrawley)
+- [IgorLeno](https://github.com/IgorLeno)
 - [FragozoLeonardo](https://github.com/FragozoLeonardo)
 - [Alesssalgado](https://github.com/Alesssalgado)
 - [muraschal](https://github.com/muraschal)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [GLinBoy](https://github.com/GLinBoy)
 - [a5ke4j0rd](https://github.com/a5ke4j0rd)
 - [koyeba](https://github.com/koyeba)
-- [sn](https://github.com/sn)
-- [aaalgieee](https://github.com/aaalgieee)
-- [AIbyKJ](https://github.com/AIbyKJ)
 
 ## ⭐ Recent stars
 
+- [marty331/fasthtmx](https://github.com/marty331/fasthtmx) - FastAPI-HTMX Demo Project (today)
 - [PrateekKumarSingh/Python](https://github.com/PrateekKumarSingh/Python) - Day-wise Python Learning resources from basic concepts to advanced Python applications such as data science and Machine learning. It also includes cheat-sheets, references which are logged daily to accelerate your learning. (today)
 - [PrateekKumarSingh/Graphical](https://github.com/PrateekKumarSingh/Graphical) - Open-Source, Platform independent module that consumes data points as input and plots them on a 2D graph 📈📊💹 [Scatter / Bar / Line] on the PowerShell Console/Terminal (today)
 - [PrateekKumarSingh/CheatSheets](https://github.com/PrateekKumarSingh/CheatSheets) - CheatSheets for Powershell, Exchange, Sharepoint, Lync, RegEx, VSCode and more (today)
 - [PrateekKumarSingh/AzViz](https://github.com/PrateekKumarSingh/AzViz) - ⚡ ☁ Azure Visualizer aka 'AzViz' : A #powershell module to automatically generate Azure resource topology diagrams by just typing a PowerShell cmdlet and passing the name of one or more Azure Resource groups (today)
-- [Stieneee/mumble-discord-bridge](https://github.com/Stieneee/mumble-discord-bridge) - A simple voice bridge between Mumble and Discord. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
