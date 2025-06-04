@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BigTailFox](https://github.com/BigTailFox)
 - [TNTHNGVDYNND](https://github.com/TNTHNGVDYNND)
 - [lonless9](https://github.com/lonless9)
 - [TheMendoza](https://github.com/TheMendoza)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mstiv](https://github.com/mstiv)
 - [gulzar-abbas](https://github.com/gulzar-abbas)
 - [S-rahmanKaium](https://github.com/S-rahmanKaium)
-- [mattdev071](https://github.com/mattdev071)
 
 ## ⭐ Recent stars
 
+- [ashleysommer/sanic-cors](https://github.com/ashleysommer/sanic-cors) - A Sanic extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible. Based on flask-cors by Cory Dolphin. (today)
+- [electrocoder/iotdashboard](https://github.com/electrocoder/iotdashboard) - Fast Django server for IOT Devices (today)
+- [eandersson/amqpstorm](https://github.com/eandersson/amqpstorm) - Thread-safe Python RabbitMQ Client & Management library (today)
 - [momo5502/hypervisor](https://github.com/momo5502/hypervisor) - 🧪 Hypervisor with EPT hooking support. (today)
 - [momo5502/cod-exploits](https://github.com/momo5502/cod-exploits) - ☠️ Call of Duty - Vulnerabilities and proof-of-concepts (today)
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator  (today)
-- [xry111/lfs-book-i18n](https://github.com/xry111/lfs-book-i18n) - Repository for LFS book translation (currently only Simplified Chinese). (today)
-- [jvoisin/pangu](https://github.com/jvoisin/pangu) - Toolkit to detect/crash/attack GNU debugging-related tools (today)
 
 ## 🔨 Latest Pull Requests I published
 
