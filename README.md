@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [lonless9](https://github.com/lonless9)
 - [TheMendoza](https://github.com/TheMendoza)
 - [fractalego](https://github.com/fractalego)
 - [Praveeenpy](https://github.com/Praveeenpy)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [S-rahmanKaium](https://github.com/S-rahmanKaium)
 - [mattdev071](https://github.com/mattdev071)
 - [M-Nafi](https://github.com/M-Nafi)
-- [Akv2021](https://github.com/Akv2021)
 
 ## ⭐ Recent stars
 
