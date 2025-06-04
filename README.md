@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [yadnyeshkolte](https://github.com/yadnyeshkolte)
+- [Adithya12321](https://github.com/Adithya12321)
 - [2dkn](https://github.com/2dkn)
 - [DarkMage108](https://github.com/DarkMage108)
 - [BigTailFox](https://github.com/BigTailFox)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [TheMendoza](https://github.com/TheMendoza)
 - [fractalego](https://github.com/fractalego)
 - [Praveeenpy](https://github.com/Praveeenpy)
-- [capdevon](https://github.com/capdevon)
-- [mstiv](https://github.com/mstiv)
 
 ## ⭐ Recent stars
 
+- [graetzer/GDataXML-HTML](https://github.com/graetzer/GDataXML-HTML) - HTML and XML parser for iOS and OSX, supports XPath (today)
 - [ilblackdragon/tf_examples](https://github.com/ilblackdragon/tf_examples) - TensorFlow and Scikit Flow examples (today)
 - [harpribot/deep-summarization](https://github.com/harpribot/deep-summarization) - Uses Recurrent Neural Network (LSTM/GRU/basic_RNN units) for summarization of amazon reviews (today)
 - [harpribot/awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) - A curated list of awesome information retrieval resources (today)
 - [ashleysommer/sanic-cors](https://github.com/ashleysommer/sanic-cors) - A Sanic extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible. Based on flask-cors by Cory Dolphin. (today)
-- [electrocoder/iotdashboard](https://github.com/electrocoder/iotdashboard) - Fast Django server for IOT Devices (today)
 
 ## 🔨 Latest Pull Requests I published
 
