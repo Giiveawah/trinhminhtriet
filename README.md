@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [inv2004/coinbase-pro-rs](https://github.com/inv2004/coinbase-pro-rs) - Coinbase pro client for Rust (today)
+- [inv2004/ttop](https://github.com/inv2004/ttop) - System monitoring tool with historical data service, triggers and top-like TUI (today)
 - [graetzer/GDataXML-HTML](https://github.com/graetzer/GDataXML-HTML) - HTML and XML parser for iOS and OSX, supports XPath (today)
 - [ilblackdragon/tf_examples](https://github.com/ilblackdragon/tf_examples) - TensorFlow and Scikit Flow examples (today)
 - [harpribot/deep-summarization](https://github.com/harpribot/deep-summarization) - Uses Recurrent Neural Network (LSTM/GRU/basic_RNN units) for summarization of amazon reviews (today)
-- [harpribot/awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) - A curated list of awesome information retrieval resources (today)
-- [ashleysommer/sanic-cors](https://github.com/ashleysommer/sanic-cors) - A Sanic extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible. Based on flask-cors by Cory Dolphin. (today)
 
 ## 🔨 Latest Pull Requests I published
 
