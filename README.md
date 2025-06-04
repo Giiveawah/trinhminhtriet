@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [TheMendoza](https://github.com/TheMendoza)
+- [fractalego](https://github.com/fractalego)
 - [Praveeenpy](https://github.com/Praveeenpy)
 - [capdevon](https://github.com/capdevon)
 - [mstiv](https://github.com/mstiv)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mattdev071](https://github.com/mattdev071)
 - [M-Nafi](https://github.com/M-Nafi)
 - [Akv2021](https://github.com/Akv2021)
-- [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola)
-- [Praanim](https://github.com/Praanim)
 
 ## ⭐ Recent stars
 
+- [lizhuohua/rust-mir-checker](https://github.com/lizhuohua/rust-mir-checker) (today)
+- [lizhuohua/linux-kernel-module-rust](https://github.com/lizhuohua/linux-kernel-module-rust) (today)
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python. (today)
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖 (today)
 - [zhen8838/K210_Yolo_framework](https://github.com/zhen8838/K210_Yolo_framework) - Yolo v3 framework base on tensorflow, support multiple models, multiple datasets, any number of output layers, any number of anchors, model prune, and portable model to K210 ! (today)
-- [zhangboyang/PAL3patch](https://github.com/zhangboyang/PAL3patch) - 《仙剑奇侠传三》《仙剑奇侠传三外传·问情篇》分辨率补丁 (today)
-- [Nor-s/Anim](https://github.com/Nor-s/Anim) -  3D animation editor  (with ai mocap, mixamorig) (today)
 
 ## 🔨 Latest Pull Requests I published
 
