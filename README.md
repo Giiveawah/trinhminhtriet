@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [M-Nafi](https://github.com/M-Nafi)
+- [NoaGobert](https://github.com/NoaGobert)
+- [Akv2021](https://github.com/Akv2021)
 - [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola)
 - [Praanim](https://github.com/Praanim)
 - [McKlay](https://github.com/McKlay)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [patrickmcrawley](https://github.com/patrickmcrawley)
 - [IgorLeno](https://github.com/IgorLeno)
 - [FragozoLeonardo](https://github.com/FragozoLeonardo)
-- [Alesssalgado](https://github.com/Alesssalgado)
-- [muraschal](https://github.com/muraschal)
-- [malak-sisar](https://github.com/malak-sisar)
 
 ## ⭐ Recent stars
 
