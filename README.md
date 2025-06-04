@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [groupthinking](https://github.com/groupthinking)
 - [yadnyeshkolte](https://github.com/yadnyeshkolte)
 - [Adithya12321](https://github.com/Adithya12321)
 - [2dkn](https://github.com/2dkn)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lonless9](https://github.com/lonless9)
 - [TheMendoza](https://github.com/TheMendoza)
 - [fractalego](https://github.com/fractalego)
-- [Praveeenpy](https://github.com/Praveeenpy)
 
 ## ⭐ Recent stars
 
+- [ghostxbh/uzy-ssm-mall](https://github.com/ghostxbh/uzy-ssm-mall) - SSM框架，打造电子商城，书店商城，客户管理等； (today)
 - [inv2004/coinbase-pro-rs](https://github.com/inv2004/coinbase-pro-rs) - Coinbase pro client for Rust (today)
 - [inv2004/ttop](https://github.com/inv2004/ttop) - System monitoring tool with historical data service, triggers and top-like TUI (today)
 - [graetzer/GDataXML-HTML](https://github.com/graetzer/GDataXML-HTML) - HTML and XML parser for iOS and OSX, supports XPath (today)
 - [ilblackdragon/tf_examples](https://github.com/ilblackdragon/tf_examples) - TensorFlow and Scikit Flow examples (today)
-- [harpribot/deep-summarization](https://github.com/harpribot/deep-summarization) - Uses Recurrent Neural Network (LSTM/GRU/basic_RNN units) for summarization of amazon reviews (today)
 
 ## 🔨 Latest Pull Requests I published
 
