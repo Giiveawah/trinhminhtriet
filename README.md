@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Praanim](https://github.com/Praanim)
 - [McKlay](https://github.com/McKlay)
 - [AlexeyTsekun2011](https://github.com/AlexeyTsekun2011)
 - [patrickmcrawley](https://github.com/patrickmcrawley)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [muraschal](https://github.com/muraschal)
 - [malak-sisar](https://github.com/malak-sisar)
 - [GLinBoy](https://github.com/GLinBoy)
-- [a5ke4j0rd](https://github.com/a5ke4j0rd)
 
 ## ⭐ Recent stars
 
