@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [yunsii/vite-react](https://github.com/yunsii/vite-react) - 🚀 Use Vite + React like a Pro! (today)
+- [yunsii/ant-design-pro-plus](https://github.com/yunsii/ant-design-pro-plus) - ✨ 基于 ant-design-pro 做一些微小的工作 (today)
 - [ghostxbh/uzy-ssm-mall](https://github.com/ghostxbh/uzy-ssm-mall) - SSM框架，打造电子商城，书店商城，客户管理等； (today)
 - [inv2004/coinbase-pro-rs](https://github.com/inv2004/coinbase-pro-rs) - Coinbase pro client for Rust (today)
 - [inv2004/ttop](https://github.com/inv2004/ttop) - System monitoring tool with historical data service, triggers and top-like TUI (today)
-- [graetzer/GDataXML-HTML](https://github.com/graetzer/GDataXML-HTML) - HTML and XML parser for iOS and OSX, supports XPath (today)
-- [ilblackdragon/tf_examples](https://github.com/ilblackdragon/tf_examples) - TensorFlow and Scikit Flow examples (today)
 
 ## 🔨 Latest Pull Requests I published
 
