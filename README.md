@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [TNTHNGVDYNND](https://github.com/TNTHNGVDYNND)
 - [lonless9](https://github.com/lonless9)
 - [TheMendoza](https://github.com/TheMendoza)
 - [fractalego](https://github.com/fractalego)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [gulzar-abbas](https://github.com/gulzar-abbas)
 - [S-rahmanKaium](https://github.com/S-rahmanKaium)
 - [mattdev071](https://github.com/mattdev071)
-- [M-Nafi](https://github.com/M-Nafi)
 
 ## ⭐ Recent stars
 
-- [lizhuohua/rust-mir-checker](https://github.com/lizhuohua/rust-mir-checker) (today)
-- [lizhuohua/linux-kernel-module-rust](https://github.com/lizhuohua/linux-kernel-module-rust) (today)
-- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python. (today)
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖 (today)
-- [zhen8838/K210_Yolo_framework](https://github.com/zhen8838/K210_Yolo_framework) - Yolo v3 framework base on tensorflow, support multiple models, multiple datasets, any number of output layers, any number of anchors, model prune, and portable model to K210 ! (today)
+- [momo5502/hypervisor](https://github.com/momo5502/hypervisor) - 🧪 Hypervisor with EPT hooking support. (today)
+- [momo5502/cod-exploits](https://github.com/momo5502/cod-exploits) - ☠️ Call of Duty - Vulnerabilities and proof-of-concepts (today)
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator  (today)
+- [xry111/lfs-book-i18n](https://github.com/xry111/lfs-book-i18n) - Repository for LFS book translation (currently only Simplified Chinese). (today)
+- [jvoisin/pangu](https://github.com/jvoisin/pangu) - Toolkit to detect/crash/attack GNU debugging-related tools (today)
 
 ## 🔨 Latest Pull Requests I published
 
