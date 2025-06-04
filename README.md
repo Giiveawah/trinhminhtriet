@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [2dkn](https://github.com/2dkn)
+- [DarkMage108](https://github.com/DarkMage108)
 - [BigTailFox](https://github.com/BigTailFox)
 - [TNTHNGVDYNND](https://github.com/TNTHNGVDYNND)
 - [lonless9](https://github.com/lonless9)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Praveeenpy](https://github.com/Praveeenpy)
 - [capdevon](https://github.com/capdevon)
 - [mstiv](https://github.com/mstiv)
-- [gulzar-abbas](https://github.com/gulzar-abbas)
-- [S-rahmanKaium](https://github.com/S-rahmanKaium)
 
 ## ⭐ Recent stars
 
+- [ilblackdragon/tf_examples](https://github.com/ilblackdragon/tf_examples) - TensorFlow and Scikit Flow examples (today)
+- [harpribot/deep-summarization](https://github.com/harpribot/deep-summarization) - Uses Recurrent Neural Network (LSTM/GRU/basic_RNN units) for summarization of amazon reviews (today)
+- [harpribot/awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) - A curated list of awesome information retrieval resources (today)
 - [ashleysommer/sanic-cors](https://github.com/ashleysommer/sanic-cors) - A Sanic extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible. Based on flask-cors by Cory Dolphin. (today)
 - [electrocoder/iotdashboard](https://github.com/electrocoder/iotdashboard) - Fast Django server for IOT Devices (today)
-- [eandersson/amqpstorm](https://github.com/eandersson/amqpstorm) - Thread-safe Python RabbitMQ Client & Management library (today)
-- [momo5502/hypervisor](https://github.com/momo5502/hypervisor) - 🧪 Hypervisor with EPT hooking support. (today)
-- [momo5502/cod-exploits](https://github.com/momo5502/cod-exploits) - ☠️ Call of Duty - Vulnerabilities and proof-of-concepts (today)
 
 ## 🔨 Latest Pull Requests I published
 
