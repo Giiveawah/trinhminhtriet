@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola)
 - [Praanim](https://github.com/Praanim)
 - [McKlay](https://github.com/McKlay)
 - [AlexeyTsekun2011](https://github.com/AlexeyTsekun2011)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Alesssalgado](https://github.com/Alesssalgado)
 - [muraschal](https://github.com/muraschal)
 - [malak-sisar](https://github.com/malak-sisar)
-- [GLinBoy](https://github.com/GLinBoy)
 
 ## ⭐ Recent stars
 
+- [LetticiaNicoli/awesome-cafezin](https://github.com/LetticiaNicoli/awesome-cafezin) - Lista pra vc que está buscando um cafezin incrível ☕️ ✨  🇧🇷  (today)
 - [marty331/fasthtmx](https://github.com/marty331/fasthtmx) - FastAPI-HTMX Demo Project (today)
 - [PrateekKumarSingh/Python](https://github.com/PrateekKumarSingh/Python) - Day-wise Python Learning resources from basic concepts to advanced Python applications such as data science and Machine learning. It also includes cheat-sheets, references which are logged daily to accelerate your learning. (today)
 - [PrateekKumarSingh/Graphical](https://github.com/PrateekKumarSingh/Graphical) - Open-Source, Platform independent module that consumes data points as input and plots them on a 2D graph 📈📊💹 [Scatter / Bar / Line] on the PowerShell Console/Terminal (today)
 - [PrateekKumarSingh/CheatSheets](https://github.com/PrateekKumarSingh/CheatSheets) - CheatSheets for Powershell, Exchange, Sharepoint, Lync, RegEx, VSCode and more (today)
-- [PrateekKumarSingh/AzViz](https://github.com/PrateekKumarSingh/AzViz) - ⚡ ☁ Azure Visualizer aka 'AzViz' : A #powershell module to automatically generate Azure resource topology diagrams by just typing a PowerShell cmdlet and passing the name of one or more Azure Resource groups (today)
 
 ## 🔨 Latest Pull Requests I published
 
