@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [kevinhongzl](https://github.com/kevinhongzl)
 - [misterrager8](https://github.com/misterrager8)
 - [colibrishin](https://github.com/colibrishin)
 - [groupthinking](https://github.com/groupthinking)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DarkMage108](https://github.com/DarkMage108)
 - [BigTailFox](https://github.com/BigTailFox)
 - [TNTHNGVDYNND](https://github.com/TNTHNGVDYNND)
-- [lonless9](https://github.com/lonless9)
 
 ## ⭐ Recent stars
 
