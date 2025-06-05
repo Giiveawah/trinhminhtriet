@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SAPH1TE](https://github.com/SAPH1TE)
+- [18KRedApple](https://github.com/18KRedApple)
 - [npuichigo](https://github.com/npuichigo)
 - [NicolleInCode](https://github.com/NicolleInCode)
 - [karthikagavinti](https://github.com/karthikagavinti)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [jnleyva816](https://github.com/jnleyva816)
 - [cashblaze127](https://github.com/cashblaze127)
 - [prosk67](https://github.com/prosk67)
-- [misterrager8](https://github.com/misterrager8)
-- [colibrishin](https://github.com/colibrishin)
 
 ## ⭐ Recent stars
 
