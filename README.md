@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [cepseu1](https://github.com/cepseu1)
 - [Kordik67](https://github.com/Kordik67)
 - [jnleyva816](https://github.com/jnleyva816)
 - [cashblaze127](https://github.com/cashblaze127)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [groupthinking](https://github.com/groupthinking)
 - [yadnyeshkolte](https://github.com/yadnyeshkolte)
 - [Adithya12321](https://github.com/Adithya12321)
-- [2dkn](https://github.com/2dkn)
 
 ## ⭐ Recent stars
 
+- [misads/cv_template](https://github.com/misads/cv_template) - 一个图像复原或分割的统一框架，可以用于去雾🌫、去雨🌧、去模糊、夜景🌃复原、超分辨率👾、像素级分割等等。 (today)
+- [misads/easy_detection](https://github.com/misads/easy_detection) - 一个简单方便的目标检测框架(PyTorch环境可直接运行，不需要cuda编译)，支持Faster_RCNN、Cascade_RCNN、Yolo系列、SSD等经典网络。 (today)
 - [kangwang1988/XcodeZombieCode](https://github.com/kangwang1988/XcodeZombieCode) - iOS APP分析无用代码(A source-code level/Clang Approach) (today)
 - [frgomes/jquantlib](https://github.com/frgomes/jquantlib) - JQuantLib is a library for Quantitative Finance written in 100% Java (today)
 - [edi9999/path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin (today)
-- [edi9999/jsqrcode](https://github.com/edi9999/jsqrcode) - [deprecated] Lazarsoft's jsqrcode as a node module, object oriented, and with tests (today)
-- [tgfrerer/island](https://github.com/tgfrerer/island) - 🌋🐎 Project Island is an experimental, hot-reloading Vulkan Renderer for Linux and Windows, written in C/C++. (today)
 
 ## 🔨 Latest Pull Requests I published
 
