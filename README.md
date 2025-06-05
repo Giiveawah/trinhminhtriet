@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [jnleyva816](https://github.com/jnleyva816)
 - [cashblaze127](https://github.com/cashblaze127)
 - [prosk67](https://github.com/prosk67)
 - [misterrager8](https://github.com/misterrager8)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Adithya12321](https://github.com/Adithya12321)
 - [2dkn](https://github.com/2dkn)
 - [DarkMage108](https://github.com/DarkMage108)
-- [BigTailFox](https://github.com/BigTailFox)
 
 ## ⭐ Recent stars
 
+- [kangwang1988/XcodeZombieCode](https://github.com/kangwang1988/XcodeZombieCode) - iOS APP分析无用代码(A source-code level/Clang Approach) (today)
 - [frgomes/jquantlib](https://github.com/frgomes/jquantlib) - JQuantLib is a library for Quantitative Finance written in 100% Java (today)
 - [edi9999/path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin (today)
 - [edi9999/jsqrcode](https://github.com/edi9999/jsqrcode) - [deprecated] Lazarsoft's jsqrcode as a node module, object oriented, and with tests (today)
 - [tgfrerer/island](https://github.com/tgfrerer/island) - 🌋🐎 Project Island is an experimental, hot-reloading Vulkan Renderer for Linux and Windows, written in C/C++. (today)
-- [RMichelsen/Nvy](https://github.com/RMichelsen/Nvy) - Nvy - A Neovim client in C++ (today)
 
 ## 🔨 Latest Pull Requests I published
 
