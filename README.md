@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Kordik67](https://github.com/Kordik67)
 - [jnleyva816](https://github.com/jnleyva816)
 - [cashblaze127](https://github.com/cashblaze127)
 - [prosk67](https://github.com/prosk67)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [yadnyeshkolte](https://github.com/yadnyeshkolte)
 - [Adithya12321](https://github.com/Adithya12321)
 - [2dkn](https://github.com/2dkn)
-- [DarkMage108](https://github.com/DarkMage108)
 
 ## ⭐ Recent stars
 
