@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [asqbtcupid/lua_hotupdate](https://github.com/asqbtcupid/lua_hotupdate) - my lua hotudpate(hot swap) implement (today)
-- [asqbtcupid/unreal.lua](https://github.com/asqbtcupid/unreal.lua) - lua solution for UnrealEngine4 (today)
-- [tothi/usbgadget-tool](https://github.com/tothi/usbgadget-tool) - Dumb USB HID gadget creator for Android (for triggering device driver install on Windows for LPE) (today)
-- [tothi/serviceDetector](https://github.com/tothi/serviceDetector) - Detect whether a service is installed (blindly) and/or running (if exposing named pipes) on a remote machine without using local admin privileges. (today)
-- [tothi/ad-honeypot-autodeploy](https://github.com/tothi/ad-honeypot-autodeploy) - Deploy a small, intentionally insecure, vulnerable Windows Domain for RDP Honeypot fully automatically. (today)
+- [gbrlsnchs/jwt](https://github.com/gbrlsnchs/jwt) - Go JWT signing, verifying and validating (today)
+- [leroycep/mdproof](https://github.com/leroycep/mdproof) - A standalone markdown to PDF converter (today)
+- [vially/googlemusic-xbmc](https://github.com/vially/googlemusic-xbmc) - Google Music addon for Kodi (today)
+- [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation (today)
+- [moritz-wundke/android-page-curl](https://github.com/moritz-wundke/android-page-curl) - Page Curl for Android (today)
 
 ## 🔨 Latest Pull Requests I published
 
