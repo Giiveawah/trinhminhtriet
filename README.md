@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [misterrager8](https://github.com/misterrager8)
 - [colibrishin](https://github.com/colibrishin)
 - [groupthinking](https://github.com/groupthinking)
 - [yadnyeshkolte](https://github.com/yadnyeshkolte)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BigTailFox](https://github.com/BigTailFox)
 - [TNTHNGVDYNND](https://github.com/TNTHNGVDYNND)
 - [lonless9](https://github.com/lonless9)
-- [TheMendoza](https://github.com/TheMendoza)
 
 ## ⭐ Recent stars
 
-- [brunobertolini/styled-by](https://github.com/brunobertolini/styled-by) - Simple and powerful lib to handle styled props in your components (today)
-- [brunobertolini/remask](https://github.com/brunobertolini/remask) - A lightweight, dependency free and framework agnostic multi-mask lib, with Typescript support. (today)
-- [boizz/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS-7](https://github.com/boizz/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS-7) - auto install the PPTP, L2TP and IPSec in your CentOS 7 server (today)
-- [boizz/hexo-theme-laughing](https://github.com/boizz/hexo-theme-laughing) - A lightweight hexo theme (today)
-- [shivkanthb/web3-starter](https://github.com/shivkanthb/web3-starter) - Simple web3 starter with metamask and walletconnect (today)
+- [becxer/cnn-dailymail](https://github.com/becxer/cnn-dailymail) - Code to obtain the CNN / Daily Mail dataset (non-anonymized) for summarization (Python3) (today)
+- [becxer/pointer-generator](https://github.com/becxer/pointer-generator) - Code for the ACL 2017 paper "Get To The Point: Summarization with Pointer-Generator Networks" (Python3) (today)
+- [thebitguru/play-button-itunes-patch](https://github.com/thebitguru/play-button-itunes-patch) - Play Button iTunes Patch (today)
+- [smoqadam/rust-youtube-downloader](https://github.com/smoqadam/rust-youtube-downloader) - Youtube video downloader written in Rust (today)
+- [smoqadam/PyFladesk](https://github.com/smoqadam/PyFladesk) - create desktop application by using Flask and QtWebKit  (today)
 
 ## 🔨 Latest Pull Requests I published
 
