@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NicolleInCode](https://github.com/NicolleInCode)
 - [karthikagavinti](https://github.com/karthikagavinti)
 - [cepseu1](https://github.com/cepseu1)
 - [Kordik67](https://github.com/Kordik67)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [misterrager8](https://github.com/misterrager8)
 - [colibrishin](https://github.com/colibrishin)
 - [groupthinking](https://github.com/groupthinking)
-- [yadnyeshkolte](https://github.com/yadnyeshkolte)
 
 ## ⭐ Recent stars
 
