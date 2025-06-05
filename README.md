@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [becxer/cnn-dailymail](https://github.com/becxer/cnn-dailymail) - Code to obtain the CNN / Daily Mail dataset (non-anonymized) for summarization (Python3) (today)
-- [becxer/pointer-generator](https://github.com/becxer/pointer-generator) - Code for the ACL 2017 paper "Get To The Point: Summarization with Pointer-Generator Networks" (Python3) (today)
-- [thebitguru/play-button-itunes-patch](https://github.com/thebitguru/play-button-itunes-patch) - Play Button iTunes Patch (today)
-- [smoqadam/rust-youtube-downloader](https://github.com/smoqadam/rust-youtube-downloader) - Youtube video downloader written in Rust (today)
-- [smoqadam/PyFladesk](https://github.com/smoqadam/PyFladesk) - create desktop application by using Flask and QtWebKit  (today)
+- [asqbtcupid/lua_hotupdate](https://github.com/asqbtcupid/lua_hotupdate) - my lua hotudpate(hot swap) implement (today)
+- [asqbtcupid/unreal.lua](https://github.com/asqbtcupid/unreal.lua) - lua solution for UnrealEngine4 (today)
+- [tothi/usbgadget-tool](https://github.com/tothi/usbgadget-tool) - Dumb USB HID gadget creator for Android (for triggering device driver install on Windows for LPE) (today)
+- [tothi/serviceDetector](https://github.com/tothi/serviceDetector) - Detect whether a service is installed (blindly) and/or running (if exposing named pipes) on a remote machine without using local admin privileges. (today)
+- [tothi/ad-honeypot-autodeploy](https://github.com/tothi/ad-honeypot-autodeploy) - Deploy a small, intentionally insecure, vulnerable Windows Domain for RDP Honeypot fully automatically. (today)
 
 ## 🔨 Latest Pull Requests I published
 
