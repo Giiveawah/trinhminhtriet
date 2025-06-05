@@ -33,10 +33,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 day ago)
-- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 day ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
-- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 day ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (2 days ago)
+- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (2 days ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (1 week ago)
 - [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (1 week ago)
 - [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (1 week ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [colibrishin](https://github.com/colibrishin)
 - [groupthinking](https://github.com/groupthinking)
 - [yadnyeshkolte](https://github.com/yadnyeshkolte)
 - [Adithya12321](https://github.com/Adithya12321)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [TNTHNGVDYNND](https://github.com/TNTHNGVDYNND)
 - [lonless9](https://github.com/lonless9)
 - [TheMendoza](https://github.com/TheMendoza)
-- [fractalego](https://github.com/fractalego)
 
 ## ⭐ Recent stars
 
-- [hashrock/deno-avatar](https://github.com/hashrock/deno-avatar) - Generate random deno avatar (today)
-- [yunsii/vite-react](https://github.com/yunsii/vite-react) - 🚀 Use Vite + React like a Pro! (today)
-- [yunsii/ant-design-pro-plus](https://github.com/yunsii/ant-design-pro-plus) - ✨ 基于 ant-design-pro 做一些微小的工作 (today)
-- [ghostxbh/uzy-ssm-mall](https://github.com/ghostxbh/uzy-ssm-mall) - SSM框架，打造电子商城，书店商城，客户管理等； (today)
-- [inv2004/coinbase-pro-rs](https://github.com/inv2004/coinbase-pro-rs) - Coinbase pro client for Rust (today)
+- [brunobertolini/styled-by](https://github.com/brunobertolini/styled-by) - Simple and powerful lib to handle styled props in your components (today)
+- [brunobertolini/remask](https://github.com/brunobertolini/remask) - A lightweight, dependency free and framework agnostic multi-mask lib, with Typescript support. (today)
+- [boizz/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS-7](https://github.com/boizz/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS-7) - auto install the PPTP, L2TP and IPSec in your CentOS 7 server (today)
+- [boizz/hexo-theme-laughing](https://github.com/boizz/hexo-theme-laughing) - A lightweight hexo theme (today)
+- [shivkanthb/web3-starter](https://github.com/shivkanthb/web3-starter) - Simple web3 starter with metamask and walletconnect (today)
 
 ## 🔨 Latest Pull Requests I published
 
