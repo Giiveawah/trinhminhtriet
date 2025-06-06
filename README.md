@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [diommsantos](https://github.com/diommsantos)
 - [eensaydn](https://github.com/eensaydn)
 - [zoxilsi](https://github.com/zoxilsi)
 - [Opposite-clock](https://github.com/Opposite-clock)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [TonyVHT](https://github.com/TonyVHT)
 - [Lstrappare](https://github.com/Lstrappare)
 - [patelzil](https://github.com/patelzil)
-- [wenbo97](https://github.com/wenbo97)
 
 ## ⭐ Recent stars
 
