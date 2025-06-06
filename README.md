@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [smartbello](https://github.com/smartbello)
 - [TonyVHT](https://github.com/TonyVHT)
 - [Lstrappare](https://github.com/Lstrappare)
 - [patelzil](https://github.com/patelzil)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lorena-davila2025](https://github.com/lorena-davila2025)
 - [NAVIN0507](https://github.com/NAVIN0507)
 - [SAPH1TE](https://github.com/SAPH1TE)
-- [18KRedApple](https://github.com/18KRedApple)
 
 ## ⭐ Recent stars
 
