@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [eensaydn](https://github.com/eensaydn)
 - [zoxilsi](https://github.com/zoxilsi)
 - [Opposite-clock](https://github.com/Opposite-clock)
 - [Aditya-138-12](https://github.com/Aditya-138-12)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Lstrappare](https://github.com/Lstrappare)
 - [patelzil](https://github.com/patelzil)
 - [wenbo97](https://github.com/wenbo97)
-- [SudharakaA](https://github.com/SudharakaA)
 
 ## ⭐ Recent stars
 
+- [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme. Made with ImageGoNord by Schrödinger Hat. (today)
+- [heussd/fivefilters-full-text-rss-docker](https://github.com/heussd/fivefilters-full-text-rss-docker) - Retrieves the full-text of individual Web pages or entire RSS feeds - Unofficial Docker image for fivefilters' Full-Text RSS service (today)
 - [FanaHOVA/smol-podcaster](https://github.com/FanaHOVA/smol-podcaster) - smol-podcaster is your podcast production agent 🎙️ (today)
 - [AriTheElk/uigradients](https://github.com/AriTheElk/uigradients) - Gradients-as-a-react-component™ (today)
 - [AriTheElk/hedron](https://github.com/AriTheElk/hedron) - A no-frills flexbox grid system for React, powered by styled-components. (today)
-- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (today)
-- [kkinder/puepy](https://github.com/kkinder/puepy) - Python+Webassembly Frontend Framework via PyScript (today)
 
 ## 🔨 Latest Pull Requests I published
 
