@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [zoxilsi](https://github.com/zoxilsi)
 - [Opposite-clock](https://github.com/Opposite-clock)
 - [Aditya-138-12](https://github.com/Aditya-138-12)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [patelzil](https://github.com/patelzil)
 - [wenbo97](https://github.com/wenbo97)
 - [SudharakaA](https://github.com/SudharakaA)
-- [arekkusu66](https://github.com/arekkusu66)
 
 ## ⭐ Recent stars
 
-- [keskarnitish/large-batch-training](https://github.com/keskarnitish/large-batch-training) - Code to reproduce some of the figures in the paper "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima" (today)
-- [tevjef/go-runtime-metrics](https://github.com/tevjef/go-runtime-metrics) - Collect golang runtime metrics, pushing to InfluxDB or pulling with Telegraf (today)
-- [johnjohndoe/TypedPreferences](https://github.com/johnjohndoe/TypedPreferences) - Preference wrappers for primitive types for Android (today)
-- [WooVictory/Ready-For-Tech-Interview](https://github.com/WooVictory/Ready-For-Tech-Interview) - 💻 신입 개발자로서 지식을 쌓기 위해 공부하는 공간 👨‍💻 (today)
-- [omjoonkim/SkeletonLoadingView](https://github.com/omjoonkim/SkeletonLoadingView) - SkeletonLoadingView(Shimmer) with Kotlin in Android💀💀 (today)
+- [NESOY/Back-end-Developer-Interview-Questions](https://github.com/NESOY/Back-end-Developer-Interview-Questions) - 📝 Interview for Back end Developer (today)
+- [toedter/hal-explorer](https://github.com/toedter/hal-explorer) - An API explorer for RESTful Hypermedia APIs using HAL or HAL-FORMS (today)
+- [wesleyegberto/java-new-features](https://github.com/wesleyegberto/java-new-features) - Exploring Java new features from 8 to 25 (today)
+- [joshukraine/mac-bootstrap](https://github.com/joshukraine/mac-bootstrap) - :computer:  Provision a new Mac for web development with dotfiles + Fish/Zsh, Neovim, and Tmux (today)
+- [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Neovim, Zsh or Fish, and Kitty or iTerm+Tmux (today)
 
 ## 🔨 Latest Pull Requests I published
 
