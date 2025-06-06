@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [wenbo97](https://github.com/wenbo97)
 - [SudharakaA](https://github.com/SudharakaA)
 - [arekkusu66](https://github.com/arekkusu66)
 - [lorena-davila2025](https://github.com/lorena-davila2025)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [npuichigo](https://github.com/npuichigo)
 - [NicolleInCode](https://github.com/NicolleInCode)
 - [karthikagavinti](https://github.com/karthikagavinti)
-- [cepseu1](https://github.com/cepseu1)
 
 ## ⭐ Recent stars
 
