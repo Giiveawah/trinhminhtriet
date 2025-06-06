@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [keskarnitish/large-batch-training](https://github.com/keskarnitish/large-batch-training) - Code to reproduce some of the figures in the paper "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima" (today)
 - [tevjef/go-runtime-metrics](https://github.com/tevjef/go-runtime-metrics) - Collect golang runtime metrics, pushing to InfluxDB or pulling with Telegraf (today)
 - [johnjohndoe/TypedPreferences](https://github.com/johnjohndoe/TypedPreferences) - Preference wrappers for primitive types for Android (today)
 - [WooVictory/Ready-For-Tech-Interview](https://github.com/WooVictory/Ready-For-Tech-Interview) - 💻 신입 개발자로서 지식을 쌓기 위해 공부하는 공간 👨‍💻 (today)
 - [omjoonkim/SkeletonLoadingView](https://github.com/omjoonkim/SkeletonLoadingView) - SkeletonLoadingView(Shimmer) with Kotlin in Android💀💀 (today)
-- [HelloVass/SmartKeyboardManager](https://github.com/HelloVass/SmartKeyboardManager) - like 微信，优雅地切换表情键盘和软键盘 (today)
 
 ## 🔨 Latest Pull Requests I published
 
