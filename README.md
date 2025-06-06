@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [NESOY/Back-end-Developer-Interview-Questions](https://github.com/NESOY/Back-end-Developer-Interview-Questions) - 📝 Interview for Back end Developer (today)
-- [toedter/hal-explorer](https://github.com/toedter/hal-explorer) - An API explorer for RESTful Hypermedia APIs using HAL or HAL-FORMS (today)
-- [wesleyegberto/java-new-features](https://github.com/wesleyegberto/java-new-features) - Exploring Java new features from 8 to 25 (today)
-- [joshukraine/mac-bootstrap](https://github.com/joshukraine/mac-bootstrap) - :computer:  Provision a new Mac for web development with dotfiles + Fish/Zsh, Neovim, and Tmux (today)
-- [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Neovim, Zsh or Fish, and Kitty or iTerm+Tmux (today)
+- [FanaHOVA/smol-podcaster](https://github.com/FanaHOVA/smol-podcaster) - smol-podcaster is your podcast production agent 🎙️ (today)
+- [AriTheElk/uigradients](https://github.com/AriTheElk/uigradients) - Gradients-as-a-react-component™ (today)
+- [AriTheElk/hedron](https://github.com/AriTheElk/hedron) - A no-frills flexbox grid system for React, powered by styled-components. (today)
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (today)
+- [kkinder/puepy](https://github.com/kkinder/puepy) - Python+Webassembly Frontend Framework via PyScript (today)
 
 ## 🔨 Latest Pull Requests I published
 
