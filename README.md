@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [max-oyedele](https://github.com/max-oyedele)
 - [jeroenvanwissen](https://github.com/jeroenvanwissen)
 - [utkarshkumarsinha](https://github.com/utkarshkumarsinha)
 - [Kriztinemendoza](https://github.com/Kriztinemendoza)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [zoxilsi](https://github.com/zoxilsi)
 - [Opposite-clock](https://github.com/Opposite-clock)
 - [Aditya-138-12](https://github.com/Aditya-138-12)
-- [siddhantshukla108](https://github.com/siddhantshukla108)
 
 ## ⭐ Recent stars
 
