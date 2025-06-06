@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Opposite-clock](https://github.com/Opposite-clock)
+- [Aditya-138-12](https://github.com/Aditya-138-12)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
 - [smartbello](https://github.com/smartbello)
 - [TonyVHT](https://github.com/TonyVHT)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [wenbo97](https://github.com/wenbo97)
 - [SudharakaA](https://github.com/SudharakaA)
 - [arekkusu66](https://github.com/arekkusu66)
-- [lorena-davila2025](https://github.com/lorena-davila2025)
-- [NAVIN0507](https://github.com/NAVIN0507)
 
 ## ⭐ Recent stars
 
+- [tevjef/go-runtime-metrics](https://github.com/tevjef/go-runtime-metrics) - Collect golang runtime metrics, pushing to InfluxDB or pulling with Telegraf (today)
+- [johnjohndoe/TypedPreferences](https://github.com/johnjohndoe/TypedPreferences) - Preference wrappers for primitive types for Android (today)
+- [WooVictory/Ready-For-Tech-Interview](https://github.com/WooVictory/Ready-For-Tech-Interview) - 💻 신입 개발자로서 지식을 쌓기 위해 공부하는 공간 👨‍💻 (today)
+- [omjoonkim/SkeletonLoadingView](https://github.com/omjoonkim/SkeletonLoadingView) - SkeletonLoadingView(Shimmer) with Kotlin in Android💀💀 (today)
 - [HelloVass/SmartKeyboardManager](https://github.com/HelloVass/SmartKeyboardManager) - like 微信，优雅地切换表情键盘和软键盘 (today)
-- [HelloVass/SnowingView](https://github.com/HelloVass/SnowingView) - winter is coming... (today)
-- [jsh-me/simple-android-editor](https://github.com/jsh-me/simple-android-editor) - 📷 Android video and photo editor using Deep Learning ( FFMPEG / ExoPlayer2 / Super Resolution / Video and Image Inpainting ) (today)
-- [rallat/smokeAndMirrors](https://github.com/rallat/smokeAndMirrors) - Android UI smoke and mirrors (today)
-- [rallat/EffectiveAndroid](https://github.com/rallat/EffectiveAndroid) - This sample project shows how to apply MVP and Clean architecture on an Android app (today)
 
 ## 🔨 Latest Pull Requests I published
 
