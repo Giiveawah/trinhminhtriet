@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [misads/cv_template](https://github.com/misads/cv_template) - 一个图像复原或分割的统一框架，可以用于去雾🌫、去雨🌧、去模糊、夜景🌃复原、超分辨率👾、像素级分割等等。 (1 day ago)
-- [misads/easy_detection](https://github.com/misads/easy_detection) - 一个简单方便的目标检测框架(PyTorch环境可直接运行，不需要cuda编译)，支持Faster_RCNN、Cascade_RCNN、Yolo系列、SSD等经典网络。 (1 day ago)
-- [kangwang1988/XcodeZombieCode](https://github.com/kangwang1988/XcodeZombieCode) - iOS APP分析无用代码(A source-code level/Clang Approach) (1 day ago)
-- [frgomes/jquantlib](https://github.com/frgomes/jquantlib) - JQuantLib is a library for Quantitative Finance written in 100% Java (1 day ago)
-- [edi9999/path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin (1 day ago)
+- [HelloVass/SmartKeyboardManager](https://github.com/HelloVass/SmartKeyboardManager) - like 微信，优雅地切换表情键盘和软键盘 (today)
+- [HelloVass/SnowingView](https://github.com/HelloVass/SnowingView) - winter is coming... (today)
+- [jsh-me/simple-android-editor](https://github.com/jsh-me/simple-android-editor) - 📷 Android video and photo editor using Deep Learning ( FFMPEG / ExoPlayer2 / Super Resolution / Video and Image Inpainting ) (today)
+- [rallat/smokeAndMirrors](https://github.com/rallat/smokeAndMirrors) - Android UI smoke and mirrors (today)
+- [rallat/EffectiveAndroid](https://github.com/rallat/EffectiveAndroid) - This sample project shows how to apply MVP and Clean architecture on an Android app (today)
 
 ## 🔨 Latest Pull Requests I published
 
