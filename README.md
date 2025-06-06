@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Kriztinemendoza](https://github.com/Kriztinemendoza)
+- [miguesgo](https://github.com/miguesgo)
 - [diommsantos](https://github.com/diommsantos)
 - [eensaydn](https://github.com/eensaydn)
 - [zoxilsi](https://github.com/zoxilsi)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [siddhantshukla108](https://github.com/siddhantshukla108)
 - [smartbello](https://github.com/smartbello)
 - [TonyVHT](https://github.com/TonyVHT)
-- [Lstrappare](https://github.com/Lstrappare)
-- [patelzil](https://github.com/patelzil)
 
 ## ⭐ Recent stars
 
+- [PhilippLgh/electron-toolkit](https://github.com/PhilippLgh/electron-toolkit) - Tools to make launching Electron apps easier (today)
 - [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme. Made with ImageGoNord by Schrödinger Hat. (today)
 - [heussd/fivefilters-full-text-rss-docker](https://github.com/heussd/fivefilters-full-text-rss-docker) - Retrieves the full-text of individual Web pages or entire RSS feeds - Unofficial Docker image for fivefilters' Full-Text RSS service (today)
 - [FanaHOVA/smol-podcaster](https://github.com/FanaHOVA/smol-podcaster) - smol-podcaster is your podcast production agent 🎙️ (today)
 - [AriTheElk/uigradients](https://github.com/AriTheElk/uigradients) - Gradients-as-a-react-component™ (today)
-- [AriTheElk/hedron](https://github.com/AriTheElk/hedron) - A no-frills flexbox grid system for React, powered by styled-components. (today)
 
 ## 🔨 Latest Pull Requests I published
 
