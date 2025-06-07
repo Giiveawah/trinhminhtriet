@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ZeroHack01](https://github.com/ZeroHack01)
 - [kukrev](https://github.com/kukrev)
 - [emineugurlu](https://github.com/emineugurlu)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [outsideness-x](https://github.com/outsideness-x)
 - [BrilliantAdam](https://github.com/BrilliantAdam)
 - [black00shadow](https://github.com/black00shadow)
-- [max-oyedele](https://github.com/max-oyedele)
 
 ## ⭐ Recent stars
 
