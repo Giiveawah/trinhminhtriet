@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Arsalaan-Alam](https://github.com/Arsalaan-Alam)
 - [outsideness-x](https://github.com/outsideness-x)
 - [BrilliantAdam](https://github.com/BrilliantAdam)
 - [black00shadow](https://github.com/black00shadow)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Kriztinemendoza](https://github.com/Kriztinemendoza)
 - [miguesgo](https://github.com/miguesgo)
 - [diommsantos](https://github.com/diommsantos)
-- [eensaydn](https://github.com/eensaydn)
 
 ## ⭐ Recent stars
 
