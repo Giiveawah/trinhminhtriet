@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [pashacoder217](https://github.com/pashacoder217)
 - [Narayan7330](https://github.com/Narayan7330)
 - [demm05](https://github.com/demm05)
 - [Tomar1907](https://github.com/Tomar1907)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ZeroHack01](https://github.com/ZeroHack01)
 - [kukrev](https://github.com/kukrev)
 - [emineugurlu](https://github.com/emineugurlu)
-- [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 
 ## ⭐ Recent stars
 
