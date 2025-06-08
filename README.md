@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [pinhe91](https://github.com/pinhe91)
 - [ruizu21](https://github.com/ruizu21)
 - [douvy](https://github.com/douvy)
 - [ZeroHack01](https://github.com/ZeroHack01)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [itsjomon](https://github.com/itsjomon)
 - [kumeS](https://github.com/kumeS)
 - [Arsalaan-Alam](https://github.com/Arsalaan-Alam)
-- [outsideness-x](https://github.com/outsideness-x)
 
 ## ⭐ Recent stars
 
