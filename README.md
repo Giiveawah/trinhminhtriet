@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MohamedAhmed-SUT](https://github.com/MohamedAhmed-SUT)
+- [bitbreakr](https://github.com/bitbreakr)
 - [GiMendescCodes](https://github.com/GiMendescCodes)
 - [Ekene1998](https://github.com/Ekene1998)
 - [ashahba](https://github.com/ashahba)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [oziieljuniior](https://github.com/oziieljuniior)
 - [Ivan7791](https://github.com/Ivan7791)
 - [sajad00169](https://github.com/sajad00169)
-- [pashacoder217](https://github.com/pashacoder217)
-- [Narayan7330](https://github.com/Narayan7330)
 
 ## ⭐ Recent stars
 
