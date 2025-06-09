@@ -33,10 +33,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (5 days ago)
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (5 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (5 days ago)
-- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (5 days ago)
+- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (6 days ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (6 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (6 days ago)
+- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (6 days ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (2 weeks ago)
 - [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (2 weeks ago)
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (2 weeks ago)
@@ -59,15 +59,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - List of S3 Hacks (today)
-- [PhilippLgh/electron-toolkit](https://github.com/PhilippLgh/electron-toolkit) - Tools to make launching Electron apps easier (2 days ago)
-- [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme. Made with ImageGoNord by Schrödinger Hat. (2 days ago)
-- [heussd/fivefilters-full-text-rss-docker](https://github.com/heussd/fivefilters-full-text-rss-docker) - Retrieves the full-text of individual Web pages or entire RSS feeds - Unofficial Docker image for fivefilters' Full-Text RSS service (2 days ago)
-- [FanaHOVA/smol-podcaster](https://github.com/FanaHOVA/smol-podcaster) - smol-podcaster is your podcast production agent 🎙️ (2 days ago)
+- [nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - List of S3 Hacks (1 day ago)
+- [PhilippLgh/electron-toolkit](https://github.com/PhilippLgh/electron-toolkit) - Tools to make launching Electron apps easier (3 days ago)
+- [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme. Made with ImageGoNord by Schrödinger Hat. (3 days ago)
+- [heussd/fivefilters-full-text-rss-docker](https://github.com/heussd/fivefilters-full-text-rss-docker) - Retrieves the full-text of individual Web pages or entire RSS feeds - Unofficial Docker image for fivefilters' Full-Text RSS service (3 days ago)
+- [FanaHOVA/smol-podcaster](https://github.com/FanaHOVA/smol-podcaster) - smol-podcaster is your podcast production agent 🎙️ (3 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Develop](https://github.com/trinhminhtriet/repoctl/pull/17) on [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) (3 weeks ago)
+- [Develop](https://github.com/trinhminhtriet/repoctl/pull/17) on [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) (4 weeks ago)
 - [Develop](https://github.com/trinhminhtriet/scanr/pull/22) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (1 month ago)
 - [Develop](https://github.com/trinhminhtriet/scanr/pull/21) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (1 month ago)
 - [Develop](https://github.com/trinhminhtriet/pingy/pull/8) on [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) (1 month ago)
