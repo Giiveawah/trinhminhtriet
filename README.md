@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Kamilahsantos/Java-week-LinuxTips](https://github.com/Kamilahsantos/Java-week-LinuxTips) - Repositório com o conteúdo da Java Week da LinuxTips (today)
 - [nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - List of S3 Hacks (1 day ago)
 - [PhilippLgh/electron-toolkit](https://github.com/PhilippLgh/electron-toolkit) - Tools to make launching Electron apps easier (3 days ago)
 - [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme. Made with ImageGoNord by Schrödinger Hat. (3 days ago)
 - [heussd/fivefilters-full-text-rss-docker](https://github.com/heussd/fivefilters-full-text-rss-docker) - Retrieves the full-text of individual Web pages or entire RSS feeds - Unofficial Docker image for fivefilters' Full-Text RSS service (3 days ago)
-- [FanaHOVA/smol-podcaster](https://github.com/FanaHOVA/smol-podcaster) - smol-podcaster is your podcast production agent 🎙️ (3 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
