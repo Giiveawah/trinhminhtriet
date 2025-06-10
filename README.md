@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [codewithdhruba01](https://github.com/codewithdhruba01)
 - [MuriloMKA](https://github.com/MuriloMKA)
 - [SrRndm](https://github.com/SrRndm)
@@ -56,6 +55,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Ekene1998](https://github.com/Ekene1998)
 - [ashahba](https://github.com/ashahba)
 - [MrHDOLEK](https://github.com/MrHDOLEK)
+- [rgvbatera](https://github.com/rgvbatera)
 
 ## ⭐ Recent stars
 
