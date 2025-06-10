@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [knn90/Switcher](https://github.com/knn90/Switcher) - Swift - Custom UISwitcher with animation when change status (today)
-- [tahitimoon/LunarLink](https://github.com/tahitimoon/LunarLink) - An interface automation testing platform based on HttpRunner + Django + Vue + Element UI, production-ready. (today)
-- [aidenybai/reaict](https://github.com/aidenybai/reaict) - Optimize React with AI (today)
-- [aidenybai/million-react](https://github.com/aidenybai/million-react) - ⚛️ Vite starter for Million.js (today)
-- [aidenybai/hundred](https://github.com/aidenybai/hundred) - precomputed virtual dom (today)
+- [hauxir/imgpush](https://github.com/hauxir/imgpush) - Minimalist Self-hosted Image Service for user submitted images in your app  (today)
+- [hauxir/errorpush](https://github.com/hauxir/errorpush) - Minimalist Error collection Service compatible with Rollbar clients. Sentry or Rollbar alternative. (today)
+- [hauxir/rapidbay](https://github.com/hauxir/rapidbay) - Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud (today)
+- [its-id/100x-Cohort-Programs](https://github.com/its-id/100x-Cohort-Programs) (today)
+- [fayaaz/mixxx-pi-gen](https://github.com/fayaaz/mixxx-pi-gen) - Raspberry Pi image with Mixxx (today)
 
 ## 🔨 Latest Pull Requests I published
 
