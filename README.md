@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MuriloMKA](https://github.com/MuriloMKA)
 - [SrRndm](https://github.com/SrRndm)
 - [MohamedAhmed-SUT](https://github.com/MohamedAhmed-SUT)
 - [bitbreakr](https://github.com/bitbreakr)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MrHDOLEK](https://github.com/MrHDOLEK)
 - [rgvbatera](https://github.com/rgvbatera)
 - [oziieljuniior](https://github.com/oziieljuniior)
-- [Ivan7791](https://github.com/Ivan7791)
 
 ## ⭐ Recent stars
 
