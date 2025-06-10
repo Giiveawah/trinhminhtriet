@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [rionmonster/Glyphfriend](https://github.com/rionmonster/Glyphfriend) - Glyphfriend is a Visual Studio Extension to add previews for various icon/glyph fonts to Visual Studio. (today)
+- [aarondandy/WeCantSpell.Hunspell](https://github.com/aarondandy/WeCantSpell.Hunspell) - A port of Hunspell v1 for .NET and .NET Standard (today)
 - [ramonsaraiva/pubg-python](https://github.com/ramonsaraiva/pubg-python) - A python wrapper for the PUBG developer API (today)
 - [ramonsaraiva/timy](https://github.com/ramonsaraiva/timy) - Minimalist measurement of python code time (today)
 - [Kamilahsantos/Java-week-LinuxTips](https://github.com/Kamilahsantos/Java-week-LinuxTips) - Repositório com o conteúdo da Java Week da LinuxTips (1 day ago)
-- [nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - List of S3 Hacks (2 days ago)
-- [PhilippLgh/electron-toolkit](https://github.com/PhilippLgh/electron-toolkit) - Tools to make launching Electron apps easier (4 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
