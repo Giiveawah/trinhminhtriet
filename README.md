@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [codewithdhruba01](https://github.com/codewithdhruba01)
 - [MuriloMKA](https://github.com/MuriloMKA)
 - [SrRndm](https://github.com/SrRndm)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Ekene1998](https://github.com/Ekene1998)
 - [ashahba](https://github.com/ashahba)
 - [MrHDOLEK](https://github.com/MrHDOLEK)
-- [rgvbatera](https://github.com/rgvbatera)
 
 ## ⭐ Recent stars
 
+- [tahitimoon/LunarLink](https://github.com/tahitimoon/LunarLink) - An interface automation testing platform based on HttpRunner + Django + Vue + Element UI, production-ready. (today)
 - [aidenybai/reaict](https://github.com/aidenybai/reaict) - Optimize React with AI (today)
 - [aidenybai/million-react](https://github.com/aidenybai/million-react) - ⚛️ Vite starter for Million.js (today)
 - [aidenybai/hundred](https://github.com/aidenybai/hundred) - precomputed virtual dom (today)
 - [aidenybai/lucia](https://github.com/aidenybai/lucia) - 🙋‍♀️ 3kb library for tiny web apps (today)
-- [aidenybai/bippy](https://github.com/aidenybai/bippy) - ⚠️ hack into react internals (today)
 
 ## 🔨 Latest Pull Requests I published
 
