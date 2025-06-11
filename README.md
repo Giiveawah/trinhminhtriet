@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [eryawww](https://github.com/eryawww)
 - [KY-Kshitij](https://github.com/KY-Kshitij)
 - [AmirZarei2002](https://github.com/AmirZarei2002)
 - [fatimanbzd](https://github.com/fatimanbzd)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [buraksocial](https://github.com/buraksocial)
 - [aiyafi](https://github.com/aiyafi)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
-- [codewithdhruba01](https://github.com/codewithdhruba01)
 
 ## ⭐ Recent stars
 
+- [sergej-brazdeikis/cloudformation-s3-static-website-with-cloudfront-and-route-53](https://github.com/sergej-brazdeikis/cloudformation-s3-static-website-with-cloudfront-and-route-53) (today)
 - [AizazZaidee/Android-Ultra-Photo-Selector](https://github.com/AizazZaidee/Android-Ultra-Photo-Selector) - Select images from Android devices made easy :-) Start Activity PhotoSelectorActivity, this is the main entry point (today)
 - [Blarc/ai-commits-intellij-plugin](https://github.com/Blarc/ai-commits-intellij-plugin) - AI Commits for IntelliJ based IDEs/Android Studio. (today)
 - [morilog/jalali](https://github.com/morilog/jalali) - This Package helps developers to easily work with Jalali (Shamsi or Iranian) dates in php appliations, based on Jalali (Shamsi) DateTime class.  (today)
 - [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader) - Facebook Video Downloader in PHP  (today)
-- [vikas5914/google-photos-backup](https://github.com/vikas5914/google-photos-backup) - Backup photos from Google Photos using Playwright. (today)
 
 ## 🔨 Latest Pull Requests I published
 
