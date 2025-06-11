@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [cedricxie/apollo_perception_ros](https://github.com/cedricxie/apollo_perception_ros) - Object detection / tracking / fusion based on Apollo r3.0.0 perception module in ROS (today)
-- [gongluck/AnalysisAVP](https://github.com/gongluck/AnalysisAVP) - 音视频学习，相关文件格式/协议分析，框架学习等。encode decode；rgb yuv h264 aac flv mp4 rtmp；libyuv x264 openh264 faac faad2 fdk-aac librtmp ffmpeg sdl2 webrtc；android ios capture videotoolbox； (1 day ago)
-- [hauxir/imgpush](https://github.com/hauxir/imgpush) - Minimalist Self-hosted Image Service for user submitted images in your app  (1 day ago)
-- [hauxir/errorpush](https://github.com/hauxir/errorpush) - Minimalist Error collection Service compatible with Rollbar clients. Sentry or Rollbar alternative. (1 day ago)
-- [hauxir/rapidbay](https://github.com/hauxir/rapidbay) - Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud (1 day ago)
+- [ysugimoto/webassembly-lua](https://github.com/ysugimoto/webassembly-lua) - Write and compile WebAssembly code with Lua (today)
+- [ysugimoto/grpc-graphql-gateway](https://github.com/ysugimoto/grpc-graphql-gateway) - A protoc plugin that generates graphql execution code from Protocol Buffers. (today)
+- [ysugimoto/aws-lambda-image](https://github.com/ysugimoto/aws-lambda-image) - Automatic image resize/reduce on AWS Lambda (today)
+- [SpencerCDixon/exocortex](https://github.com/SpencerCDixon/exocortex) - Open source, language independent, modern personal wiki (today)
+- [SpencerCDixon/redux-cli](https://github.com/SpencerCDixon/redux-cli) - An opinionated CLI for building redux/react apps quicker (today)
 
 ## 🔨 Latest Pull Requests I published
 
