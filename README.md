@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [fatimanbzd](https://github.com/fatimanbzd)
 - [lucaboca82](https://github.com/lucaboca82)
 - [Sanjaya-Danushka](https://github.com/Sanjaya-Danushka)
 - [suchit07-git](https://github.com/suchit07-git)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [codewithdhruba01](https://github.com/codewithdhruba01)
 - [MuriloMKA](https://github.com/MuriloMKA)
-- [SrRndm](https://github.com/SrRndm)
 
 ## ⭐ Recent stars
 
