@@ -46,10 +46,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AmirZarei2002](https://github.com/AmirZarei2002)
 - [fatimanbzd](https://github.com/fatimanbzd)
 - [lucaboca82](https://github.com/lucaboca82)
 - [Sanjaya-Danushka](https://github.com/Sanjaya-Danushka)
-- [suchit07-git](https://github.com/suchit07-git)
 - [karuto12](https://github.com/karuto12)
 - [buraksocial](https://github.com/buraksocial)
 - [aiyafi](https://github.com/aiyafi)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) - 🚀 repoctl – A powerful CLI tool to manage multiple Git repositories effortlessly. Sync, pull, and run commands! 🎯 (today)
-- [ysugimoto/webassembly-lua](https://github.com/ysugimoto/webassembly-lua) - Write and compile WebAssembly code with Lua (today)
-- [ysugimoto/grpc-graphql-gateway](https://github.com/ysugimoto/grpc-graphql-gateway) - A protoc plugin that generates graphql execution code from Protocol Buffers. (today)
-- [ysugimoto/aws-lambda-image](https://github.com/ysugimoto/aws-lambda-image) - Automatic image resize/reduce on AWS Lambda (today)
-- [SpencerCDixon/exocortex](https://github.com/SpencerCDixon/exocortex) - Open source, language independent, modern personal wiki (today)
+- [vojtechhabarta/typescript-generator](https://github.com/vojtechhabarta/typescript-generator) - Generates TypeScript from Java - JSON declarations, REST service client (today)
+- [trinhminhtriet/gitcoco](https://github.com/trinhminhtriet/gitcoco) - ⚡ GitCoco: A Rust-based CLI for Conventional Commits, making commit standardization effortless and consistent for seamless project versioning and collaboration. (today)
+- [trinhminhtriet/a-star-search](https://github.com/trinhminhtriet/a-star-search) - A* (A-star) algorithm is a widely used graph traversal and pathfinding algorithm known for its completeness, optimality, and efficiency. (today)
+- [trinhminhtriet/tabler](https://github.com/trinhminhtriet/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (today)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 
 ## 🔨 Latest Pull Requests I published
 
