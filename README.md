@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [suchit07-git](https://github.com/suchit07-git)
 - [karuto12](https://github.com/karuto12)
 - [buraksocial](https://github.com/buraksocial)
 - [aiyafi](https://github.com/aiyafi)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SrRndm](https://github.com/SrRndm)
 - [MohamedAhmed-SUT](https://github.com/MohamedAhmed-SUT)
 - [bitbreakr](https://github.com/bitbreakr)
-- [GiMendescCodes](https://github.com/GiMendescCodes)
 
 ## ⭐ Recent stars
 
