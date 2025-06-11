@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader) - Facebook Video Downloader in PHP  (today)
+- [vikas5914/google-photos-backup](https://github.com/vikas5914/google-photos-backup) - Backup photos from Google Photos using Playwright. (today)
+- [codekitchen/pipeline](https://github.com/codekitchen/pipeline) - the `pipeline` shell command (today)
+- [codekitchen/dinghy](https://github.com/codekitchen/dinghy) - faster, friendlier Docker on OS X. Deprecated. (today)
 - [vojtechhabarta/typescript-generator](https://github.com/vojtechhabarta/typescript-generator) - Generates TypeScript from Java - JSON declarations, REST service client (today)
-- [trinhminhtriet/gitcoco](https://github.com/trinhminhtriet/gitcoco) - ⚡ GitCoco: A Rust-based CLI for Conventional Commits, making commit standardization effortless and consistent for seamless project versioning and collaboration. (today)
-- [trinhminhtriet/a-star-search](https://github.com/trinhminhtriet/a-star-search) - A* (A-star) algorithm is a widely used graph traversal and pathfinding algorithm known for its completeness, optimality, and efficiency. (today)
-- [trinhminhtriet/tabler](https://github.com/trinhminhtriet/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (today)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 
 ## 🔨 Latest Pull Requests I published
 
