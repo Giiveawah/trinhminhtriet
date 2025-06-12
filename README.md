@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [luckybc2021](https://github.com/luckybc2021)
 - [023-dev](https://github.com/023-dev)
 - [Vinyl-Davyl](https://github.com/Vinyl-Davyl)
 - [Syhyeong2](https://github.com/Syhyeong2)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ezakariaa](https://github.com/ezakariaa)
 - [Zouini-Hajar](https://github.com/Zouini-Hajar)
 - [eryawww](https://github.com/eryawww)
-- [KY-Kshitij](https://github.com/KY-Kshitij)
 
 ## ⭐ Recent stars
 
