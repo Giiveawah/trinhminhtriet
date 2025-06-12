@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (today)
 - [vballoli/nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/ (today)
 - [squirrelsquirrel78/react-scrollama](https://github.com/squirrelsquirrel78/react-scrollama) - Simple scrollytelling with the IntersectionObserver in React. (today)
 - [Miffyli/im2latex-dataset](https://github.com/Miffyli/im2latex-dataset) - Python tools for creating suitable dataset for OpenAI's im2latex task: https://openai.com/requests-for-research/#im2latex (today)
 - [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) - A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency. (today)
-- [sergej-brazdeikis/cloudformation-s3-static-website-with-cloudfront-and-route-53](https://github.com/sergej-brazdeikis/cloudformation-s3-static-website-with-cloudfront-and-route-53) (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
