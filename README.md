@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [4zmyyy](https://github.com/4zmyyy)
+- [EduardoDosSantosFerreira](https://github.com/EduardoDosSantosFerreira)
 - [luckybc2021](https://github.com/luckybc2021)
 - [023-dev](https://github.com/023-dev)
 - [Vinyl-Davyl](https://github.com/Vinyl-Davyl)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nikhitchokhandre](https://github.com/nikhitchokhandre)
 - [Ashwin-973](https://github.com/Ashwin-973)
 - [ezakariaa](https://github.com/ezakariaa)
-- [Zouini-Hajar](https://github.com/Zouini-Hajar)
-- [eryawww](https://github.com/eryawww)
 
 ## ⭐ Recent stars
 
