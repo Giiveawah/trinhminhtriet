@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Vinyl-Davyl](https://github.com/Vinyl-Davyl)
 - [Syhyeong2](https://github.com/Syhyeong2)
 - [windyeasy](https://github.com/windyeasy)
 - [nikhitchokhandre](https://github.com/nikhitchokhandre)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [eryawww](https://github.com/eryawww)
 - [KY-Kshitij](https://github.com/KY-Kshitij)
 - [AmirZarei2002](https://github.com/AmirZarei2002)
-- [fatimanbzd](https://github.com/fatimanbzd)
 
 ## ⭐ Recent stars
 
