@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (2 days ago)
+- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (3 days ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 week ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 week ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ashwin-973](https://github.com/Ashwin-973)
 - [ezakariaa](https://github.com/ezakariaa)
 - [Zouini-Hajar](https://github.com/Zouini-Hajar)
 - [eryawww](https://github.com/eryawww)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lucaboca82](https://github.com/lucaboca82)
 - [Sanjaya-Danushka](https://github.com/Sanjaya-Danushka)
 - [karuto12](https://github.com/karuto12)
-- [buraksocial](https://github.com/buraksocial)
 
 ## ⭐ Recent stars
 
-- [sergej-brazdeikis/cloudformation-s3-static-website-with-cloudfront-and-route-53](https://github.com/sergej-brazdeikis/cloudformation-s3-static-website-with-cloudfront-and-route-53) (today)
-- [AizazZaidee/Android-Ultra-Photo-Selector](https://github.com/AizazZaidee/Android-Ultra-Photo-Selector) - Select images from Android devices made easy :-) Start Activity PhotoSelectorActivity, this is the main entry point (today)
-- [Blarc/ai-commits-intellij-plugin](https://github.com/Blarc/ai-commits-intellij-plugin) - AI Commits for IntelliJ based IDEs/Android Studio. (today)
-- [morilog/jalali](https://github.com/morilog/jalali) - This Package helps developers to easily work with Jalali (Shamsi or Iranian) dates in php appliations, based on Jalali (Shamsi) DateTime class.  (today)
-- [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader) - Facebook Video Downloader in PHP  (today)
+- [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) - A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency. (today)
+- [sergej-brazdeikis/cloudformation-s3-static-website-with-cloudfront-and-route-53](https://github.com/sergej-brazdeikis/cloudformation-s3-static-website-with-cloudfront-and-route-53) (1 day ago)
+- [AizazZaidee/Android-Ultra-Photo-Selector](https://github.com/AizazZaidee/Android-Ultra-Photo-Selector) - Select images from Android devices made easy :-) Start Activity PhotoSelectorActivity, this is the main entry point (1 day ago)
+- [Blarc/ai-commits-intellij-plugin](https://github.com/Blarc/ai-commits-intellij-plugin) - AI Commits for IntelliJ based IDEs/Android Studio. (1 day ago)
+- [morilog/jalali](https://github.com/morilog/jalali) - This Package helps developers to easily work with Jalali (Shamsi or Iranian) dates in php appliations, based on Jalali (Shamsi) DateTime class.  (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
