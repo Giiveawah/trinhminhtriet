@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Tanvir000Tonoy](https://github.com/Tanvir000Tonoy)
 - [KeneilweD](https://github.com/KeneilweD)
 - [sinha-19](https://github.com/sinha-19)
 - [4zmyyy](https://github.com/4zmyyy)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Vinyl-Davyl](https://github.com/Vinyl-Davyl)
 - [Syhyeong2](https://github.com/Syhyeong2)
 - [windyeasy](https://github.com/windyeasy)
-- [nikhitchokhandre](https://github.com/nikhitchokhandre)
 
 ## ⭐ Recent stars
 
