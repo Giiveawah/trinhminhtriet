@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [yohacode](https://github.com/yohacode)
 - [dvasquezavant](https://github.com/dvasquezavant)
 - [Bandansarker7](https://github.com/Bandansarker7)
 - [syamjir](https://github.com/syamjir)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Ahror101](https://github.com/Ahror101)
 - [Ramu-Deyyam](https://github.com/Ramu-Deyyam)
 - [ajsqr](https://github.com/ajsqr)
-- [rosem-coder](https://github.com/rosem-coder)
 
 ## ⭐ Recent stars
 
