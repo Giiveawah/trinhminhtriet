@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Rakshitsinghhh](https://github.com/Rakshitsinghhh)
 - [MatheusHVFaria](https://github.com/MatheusHVFaria)
 - [Giiveawah](https://github.com/Giiveawah)
 - [GuyenSoto](https://github.com/GuyenSoto)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Bandansarker7](https://github.com/Bandansarker7)
 - [syamjir](https://github.com/syamjir)
 - [ChoiWheatley](https://github.com/ChoiWheatley)
-- [Jishnu-JSK](https://github.com/Jishnu-JSK)
 
 ## ⭐ Recent stars
 
