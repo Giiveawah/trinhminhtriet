@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rosem-coder](https://github.com/rosem-coder)
 - [BrianTrac](https://github.com/BrianTrac)
 - [kittysoftpaw0510](https://github.com/kittysoftpaw0510)
 - [Tanvir000Tonoy](https://github.com/Tanvir000Tonoy)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [EduardoDosSantosFerreira](https://github.com/EduardoDosSantosFerreira)
 - [luckybc2021](https://github.com/luckybc2021)
 - [023-dev](https://github.com/023-dev)
-- [Vinyl-Davyl](https://github.com/Vinyl-Davyl)
 
 ## ⭐ Recent stars
 
