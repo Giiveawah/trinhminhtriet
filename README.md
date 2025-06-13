@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MatheusHVFaria](https://github.com/MatheusHVFaria)
 - [Giiveawah](https://github.com/Giiveawah)
 - [GuyenSoto](https://github.com/GuyenSoto)
 - [semedo-nob](https://github.com/semedo-nob)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [syamjir](https://github.com/syamjir)
 - [ChoiWheatley](https://github.com/ChoiWheatley)
 - [Jishnu-JSK](https://github.com/Jishnu-JSK)
-- [chdominguez](https://github.com/chdominguez)
 
 ## ⭐ Recent stars
 
