@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Bandansarker7](https://github.com/Bandansarker7)
+- [syamjir](https://github.com/syamjir)
 - [ChoiWheatley](https://github.com/ChoiWheatley)
 - [Jishnu-JSK](https://github.com/Jishnu-JSK)
 - [chdominguez](https://github.com/chdominguez)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ajsqr](https://github.com/ajsqr)
 - [rosem-coder](https://github.com/rosem-coder)
 - [BrianTrac](https://github.com/BrianTrac)
-- [kittysoftpaw0510](https://github.com/kittysoftpaw0510)
-- [Tanvir000Tonoy](https://github.com/Tanvir000Tonoy)
 
 ## ⭐ Recent stars
 
