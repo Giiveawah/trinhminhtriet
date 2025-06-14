@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [kronyer](https://github.com/kronyer)
+- [Alexectramagneta](https://github.com/Alexectramagneta)
 - [SignificantOther](https://github.com/SignificantOther)
 - [Rakshitsinghhh](https://github.com/Rakshitsinghhh)
 - [MatheusHVFaria](https://github.com/MatheusHVFaria)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [semedo-nob](https://github.com/semedo-nob)
 - [yohacode](https://github.com/yohacode)
 - [dvasquezavant](https://github.com/dvasquezavant)
-- [Bandansarker7](https://github.com/Bandansarker7)
-- [syamjir](https://github.com/syamjir)
 
 ## ⭐ Recent stars
 
