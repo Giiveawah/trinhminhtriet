@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [tawbazf](https://github.com/tawbazf)
 - [4-Integer](https://github.com/4-Integer)
 - [nafiul-afk](https://github.com/nafiul-afk)
 - [khaitk](https://github.com/khaitk)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [radovankavicky](https://github.com/radovankavicky)
 - [Lydmilaa](https://github.com/Lydmilaa)
 - [blogbinh](https://github.com/blogbinh)
-- [kronyer](https://github.com/kronyer)
 
 ## ⭐ Recent stars
 
