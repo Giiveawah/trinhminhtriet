@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nafiul-afk](https://github.com/nafiul-afk)
+- [khaitk](https://github.com/khaitk)
 - [MINHTRUNG-LAB](https://github.com/MINHTRUNG-LAB)
 - [neo-unplugged](https://github.com/neo-unplugged)
 - [iskendertml](https://github.com/iskendertml)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [blogbinh](https://github.com/blogbinh)
 - [kronyer](https://github.com/kronyer)
 - [Alexectramagneta](https://github.com/Alexectramagneta)
-- [SignificantOther](https://github.com/SignificantOther)
-- [Rakshitsinghhh](https://github.com/Rakshitsinghhh)
 
 ## ⭐ Recent stars
 
