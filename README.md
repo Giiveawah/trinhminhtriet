@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MINHTRUNG-LAB](https://github.com/MINHTRUNG-LAB)
 - [neo-unplugged](https://github.com/neo-unplugged)
 - [iskendertml](https://github.com/iskendertml)
 - [radovankavicky](https://github.com/radovankavicky)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Alexectramagneta](https://github.com/Alexectramagneta)
 - [SignificantOther](https://github.com/SignificantOther)
 - [Rakshitsinghhh](https://github.com/Rakshitsinghhh)
-- [MatheusHVFaria](https://github.com/MatheusHVFaria)
 
 ## ⭐ Recent stars
 
