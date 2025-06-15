@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [DunyaELBASAN](https://github.com/DunyaELBASAN)
 - [tawbazf](https://github.com/tawbazf)
 - [4-Integer](https://github.com/4-Integer)
 - [nafiul-afk](https://github.com/nafiul-afk)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [iskendertml](https://github.com/iskendertml)
 - [radovankavicky](https://github.com/radovankavicky)
 - [Lydmilaa](https://github.com/Lydmilaa)
-- [blogbinh](https://github.com/blogbinh)
 
 ## ⭐ Recent stars
 
