@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [luciferim](https://github.com/luciferim)
+- [devdarshan1495](https://github.com/devdarshan1495)
 - [yosuke-kuroki](https://github.com/yosuke-kuroki)
 - [alihyder56629](https://github.com/alihyder56629)
 - [WilfredTinega](https://github.com/WilfredTinega)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [hominhduc18](https://github.com/hominhduc18)
 - [iago-abner](https://github.com/iago-abner)
 - [DunyaELBASAN](https://github.com/DunyaELBASAN)
-- [tawbazf](https://github.com/tawbazf)
-- [4-Integer](https://github.com/4-Integer)
 
 ## ⭐ Recent stars
 
