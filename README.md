@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hominhduc18](https://github.com/hominhduc18)
 - [iago-abner](https://github.com/iago-abner)
 - [DunyaELBASAN](https://github.com/DunyaELBASAN)
 - [tawbazf](https://github.com/tawbazf)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MINHTRUNG-LAB](https://github.com/MINHTRUNG-LAB)
 - [neo-unplugged](https://github.com/neo-unplugged)
 - [iskendertml](https://github.com/iskendertml)
-- [radovankavicky](https://github.com/radovankavicky)
 
 ## ⭐ Recent stars
 
