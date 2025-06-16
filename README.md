@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [alihyder56629](https://github.com/alihyder56629)
 - [WilfredTinega](https://github.com/WilfredTinega)
 - [AbelMarnk](https://github.com/AbelMarnk)
 - [rod1gers](https://github.com/rod1gers)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [tawbazf](https://github.com/tawbazf)
 - [4-Integer](https://github.com/4-Integer)
 - [nafiul-afk](https://github.com/nafiul-afk)
-- [khaitk](https://github.com/khaitk)
 
 ## ⭐ Recent stars
 
