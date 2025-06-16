@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [cromwelsalim](https://github.com/cromwelsalim)
 - [luciferim](https://github.com/luciferim)
 - [devdarshan1495](https://github.com/devdarshan1495)
 - [yosuke-kuroki](https://github.com/yosuke-kuroki)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [rod1gers](https://github.com/rod1gers)
 - [hominhduc18](https://github.com/hominhduc18)
 - [iago-abner](https://github.com/iago-abner)
-- [DunyaELBASAN](https://github.com/DunyaELBASAN)
 
 ## ⭐ Recent stars
 
