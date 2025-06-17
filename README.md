@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ajinkyaspatil20](https://github.com/ajinkyaspatil20)
 - [MoyizGIT](https://github.com/MoyizGIT)
 - [satzgits](https://github.com/satzgits)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [cromwelsalim](https://github.com/cromwelsalim)
 - [luciferim](https://github.com/luciferim)
 - [devdarshan1495](https://github.com/devdarshan1495)
-- [yosuke-kuroki](https://github.com/yosuke-kuroki)
 
 ## ⭐ Recent stars
 
