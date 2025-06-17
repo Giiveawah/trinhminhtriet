@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [JurajNyiri/PlexMeetsHomeAssistant](https://github.com/JurajNyiri/PlexMeetsHomeAssistant) - Custom card which integrates plex into Home Assistant and makes it possible to launch movies or tv shows on TV with a simple click (today)
+- [JurajNyiri/pytapo](https://github.com/JurajNyiri/pytapo) - Python library for communication with Tapo Cameras (today)
+- [JurajNyiri/HomeAssistant-Tapo-Control](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control) - Control for Tapo cameras as a Home Assistant component (today)
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (today)
 - [gjaldon/heroku-buildpack-phoenix-static](https://github.com/gjaldon/heroku-buildpack-phoenix-static) - A Heroku buildpack for building Phoenix's static assets (today)
-- [gjaldon/ecto_enum](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models (today)
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (5 days ago)
-- [vballoli/nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/ (5 days ago)
-- [squirrelsquirrel78/react-scrollama](https://github.com/squirrelsquirrel78/react-scrollama) - Simple scrollytelling with the IntersectionObserver in React. (5 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
