@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [peteradam0](https://github.com/peteradam0)
 - [aiden77mori](https://github.com/aiden77mori)
 - [kenjinote](https://github.com/kenjinote)
 - [dennis-sabu](https://github.com/dennis-sabu)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [satzgits](https://github.com/satzgits)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [SAPH1TE](https://github.com/SAPH1TE)
-- [bocaletto-luca](https://github.com/bocaletto-luca)
 
 ## ⭐ Recent stars
 
