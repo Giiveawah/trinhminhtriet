@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hvanphucs](https://github.com/hvanphucs)
 - [abraham-syn](https://github.com/abraham-syn)
 - [hypervanse](https://github.com/hypervanse)
 - [romainduc57](https://github.com/romainduc57)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dennis-sabu](https://github.com/dennis-sabu)
 - [Sr-Mourao](https://github.com/Sr-Mourao)
 - [ajinkyaspatil20](https://github.com/ajinkyaspatil20)
-- [MoyizGIT](https://github.com/MoyizGIT)
 
 ## ⭐ Recent stars
 
