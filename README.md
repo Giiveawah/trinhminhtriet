@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ang-len-26](https://github.com/ang-len-26)
 - [utkarshjosh](https://github.com/utkarshjosh)
 - [NatanVieira](https://github.com/NatanVieira)
 - [suhail609](https://github.com/suhail609)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abraham-syn](https://github.com/abraham-syn)
 - [hypervanse](https://github.com/hypervanse)
 - [romainduc57](https://github.com/romainduc57)
-- [peteradam0](https://github.com/peteradam0)
 
 ## ⭐ Recent stars
 
