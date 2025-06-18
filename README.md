@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [akash-tk](https://github.com/akash-tk)
 - [hvanphucs](https://github.com/hvanphucs)
 - [abraham-syn](https://github.com/abraham-syn)
 - [hypervanse](https://github.com/hypervanse)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [kenjinote](https://github.com/kenjinote)
 - [dennis-sabu](https://github.com/dennis-sabu)
 - [Sr-Mourao](https://github.com/Sr-Mourao)
-- [ajinkyaspatil20](https://github.com/ajinkyaspatil20)
 
 ## ⭐ Recent stars
 
+- [EmmanuelOga/easing](https://github.com/EmmanuelOga/easing) - Easing functions implemented in lua (Functions from http://www.robertpenner.com/easing/ ) (today)
+- [zhangyu1818/blog](https://github.com/zhangyu1818/blog) - 博客 (today)
+- [zhangyu1818/appicon-forge](https://github.com/zhangyu1818/appicon-forge) - An intuitive app icon generator that lets you customize colors, borders, shadows, and more to create unique app icons effortlessly. (today)
 - [JurajNyiri/PlexMeetsHomeAssistant](https://github.com/JurajNyiri/PlexMeetsHomeAssistant) - Custom card which integrates plex into Home Assistant and makes it possible to launch movies or tv shows on TV with a simple click (1 day ago)
 - [JurajNyiri/pytapo](https://github.com/JurajNyiri/pytapo) - Python library for communication with Tapo Cameras (1 day ago)
-- [JurajNyiri/HomeAssistant-Tapo-Control](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control) - Control for Tapo cameras as a Home Assistant component (1 day ago)
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (1 day ago)
-- [gjaldon/heroku-buildpack-phoenix-static](https://github.com/gjaldon/heroku-buildpack-phoenix-static) - A Heroku buildpack for building Phoenix's static assets (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
