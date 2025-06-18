@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [nandanmen/NotANumber](https://github.com/nandanmen/NotANumber) - An interactive blog on computer science and web dev 💡 (today)
-- [EmmanuelOga/easing](https://github.com/EmmanuelOga/easing) - Easing functions implemented in lua (Functions from http://www.robertpenner.com/easing/ ) (today)
-- [zhangyu1818/blog](https://github.com/zhangyu1818/blog) - 博客 (today)
-- [zhangyu1818/appicon-forge](https://github.com/zhangyu1818/appicon-forge) - An intuitive app icon generator that lets you customize colors, borders, shadows, and more to create unique app icons effortlessly. (today)
-- [JurajNyiri/PlexMeetsHomeAssistant](https://github.com/JurajNyiri/PlexMeetsHomeAssistant) - Custom card which integrates plex into Home Assistant and makes it possible to launch movies or tv shows on TV with a simple click (1 day ago)
+- [jordiwang/web-capture](https://github.com/jordiwang/web-capture) - 基于 ffmpeg + Webassembly 实现前端视频帧提取 (today)
+- [johnpeterman72/CursorRIPER](https://github.com/johnpeterman72/CursorRIPER) - CursorRIPER (today)
+- [mstyura/bsuir-diploma-latex](https://github.com/mstyura/bsuir-diploma-latex) - LaTeX шаблон для оформления пояснительной записки к диплому в соответствии с требованиями БГУИР (today)
+- [imrankst1221/Android-WebView-in-Kotlin](https://github.com/imrankst1221/Android-WebView-in-Kotlin) - Native Android WebView Example in Kotlin. Website to android app github open source template. (today)
+- [imrankst1221/Thermal-Printer-in-Android](https://github.com/imrankst1221/Thermal-Printer-in-Android) - Thermal printer in Android (today)
 
 ## 🔨 Latest Pull Requests I published
 
