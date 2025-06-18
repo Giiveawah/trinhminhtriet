@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shingle2302](https://github.com/shingle2302)
 - [akash-tk](https://github.com/akash-tk)
 - [hvanphucs](https://github.com/hvanphucs)
 - [abraham-syn](https://github.com/abraham-syn)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [aiden77mori](https://github.com/aiden77mori)
 - [kenjinote](https://github.com/kenjinote)
 - [dennis-sabu](https://github.com/dennis-sabu)
-- [Sr-Mourao](https://github.com/Sr-Mourao)
 
 ## ⭐ Recent stars
 
