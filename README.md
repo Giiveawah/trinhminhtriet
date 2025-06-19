@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [veereshpattanad](https://github.com/veereshpattanad)
 - [nishant007-ai](https://github.com/nishant007-ai)
 - [entropymaxx](https://github.com/entropymaxx)
 - [M-web186](https://github.com/M-web186)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MichaelKinsy](https://github.com/MichaelKinsy)
 - [ang-len-26](https://github.com/ang-len-26)
 - [utkarshjosh](https://github.com/utkarshjosh)
-- [NatanVieira](https://github.com/NatanVieira)
 
 ## ⭐ Recent stars
 
