@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [gshock](https://github.com/gshock)
 - [chuongdinh2k](https://github.com/chuongdinh2k)
 - [MichaelKinsy](https://github.com/MichaelKinsy)
 - [ang-len-26](https://github.com/ang-len-26)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shingle2302](https://github.com/shingle2302)
 - [akash-tk](https://github.com/akash-tk)
 - [hvanphucs](https://github.com/hvanphucs)
-- [abraham-syn](https://github.com/abraham-syn)
 
 ## ⭐ Recent stars
 
