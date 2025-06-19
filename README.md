@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (6 days ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (1 week ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (2 weeks ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (2 weeks ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MichaelKinsy](https://github.com/MichaelKinsy)
 - [ang-len-26](https://github.com/ang-len-26)
 - [utkarshjosh](https://github.com/utkarshjosh)
 - [NatanVieira](https://github.com/NatanVieira)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [hvanphucs](https://github.com/hvanphucs)
 - [abraham-syn](https://github.com/abraham-syn)
 - [hypervanse](https://github.com/hypervanse)
-- [romainduc57](https://github.com/romainduc57)
 
 ## ⭐ Recent stars
 
-- [jordiwang/web-capture](https://github.com/jordiwang/web-capture) - 基于 ffmpeg + Webassembly 实现前端视频帧提取 (today)
-- [johnpeterman72/CursorRIPER](https://github.com/johnpeterman72/CursorRIPER) - CursorRIPER (today)
-- [mstyura/bsuir-diploma-latex](https://github.com/mstyura/bsuir-diploma-latex) - LaTeX шаблон для оформления пояснительной записки к диплому в соответствии с требованиями БГУИР (today)
-- [imrankst1221/Android-WebView-in-Kotlin](https://github.com/imrankst1221/Android-WebView-in-Kotlin) - Native Android WebView Example in Kotlin. Website to android app github open source template. (today)
-- [imrankst1221/Thermal-Printer-in-Android](https://github.com/imrankst1221/Thermal-Printer-in-Android) - Thermal printer in Android (today)
+- [jordiwang/web-capture](https://github.com/jordiwang/web-capture) - 基于 ffmpeg + Webassembly 实现前端视频帧提取 (1 day ago)
+- [johnpeterman72/CursorRIPER](https://github.com/johnpeterman72/CursorRIPER) - CursorRIPER (1 day ago)
+- [mstyura/bsuir-diploma-latex](https://github.com/mstyura/bsuir-diploma-latex) - LaTeX шаблон для оформления пояснительной записки к диплому в соответствии с требованиями БГУИР (1 day ago)
+- [imrankst1221/Android-WebView-in-Kotlin](https://github.com/imrankst1221/Android-WebView-in-Kotlin) - Native Android WebView Example in Kotlin. Website to android app github open source template. (1 day ago)
+- [imrankst1221/Thermal-Printer-in-Android](https://github.com/imrankst1221/Thermal-Printer-in-Android) - Thermal printer in Android (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
