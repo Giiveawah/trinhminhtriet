@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AakashMahajan25](https://github.com/AakashMahajan25)
 - [Samuel-dev798](https://github.com/Samuel-dev798)
 - [destinyy00](https://github.com/destinyy00)
 - [veereshpattanad](https://github.com/veereshpattanad)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Arsdev998](https://github.com/Arsdev998)
 - [gshock](https://github.com/gshock)
 - [chuongdinh2k](https://github.com/chuongdinh2k)
-- [MichaelKinsy](https://github.com/MichaelKinsy)
 
 ## ⭐ Recent stars
 
