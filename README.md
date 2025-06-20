@@ -41,8 +41,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (2 weeks ago)
 - [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (3 weeks ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (3 weeks ago)
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (3 weeks ago)
-- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (3 weeks ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (4 weeks ago)
+- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (4 weeks ago)
 
 ## 👯 Check out my recent followers
 
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jordiwang/web-capture](https://github.com/jordiwang/web-capture) - 基于 ffmpeg + Webassembly 实现前端视频帧提取 (1 day ago)
-- [johnpeterman72/CursorRIPER](https://github.com/johnpeterman72/CursorRIPER) - CursorRIPER (1 day ago)
-- [mstyura/bsuir-diploma-latex](https://github.com/mstyura/bsuir-diploma-latex) - LaTeX шаблон для оформления пояснительной записки к диплому в соответствии с требованиями БГУИР (1 day ago)
-- [imrankst1221/Android-WebView-in-Kotlin](https://github.com/imrankst1221/Android-WebView-in-Kotlin) - Native Android WebView Example in Kotlin. Website to android app github open source template. (1 day ago)
-- [imrankst1221/Thermal-Printer-in-Android](https://github.com/imrankst1221/Thermal-Printer-in-Android) - Thermal printer in Android (1 day ago)
+- [jordiwang/web-capture](https://github.com/jordiwang/web-capture) - 基于 ffmpeg + Webassembly 实现前端视频帧提取 (2 days ago)
+- [johnpeterman72/CursorRIPER](https://github.com/johnpeterman72/CursorRIPER) - CursorRIPER (2 days ago)
+- [mstyura/bsuir-diploma-latex](https://github.com/mstyura/bsuir-diploma-latex) - LaTeX шаблон для оформления пояснительной записки к диплому в соответствии с требованиями БГУИР (2 days ago)
+- [imrankst1221/Android-WebView-in-Kotlin](https://github.com/imrankst1221/Android-WebView-in-Kotlin) - Native Android WebView Example in Kotlin. Website to android app github open source template. (2 days ago)
+- [imrankst1221/Thermal-Printer-in-Android](https://github.com/imrankst1221/Thermal-Printer-in-Android) - Thermal printer in Android (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
@@ -71,4 +71,4 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Develop](https://github.com/trinhminhtriet/scanr/pull/22) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (1 month ago)
 - [Develop](https://github.com/trinhminhtriet/scanr/pull/21) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (1 month ago)
 - [Develop](https://github.com/trinhminhtriet/pingy/pull/8) on [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) (1 month ago)
-- [Develop](https://github.com/trinhminhtriet/blast/pull/13) on [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) (1 month ago)
+- [Develop](https://github.com/trinhminhtriet/blast/pull/13) on [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) (2 months ago)
